@@ -1,0 +1,7 @@
+["Green, L 2021, <i>Sort</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Sort
+
+1. I reversed the order.  The other sorted the two items well.  I found the first item.  I found the second item.  I ordered the item with the greater value to be first.
+2. I labelled the number.  I knew what the gridline was.  I found the number.  I rounded it down.  I sketched it on the number line.
+3. I found the object on the map.  The gridline gave me something to think about ontology with.  I found the object.  I found it's position.  I marked it on the map.
+4. I simplified 3D to 2D.  I noticed the big idea was on me.  I found the idea.  I found the blocks.  I drew the objects on a page.
+5. I listed the values by frequency.  I sorted the block ontologies.  I found the width of the blocks.  I sorted them.  I reversed the order from largest to smallest."]
