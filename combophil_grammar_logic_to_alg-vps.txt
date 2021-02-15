@@ -28,5 +28,5 @@ logout
 %% *5 for orig,agency As,agency Bs,company As,company Bs
 %% *2 for strictness
 %% *10 for updates
-%% *209 for daily regimen
+%% *209 for daily regimen (see bot rest dr.txt)
 %% 300 29 8 20

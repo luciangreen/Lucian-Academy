@@ -1,6 +1,6 @@
 # Lucian-Academy
 
-Automates Lucian Academy with practise bots, submission and assignment handling.  I wrote the algorithms in SWI-Prolog
+Automates Lucian Academy with practise bots, submission and assignment handling.  I wrote the algorithms in SWI-Prolog.
 
 * combophil_alg_log.pl - helps record writing up to a number of algorithms per chapter file
 * combophil_alg_log.txt - data file for combophil_alg_log.pl
@@ -51,7 +51,7 @@ loading LPPM with `['lppm'].` then installing the package by running `lppm_insta
 
 # combophil_alg_log
 
-* Helps Lucian write algorithms for philosophies, keeping a tally of the number of algorithms written per file.
+* Helps write algorithms for philosophies, keeping a tally of the number of algorithms written per file, where the algorithm stops asking for algorithms for files where the tally is equal to a set number, e.g. 4.
 
 * To run:
 ```
@@ -60,13 +60,14 @@ combophil_alg_log.
 ```
 
 ```
-?- combophil_alg_log.                                                           ["Fundamentals of Meditation and Meditation Indicators","FUNDAMENTALS OF MEDITATION by Lucian Green Hours Prayer 1 of 4.txt",0,algorithms,"8.    I prepared to endorse Nietzsche’s brilliance.  I did this by writing Alexius Meinong’s probable comments on the Medicine blog.  First, I called it Anarchy 3.  Second, I liked brilliance.  Third, I liked Nietzsche’s brilliance.  In this way, I prepared to endorse Nietzsche’s brilliance by writing Alexius Meinong’s probable comments on the Medicine blog."]
+?- combophil_alg_log.
+["Fundamentals of Meditation and Meditation Indicators","FUNDAMENTALS OF MEDITATION by Lucian Green Hours Prayer 1 of 4.txt",0,algorithms,"8.    I prepared to endorse Nietzsche’s brilliance.  I did this by writing Alexius Meinong’s probable comments on the Medicine blog.  First, I called it Anarchy 3.  Second, I liked brilliance.  Third, I liked Nietzsche’s brilliance.  In this way, I prepared to endorse Nietzsche’s brilliance by writing Alexius Meinong’s probable comments on the Medicine blog."]
 
-Algorithm? (y/n): 
+Algorithm? (y/n):
 |: y
 ["Computational English","COMPUTATIONAL ENGLISH by Lucian Green Computational English Argument 1 of 4.txt",0,algorithms,"8.    I prepared to calculate the used space in the house in the short story.  I did this by calculating the space complexity in Computational English.  First, I counted the number of characters of space that the short story’s world was in length.  Second, I skipped counting the number of characters of space that the short story’s world, where this space was revisited, in length.  Third, I summed only the cumulative number of characters of space that the short story’s world was in length.  In this way, I prepared to calculate the used space in the house in the short story by calculating the space complexity in Computational English."]
 
-Algorithm? (y/n): 
+Algorithm? (y/n):
 |: n
 true.
 ```
