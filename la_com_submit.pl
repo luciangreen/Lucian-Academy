@@ -213,7 +213,7 @@ Data=[name=Name1,email=Email1
 string_atom(Name2,Name1),
 string_atom(Email2,Email1),
 
-		phrase_from_file_s(string(String00a), "student_numbers.txt"),
+		phrase_from_file_s(string(String00a), "student_numbers1.txt"),
 		string_codes(String02b,String00a),
 		atom_to_term(String02b,String02a,[]),
 
@@ -228,7 +228,7 @@ string_atom(Email2,Email1),
 	term_to_atom(String02a_a,String02a_b),
 	string_atom(String02a_c,String02a_b),
 
-	(open_s("student_numbers.txt",write,Stream1),
+	(open_s("student_numbers1.txt",write,Stream1),
 %%	string_codes(BrDict3),
 	write(Stream1,String02a_c),
 	close(Stream1)),!,
