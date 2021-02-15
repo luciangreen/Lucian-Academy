@@ -99,10 +99,15 @@ la_com_start_server(8000).
 http://localhost:8000/
 http://localhost:8000/generate_student_number
 ```
-See the first image asking for name, student number, course, essay topic and file contents from <a href="https://github.com/luciangreen/Essay-Helper">short_essay_helper.pl</a> and the second image asking for name and student number to generate a student number.
+See the first image asking for name, student number, course, essay topic and file contents from <a href="https://github.com/luciangreen/Essay-Helper">short_essay_helper.pl</a>, the second image notify that "Lucian, you have earned the mark, 66 for the topic Computational English Argument in the course Computational English on 15/2/2021 at 23:18.", the third image asking for name and student number to generate a student number and the fourth image notify that "The email address "lg@me.com" for "Lucian" has the student number "1".".
+
 <img width="453" alt="Screen Shot 2021-02-15 at 10 43 56 pm" src="https://user-images.githubusercontent.com/15845542/107942470-67839980-6fdf-11eb-84ee-7a503cf05dff.png">
+
+<img width="525" alt="Screen Shot 2021-02-15 at 11 19 29 pm" src="https://user-images.githubusercontent.com/15845542/107945904-643edc80-6fe4-11eb-92ee-89b3af57e6b8.png">
+
 <img width="444" alt="Screen Shot 2021-02-15 at 10 43 49 pm" src="https://user-images.githubusercontent.com/15845542/107942479-6b172080-6fdf-11eb-9c21-124fc0d6a27f.png">
 
+<img width="958" alt="Screen Shot 2021-02-15 at 11 18 59 pm" src="https://user-images.githubusercontent.com/15845542/107945913-6739cd00-6fe4-11eb-8401-eba065fd4e9a.png">
 
 * This web site uses a different student data file from `la_com1.pl`.
 
