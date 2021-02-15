@@ -2,20 +2,20 @@
 
 Automates Lucian Academy with practise bots, submission and assignment handling.  I wrote the algorithms in SWI-Prolog
 
-combophil_alg_log.pl - helps record writing up to a number of algorithms per chapter file
-combophil_alg_log.txt - data file for combophil_alg_log.pl
-combophil_grammar_logic_to_alg-vps.txt - paste file into Terminal each to create, maintain bots
-combophil_grammar_logic_to_alg.pl - used by combophil_grammar_logic_to_alg-vps.txt to create bots
-folders.pl - data file containing Lucian's philosophy files
-grad_student_numbers.txt - data file containing graduated student data
-la_com_marks.pl - helps mark assignments, used by la_com_submit.pl 
-la_com_submit.pl - helps student submit assignments (on web)
-la_com1.pl - submits and manages assignments of practise bots
-luciansphilosophy.txt - most of Lucian's philosophy in one file
-short_essay_helper3_agps.pl - version of essay helper to write essays, used by la_com1.pl
-student_numbers.txt - data file for student data
-wrap_sources.pl - adds reference data (i.e. Title) to files (named "Department by Lucian Green Title") from sources and places them in sources1, for use by essay helper.
-wrap_sources2.pl - adds reference data (i.e. Title) to files (named "Title") from sources and places them in sources1, for use by essay helper.
+* combophil_alg_log.pl - helps record writing up to a number of algorithms per chapter file
+* combophil_alg_log.txt - data file for combophil_alg_log.pl
+* combophil_grammar_logic_to_alg-vps.txt - paste file into Terminal each to create, maintain bots
+* combophil_grammar_logic_to_alg.pl - used by combophil_grammar_logic_to_alg-vps.txt to create bots
+* folders.pl - data file containing Lucian's philosophy files
+* grad_student_numbers.txt - data file containing graduated student data
+* la_com_marks.pl - helps mark assignments, used by la_com_submit.pl 
+* la_com_submit.pl - helps student submit assignments (on web)
+* la_com1.pl - submits and manages assignments of practise bots
+* luciansphilosophy.txt - most of Lucian's philosophy in one file
+* short_essay_helper3_agps.pl - version of essay helper to write essays, used by la_com1.pl
+* student_numbers.txt - data file for student data
+* wrap_sources.pl - adds reference data (i.e. Title) to files (named "Department by Lucian Green Title") from sources and places them in sources1, for use by essay helper.
+* wrap_sources2.pl - adds reference data (i.e. Title) to files (named "Title") from sources and places them in sources1, for use by essay helper.
 
 
 # Getting Started
