@@ -1,0 +1,15 @@
+["Green, L 2021, <i>Pedagogy Helper - Write on Breasoning - Computer Science 4 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"CREATE AND HELP PEDAGOGUES
+by Lucian Green
+Pedagogy Helper - Write on Breasoning - Computer Science 4 of 4
+
+
+    61.    I knew about or.
+    62.    I knew about implies.
+    63.    I knew about not
+    64.    I knew about plus.
+    65.    I knew about minus.
+    66.    I knew about multiplies.
+    67.    I knew about divides.
+
+
+"]

@@ -1,0 +1,149 @@
+:-include('../listprologinterpreter/la_strings.pl').
+:-include('short_essay_helper3_agps.pl').
+%:-include('combophil/combophil_grammar_logic_to_alg.pl').
+%:-include('algwriter/grammar_logic_to_alg.pl').
+%:-include('meditationnoreplace.pl').
+:-include('folders.pl').
+%:-include('sectest_p.pl').
+
+:- use_module(library(date)).
+
+la_com1:-
+
+get_curr_students(Curr_students),
+writeln("New students"),
+	
+	(true%toss_coin 
+	-> (new_student_number(Student_number), 
+										get_time(TS_of_enrollment),stamp_date_time(TS_of_enrollment,date(Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,_Hour2,_Minute2,_Seconda,_A,_TZ,_False),local),
+
+
+folders(Courses1),
+random_member(Course,Courses1),
+
+random_member([Course_type,Years_to_complete,Essays_left,As],[["short_course",1,5,1],["diploma",4,10,1],["honours",2,10,30],["master",5,20,100],["phd",10,30,400]]),
+	
+Year_of_completion is Year_of_enrollment+Years_to_complete,date_time_stamp(date(Year_of_completion,Month_of_enrollment,28,0,0,0,0,-,-),TS_of_completion),
+	
+	writeln(["bot","-",Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_enrollment,28,Course,Course_type,Years_to_complete,Essays_left,As]),
+	
+	append(Curr_students,[["bot","-",Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_enrollment,28,Course,Course_type,Years_to_complete,Essays_left,As]],Curr_students2),
+											
+	term_to_atom(Curr_students2,String02a_b),
+	string_atom(String02a_c,String02a_b),
+
+	(open_s("student_numbers.txt",write,Stream1),
+	write(Stream1,String02a_c),
+	close(Stream1)),!
+
+	
+	);(true
+	)),
+
+	
+			writeln("New work"),
+
+	get_curr_students(Curr_students2a),
+	get_grad_students(Grad_students2a),
+
+	new_work(Curr_students2a,[],Curr_students_aa2,Grad_students2a,Grad_students_aa2),
+
+	term_to_atom(Curr_students_aa2,String02a_b1),
+	string_atom(String02a_c1,String02a_b1),
+
+	(open_s("student_numbers.txt",write,Stream10),
+	write(Stream10,String02a_c1),
+	close(Stream10)),!,
+
+	term_to_atom(Grad_students_aa2,String02a_b11),
+	string_atom(String02a_c11,String02a_b11),
+
+	(open_s("grad_student_numbers.txt",write,Stream2),
+	write(Stream2,String02a_c11),
+	close(Stream2)),!.
+	
+/**
+	get_curr_students(Curr_students_a),
+	length(Curr_students_a,P1),P2=0,
+	get_grad_students(String02a),length(String02a,_P3)
+	.**/
+
+new_work([],Curr_students_aa,Curr_students_aa,Grad_students_aa,Grad_students_aa) :- !.
+
+new_work(Curr_students1a,Curr_students_aa1,Curr_students_aa2,Grad_students_aa1,Grad_students_aa2) :-
+
+Curr_students1a=[[A,B,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_completion,Day_of_completion,Course,Course_type,Years_to_complete,Essays_left,As]|Curr_students1b],
+	
+
+	(Essays_left is 0 ->
+	((
+Curr_students_aa1=Curr_students_aa3,
+
+										get_time(TS),stamp_date_time(TS,date(Year_of_graduation,Month_of_graduation,Day_of_graduation,_Hour2,_Minute2,_Seconda,_A,_TZ,_False),local),
+	
+
+append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS,Year_of_graduation,Month_of_graduation,Day_of_graduation,Course,Course_type,Years_to_complete,Essays_left,As]],Grad_students_aa3)
+
+
+
+	));
+	
+	
+	(true%toss_coin 
+	-> (get_texts(Course,Texts),
+	
+
+	short_essay_helper(Texts,Course,3,Essay_0),
+	writeln([essay_0,Essay_0]),
+	
+	Essays_left2 is Essays_left-1,
+
+writeln([A,B,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_completion,Day_of_completion,Course,Course_type,Years_to_complete,Essays_left2,As]),
+	
+append(Curr_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_completion,Day_of_completion,Course,Course_type,Years_to_complete,Essays_left2,As]],Curr_students_aa3),
+	
+	Grad_students_aa1=Grad_students_aa3
+	
+
+	);(
+	
+	Curr_students_aa1=Curr_students_aa3,
+	Grad_students_aa1=Grad_students_aa3
+
+	))),
+	
+	new_work(Curr_students1b,Curr_students_aa3,Curr_students_aa2,Grad_students_aa3,Grad_students_aa2).
+
+
+new_student_number(N) :-
+	random(X),N is ceiling(1000*X),!.
+
+get_curr_students(String02a) :-
+		phrase_from_file_s(string(String00a), "student_numbers.txt"),
+		string_codes(String02b,String00a),
+		atom_to_term(String02b,String02a,[]).
+
+get_grad_students(String02a) :-
+		phrase_from_file_s(string(String00a), "grad_student_numbers.txt"),
+		string_codes(String02b,String00a),
+		atom_to_term(String02b,String02a,[]).
+
+get_texts(Dept,Texts) :-
+	string_concat(Dept,"/",Dept1),
+	directory_files(Dept1,F),
+	delete_invisibles_etc(F,G),
+	findall(String02b,(member(Filex1,G),
+	string_concat(Dept1,Filex1,Filex),
+		phrase_from_file_s(string(String00a), Filex),
+		string_codes(String02b,String00a)),Texts1),
+		choose_texts(Texts1,Texts2,Text_a),
+		choose_texts(Texts2,Texts3,Text_b),
+		choose_texts(Texts3,_Texts4,Text_c),
+		maplist(append,[[[Text_a,Text_b,Text_c]]],[Texts]).
+		
+choose_texts(Texts1,Texts2,Text) :-
+	random_member(Text,Texts1),
+	delete(Texts1,Text,Texts2).
+
+toss_coin :-
+	random(X),X1 is ceiling(2*X), X1 is 2,!.

@@ -1,0 +1,13 @@
+["Green, L 2021, <i>C<N</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"C<N
+
+1. I used the bubble balance to find the flat surface.  C=0 in ideal conditions.  C is the gradient.  N is epsilon.  The ideal conditions were flat ground.
+2. The ground with an almost perfectly flat incline was safe drive on.  I found that C was useful to us (it had a valid range).  It was less than epsilon.  It was more than -epsilon.  Therefore, its range was 2*epsilon.
+3. The ontology was relative distance in metres.  The ontology corresponded to the same orders of magnitude.  For example, close was 10.  Visible was 100.  A jog away was 1000.
+4. I walked there first.  I agreed with c.  I found the gradient.  I calculated its gradient from the known information about the terrain.  I questioned the known information.
+5. C, and the slice both changed in reality.  I knew how (I worked with the other agreeing with C).  I found the gradient of the first slice of land.  I found the gradient of the second slice of land.  I connected them on an elevation chart.
+6. The gradient was manageable relative to the distance.  I agreed with C.  I found the gradient.  It was manageable.  I agreed with it.
+7. Even though the harmless issues were the same, I was different from the people.  The two parties travelled to the regiment.  Politics, or funnelling comments into vote sides listened to, could apply to philosophy and music.  I observed the region's parties in my daily regimen.  I talked to them.
+8. It would take longer to walk uphill, because one would walk further and get tired.  The two travellers agreed.  The two travellers agreed on the departure point.  They agreed on the destination.  The agreed on the distance, including rise.
+9. A1=1000 and B1=100 or A2=100 and B2=10.  The two values were within one order of magnitude of each other.  The first, greater value was A.  The second value was B.  A/B was less than 10.
+10. I also stopped.  I approximated walking with C.  I timed a day's hiking, over legs of different values of C.  Or, I factored in the weather and drove.  I took into consideration accidents, refreshments needed and light packs.
+"]

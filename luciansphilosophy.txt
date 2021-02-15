@@ -1,0 +1,1 @@
+"luciangreen","Lucian-Academy","Automates the Lucian Academy",[["luciangreen","listprologinterpreter"],["luciangreen","Languages"],["luciangreen","culturaltranslationtool"],["luciangreen","Algorithm-Writer-with-Lists"],["luciangreen","Text-to-Breasonings"],["luciangreen","mindreader"]]
