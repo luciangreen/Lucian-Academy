@@ -103,11 +103,11 @@ See the first image asking for name, student number, course, essay topic and fil
 
 <img width="453" alt="Screen Shot 2021-02-15 at 10 43 56 pm" src="https://user-images.githubusercontent.com/15845542/107942470-67839980-6fdf-11eb-84ee-7a503cf05dff.png">
 
-<img width="525" alt="Screen Shot 2021-02-15 at 11 19 29 pm" src="https://user-images.githubusercontent.com/15845542/107945904-643edc80-6fe4-11eb-92ee-89b3af57e6b8.png">
+<img width="958" alt="Screen Shot 2021-02-15 at 11 18 59 pm" src="https://user-images.githubusercontent.com/15845542/107945913-6739cd00-6fe4-11eb-8401-eba065fd4e9a.png">
 
 <img width="444" alt="Screen Shot 2021-02-15 at 10 43 49 pm" src="https://user-images.githubusercontent.com/15845542/107942479-6b172080-6fdf-11eb-9c21-124fc0d6a27f.png">
 
-<img width="958" alt="Screen Shot 2021-02-15 at 11 18 59 pm" src="https://user-images.githubusercontent.com/15845542/107945913-6739cd00-6fe4-11eb-8401-eba065fd4e9a.png">
+<img width="525" alt="Screen Shot 2021-02-15 at 11 19 29 pm" src="https://user-images.githubusercontent.com/15845542/107945904-643edc80-6fe4-11eb-92ee-89b3af57e6b8.png">
 
 * This web site uses a different student data file from `la_com1.pl`.
 
