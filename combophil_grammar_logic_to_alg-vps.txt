@@ -9,7 +9,7 @@ swipl
 time((combophil_grammar_logic_to_alg1(_,String000),Q=1,N is Q*32, M is 4000,texttobr2(N,u,String000,M),texttobr(N,u,String000,M))).
 P is 2+2+3+3+5+10+2+42+5+2+10, texttobr2(P),
 R is 209,texttobr2(R),
-LengthMeditatorsandDoctors2 is 800+7*(3000*10), texttobr2(LengthMeditatorsandDoctors2).
+LengthMeditatorsandDoctors2 is 1000, texttobr2(LengthMeditatorsandDoctors2).
 halt.
 logout
 
@@ -30,3 +30,4 @@ logout
 %% *10 for updates
 %% *209 for daily regimen (see bot rest dr.txt)
 %% 300 29 8 20
+%% 1000 number of bots to choose from
