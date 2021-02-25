@@ -100,7 +100,7 @@ la_com_start_server(8000).
 http://localhost:8000/
 http://localhost:8000/generate_student_number
 ```
-See the first image asking for name, student number, course, essay topic and file contents from <a href="https://github.com/luciangreen/Essay-Helper">short_essay_helper.pl</a>, the second image notify that "Lucian, you have earned the mark, 66 for the topic Computational English Argument in the course Computational English on 15/2/2021 at 23:18.", the third image asking for name and student number to generate a student number and the fourth image notify that "The email address "lg@me.com" for "Lucian" has the student number "1".".
+See the first image asking for name, student number, course, essay topic and file contents from <a href="https://github.com/luciangreen/Essay-Helper">short_essay_helper.pl</a>, the second image notifying that "Lucian, you have earned the mark, 66 for the topic Computational English Argument in the course Computational English on 15/2/2021 at 23:18.", the third image asking for name and student number to generate a student number and the fourth image notifying that "The email address "lg@me.com" for "Lucian" has the student number "1".".
 
 <img width="453" alt="Screen Shot 2021-02-15 at 10 43 56 pm" src="https://user-images.githubusercontent.com/15845542/107942470-67839980-6fdf-11eb-84ee-7a503cf05dff.png">
 
