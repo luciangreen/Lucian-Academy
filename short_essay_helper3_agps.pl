@@ -293,8 +293,8 @@ generate_file_name(File1,File2) :-
 
 explain_structure(String01,Reasons_per_paragraph,_File1) :-
 	concat_list(["The Short Essay Helper will automatically structure and write your essay about ",String01," with ",Reasons_per_paragraph," reasons per paragraph.","\n",
-	"The Helper will help write an exposition (which summarises but doesn't critique the idea), a critique (which agrees with or disagrees with the topic), the introduction and the conclusion (which state whether you agreed or disagreed with the topic, etc.).  Citations will be automatically made.","\n","Note: Generated essays are not to be handed in, and you need to paraphrase and cite work you have referenced.  Your grade depends on whether you agree or disagree and how many breasonings you breason out.  Check the referencing style is appropriate for your class.","\n"],String1),
-	writeln(String1).
+	"The Helper will help write an exposition (which summarises but doesn't critique the idea), a critique (which agrees with or disagrees with the topic), the introduction and the conclusion (which state whether you agreed or disagreed with the topic, etc.).  Citations will be automatically made.","\n","Note: Generated essays are not to be handed in, and you need to paraphrase and cite work you have referenced.  Your grade depends on whether you agree or disagree and how many breasonings you breason out.  Check the referencing style is appropriate for your class.","\n"],String1).
+	%writeln(String1).
 
 choose_sentence_range(String00,N2,B,B1,B2,C) :-
 	length(String00,L),
@@ -326,7 +326,7 @@ choose_sentence_range(String00,N_page_ref,String00a1,String00a2,_String00a3,Stri
 	findall([Number2,Number3,String3,String3a,String5a,String5],(
 	member(Number2,List1),member(Number3,List2),get_item_n(Exposition3,Number2,[_,Item1]),
 	%%trace,
-	concat_list(["<Exposition Paragraph ",Number2," of 5 - ",Item1,"> <Reason ",Number3," of ",Reasons_per_paragraph,">","\n","The Helper will ask you how the quote you are about to enter relates to the paragraph topic."],String2b),writeln(String2b),
+	concat_list(["<Exposition Paragraph ",Number2," of 5 - ",Item1,"> <Reason ",Number3," of ",Reasons_per_paragraph,">","\n","The Helper will ask you how the quote you are about to enter relates to the paragraph topic."],String2b),%writeln(String2b),
 	%%trace,
 exposition2(String00,Item1,ML_db,String3,String3a,String5a,String5)
 	),Exposition4),
@@ -390,7 +390,7 @@ critique_reasons_2_to_n(String00,Number2a,List2a,Critique3,Reasons_per_paragraph
 	%%member(Number2,List1),member(Number3,List2),
 	%%get_item_n(Critique3,Number2a,[_,Item1]),
 	%%trace,
-	concat_list(["<Critique Paragraph ",Number2a," of 5> <Reason ",Number3a," of ",Reasons_per_paragraph,">","\n","The Helper will ask you for your comment on the quote you are about to enter."],String2b),writeln(String2b), 
+	concat_list(["<Critique Paragraph ",Number2a," of 5> <Reason ",Number3a," of ",Reasons_per_paragraph,">","\n","The Helper will ask you for your comment on the quote you are about to enter."],String2b),%writeln(String2b), 
 	%% Later: connections
 
 	%%trace,
@@ -487,7 +487,7 @@ CNumber2aa,CNumber3aa,CString5a1a,
 	member(Number3a,List2a),
 	%%get_item_n(Critique3,Number2a,[_,Item1]),
 	%%trace,
-	concat_list(["<Critique Paragraph ",Number2a," of 5> <Reason ",Number3a," of ",Reasons_per_paragraph,">","\n","The Helper will ask you for your comment on the quote you are about to enter."],String2b),writeln(String2b), 
+	concat_list(["<Critique Paragraph ",Number2a," of 5> <Reason ",Number3a," of ",Reasons_per_paragraph,">","\n","The Helper will ask you for your comment on the quote you are about to enter."],String2b),%writeln(String2b), 
 	%% Later: connections
 
 	
@@ -747,7 +747,8 @@ maplist(equals_empty_list,Item12)
 reference(String2r) :-
 	refs_long(R10),
 	(refs(R1),%%writeln("What is the reference? e.g. Surname, A 2000, <i>Title: Subtitle</i>, Publisher, City.\n"),writeln("Existing references (copy one or many delimited with \"\\n\"):"), 
-	findall(_,(member(R11,R1),writeln(R11)),_),%%read_string(user_input, "\n", "\r", _End4, String2r),
+	findall(_,(member(R11,R1)%,writeln(R11)
+	),_),%%read_string(user_input, "\n", "\r", _End4, String2r),
 	not(String2r=""),%%downcase_atom(String2r,_String3r),
 	%%String2=String2aa,
 	split_string(String2r,"\n\r","\n\r",String2r3),

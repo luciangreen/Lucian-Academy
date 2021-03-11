@@ -6,6 +6,9 @@
 :-include('folders.pl').
 %:-include('sectest_p.pl').
 
+:-include('../Text-to-Breasonings/meditationnoreplace.pl').
+:-include('../Text-to-Breasonings/texttobrall2_reading.pl').
+
 :- use_module(library(date)).
 
 la_com1:-
@@ -55,6 +58,10 @@ Year_of_completion is Year_of_enrollment+Years_to_complete,date_time_stamp(date(
 	write(Stream10,String02a_c1),
 	close(Stream10)),!,
 
+			writeln("Graduates"),
+			findall(_,(member(Grad_students_aa3,Grad_students_aa2),
+			writeln(Grad_students_aa3)),_),
+
 	term_to_atom(Grad_students_aa2,String02a_b11),
 	string_atom(String02a_c11,String02a_b11),
 
@@ -94,8 +101,9 @@ append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 	
 
 	short_essay_helper(Texts,Course,3,Essay_0),
-	writeln([essay_0,Essay_0]),
-	
+	%writeln([essay_0,Essay_0]),
+		W is 50*4,texttobr2(u,u,Essay_0,u,false,false,false,false,false,false,W),
+
 	Essays_left2 is Essays_left-1,
 
 writeln([A,B,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_completion,Day_of_completion,Course,Course_type,Years_to_complete,Essays_left2,As]),
