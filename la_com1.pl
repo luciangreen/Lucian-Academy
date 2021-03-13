@@ -5,6 +5,7 @@
 %:-include('meditationnoreplace.pl').
 :-include('folders.pl').
 %:-include('sectest_p.pl').
+:-include('../listprologinterpreter/la_maths.pl').
 
 :-include('../Text-to-Breasonings/meditationnoreplace.pl').
 :-include('../Text-to-Breasonings/texttobrall2_reading.pl').
@@ -49,6 +50,8 @@ Year_of_completion is Year_of_enrollment+Years_to_complete,date_time_stamp(date(
 	get_curr_students(Curr_students2a),
 	get_grad_students(Grad_students2a),
 
+	retractall(todays_students(_)),
+	
 	new_work(Curr_students2a,[],Curr_students_aa2,Grad_students2a,Grad_students_aa2),
 
 	term_to_atom(Curr_students_aa2,String02a_b1),
@@ -67,7 +70,23 @@ Year_of_completion is Year_of_enrollment+Years_to_complete,date_time_stamp(date(
 
 	(open_s("grad_student_numbers.txt",write,Stream2),
 	write(Stream2,String02a_c11),
-	close(Stream2)),!.
+	close(Stream2)),!,
+	
+	findall(Tally,todays_students(Tally),Tally2),
+	sum(Tally2,Tally31),
+	
+	Tally32 is Tally31+1000+1000, % politics, university
+	
+	length(Curr_students2a,LCS),
+	
+	Tally3=[LCS,Tally32],
+
+	string_atom(Tally4,Tally3),
+
+	(open_s("a_tally.txt",write,Stream3),
+	write(Stream3,Tally4),
+	close(Stream3)),!.
+
 	
 /**
 	get_curr_students(Curr_students_a),
@@ -102,11 +121,13 @@ append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 
 	short_essay_helper(Texts,Course,3,Essay_0),
 	%writeln([essay_0,Essay_0]),
-		W is 50*4,texttobr2(u,u,Essay_0,u,false,false,false,false,false,false,W),
-
+	W is 50*4,texttobr2(u,u,Essay_0,u,false,false,false,false,false,false,W),
+		
 	Essays_left2 is Essays_left-1,
 
 writeln([A,B,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_completion,Day_of_completion,Course,Course_type,Years_to_complete,Essays_left2,As]),
+	
+	assertz(todays_students(As)),
 	
 append(Curr_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_completion,Day_of_completion,Course,Course_type,Years_to_complete,Essays_left2,As]],Curr_students_aa3),
 	
