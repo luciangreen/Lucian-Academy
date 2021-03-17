@@ -6,9 +6,14 @@
 :-include('folders.pl').
 %:-include('sectest_p.pl').
 :-include('../listprologinterpreter/la_maths.pl').
+:-include('../Text-to-Breasonings/truncate.pl').
+
+:-include('../Text-to-Breasonings/texttobrall2_reading.pl').
 
 :-include('../Text-to-Breasonings/meditationnoreplace.pl').
 :-include('../Text-to-Breasonings/texttobrall2_reading.pl').
+
+:-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl').
 
 :- use_module(library(date)).
 
@@ -80,7 +85,7 @@ Year_of_completion is Year_of_enrollment+Years_to_complete,date_time_stamp(date(
 	length(Curr_students2a,LCS),
 	
 	Tally3=[LCS,Tally32],
-
+	
 	string_atom(Tally4,Tally3),
 
 	(open_s("a_tally.txt",write,Stream3),
@@ -122,6 +127,33 @@ append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 	short_essay_helper(Texts,Course,3,Essay_0),
 	%writeln([essay_0,Essay_0]),
 	W is 50*4,texttobr2(u,u,Essay_0,u,false,false,false,false,false,false,W),
+	texttobr(u,u,Essay_0,u),
+	/**
+	term_to_atom(Essay_0,Essay_01),
+	string_atom(Essay_02,Essay_01),
+
+	
+	(open_s("essay_tmp1.txt",write,Stream1),
+	write(Stream1,Essay_02),
+	close(Stream1)),!,
+
+	truncate("essay_tmp1.txt",14000,"file.txt"),
+
+	**/
+	
+	working_directory(_, 'algwriter/'),
+		
+	Br is As*80,
+	grammar_logic_to_alg1(Essay_0,Br,GL_out1),
+
+	term_to_atom(GL_out1,GL_out2),
+	string_atom(GL_out,GL_out2),
+
+	working_directory(_, '../'),
+
+	texttobr2(u,u,GL_out,Br,false,false,false,false,false,false,W),
+	texttobr(u,u,GL_out,Br),
+
 		
 	Essays_left2 is Essays_left-1,
 
