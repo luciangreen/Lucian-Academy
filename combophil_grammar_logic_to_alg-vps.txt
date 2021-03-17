@@ -1,12 +1,13 @@
 %% combophil_grammar_logic_to_alg.txt
 %% 40 including 10 sales with 10 monies *2 for other person
 
+cd Text-to-Breasonings
 swipl
-['combophil_grammar_logic_to_alg.pl'].
+['../Algorithm-Writer-with-Lists/combophil_grammar_logic_to_alg2.pl'].
 ['../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl'].
-['../Text-to-Breasonings/meditationnoreplace.pl'].
-['../Text-to-Breasonings/meditatorsanddoctors.pl'].
-time((combophil_grammar_logic_to_alg1(_,String000),Q=1,N is Q*32, M is 4000,texttobr2(N,u,String000,M),texttobr(N,u,String000,M))).
+['meditationnoreplace.pl'].
+['meditatorsanddoctors.pl'].
+time((combophil_grammar_logic_to_alg1(_,String000),Q=1,N is Q*32, M is 4000,texttobr2(N,u,String000,M,false,false,false,false,false,false),texttobr(N,u,String000,M))).
 P is 2+2+3+3+5+10+2+42+5+2+10, texttobr2(P),
 R is 209,texttobr2(R),
 LengthMeditatorsandDoctors2 is 1000, texttobr2(LengthMeditatorsandDoctors2).
