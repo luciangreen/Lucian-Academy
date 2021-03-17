@@ -141,7 +141,7 @@ append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 
 	**/
 	
-	working_directory(_, 'algwriter/'),
+	working_directory(_, 'Algorithm-Writer-with-Lists/'),
 		
 	Br is As*80,
 	grammar_logic_to_alg1(Essay_0,Br,GL_out1),
