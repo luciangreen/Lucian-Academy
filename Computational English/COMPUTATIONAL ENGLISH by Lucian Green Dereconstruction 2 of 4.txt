@@ -10,7 +10,7 @@ Dereconstruction 2 of 4
 
 14.   I prepared to be equitable.  I did this by liking you because I shared the apple with you.  First, I shared the apple with you.  Second, I observed you like me.  Third, I liked you.  In this way, I prepared to be equitable by liking you because I shared the apple with you.
 
-15.   I prepared to earn H1.  I did this by demonstrating logical thinking.  First, I suggested the proposition “b”.  Second, I suggested the inference “b -> a”.  Third, I suggested the proposition “a”.  In this way, I prepared to earn H1 by demonstrating logical thinking.
+15.   I prepared to earn H1.  I did this by demonstrating logical thinking.  First, I suggested the proposition 'b'.  Second, I suggested the inference 'b -> a'.  Third, I suggested the proposition 'a'.  In this way, I prepared to earn H1 by demonstrating logical thinking.
 
 16.   I prepared to become a famous computing engineer.  I did this by demonstrating perfect programming.  First, I wrote down the sets.  Second, I wrote down the data contained in each set.  Third, I wrote the algorithm traversing the data sets.  In this way, I prepared to become a famous computing engineer by demonstrating perfect programming.
 

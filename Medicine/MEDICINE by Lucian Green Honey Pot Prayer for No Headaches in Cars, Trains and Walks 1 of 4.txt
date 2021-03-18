@@ -24,7 +24,7 @@ Pooh with pot
 
 3.    I prepared to be a doctor.  I did this by drinking from the streams of juice.  First, I found out the izzimokays (the party).  Second, I went up something fast moving.  Third, I help captives.  In this way, I prepared to be a doctor by drinking from the streams of juice.
 
-4.    I prepared to benefit from increased productivity.  I did this by recursively applying Lucianic Meditation (philosophy) to the levels of the organisation.  First, I applied it to the first level.  Second, I prepared to repeat this for each of the current manager’s child nodes.  Third, I repeated this until all the employees had been trained in it.  In this way, I prepared to benefit from increased productivity by recursively applying Lucianic Meditation (philosophy) to the levels of the organisation.
+4.    I prepared to benefit from increased productivity.  I did this by recursively applying Lucianic Meditation (philosophy) to the levels of the organisation.  First, I applied it to the first level.  Second, I prepared to repeat this for each of the current manager's child nodes.  Third, I repeated this until all the employees had been trained in it.  In this way, I prepared to benefit from increased productivity by recursively applying Lucianic Meditation (philosophy) to the levels of the organisation.
 
 5.    I prepared to benefit from vitamin C.  I did this by eating the apple.  First, I found the slicer.  Second, I sliced the apple.  Third, I ate it.  In this way, I prepared to benefit from vitamin C by eating the apple.
 
@@ -36,6 +36,6 @@ Pooh with pot
 
 9.    I prepared to spoon the strawberries from the glass.  I did this by drinking the cordial.  First, I poured the cordial.  Second, I drank the cordial.  Third, I put the glass down on the table.  In this way, I prepared to spoon the strawberries from the glass by drinking the cordial.
 
-10.  I prepared to eat from the plate.  I did this by depositing the item in the receptacle.  First, I picked up the item.  Second, I deposited it in the receptacle.  Third, I closed the receptacle’s lid.  In this way, I prepared to eat from the plate by depositing the item in the receptacle.
+10.  I prepared to eat from the plate.  I did this by depositing the item in the receptacle.  First, I picked up the item.  Second, I deposited it in the receptacle.  Third, I closed the receptacle's lid.  In this way, I prepared to eat from the plate by depositing the item in the receptacle.
 
 "]

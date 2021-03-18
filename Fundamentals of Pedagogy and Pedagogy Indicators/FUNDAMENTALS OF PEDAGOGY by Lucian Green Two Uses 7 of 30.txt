@@ -8,7 +8,7 @@ Two Uses 7 of 30
 
 63.	DION: The subject should write a comment written on part of a topic by a writer.
 
-64.	ALEXIS: I prepared to recommend the high-quality comment by the programmer for the command be cut off. I did this by writing Michel Onfray’s probable comments on the Press Release for Richard Rorty's probable comments on the line “I did this by writing the text-to-speech algorithm” for the algorithm idea “I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I thought verificationism was a good idea with Prolog code, even English Prolog. Second, I recommended thinking of the commands “equals,” “matches,” etc. as single symbols. Third, I suggested the spiritually computed reasons for the commands be many.
+64.	ALEXIS: I prepared to recommend the high-quality comment by the programmer for the command be cut off. I did this by writing Michel Onfray's probable comments on the Press Release for Richard Rorty's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I thought verificationism was a good idea with Prolog code, even English Prolog. Second, I recommended thinking of the commands 'equals,' 'matches,' etc. as single symbols. Third, I suggested the spiritually computed reasons for the commands be many.
 
 65.	DION: The subject shouldn't be sharp and short (where the subject recommended the high-quality comment by the programmer for the command be cut off, like there being no obstruction under the base).
 
@@ -20,5 +20,5 @@ Two Uses 7 of 30
 
 69.	DION: Line 6 returns the Lastline of Lines1.
 
-70.	ALEXIS: I prepared to go into the ontologies to see if there was anything new there. I did this by writing Martha Nussbaum’s probable comments on Richard Dawkins’ probable comments on the line “I did this by writing the text-to-speech algorithm” for the algorithm idea “I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I liked reading the book. Second, I loved re-reading to apply it to something else. Third, I liked writing about it.
+70.	ALEXIS: I prepared to go into the ontologies to see if there was anything new there. I did this by writing Martha Nussbaum's probable comments on Richard Dawkins' probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I liked reading the book. Second, I loved re-reading to apply it to something else. Third, I liked writing about it.
 "]

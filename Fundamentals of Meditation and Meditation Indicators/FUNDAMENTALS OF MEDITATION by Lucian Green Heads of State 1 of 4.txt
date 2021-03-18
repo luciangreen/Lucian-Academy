@@ -3,13 +3,13 @@ by Lucian Green
 Heads of State 1 of 4
 
 
-1. This supports the meditator with the heads of state.  Meditation is recognised by head of state, who help build the meditator’s thoughts and society and gives the meditator thoughts.  The meditation company has a recognised sales cycle, which the heads of state encourage customers to buy from.  It helps with criticality per thought, accreditation, medicine, and pedagogy.
+1. This supports the meditator with the heads of state.  Meditation is recognised by head of state, who help build the meditator's thoughts and society and gives the meditator thoughts.  The meditation company has a recognised sales cycle, which the heads of state encourage customers to buy from.  It helps with criticality per thought, accreditation, medicine, and pedagogy.
 
-1a. I prepared to turn the train around on the circular track.  I did this by turning the lollipop around.  First, I put the lollipop in my mouth.  Second, I rotated the stick of the lollipop.  Third, I noticed this caused the lolliop’s head to rotate.  In this way, I prepared to turn the train around on the circular track by turning the lollipop around.
+1a. I prepared to turn the train around on the circular track.  I did this by turning the lollipop around.  First, I put the lollipop in my mouth.  Second, I rotated the stick of the lollipop.  Third, I noticed this caused the lolliop's head to rotate.  In this way, I prepared to turn the train around on the circular track by turning the lollipop around.
 
 2. I prepared to test the boy had a bag of nuts.  I did this by feeling the bow tie.  First, I felt the knot in the middle.  Second, I felt the left side of the bow tie.  Third, I felt the right side of the bow tie.  In this way, I prepared to test the boy had a bag of nuts by feeling the bow tie.
 
-3. I prepared to stop playing the “World” board game.  I did this by identifying that the button had reached the goal.  First, I found the button.  Second, I tested which region it was on.  Third, I tested that the name of the region was “Happiness”.  In this way, I prepared to stop playing the “World” board game by identifying that the button had reached the goal.
+3. I prepared to stop playing the 'World' board game.  I did this by identifying that the button had reached the goal.  First, I found the button.  Second, I tested which region it was on.  Third, I tested that the name of the region was 'Happiness'.  In this way, I prepared to stop playing the 'World' board game by identifying that the button had reached the goal.
 
 4. The head of state prepared to help think of a algorithm with me.  She did this by finding the loop in the algorithm.  First, she wrote down the name of the Prolog predicate.  Second, she wrote down the name of the predicate called by the predicate.  Third, she identified that the two predicate names were the same, showing that there was a loop, in other words a recursive structure in the algorithm.  In this way, the head of state prepared to help think of a algorithm with me by finding the loop in the algorithm.
 
@@ -23,5 +23,5 @@ Heads of State 1 of 4
 
 9. I prepared to walk around the schoolyard.  I did this by connecting the school buildings together with pathways.  First, I looked at the first building.  Second, I looked in which direction the next building was.  Third, I walked in that direction.  In this way, I prepared to walk around the schoolyard by connecting the school buildings together with pathways.
 
-10. The patient prepared to lie down.  He did this after being taken off medication because it caused muscle stiffness.  First, he read the medication’s side effects.  Second, he looked at what to do instead.  Third, he did that instead.  In this way, the patient prepared to lie down after being taken off medication because it caused muscle stiffness.
+10. The patient prepared to lie down.  He did this after being taken off medication because it caused muscle stiffness.  First, he read the medication's side effects.  Second, he looked at what to do instead.  Third, he did that instead.  In this way, the patient prepared to lie down after being taken off medication because it caused muscle stiffness.
 "]

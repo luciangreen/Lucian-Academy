@@ -10,7 +10,7 @@ Symbols 4 of 4
 
 34.   I prepared to make a new connection.  I did this by writing rhetoric.  First, I wrote A->B.  Second, I wrote C->D.  Third, I wrote, as A->B, C->D.  In this way, I prepared to make a new connection by writing rhetoric.
 
-35.   I prepared to prepare for the debriefing.  I did this by taking the witch’s hat.  First, I walked to the cone.  Second, I removed it.  Third, I placed it I the correct section of the sports supplies.  In this way, I prepared to prepare for the debriefing by taking the witch’s hat.
+35.   I prepared to prepare for the debriefing.  I did this by taking the witch's hat.  First, I walked to the cone.  Second, I removed it.  Third, I placed it I the correct section of the sports supplies.  In this way, I prepared to prepare for the debriefing by taking the witch's hat.
 
 36.   I prepared to observe the robot guide the blind person.  I did this by observing the robot dog walk in a straight line.  First, I placed the robot dog on the line.  Second, I observed it start to walk along the line.  Third, I observed it complete the walk along the line.  In this way, I prepared to observe the robot guide the blind person by observing the robot dog walk in a straight line.
 
@@ -24,5 +24,5 @@ Symbols 4 of 4
 
 41.   I prepared to make As available through a system for a fee.  I did this by setting up a university.  First, I established a fund.  Second, I found a source of teachers.  Third, I found a source of equipment.  In this way, I prepared to make As available through a system for a fee by setting up a university.
 
-42.   I prepared to teach meditation with a non-religious seen-as-version at University.  I did this by writing “a man” in brackets after God’s name at the University.  First, I wrote God’s (the man’s) name.  Second, I wrote the breasoning chapters in this way.  Third, I wrote the essays in this way.  In this way, I prepared to teach meditation with a non-religious seen-as-version at University by writing “a man” in brackets after God’s name at the University.
+42.   I prepared to teach meditation with a non-religious seen-as-version at University.  I did this by writing 'a man' in brackets after God's name at the University.  First, I wrote God's (the man's) name.  Second, I wrote the breasoning chapters in this way.  Third, I wrote the essays in this way.  In this way, I prepared to teach meditation with a non-religious seen-as-version at University by writing 'a man' in brackets after God's name at the University.
 "]

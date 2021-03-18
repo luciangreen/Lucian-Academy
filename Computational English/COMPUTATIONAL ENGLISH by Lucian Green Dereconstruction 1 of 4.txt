@@ -10,7 +10,7 @@ Dereconstruction 1 of 4
 
 2.    I prepared to prove two theorems for finding a property gave the same result.  I did this by writing a geometry theorem prover.  First, I counted the number of squares.  Second, I multiplied the width of the region of the squares by the height of the region of the squares.  Third, I verified that the number of squares was equal to the width of the region of the squares multiplied by the height of the region of the squares.  In this way, I prepared to prove two theorems for finding a property gave the same result by writing a geometry theorem prover.
 
-3.     I prepared to prevent unemployment.  I did this by designing a meditation (in fact, book-based) economic system.  First, I taught the student from the book.  Second, I observed the advantage to the student’s health.  Third, I observed the advantage to the student’s career.  In this way, I prepared to prevent unemployment by designing a meditation (in fact, book-based) economic system.
+3.     I prepared to prevent unemployment.  I did this by designing a meditation (in fact, book-based) economic system.  First, I taught the student from the book.  Second, I observed the advantage to the student's health.  Third, I observed the advantage to the student's career.  In this way, I prepared to prevent unemployment by designing a meditation (in fact, book-based) economic system.
 
 4.    I prepared to create prosperity.  I did this by designing a pedagogy economic system.  First, I taught the student pedagogy.  Second, I observed him breason out an H1.  Third, I observed him breason out 50 different H1s for a University job.  In this way, I prepared to create prosperity by designing a pedagogy economic system.
 

@@ -4,7 +4,7 @@ Two Uses 10 of 30
 
 91.	DION: The program checks that the utensil is carryable.
 
-92.	ALEXIS: I prepared to disambiguate between my desired meaning and another one. I did this by writing Martha Nussbaum’s probable comments on the Press Release for Richard Rorty's probable comments on the line “I did this by writing the text-to-speech algorithm” for the algorithm idea “I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I like Prolog. Second, I like English. Third, I put English and Prolog together, including synonyms and synogrammars.
+92.	ALEXIS: I prepared to disambiguate between my desired meaning and another one. I did this by writing Martha Nussbaum's probable comments on the Press Release for Richard Rorty's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I like Prolog. Second, I like English. Third, I put English and Prolog together, including synonyms and synogrammars.
 
 93.	DION: The subject shouldn't attach to the incorrect meaning (where the subject disambiguated between my desired meaning and another one, where this was akin to him attaching handles to the meaning he wanted).
 
@@ -12,7 +12,7 @@ Two Uses 10 of 30
 
 95.	DION: Two uses is right because of the meaning-attachment of nature, which is correct because the subject should connect to the right meaning.
 
-96.	ALEXIS: I prepared to influence the sound of the text with the structure, function and size/constitution of the objects to which this referred. I did this by writing Alexius Meinong’s probable comments on the Press Release for Richard Rorty's probable comments on the line “I did this by writing the text-to-speech algorithm” for the algorithm idea “I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I wrote a chart (undirected) of all the possibilities represented by the data. Second, I wrote a graph (directed) of all the possibilities represented by the data. Third, I wrote a plot (image of the breasoned objects) of all the possibilities represented by the data.
+96.	ALEXIS: I prepared to influence the sound of the text with the structure, function and size/constitution of the objects to which this referred. I did this by writing Alexius Meinong's probable comments on the Press Release for Richard Rorty's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I wrote a chart (undirected) of all the possibilities represented by the data. Second, I wrote a graph (directed) of all the possibilities represented by the data. Third, I wrote a plot (image of the breasoned objects) of all the possibilities represented by the data.
 
 97.	DION: The subject shouldn't incorrectly emphasise the most useful object in the sentence (where the subject influenced the sound of the text with the structure, function and size/constitution of the objects that this referred to, and how they were useful).
 

@@ -2,8 +2,8 @@
 by Lucian Green
 Pedagogy Helper - Write on Breasoning - Philosophy 4 of 4
 
-31.    I inverted the argument’s reason to be famous.
-    32.    I inverted part of the arguments’ reason’s reason to be famous.
+31.    I inverted the argument's reason to be famous.
+    32.    I inverted part of the arguments' reason's reason to be famous.
     33.    I wrote in philosophical argument form.
     34.    Both Being and being could be here.
     35.    I saw the philanthropist.
@@ -14,7 +14,7 @@ Pedagogy Helper - Write on Breasoning - Philosophy 4 of 4
     40.    I discovered the cow tape.
     41.    I fertilised the garden.
     42.    I discovered the puzzle language.
-    43.    The puzzle solution was “I know where?”
+    43.    The puzzle solution was 'I know where?'
     44.    I undiscombobulated (confused) the student.
     45.    I noticed the journal secondary text on my text.
 "]
