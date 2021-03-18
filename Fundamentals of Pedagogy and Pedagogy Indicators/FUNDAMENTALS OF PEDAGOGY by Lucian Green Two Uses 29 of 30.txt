@@ -18,7 +18,7 @@ Two Uses 29 of 30
 
 287.	ALEXIS: What is the meaning of stands(Line) in line 36?
 
-288.	DION: Line 36 tests that Line stands (that there is a line of two p’s in Line).
+288.	DION: Line 36 tests that Line stands (that there is a line of two p's in Line).
 
 289.	ALEXIS: I prepared to examine my famousness. I did this by including the autobiography in the bibliography. First, I wrote about myself. Second, I wrote about the rod operation. Third, I held it aloft.
 "]

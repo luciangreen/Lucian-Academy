@@ -14,7 +14,7 @@ Two Uses 24 of 30
 
 235.	DION: The subject should research the correct doses of vitamins, minerals and other vegetable ingredients by spelling correctly.
 
-236.	DION: The subject shouldn’t trip on the path (where the subject wrote non-sexual arguments, or arguments for a general audience, like finding the routes between items).
+236.	DION: The subject shouldn't trip on the path (where the subject wrote non-sexual arguments, or arguments for a general audience, like finding the routes between items).
 
 237.	ALEXIS: The subject should walk on the path.
 

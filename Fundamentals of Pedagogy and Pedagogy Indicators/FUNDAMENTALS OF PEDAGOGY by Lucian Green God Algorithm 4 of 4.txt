@@ -2,9 +2,9 @@
 by Lucian Green
 God Algorithm 4 of 4
 
-31.    I prepared to make the film.  I did this by determining that the film director’s apple was positive.  First, I found the apple.  Second, I bit it.  Third, I swallowed the mouthful.  In this way, I prepared to make the film by determining that the film director’s apple was positive.
+31.    I prepared to make the film.  I did this by determining that the film director's apple was positive.  First, I found the apple.  Second, I bit it.  Third, I swallowed the mouthful.  In this way, I prepared to make the film by determining that the film director's apple was positive.
 
-32.   I prepared to receive the payment.  I did this by washing the lady’s colander.  First, I found the colander in the cupboard.  Second, I retrieved the scourer.  Third, I washed the colander with the scourere and water.  In this way, I prepared to receive the payment by washing the lady’s colander.
+32.   I prepared to receive the payment.  I did this by washing the lady's colander.  First, I found the colander in the cupboard.  Second, I retrieved the scourer.  Third, I washed the colander with the scourer and water.  In this way, I prepared to receive the payment by washing the lady's colander.
 
 33.   I prepared to save the apple seed.  I did this by eating the apple.  First, I bought the apple.  Second, I chewed it.  Third, I ate the apple core.  In this way, I prepared to save the apple seed by eating the apple.
 
@@ -14,11 +14,11 @@ God Algorithm 4 of 4
 
 36.   I prepared to read the pedagogy qubit.  I did this by verifying the qubit using the pedagogy screen.  First, I read that the qubit indicated that the breasoning was valid.  Second, I read whether the pedagogy screen had been read for the breasoning.  Third, I verified the qubit.  In this way, I prepared to read the pedagogy qubit by verifying the qubit using the pedagogy screen.
 
-37.   I prepared to display the banner.  I did this by programming the computer to display the pixel.  First, I set the pixel’s x coordinate.  Second, I set the pixel’s y coordinate.  Third, I displayed the pixel.  In this way, I prepared to display the banner by programming the computer to display the pixel.
+37.   I prepared to display the banner.  I did this by programming the computer to display the pixel.  First, I set the pixel's x coordinate.  Second, I set the pixel's y coordinate.  Third, I displayed the pixel.  In this way, I prepared to display the banner by programming the computer to display the pixel.
 
-38.   I prepared to write about my feelings.  I did this by typing the query “Do you love me?” to feel positive.  First, I asked if the person loved me.  Second, I received an answer in the affirmative.  Third, I felt positive.  In this way, I prepared to write about my feelings by typing the query “Do you love me?”.
+38.   I prepared to write about my feelings.  I did this by typing the query 'Do you love me?' to feel positive.  First, I asked if the person loved me.  Second, I received an answer in the affirmative.  Third, I felt positive.  In this way, I prepared to write about my feelings by typing the query 'Do you love me?'.
 
-39.   I prepared to have a nap.  I did this by typing the query “Do you love me?” to change me to positive.  First, I asked if you loved me.  Second, I received the answer “Yes”.  Third, my day changed to positive.  In this way, I prepared to have a nap by typing the query “Do you love me?”.
+39.   I prepared to have a nap.  I did this by typing the query 'Do you love me?' to change me to positive.  First, I asked if you loved me.  Second, I received the answer 'Yes'.  Third, my day changed to positive.  In this way, I prepared to have a nap by typing the query 'Do you love me?'.
 
 40.  I prepared to defend the King.  I did this by moving the King Duchess piece.  First, I made the hexagonal Duchess board.  Second, I placed the King on the hexagon.  Third, I moved the King on hexagon forward.  In this way, I prepared to defend the King.  I did this by moving the King Duchess piece.
 

@@ -2,7 +2,7 @@
 by Lucian Green
 Two Uses 14 of 30
 
-130.	ALEXIS: I prepared to state that the immediate experience was positive, and there was an overall delightful experience. I did this by writing Richard Dawkins' probable comments on Alexius Meinong’s probable comments on the line “I did this by writing the text-to-speech algorithm” for the algorithm idea “I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I thought of experience as defining the text’s character’s personality. Second, I thought of socio-economic status as partially defining the speech’s character’s character. Third, I transcended experience to have a better socio-economic status.
+130.	ALEXIS: I prepared to state that the immediate experience was positive, and there was an overall delightful experience. I did this by writing Richard Dawkins' probable comments on Alexius Meinong's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I thought of experience as defining the text's character's personality. Second, I thought of socio-economic status as partially defining the speech's character's character. Third, I transcended experience to have a better socio-economic status.
 
 131.	DION: The subject shouldn't be late without a message (where the subject stated that the immediate experience was positive, and there was an overall delightful experience, where the overall pleasant experience was that of arriving in time).
 
@@ -12,11 +12,11 @@ Two Uses 14 of 30
 
 134.	ALEXIS: What is the meaning of line(Line1, Item) in line 19?
 
-135.	DION: Line 19 determines whether Line1 contains a line of at least 2 Item’s.
+135.	DION: Line 19 determines whether Line1 contains a line of at least 2 Item's.
 
-136.	ALEXIS: I prepared to say Derrida does not mention these little As during Derrida’s text, nor does he mention them about it. I did this by writing Richard Dawkins' probable comments on Michel Onfray’s probable comments on the line “I did this by writing the text-to-speech algorithm” for the algorithm idea “I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I prepared to ask, what writing, I can’t see any writing about the topic? Second, I disliked (liked) the writer. Third, I disliked (liked) discussing the writer.
+136.	ALEXIS: I prepared to say Derrida does not mention these little As during Derrida's text, nor does he mention them about it. I did this by writing Richard Dawkins' probable comments on Michel Onfray's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I prepared to ask, what writing, I can't see any writing about the topic? Second, I disliked (liked) the writer. Third, I disliked (liked) discussing the writer.
 
-137.	DION: The subject shouldn't become a founder (where the subject stated that As are not mentioned during, but are referred to about Derrida’s text, noting that I moved along the line of the A's breasonings).
+137.	DION: The subject shouldn't become a founder (where the subject stated that As are not mentioned during, but are referred to about Derrida's text, noting that I moved along the line of the A's breasonings).
 
 138.	ALEXIS: The subject should become a founder.
 

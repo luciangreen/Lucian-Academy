@@ -24,6 +24,6 @@ Meditation Teacher Sutra 1 of 4
 
 9.     My audience prepared to experience heaven on earth.  I did this by plucking the harp string.  First, I sat at the harp.  Second, I positioned my finger next to the string.  Third, I plucked the C string.  In this way, my audience prepared to experience heaven on earth by plucking the harp string.
 
-10.   The psychiatrist prepared to help the patient.  He did this by writing the while command.  First, he typed “while”.  Second, he typed “true”.  Third, he ran the command until the user had entered input.  In this way, he psychiatrist prepared to help the patient by writing the while command.
+10.   The psychiatrist prepared to help the patient.  He did this by writing the while command.  First, he typed 'while'.  Second, he typed 'true'.  Third, he ran the command until the user had entered input.  In this way, he psychiatrist prepared to help the patient by writing the while command.
 
 "]
