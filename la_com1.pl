@@ -1,4 +1,4 @@
-:-include('../listprologinterpreter/la_strings.pl').
+%*:-include('../listprologinterpreter/la_strings.pl').
 :-include('short_essay_helper3_agps.pl').
 %:-include('combophil/combophil_grammar_logic_to_alg.pl').
 %:-include('algwriter/grammar_logic_to_alg.pl').
@@ -8,11 +8,9 @@
 :-include('../listprologinterpreter/la_maths.pl').
 :-include('../Text-to-Breasonings/truncate.pl').
 
-:-include('../Text-to-Breasonings/texttobrall2_reading.pl').
+:-include('../Text-to-Breasonings/text_to_breasonings.pl').
 
-:-include('../Text-to-Breasonings/meditationnoreplace.pl').
-:-include('../Text-to-Breasonings/texttobrall2_reading.pl').
-
+%:-include('../Text-to-Breasonings/meditationnoreplace.pl').
 :-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl').
 
 :- use_module(library(date)).

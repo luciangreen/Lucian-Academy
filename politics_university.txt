@@ -1,62 +1,64 @@
-FileName2 = './gl2a.txt',
-FileName3 = 'gl2a.txt'.
-
-notrace.
-
-
-[1mtrue.[0m
-
-
-grammar_logic_to_alg1.
-
-
-[1,sentences]
-[*,"politics university ",a_alg([["propagation","university"]])]
-swipl -G100g -T20g -L2g
-['../listprolog'].
-leash(-all),visible(+all),protocol("gla_del.txt"),trace,interpret(off,[[n,function],[[["propagation","university"]]]],[[[n,function],[[v,a]],":-",[[[n,length],[[v,a],0,1]]]],[[n,function],[[v,a]],":-",[[[n,head],[[v,a],[v,d]]],[[n,equals1],[[v,d],[[v,e],[v,f]]]],[[n,reverse],[[v,a],[],[v,a1]]],[[n,head],[[v,a1],[v,d1]]],[[n,equals1],[[v,d1],[[v,e1],[v,f1]]]],[[n,function2],[[v,a],[v,f],[v,f1]]]]],[[n,reverse],[[],[v,l],[v,l]]],[[n,reverse],[[v,l],[v,m],[v,n]],":-",[[[n,head],[[v,l],[v,h]]],[[n,tail],[[v,l],[v,t]]],[[n,wrap],[[v,h],[v,h1]]],[[n,append],[[v,h1],[v,m],[v,o]]],[[n,reverse],[[v,t],[v,o],[v,n]]]]],[[n,function2],[[v,a],[v,b],[v,f]],":-",[[[n,member2],[[v,a],[v,d]]],[[n,equals1],[[v,d],[[v,b],[v,f]]]]]],[[n,function2],[[v,a],[v,b],[v,c]],":-",[[[n,member2],[[v,a],[v,d]]],[[n,equals1],[[v,d],[[v,b],[v,f]]]],[[n,function2],[[v,d],[v,f],[v,c]]]]],[[n,length],[[],[v,l],[v,l]]],[[n,length],[[v,l],[v,m1],[v,n]],":-",[[[n,not],[[[n,=],[[v,l],[]]]]],[[n,tail],[[v,l],[v,t]]],[[n,+],[[v,m1],1,[v,m2]]],[[n,length],[[v,t],[v,m2],[v,n]]]]]],[[]]),notrace,noprotocol.
-halt.
-swipl -G100g -T20g -L2g
-['../meditationnoreplace'].
-time((N is 3,
-M is 16000,
-texttobr2(N,"gla_del.txt",u,M),texttobr(N,"gla_del.txt",u,M))).
-['../texttobr2qb'].
-texttobr2(3).
-halt.
-[*,"politics university ",b_alg([["propagation","university"]])]
-
-
-swipl -G100g -T20g -L2g
-['../listprolog'].
-leash(-all),visible(+all),protocol("gla_del.txt"),trace,interpret(off,[[n,function],[[["propagation","university"]],[v,b]]],[[[n,function],[[v,a],[v,b]],":-",[[[n,tail],[[v,a],[v,b]]]]]],_),notrace,noprotocol.
-halt.
-swipl -G100g -T20g -L2g
-['../meditationnoreplace'].
-time((N is 3,
-M is 16000,
-texttobr2(N,"gla_del.txt",u,M),texttobr(N,"gla_del.txt",u,M))).
-['../texttobr2qb'].
-texttobr2(3).
-halt.
-[*,"politics university ",bb_alg([])]
-swipl -G100g -T20g -L2g
-['../listprolog'].
-leash(-all),visible(+all),protocol("gla_del.txt"),trace,interpret(off,[[n,function],[[]]],[[[n,function],[[v,a]],":-",[[[n,length],[[v,a],0,1]]]],[[n,function],[[v,a]],":-",[[[n,head],[[v,a],[v,d]]],[[n,equals1],[[v,d],[[v,e],[v,f]]]],[[n,reverse],[[v,a],[],[v,a1]]],[[n,head],[[v,a1],[v,d1]]],[[n,equals1],[[v,d1],[[v,e1],[v,f1]]]],[[n,function2],[[v,a],[v,f],[v,f1]]]]],[[n,reverse],[[],[v,l],[v,l]]],[[n,reverse],[[v,l],[v,m],[v,n]],":-",[[[n,head],[[v,l],[v,h]]],[[n,tail],[[v,l],[v,t]]],[[n,wrap],[[v,h],[v,h1]]],[[n,append],[[v,h1],[v,m],[v,o]]],[[n,reverse],[[v,t],[v,o],[v,n]]]]],[[n,function2],[[v,a],[v,b],[v,f]],":-",[[[n,member2],[[v,a],[v,d]]],[[n,equals1],[[v,d],[[v,b],[v,f]]]]]],[[n,function2],[[v,a],[v,b],[v,c]],":-",[[[n,member2],[[v,a],[v,d]]],[[n,equals1],[[v,d],[[v,b],[v,f]]]],[[n,function2],[[v,d],[v,f],[v,c]]]]],[[n,length],[[],[v,l],[v,l]]],[[n,length],[[v,l],[v,m1],[v,n]],":-",[[[n,not],[[[n,=],[[v,l],[]]]]],[[n,tail],[[v,l],[v,t]]],[[n,+],[[v,m1],1,[v,m2]]],[[n,length],[[v,t],[v,m2],[v,n]]]]]],[[]]),notrace,noprotocol.
-halt.
-swipl -G100g -T20g -L2g
-['../meditationnoreplace'].
-time((N is 3,
-M is 16000,
-texttobr2(N,"gla_del.txt",u,M),texttobr(N,"gla_del.txt",u,M))).
-['../texttobr2qb'].
-texttobr2(3).
-halt.
-[[*,"politics university ",a_alg([["politics","backlogged"],["backlogged","real"]]),b_alg([["politics","backlogged"],["backlogged","real"]],a),bb_alg([["backlogged","real"]])],[*,"politics university ",a_alg([["journeys","get"],["get","politics"]]),b_alg([["journeys","get"],["get","politics"]],a),bb_alg([["get","politics"]])],[*,"politics university ",a_alg([["interrelationships","university"]]),b_alg([["interrelationships","university"]],a),bb_alg([])],[*,"politics university ",a_alg([["thus","university"]]),b_alg([["thus","university"]],a),bb_alg([])],[*,"politics university ",a_alg([["university","trail"],["trail","clearing"]]),b_alg([["university","trail"],["trail","clearing"]],a),bb_alg([["trail","clearing"]])],[*,"politics university ",a_alg([["politics","bond"],["bond","monotonicities"],["monotonicities","joins"]]),b_alg([["politics","bond"],["bond","monotonicities"],["monotonicities","joins"]],a),bb_alg([["bond","monotonicities"],["monotonicities","joins"]])],[*,"politics university ",a_alg([["university","unravel"],["unravel","application"]]),b_alg([["university","unravel"],["unravel","application"]],a),bb_alg([["unravel","application"]])],[*,"politics university ",a_alg([["translating","deserved"],["deserved","politics"]]),b_alg([["translating","deserved"],["deserved","politics"]],a),bb_alg([["deserved","politics"]])],[*,"politics university ",a_alg([["providing","university"]]),b_alg([["providing","university"]],a),bb_alg([])],[*,"politics university ",a_alg([["texttobr","respects"],["respects","university"]]),b_alg([["texttobr","respects"],["respects","university"]],a),bb_alg([["respects","university"]])],[*,"politics university ",a_alg([["reap","politics"]]),b_alg([["reap","politics"]],a),bb_alg([])],[*,"politics university ",a_alg([["university","imperative"],["imperative","framework"]]),b_alg([["university","imperative"],["imperative","framework"]],a),bb_alg([["imperative","framework"]])],[*,"politics university ",a_alg([["rename","politics"]]),b_alg([["rename","politics"]],a),bb_alg([])],[*,"politics university ",a_alg([["university","gyrate"],["gyrate","splitintosent"]]),b_alg([["university","gyrate"],["gyrate","splitintosent"]],a),bb_alg([["gyrate","splitintosent"]])],[*,"politics university ",a_alg([["university","producing"],["producing","stuff"]]),b_alg([["university","producing"],["producing","stuff"]],a),bb_alg([["producing","stuff"]])],[*,"politics university ",a_alg([["university","goes"],["goes","virt"]]),b_alg([["university","goes"],["goes","virt"]],a),bb_alg([["goes","virt"]])],[*,"politics university ",a_alg([["journeys","ahead"],["ahead","politics"]]),b_alg([["journeys","ahead"],["ahead","politics"]],a),bb_alg([["ahead","politics"]])],[*,"politics university ",a_alg([["intergenre","politics"]]),b_alg([["intergenre","politics"]],a),bb_alg([])],[*,"politics university ",a_alg([["missions","university"]]),b_alg([["missions","university"]],a),bb_alg([])],[*,"politics university ",a_alg([["contraction","university"]]),b_alg([["contraction","university"]],a),bb_alg([])],[*,"politics university ",a_alg([["scraped","university"]]),b_alg([["scraped","university"]],a),bb_alg([])],[*,"politics university ",a_alg([["university","energy"],["energy","siccen"],["siccen","simulations"]]),b_alg([["university","energy"],["energy","siccen"],["siccen","simulations"]],a),bb_alg([["energy","siccen"],["siccen","simulations"]])],[*,"politics university ",a_alg([["infinitive","affluent"],["affluent","university"]]),b_alg([["infinitive","affluent"],["affluent","university"]],a),bb_alg([["affluent","university"]])],[*,"politics university ",a_alg([["brings","writenotification"],["writenotification","politics"]]),b_alg([["brings","writenotification"],["writenotification","politics"]],a),bb_alg([["writenotification","politics"]])],[*,"politics university ",a_alg([["intertextualise","clarification"],["clarification","politics"]]),b_alg([["intertextualise","clarification"],["clarification","politics"]],a),bb_alg([["clarification","politics"]])],[*,"politics university ",a_alg([["university","flowing"],["flowing","dealt"],["dealt","assets"]]),b_alg([["university","flowing"],["flowing","dealt"],["dealt","assets"]],a),bb_alg([["flowing","dealt"],["dealt","assets"]])],[*,"politics university ",a_alg([["university","ricocheting"],["ricocheting","making"]]),b_alg([["university","ricocheting"],["ricocheting","making"]],a),bb_alg([["ricocheting","making"]])],[*,"politics university ",a_alg([["university","carved"],["carved","workaround"],["workaround","stuff"]]),b_alg([["university","carved"],["carved","workaround"],["workaround","stuff"]],a),bb_alg([["carved","workaround"],["workaround","stuff"]])],[*,"politics university ",a_alg([["university","consequential"],["consequential","typical"],["typical","grams"]]),b_alg([["university","consequential"],["consequential","typical"],["typical","grams"]],a),bb_alg([["consequential","typical"],["typical","grams"]])]]
-[]
-[1mtrue.[0m
-
-
-noprotocol.
-
-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
