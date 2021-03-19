@@ -11,24 +11,34 @@
 %%use_module(library(pio)).
 
 :- use_module(library(date)).
-:- include('texttobr2qb').
-:- include('mindreadtestshared').
-:-include('la_strings.pl'). %**** change path on server
-:-include('la_strings_string.pl'). %**** change path on server
-:-include('la_maths.pl'). %**** change path on server
+:- include('../Text-to-Breasonings/text_to_breasonings.pl').
+:- include('../mindreader/mindreadtestshared').
+:-include('../listprologinterpreter/la_strings_string.pl'). %**** change path on server
+:-include('../listprologinterpreter/la_maths.pl'). %**** change path on server
 
 sectest_p:-
-		phrase_from_file_s(string(String00a), "a_tally.txt"),
-		string_codes(String02b,String00a),
-		atom_to_term(String02b,[N,_],[]),
+		phrase_from_file_s(string([N,_]), "a_tally.txt"),
+		%string_codes(String02b,String00a),
+		%atom_to_term(String00a,[N,_],[]),
 
 numbers(N,1,[],Ns),
 findall(_,(member(N1,Ns),
 
 	find_time1(H,M,S),
 	politeness(0,Threats1),
+	politeness(0,Threats2),
+	politeness(0,Threats3),
+	politeness(0,Threats4),
 	% no_death(0,Threats2), % medits for life
-	writeln([N1,H,M,S,Threats1,politeness])),_).%,Threats2,no_death]).
+	writeln([N1,H,M,S,Threats1,politeness]),
+	writeln([N1,H,M,S,Threats2,humour]),
+	writeln([N1,H,M,S,Threats3,connections]),
+	writeln([N1,H,M,S,Threats4,appearances])
+
+
+	
+	
+	),_).%,Threats2,no_death]).
 	
 find_time1(H,M,S) :-
 	find_time(H,M,S),!.
