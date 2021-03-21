@@ -1,7 +1,7 @@
 % ["Medicine","MEDICINE by Lucian Green Head of State Head Ache Prevention 1 of 4.txt",0,algorithms,"See also Hours Prayer."]
 
-:-include('../../listprologinterpreter/la_strings.pl').
-:-include('../../listprologinterpreter/la_strings_string.pl').
+:-include('../listprologinterpreter/la_strings.pl').
+:-include('../listprologinterpreter/la_strings_string.pl').
 
 % word_count(["file","file.txt"],Words).
 % Words = 69.
