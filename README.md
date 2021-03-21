@@ -11,7 +11,7 @@ Automates Lucian Academy with practise bots, submission and assignment handling.
 * la_com_marks.pl - helps mark assignments, used by la_com_submit.pl 
 * la_com_submit.pl - helps student submit assignments (on web)
 * la_com1.pl - submits and manages assignments of practise bots
-* luciansphilosophy.txt - most of Lucian's philosophy in one file
+* Folders - most of Lucian's philosophy
 * short_essay_helper3_agps.pl - version of essay helper to write essays, used by la_com1.pl
 * student_numbers.txt - data file for student data
 * wrap_sources.pl - adds reference data (i.e. Title) to files (named "Department by Lucian Green Title") from sources and places them in sources1, for use by essay helper.
@@ -79,7 +79,7 @@ In the above, only the first paragraph's tally is increased, after entering y an
 
 * Run daily to maintain bots.
 
-* Make sure Text-to-Breasonings/brdict1.txt has breasonings from luciansphilosophy.txt (see <a href="https://github.com/luciangreen/Text-to-Breasonings">instructions to run Text-to-Breasonings</a>).
+* Make sure Text-to-Breasonings/brdict1.txt has breasonings from the folders (see <a href="https://github.com/luciangreen/Text-to-Breasonings">instructions to run Text-to-Breasonings</a>).
 
 * Paste the contents of `combophil_grammar_logic_to_alg-vps.txt` into Terminal when in the Lucian-Academy folder.
 
