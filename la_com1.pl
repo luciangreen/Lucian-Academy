@@ -128,6 +128,8 @@ append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 	W is 50*4,texttobr2(u,u,Essay_0,u,false,false,false,false,false,false,W),
 	texttobr(u,u,Essay_0,u),
 	
+	working_directory(_, '../Lucian-Academy/'),
+
 	add_to_breasoning_log(["string",Essay_0]),
 	
 	/**
@@ -147,6 +149,8 @@ append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 		
 	Br is As*80,
 	grammar_logic_to_alg1(Essay_0,Br,GL_out1),
+
+	working_directory(_, '../Lucian-Academy/'),
 
 	add_to_detail_log(["string",GL_out1]),
 
