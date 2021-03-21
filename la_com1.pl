@@ -12,6 +12,7 @@
 
 %:-include('../Text-to-Breasonings/meditationnoreplace.pl').
 :-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl').
+:-include('breasoning_and_detail_log.pl').
 
 :- use_module(library(date)).
 
