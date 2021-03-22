@@ -6,7 +6,7 @@
 :-include('folders.pl').
 %:-include('sectest_p.pl').
 :-include('../listprologinterpreter/la_maths.pl').
-:-include('../Text-to-Breasonings/truncate.pl').
+%:-include('../Text-to-Breasonings/truncate_words_conserving_formatting.pl').
 
 :-include('../Text-to-Breasonings/text_to_breasonings.pl').
 
