@@ -117,7 +117,7 @@ See the first image asking for name, student number, course, essay topic and fil
 
 # la_com1
 
-* Generates and records completion of practise essays.  A coin is tossed for a new student to come, and for each old student to complete an assignment.  There is no breasoning involved.
+* Generates and records completion of practise essays.  A coin is tossed for a new student to come, and for each old student to complete an assignment.  There IS breasoning involved, so please see text to breasonings safety tips link above.
 
 * The number of possible students to choose from, 1000, may be edited in:
 ```
