@@ -9,6 +9,7 @@
 %:-include('../Text-to-Breasonings/truncate_words_conserving_formatting.pl').
 
 :-include('../Text-to-Breasonings/text_to_breasonings.pl').
+:-include('../Text-to-Breasonings/truncate.pl').
 
 %:-include('../Text-to-Breasonings/meditationnoreplace.pl').
 :-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl').
