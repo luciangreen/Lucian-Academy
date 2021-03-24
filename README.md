@@ -13,7 +13,7 @@ See <a href="https://github.com/luciangreen/Daily-Regimen">Daily Regimen</a> for
 * la_com_marks.pl - helps mark assignments, used by la_com_submit.pl 
 * la_com_submit.pl - helps student submit assignments (on web)
 * la_com1.pl - submits and manages assignments of practise bots
-* Folders - most of Lucian's philosophy
+* luciansphilosophy.txt - File to expand with Algorithm-Writer-with-Lists/grammar_logic_to_alg_random.pl (see <a href="https://github.com/luciangreen/Daily-Regimen">Daily Regimen</a>).
 * short_essay_helper3_agps.pl - version of essay helper to write essays, used by la_com1.pl
 * student_numbers.txt - data file for student data
 * wrap_sources.pl - adds reference data (i.e. Title) to files (named "Department by Lucian Green Title") from sources and places them in sources1, for use by essay helper.
