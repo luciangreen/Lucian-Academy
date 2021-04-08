@@ -26,6 +26,22 @@ Please read the following instructions on how to install the project on your com
 
 # Prerequisites
 
+* Please download and install SWI-Prolog for your machine at `https://www.swi-prolog.org/build/`.
+
+* You may need to install gawk using Homebrew.
+
+* Install <a href="https://github.com/soimort/translate-shell">Translation Shell</a> on Mac, etc.
+Change line in
+```
+culturaltranslationtool/ctt.pl
+concat_list(["../../../trans ",FromLang,":",ToLang," '",Input1,"'"],F),
+```
+to correct location of <a href="https://github.com/soimort/translate-shell">trans</a>.
+
+# 1. Install manually
+
+* Download:
+* <a href="https://github.com/luciangreen/Lucian-Academy">this repository</a>
 * <a href="https://github.com/luciangreen/listprologinterpreter">listprologinterpreter</a>
 * <a href="https://github.com/luciangreen/Languages">Languages</a>
 * <a href="https://github.com/luciangreen/culturaltranslationtool">Cultural Translation Tool</a>. Requires Translation Shell (you may need to install gawk using Homebrew. Install <a href="https://github.com/soimort/translate-shell">Translation Shell</a> on Mac, etc.
@@ -35,21 +51,24 @@ Change line in culturaltranslationtool/ctt.pl
 * <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings</a>.  (Caution: Before running texttobr, think of two radio buttons put on recordings, put through with prayer, nut and bolt, quantum box prayer 1, 1, 0.5 cm and 1, 1, 0.5 cm.  Follow instructions in <a href="https://github.com/luciangreen/Text-to-Breasonings/blob/master/Instructions_for_Using_texttobr(2).pl.txt">Instructions for Using texttobr(2)</a> when using texttobr, texttobr2 or mind reader to avoid medical problems).
 * <a href="https://github.com/luciangreen/mindreader">mindreader</a>
 
+# 2. Or Install from List Prolog Package Manager (LPPM)
 
-# Installation from List Prolog Package Manager (LPPM)
+* Download the <a href="https://github.com/luciangreen/List-Prolog-Package-Manager">LPPM Repository</a>:
 
-* Optionally, you can install from LPPM by installing <a href="https://www.swi-prolog.org/build/">SWI-Prolog</a> for your machine, downloading the <a href="https://github.com/luciangreen/List-Prolog-Package-Manager">LPPM Repository</a>,
 ```
 git clone https://github.com/luciangreen/List-Prolog-Package-Manager.git
 cd List-Prolog-Package-Manager
 swipl
+['lppm'].
+lppm_install("luciangreen","Lucian-Academy")
+halt
 ```
-loading LPPM with `['lppm'].` then installing the package by running `lppm_install("luciangreen","Lucian-Academy").`.
 
-# Installing
+# Running
 
-* Please download and install SWI-Prolog for your machine at https://www.swi-prolog.org/build/.
-
+* In Shell:
+`cd Lucian-Academy`
+`swipl`
 
 # combophil_alg_log
 
