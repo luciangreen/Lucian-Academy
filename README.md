@@ -6,8 +6,8 @@ See <a href="https://github.com/luciangreen/Daily-Regimen">Daily Regimen</a> for
 
 * combophil_alg_log.pl - helps record writing up to a number of algorithms per chapter file
 * combophil_alg_log.txt - data file for combophil_alg_log.pl
-* combophil_grammar_logic_to_alg-vps.txt - paste file into Terminal each to create, maintain bots
-* combophil_grammar_logic_to_alg.pl - used by combophil_grammar_logic_to_alg-vps.txt to create bots
+* la_com_bot_prep.txt - paste file into Terminal each to create, maintain bots
+* combophil_grammar_logic_to_alg.pl - used by la_com_bot_prep.txt to create bots
 * folders.pl - data file containing Lucian's philosophy files
 * grad_student_numbers.txt - data file containing graduated student data
 * la_com_marks.pl - helps mark assignments, used by la_com_submit.pl 
@@ -102,7 +102,7 @@ In the above, only the first paragraph's tally is increased, after entering y an
 
 * Make sure Text-to-Breasonings/brdict1.txt has breasonings from the folders (see <a href="https://github.com/luciangreen/Text-to-Breasonings">instructions to run Text-to-Breasonings</a>).
 
-* Paste the contents of `combophil_grammar_logic_to_alg-vps.txt` into Terminal when in the Lucian-Academy folder.
+* Paste the contents of `la_com_bot_prep.txt` into Terminal when in the Lucian-Academy folder.
 
 
 
