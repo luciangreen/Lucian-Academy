@@ -33,7 +33,7 @@ Please read the following instructions on how to install the project on your com
 * Install <a href="https://github.com/soimort/translate-shell">Translation Shell</a> on Mac, etc.
 Change line in
 ```
-culturaltranslationtool/ctt.pl
+culturaltranslationtool/ctt2.pl
 trans_location("../../../gawk/trans").
 ```
 to correct location of <a href="https://github.com/soimort/translate-shell">trans</a>.
@@ -45,8 +45,8 @@ to correct location of <a href="https://github.com/soimort/translate-shell">tran
 * <a href="https://github.com/luciangreen/listprologinterpreter">listprologinterpreter</a>
 * <a href="https://github.com/luciangreen/Languages">Languages</a>
 * <a href="https://github.com/luciangreen/culturaltranslationtool">Cultural Translation Tool</a>. Requires Translation Shell (you may need to install gawk using Homebrew. Install <a href="https://github.com/soimort/translate-shell">Translation Shell</a> on Mac, etc.
-Change line in culturaltranslationtool/ctt.pl
-`concat_list(["../../../trans ",FromLang,":",ToLang," '",Input1,"'"],F),` to correct location of <a href="https://github.com/soimort/translate-shell">trans</a>).
+Change line in culturaltranslationtool/ctt2.pl
+`trans_location("../../../gawk/trans").` to correct location of <a href="https://github.com/soimort/translate-shell">trans</a>).
 * <a href="https://github.com/luciangreen/Algorithm-Writer-with-Lists">Algorithm-Writer-with-Lists</a>
 * <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings</a>.  (Caution: Before running texttobr, think of two radio buttons put on recordings, put through with prayer, nut and bolt, quantum box prayer 1, 1, 0.5 cm and 1, 1, 0.5 cm.  Follow instructions in <a href="https://github.com/luciangreen/Text-to-Breasonings/blob/master/Instructions_for_Using_texttobr(2).pl.txt">Instructions for Using texttobr(2)</a> when using texttobr, texttobr2 or mind reader to avoid medical problems).
 * <a href="https://github.com/luciangreen/mindreader">mindreader</a>
