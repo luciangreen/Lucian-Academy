@@ -9,6 +9,7 @@
 %:-include('../Text-to-Breasonings/truncate_words_conserving_formatting.pl').
 
 :-include('../Text-to-Breasonings/text_to_breasonings.pl').
+:-include('../Text-to-Breasonings/meditatorsanddoctors.pl').
 %:-include('../Text-to-Breasonings/truncate.pl').
 
 %:-include('../Text-to-Breasonings/meditationnoreplace.pl').
@@ -23,7 +24,7 @@ get_curr_students(Curr_students),
 writeln("New students"),
 	
 	(true%toss_coin 
-	-> (new_student_number(Student_number), 
+	-> (new_student_number(First,Last,Student_number), 
 										get_time(TS_of_enrollment),stamp_date_time(TS_of_enrollment,date(Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,_Hour2,_Minute2,_Seconda,_A,_TZ,_False),local),
 
 
@@ -34,9 +35,9 @@ random_member([Course_type,Years_to_complete,Essays_left,As],[["short_course",1,
 	
 Year_of_completion is Year_of_enrollment+Years_to_complete,date_time_stamp(date(Year_of_completion,Month_of_enrollment,28,0,0,0,0,-,-),TS_of_completion),
 	
-	writeln(["bot","-",Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_enrollment,28,Course,Course_type,Years_to_complete,Essays_left,As]),
+	writeln([First,Last,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_enrollment,28,Course,Course_type,Years_to_complete,Essays_left,As]),
 	
-	append(Curr_students,[["bot","-",Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_enrollment,28,Course,Course_type,Years_to_complete,Essays_left,As]],Curr_students2),
+	append(Curr_students,[[First,Last,Student_number,TS_of_enrollment,Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,TS_of_completion,Year_of_completion,Month_of_enrollment,28,Course,Course_type,Years_to_complete,Essays_left,As]],Curr_students2),
 											
 	term_to_atom(Curr_students2,String02a_b),
 	string_atom(String02a_c,String02a_b),
@@ -185,8 +186,15 @@ append(Curr_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 	new_work(Curr_students1b,Curr_students_aa3,Curr_students_aa2,Grad_students_aa3,Grad_students_aa2).
 
 
-new_student_number(N) :-
-	random(X),N is ceiling(1000*X),!.
+new_student_number(First,Last,N) :-
+	meditators(M1),
+	meditators2(M2),
+	append(M1,M2,M3),
+	length(M3,L),
+	random(X),N is ceiling(L*X),
+	get_item_n(M3,N,[First,Last,_,_,_,_,_,_,_,_,_]),!.
+
+
 
 get_curr_students(String02a) :-
 		phrase_from_file_s(string(String00a), "student_numbers.txt"),
@@ -217,3 +225,5 @@ choose_texts(Texts1,Texts2,Text) :-
 
 toss_coin :-
 	random(X),X1 is ceiling(2*X), X1 is 2,!.
+
+	
