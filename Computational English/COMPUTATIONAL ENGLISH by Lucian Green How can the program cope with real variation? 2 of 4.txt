@@ -1,0 +1,25 @@
+["Green, L 2021, <i>How can the program cope with real variation? 2 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+How can the program cope with real variation? 2 of 4
+
+11.    I prepared to help the girl onto the tram stop.  I did this by writing that the feminine gender of the noun was given by the example, 'girl'.  First, I noted that the person was female.  Second, I noted that the person was young.  Third, I called her a girl.  In this way, I prepared to help the girl onto the tram stop by writing that the feminine gender of the noun was given by the example, 'girl'.
+
+12.   I prepared to write using the pencil.  I did this by writing that the neuter gender of the noun was given by the example, 'pen'.  First, I found the pen.  Second, I found its owner.  Third, I returned it to her.  In this way, I prepared to write using the pencil by writing that the neuter gender of the noun was given by the example, 'pen'.
+
+13.    I prepared to draw on the cardboard.  I did this by writing that the singular number of the noun was given by the example, 'one sheet of cardboard'.  First, I counted the sheet of cardboard.  Second, I prepared to count any others.  Third, I stopped when I had counted all the sheets of cardboard, in this case, one sheet of cardboard.  In this way, I prepared to draw on the cardboard by writing that the singular number of the noun was given by the example, 'one sheet of cardboard'.
+
+14.   I prepared to advance to the next piece.  I did this by writing that the dual number of the noun was given by the example, 'two horsemen'.  First, I counted the first horseman.  Second, I prepared to count any other horsemen.  Third, I stopped when I had counted two horsemen.  In this way, I prepared to advance to the next piece by writing that the dual number of the noun was given by the example, 'two horsemen'.
+
+15.   I prepared to infiltrate the army.  I did this by writing that the plural number of the noun was given by the example, 'the drones'.  First, I counted the first drone.  Second, I prepared to count any other drones.  Third, I stopped when I had counted multiple drones.  In this way, I prepared to infiltrate the army by writing that the plural number of the noun was given by the example, 'the drones'.
+
+16.   I prepared to list the man's actions.  I did this by writing that the nominative case of the noun was given by the example, 'The man (nominative) ate an olive'.  First, I saw the man sitting at the table.  Second, I inductively observed the man performing an action.  Third, I reported that the man ate an olive.  In this way, I prepared to list the man's actions by writing that the nominative case of the noun was given by the example, 'The man (nominative) ate an olive'.
+
+17.   I prepared to read a book.  I did this by writing that the vocative case of the noun was given by the example, 'Adam, take me home'.  First, I found Adam.  Second, I specified where my house was.  Third, I said, 'Adam, take me home'.  In this way, I prepared to read a book by writing that the vocative case of the noun was given by the example, 'Adam, take me home'.
+
+18.   I prepared to eat the tofu.  I did this by writing that the accusative case of the noun was given by the example, 'I ate the paella'.  First, I took the paella out of the oven.  Second, I forked an item from it.  Third, I ate the forked item.  In this way, I prepared to eat the tofu by writing that the accusative case of the noun was given by the example, 'I ate the paella'.
+
+19.    I prepared to observe Ranjit hand in his assignment.  I did this by writing that the instrumental case of the noun was given by the example, 'Ranjit writes with a pen'.  First, I found Ranjit.  Second, I observed him writing.  Third, I observed him writing with a pen.  In this way, I prepared to observe Ranjit hand in his assignment by writing that the instrumental case of the noun was given by the example, 'Ranjit writes with a pen'.
+
+20.  I prepared to encourage John to reply to Jenny's letter.  I did this by writing that the dative case of the noun was given by the example, 'Jenny wrote a letter to John'.  First, I introduced Jenny to John.  Second, I encouraged Jenny to write a letter to John.  Third, I timed my visit to John's house to coincide with when he received Jenny's letter.  In this way, I prepared to encourage John to reply to Jenny's letter by writing that the dative case of the noun was given by the example, 'Jenny wrote a letter to John'.
+
+"]
