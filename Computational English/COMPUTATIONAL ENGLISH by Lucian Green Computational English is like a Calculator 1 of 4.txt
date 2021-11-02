@@ -1,0 +1,31 @@
+["Green, L 2021, <i>Computational English is like a Calculator 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Computational English is like a Calculator 1 of 4
+
+
+
+1. Computational English's algorithms are like that of a Calculator.
+
+1a. Will Computational English be like a calculator, as in people should understand the theory before relying on it? Advantages: will allow focus on more material, as more data can be analysed (information would have to be presented in such a way as to allow reviewing in the best way possible). User will be able to program using Conglish's (Computational English) features (write essay, fill out grammar to recognise sentences with the same meaning, compressing the program e.g. 2 identical conclusions compressed to 1 conclusion, with reasons from both attached to it, action to take based on arriving at a conclusion e.g. return a telephone call, cook a meal, clean up or write a poem).
+
+1a.     I prepared to drink the milk.  I did this by eating bran.  First, I ate the bran.  Second, I ate the sultanas.  Third, I ate the dried apple pieces.  In this way, I prepared to drink the milk by eating bran.
+
+2.    I prepared to eat the apple.  I did this by drinking cherry juice.  First, I cut up the cherries with a knife.  Second, I cooked them.  Third, I strained their juice.  In this way, I prepared to eat the apple by drinking cherry juice.
+
+3.    I prepared to eat the strawberry.  I did this by loving you eating the shortcake.  First, I sifted- the flour, baking soda, two tablespoons of sugar, baking powder and salt.  Second, I added in 1.5 cup of low fat coconut milk.  Third, I cooked the mixture at 200 degrees Celsius.  In this way, I prepared to eat the strawberry by loving you eating the shortcake.
+
+4.    I prepared to eat the raspberry.  I did this by observing myself loving you eating the pancake. First, I blended the buckwheat into flour in a blender and whisk in rice flour, baking powder and cornstarch.  Second, I poured the almond milk, vanilla extract and maple syrup into the mixture, whisking it to remove lumps.  Third, I cooked this mixture.  In this way, I prepared to eat the raspberry by observing myself loving you eating the pancake.
+
+5.    I prepared to count the character in the narrative, 'I'.  I did this by pressing a button when I counted the character.  First, I started Ball Prolog by pressing one side of a see-saw, attached to a calculator button, rotating the see-saw around the fulcrum.  Second, I watched the apparatus lift a ball on the other side of the see-saw.  Third, I observed the apparatus cause the ball to drop through a hole at the fulcrum.  In this way, I prepared to count the character in the narrative, 'I' by pressing a button when I counted the character.
+
+6.    I prepared to write down the answer to the next exercise.  I did this by using a calculator (not relying on my mind) to eat enough apple slices.  First, I wrote down the number of apple slices I already had, 5.  Second, I wrote down the number of apple slices I needed,  Third, I used a calculator to add the the number of apple slices I already had, 5, to the number of apple slices I needed, 1, equaling 6.  In this way, I prepared to write down the answer to the next exercise by using a calculator (not relying on my mind) to eat enough apple slices.
+
+7.    I prepared to demonstrate subtraction using Ball Prolog.  I did this by inputting a ball into the Computational English Calculator seesaw and outputting another ball.  First, I dropped a ball onto one end of the seesaw.  Second, I watched that end of the seesaw dropped with the weight of this ball.  Third, I observed another ball roll from the far end of the seesaw through a hole next to the fulcrum.  In this way, I prepared to demonstrate subtraction using Ball Prolog by inputting a ball into the Computational English Calculator seesaw and outputting another ball.
+
+8.    I prepared to have another ice cream.  I did this by adding two numbers together using the 'Add' 3D Computational English Calculator page.  First, I observed it receiving a numbered ball input into its rows.  Second, I watched it receiving a numbered ball input into its column.  Third, I observed it output the result from a grid.  In this way, I prepared to have another ice cream by adding two numbers together using the 'Add' 3D Computational English Calculator page.
+
+9.    I prepared to append the sequence of balls to the list of sequences of balls.  I did this by appending two sequences of balls in Ball Prolog.  First, I released the first barrier, causing the sequence of balls representing the phrase 'I like being there with you on stage' to enter the tube.  Second, I released the second barrier, causing the sequence of balls representing the phrase 'I like being there with you on stage again' to enter the tube.  Third, I recorded the sequence of balls.  In this way, I prepared to append the sequence of balls to the list of sequences of balls by appending two sequences of balls in Ball Prolog.
+
+10.  I prepared to state that it was good that adding one to a number allowed me to calculate the amount of food necessary to satisfy my hunger.  I did this by verifying that Ball Prolog's output was correct given its input.  First, I entered the input ball into the apparatus.  Second, I observed the output ball be produced by the apparatus.  Third, I verified that the output correctly corresponded to the input.  In this way, I prepared to state that it was good that adding one to a number allowed me to calculate the amount of food necessary to satisfy my hunger by verifying that Ball Prolog's output was correct given its input.
+
+"]

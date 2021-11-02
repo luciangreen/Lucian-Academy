@@ -1,0 +1,97 @@
+["Green, L 2021, <i>Derivability 0 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Derivability 0 of 4
+
+
+
+1. The first technique can handle two directions between term or sentence and definition. This allows meaning to be worked out from context.
+
+1a. Interpolation
+
+The program can interpolate from definition to sentence (2 to 1), i.e. work out the sentence from a given set of definitions.
+
+1aa. Samantha ate the biscuits (initially unknown)
+
+2a. The biscuits were on the table before Samantha came into the room
+
+b. They weren't there after she left *
+
+c. It was after school, and time for a snack. *
+
+* assumed to be in same section as 2a, i.e. also referring to Samantha eating the biscuits.
+
+In the first technique, order is usually from 1 to 2, but there may be variables that have either any or values from a list.
+
+2. Extrapolation. Finding the definition from a sentence
+
+The program can also extrapolate from sentence to definition (1 to 2), i.e. given similar sentences can work out the definition.
+
+There are three cases so far, and may be more in the future.
+
+a. Synonyms
+
+Given:
+
+1ab. The purse was lost at lunchtime
+
+2. (initially unknown)
+
+a. The purse was left in on a seat.
+
+b. No one returned it.
+
+the program can calculate:
+
+1ac. The wallet was lost at lunchtime
+
+2. (initially unknown)
+
+a. The wallet was left in on a seat.
+
+b. No one returned it.
+
+b. Synogrammars (sentences with the same meaning)
+
+Given:
+
+1ad. We received the books we ordered.
+
+2. (initially unknown)
+
+a. We filled in the order form for the books
+
+b. We sent it in with the money.
+
+the program can calculate:
+
+1ae. The books we ordered arrived.
+
+2. (initially unknown)
+
+a. We filled in the order form for the books
+
+b. We sent it in with the money.
+
+c. Same base word
+
+Given:
+
+1af. We constructed the argument
+
+2. (initially unknown)
+
+a. Constructing is writing.
+
+b. We wrote the argument.
+
+the program can calculate:
+
+1ag. We deconstructed the argument
+
+2. (initially unknown)
+
+a. Constructing is writing.
+
+b. De-something is taking apart.
+
+c. We took apart the argument."]

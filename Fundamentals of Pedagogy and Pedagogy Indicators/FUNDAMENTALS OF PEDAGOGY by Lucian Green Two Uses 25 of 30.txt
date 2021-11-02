@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 25 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 25 of 30
+
+240.	DION: The subject shouldn't make future discoveries in the spaces (where the subject wrote positive arguments, which had spaces between items).
+
+241.	ALEXIS: The subject connected the arguments.
+
+242.	DION: The subject should walk on the path traversing the argument connecting the arguments.
+
+243.	ALEXIS: What is the meaning of deletefirst(Line1, Item, Line2, Line3) in line 27?
+
+244.	DION: Line 27 deletes an instance of Item in Line1.
+
+245.	ALEXIS: I prepared to go bonkers (remain sane). I did this by summarising the algorithm in three steps. First, I performed the action on the first item. Second, I prepared to perform the action another time on the next item. Third, I repeated this until I had performed the action on all the items in the file.
+
+246.	DION: The subject shouldn't state that the program is functional (where the subject summarised the algorithm in three steps, where a step is finding a short handle).
+
+247.	ALEXIS: The subject should state that the program is functional.
+
+248.	DION: Two uses is correct because of the functionalism of nature, which is correct because the subject should state that the program is functional.
+
+249.	ALEXIS: I prepared to write the algorithm as a hierarchy of predicates. I did this by writing the processes in the algorithm. First, I identified the process acting on the list. Second, I identified the process acting on the list of lists. Third, I identified the process acting on the list of lists of lists.
+"]

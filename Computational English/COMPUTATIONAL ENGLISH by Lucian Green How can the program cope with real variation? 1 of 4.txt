@@ -1,0 +1,29 @@
+["Green, L 2021, <i>How can the program cope with real variation? 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+How can the program cope with real variation? 1 of 4
+
+ it assumes these texts are based in logic or reason. Are they?
+
+Some features allow greater variation in Computational English, while the program is limited to rational principles. In theory it could detect contradictions and recognise abstract, metaphorical or other forms. Synonyms and synogrammars (grammars with the same meaning) substituted for words and phrases allow for a different form. Clauses in sentences can be substituted, allowing more variation. If two sentences are used where one would normally be used, the program can integrate them into a single sentence. There are rules for selecting sentences as evidence, like order and causality. I am writing a paper on variation in Computational English. I can let you know when it is available.
+
+1a.     I prepared to see the results of the top famous person.  I did this by writing that the desiderative part of the verb was given by the example, 'She wants to lead'.  First, I observed the lady standing there.  Second, I observed her observing the people who needed to be led.  Third, I observed her state that 'I want to lead (the people)'.  In this way, I prepared to see the results of the top famous person by writing that the desiderative part of the verb was given by the example, 'She wants to lead'.
+
+2.    I prepared to direct students to enroll in another subject.  I did this by writing that the intensive part of the verb was given by the example, 'The subject is full'.  First, I enrolled in the subject.  Second, I noticed that others prepared to enroll in the subject as well.  Third, I noticed that they repeated this until the subject was full.  In this way, I prepared to direct students to enroll in another subject by writing that the intensive part of the verb was given by the example, 'The subject is full'.
+
+3.     I prepared to address the chief of staff.  I did this by writing that the indicative part of the verb was given by the example, 'I am arriving'.  First, I walked along the hall.  Second, I turned to walk through the door of the destination.  Third, I declared, 'I am arriving'.  In this way, I prepared to address the chief of staff by writing that the indicative part of the verb was given by the example, 'I am arriving'.
+
+4.    I prepared to go skiing.  I did this by writing that the subjunctive part of the verb was given by the example, 'I would state'.  First, I read the list of cases.  Second, I verified that the current case was true.  Third, I stated that in this case, I would state that a certain action was required.  In this way, I prepared to go skiing by writing that the subjunctive part of the verb was given by the example, 'I would state'.
+
+5.    I prepared to go to the next level.  I did this by writing that the injunctive part of the verb was given by the example, 'My achievements shall I now proclaim'.  First, I listed my achievements.  Second, I found the correct time point.  Third, I announced them.  In this way, I prepared to go to the next level by writing that the injunctive part of the verb was given by the example, 'My achievements shall I now proclaim'.
+
+6.    I prepared to sail on the patrol boat.  I did this by writing that the pluperfect part of the verb was given by the example, 'We had come'.  First, I saw that we had come.  Second, I sighted the person it affected.  Third, I said that we had come.  In this way, I prepared to sail on the patrol boat by writing that the pluperfect part of the verb was given by the example, 'We had come'.
+
+7.    I prepared to smell the roses in life.  I did this by writing that the precative part of the verb was given by the example, 'Will you take care of me?'  First, I saw the carer.  Second, I noted that I needed to be taken care of.  Third, I asked him to take care of me.  In this way, I prepared to smell the roses in life by writing that the precative part of the verb was given by the example, 'Will you take care of me?'
+
+8.    I prepared to return home.  I did this by writing that the conditional part of the verb was given by the example, 'If I loved myself'.  First, I verified that I loved myself.  Second, I took myself to see a film.  Third, I wrote that I had taken myself to see a film in the case that I loved myself.  In this way, I prepared to return home by writing that the conditional part of the verb was given by the example, 'If I loved myself'.
+
+9.     I prepared to be protected by law.  I did this by writing that the gerundive part of the verb was given by the example, 'The man escaped by running'.  First, I noticed him running.  Second, I noticed he had escaped by running.  Third, I reported that he had escaped by running away to authorities.  In this way, I prepared to be protected by law by writing that the gerundive part of the verb was given by the example, 'The man escaped by running'.
+
+10.   I prepared to listen to the monologue.  I did this by writing that the masculine gender of the noun was given by the example, 'actor'.  First, I verified that the person was a theatre studies actor or actress.  Second, I verified that he was male.  Third, I described him as an actor.  In this way, I prepared to listen to the monologue by writing that the masculine gender of the noun was given by the example, 'actor'.
+
+"]
