@@ -1,0 +1,76 @@
+Immortality 7
+
+1. arg/3
+2. Arithmetic Comparison
+3. Arithmetic Evaluation
+4. asserta/1
+5. assertz/1
+6. atom/1
+7. atom_chars
+8. atom_codes/2
+9. atom_concat/3
+10. atomic/1
+11. atom_length/2
+12. Atom Processing
+13. bagof/3
+14. catch/3 and throw/1
+15. char_code/2
+16. char_conversion/2 and current_char_conversion/2
+17. clause/2
+18. Closing a stream: close/1 and close/2
+19. compound/1
+20. copy_term/2
+21. current_predicate/1
+22. current_prolog_flag/2
+23. current_input/1
+24. current_output/1
+25. Evaluable Functors
+26. findall/3
+27. Prolog Flags
+28. float/1
+29. flush_output/1, flush_output/0
+30. functor/3
+31. get_byte/2, get_byte/1
+32. get_char/2, get_char/1
+33. get_code/2, get_code/1
+34. halt/0 and halt/1
+35. Implementation defined hooks
+36. integer/1
+37. Input and Output
+38. Logic and Control
+39. nonvar/1
+40. (\+)/1 - not provable
+41. number/1
+42. number_chars/2
+43. number_codes/2
+44. once/1
+45. Opening a Stream: open/4
+46. op/3 and current_op/3
+47. Other arithmetic and Bitwise functors
+48. peek_byte/2, peek_byte/1
+49. peek_char/2, peek_char/1
+50. peek_code/2, peek_code/1
+51. put_byte/2, put_byte/1
+52. put_char/2, put_char/1, put_code/2, put_code/1, nl/0,nl/1
+53. Reading from Binary streams
+54. Character Input Output
+55. Reading from text streams
+56. read_term/2 read_term/3, read/1, read/2
+57. repeat/0
+58. retract/1
+59. set_input/1
+60. setof/3
+61. set_output/1
+62. set_stream_position/2
+63. stream_property/2
+64. at_end_of_stream/0,1
+65. Stream Selection and Control
+66. sub_atom/5
+67. Term Comparison
+68. Term Creation and Decomposition
+69. Term Input and Output
+70. Prolog Unification =/2
+71. unify_with_occurs_check/2
+72. (=../2) -- univ
+73. var/1
+74. Writing terms
