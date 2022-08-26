@@ -36,22 +36,23 @@ Immortality 7
 33. I taught string to list at the Academy, compensating for spaces. I got the next character from the file, returning -1 if it was the end of the file. I read the entire file using a grammar. I also converted the string from the file into a term. I processed this term using a Prolog algorithm.
 34. I could automatically run the algorithm with crontab -e. I halted the interpreter. I halted the interpreter when the algorithm had finished. I returned with exit status 0, signalling that the interpreter had completed the algorithm successfully. Exit status 1 signified a minor error.
 
-35. * Implementation defined hooks
-36. * integer/1
-37. * Input and Output
-38. * Logic and Control
-39. * nonvar/1
-40. * (\+)/1 - not provable
-41. * number/1
-42. * number_chars/2
-43. * number_codes/2
-44. * once/1
-45. * Opening a Stream: open/4
-46. * op/3 and current_op/3
-47. * Other arithmetic and Bitwise functors
-48. * peek_byte/2, peek_byte/1
-49. * peek_char/2, peek_char/1
-50. * peek_code/2, peek_code/1
+35. I wrote the algorithm writing helper.  I traced the data flow in the hooks defined in the implementation of Prolog. Then, I named the current file. Fourth, I reported the undefined variables. Finally, I said probable errors, such as numbers of items in terms not corresponding, failures from calling undefined predicates and lack of a base case.
+36. If there were no recurring variables, I converted recursion to findall. I generated the algorithm with a program finder with types.  If a number was an integer, I appended it in recursion.  The part of the algorithm that found the integer condition was CAW for numbers.  I named the predicate "collect integers".
+37. The last term in A=B, A=1, B=2 becomes 1=2, failing.  I determined the input and output of variables.  I defined all variables as a value when I defined them as a variable given that value.  The variable, e.g. _1 with the value _2 equalling the variable _3 with the value _4 caused _3 to equal _2.  Also, given A=B, B=1, the result was A=1, demonstrating that the interpreter propagated ground values before returning from the predicate.
+38. I stored and optionally used SLG tabling results on a server.  I controlled logic with not, once and repeat.  I ran useful algorithms multiple times.  I ran them with a set of data once.  The interpreter used SLG tabling to speed up repeated computations.
+39. I solved spelling errors, mistyped names and supported back-compatibility. I wrote a self-correcting algorithm that solved non-existent variables.  Also, it solved uninstantiated variables.  I changed the variable name from A to _1 for security.  The interpreter changed these back before being outputted.
+40. Logical terms are true or false, which "not" inverts.  I wrote that the variable was not a number.  So, it could be an atom, string, list or list with a pipe at the first level.  I determined that the item was not a list with a pipe at the first level but a list.  I counted the pipes at each level, e.g. foldr(append,[[a],[b,[c|d]]],[],A) where A = [a, b, [c|d]].
+41. I determined whether the number was an integer or a float.  If it was an integer, I left it as it was.  I truncated it to the integer closer to zero if it was a float.  If it was an atom, I converted it to a number.  If this returned false (meaning I couldn't convert it to a number), I repeated asking for input.
+42. I inserted cuts where necessary. I converted a number to characters using number_string(11,A),string_codes(A,C),findall(B,(member(B1,C),char_code(B,B1)),D).  The result was D = ['1', '1'].  I found likely bugs, such as breaks in chains of variables.  Also, I found likely bugs in base cases.
+43. I verified the number was from a certain system.  I converted a number to string codes.  I accomplished this with a number_string(11,A),string_codes(A,C).  This resulted in C = [49, 49].  I could also convert codes to a number using  string_codes(A,[49,49]),number_string(B,A), with the result B = 11.
+44. I always caught and solved errors and aborted to a level.  I ran statements (i.e. a) once.  The code "once(a)" had the same effect as b:-c. c:-a,!.  I could use once more than once in a predicate.  Other statements in the predicate could have more than one set of results, i.e., non-deterministic.
+45. I organised files' contents by group, including control over a compiled application's executable and data portions.  I opened a stream from the virtual file.  The file was an item in the data file for the user.  Also, I organised the file by folder and name.  I used a variable for operations on a current file.
+46. I wrote the font to the HTML page. I invented new font characters to be operators.  I also gave them a particular order of priority.  For example, I wrote a predicate that sorted items or combined a Prolog command with arithmetic.  There was an unusual xf or yf (postfix type) operator.
+47. I changed the functors ',' or sin.  I found the bit-wise complement of -1 with A is \(-1), resulting in A = 0.  The arithmetic functors such as the power of, sin and sqrt produced floats from integers or floats.  The bit-wise functors such as "bit-wise right shift" and "bit-wise and" produced integers from integers or floats. I couldn't change the functors ',' or sin.
+48. The algorithm was verified and assessed using tests.  At first, I peeked at the next byte in the stream. Then, I invented a custom programming language to stream data.  These were videos.  They explained my philosophy and how to teach and assess programming assignments.
+49. When the student saw me, I could give my thoughts.  I found the next character in the stream.  I checked the students were making progress on their assignments with version control.  The tests were simple enough to work when the program started working.  The high-quality thoughts were details (other algorithms), 250 per assignment for three subjects.
+50. I earned a high distinction.  I peeked at the code on the stream.  I scheduled writing the algorithms for my degree.  I planned to write the algorithms for my institution.  PhD and vocational assignments also had this requirement.
+
 51. * put_byte/2, put_byte/1
 52. * put_char/2, put_char/1, put_code/2, put_code/1, nl/0,nl/1
 53. * Reading from Binary streams
