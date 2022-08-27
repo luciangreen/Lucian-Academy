@@ -53,30 +53,24 @@ Immortality 7
 49. When the student saw me, I could give my thoughts.  I found the next character in the stream.  I checked the students were making progress on their assignments with version control.  The tests were simple enough to work when the program started working.  The high-quality thoughts were details (other algorithms), 250 per assignment for three subjects.
 50. I earned a high distinction.  I peeked at the code on the stream.  I scheduled writing the algorithms for my degree.  I planned to write the algorithms for my institution.  PhD and vocational assignments also had this requirement.
 
-51. * put_byte/2, put_byte/1
-52. * put_char/2, put_char/1, put_code/2, put_code/1, nl/0,nl/1
-53. * Reading from Binary streams
-54. * Character Input Output
-55. * Reading from text streams
-56. * read_term/2 read_term/3, read/1, read/2
-57. * repeat/0
-58. * retract/1
-59. * set_input/1
-60. * setof/3
-?- setof(A,(member(A,[1,2,3]),C=1),B).
-C = 1,
-B = [1, 2, 3].
-sorts unlike bagof:
-?- setof(A,(member(A,[1,1,3]),C=1),B).
-C = 1,
-B = [1, 3].
+51. I created a video explaining how to say what you are saying to be thought of to program.  I put a byte on the stream.  I remembered the idea that I aimed to program.  I listened to the concept of to program.  I worked out the idea to program.
+52. I explained the idea as a reference (what the command means).  At first, I put a character, code or new line on the stream.  I explained the command.  I explained the algorithm.  I explained the differences and connections between particular commands and algorithms.
+53. Thought, and sensory data, followed by movement, required the most considerable amount of data.  I did this by reading from the binary stream. First, I made a binary stream of bytes.  It could be video, music or robotic thought.  I also checked whether the robot's body movements required a stream.
+54. I avoided variable names describing variable values in the interpreter for security.  Leading to this, I wrote characters as input and output.  With this, I wrote the text interface for the algorithm.  I determined what the user wanted and needed.  I wrote the algorithm.  I wrote for the future and past and to have compatibility between algorithms.
+55. I converted the text from the speaker.  I did this by reading from text streams.  From this, I breasoned out text. Next, I wrote algorithms specified by the stream. Finally, I wrote an essay about a stream.
+56. I found the non-singletons.  I read terms from user input.  Given read_term(A,[variables(B)]) and input a:-b(C),d(E), the interpreter returned A =  (a:-b(_A), d(_B)), B = [_A, _B].  Given read_term(A,[variable_names(B)]) and a:-b(C),d(E), the interpreter returned A =  (a:-b(_A), d(_B)), B = ['C'=_A, 'E'=_B].  Given read_term(A,[singletons(B)]) and input a:-b(C),d(E),f(C), the interpreter returned A =  (a:-b(_A), d(_B), f(_A)), B = ['E'=_B].
+57. I used a key with enough digits to be secure.  Towards this, I repeated from "repeat" if there was a failure. Then, I cut to the first output. Then, I could generate a key.  If the key already existed, I could create another one.
+58. I added new clauses.  Separately, I retracted a predicate with a particular name and arity.  I could still detect the deleted clauses with the current predicate command.  I could replace clauses, all of which I had deleted. Finally, I could list and error check if I had deleted them.
+59. I opened files with phrase_from_file_s(string(String_dict2), "file.txt"), string_codes(String_dict1,String_dict2), atom_to_term(String_dict1,String_dict,_) and wrote to them with term_to_atom(String_dict,String_dict1),	(open_s("file.txt",write,Stream1),	write(Stream1,String_dict1),	close(Stream1)).  I set the input stream to a particular stream.  I could open a particular file.  I could open, access and close a file.  I could also write to files.
+60. Recursive "set of" collected values from recurring variables while sorting a list of items, and could skip appending to recurring variables if the clause failed.  Similarly to "find all", I found a sorted set of list and other items collected during find all.  For example, after entering setof(A,(member(A,[1,2,3]),C=1),B), the interpreter returned C = 1, B = [1, 2, 3]. Set of sorting unlike bag of, after entering setof(A,(member(A,[1,1,3]),C=1),B), the interpreter returned C = 1, B = [1, 3].  I wrote a custom predicate with the interpreter, recursive set of, which deleted duplicates by checking that items were not a member and appending items to a recurring variable.
+61. I checked whether the text was ethical.  I set the output to a specific stream.  I checked the spelling and outputted the correct spelling.  Similarly, I checked the grammar.  Also, I checked the mathematics.
+62. I edited the stream with markers.  I set the stream position.  I found the stream position using position.  I set the position to this.  I went to a particular position in playback.
+63. I found the stream property.  For example, I found the file name.  Or, I found the stream position. Then, I found the mode (read, write, or append).  There were many options, including the binary or text type of the stream.
+64. I found the end of the file.  For example, I determined whether the position was at the end of the stream.  Separately, another property was whether the program connected the stream with input.  An additional property was whether the algorithm joined the stream with output. Finally, I determined whether the stream had an alias and what it was.
+65. At the end of the stream, I could pass an error, create an "end of file" code or reset to "end of stream" at a position.  I selected and controlled the stream.  When I started the stream, I could determine whether it was a text (the default) or a binary stream.  I could also decide whether or not I could reposition the stream.  In addition, I could determine that an atom A is the alias of the stream.
+66. I also used atomic_list_concat(A,'.','a.b.c') to return A = [a, b, c]. I found the subatom of the atom.  For example, I entered sub_atom(abcdef,1,3,2,bcd).  In this, 1 was the length before, 3 was the subatom length, 2 was the length afterwards, and bcd is the subatom of abcdef given these parameters.  I could find anagrams (prefixes and suffixes of words).
 
-61. * set_output/1
-62. * set_stream_position/2
-63. * stream_property/2
-64. * at_end_of_stream/0,1
-65. * Stream Selection and Control
-66. * sub_atom/5
+
 67. * Term Comparison
 68. * Term Creation and Decomposition
 69. * Term Input and Output
