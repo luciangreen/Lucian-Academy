@@ -1,0 +1,6 @@
+Immortality 8
+
+1.  I found a bug in which code isn't in a separate predicate.  Unlike Immortality 7, paragraph 80, I found a single predicate with reused code from another predicate.  I moved the reused code into a new predicate with an appropriate head and called this predicate from the other two predicates.  I also identified "manual recursion", i.e. a single predicate with a fixed number of recursions, and changed it to multiple predicates.  Also, I determined that findall within the initial predicate could be moved to a new predicate with recursion if recurring variables were required.
+2.  I allowed the assumption when the student had understood it when interpreting the student's thoughts to help them write algorithms, an example of a big algorithm represented by an essay.  I found algorithms that were combinations of all ideas in an article.  As part of this, I found the best synthesis of the ideas. Next, I ordered the objects within objects. Finally, I wrote short stories connecting the ideas represented by the objects.
+
+
