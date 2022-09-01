@@ -37,3 +37,24 @@ Immortality 8
 32.  Once one algorithm had finished, the next was run, with opportunities to pause or recontinue at different points. First, I manually queued algorithms on parallel processors. Then, I connected computers to a server.  These computers downloaded files to process.  They uploaded the results.
 33.  The prediction thread ran in the background while another thread waited for input.  I ran commands while the user was inputting data, giving predictions.  The user entered the start of a sentence or algorithm.  The algorithm predicted and offered possible endings.  It used a program finder with types (which could find conditions such as pipes ("|") for wrapping in brackets, etc.), Combination Algorithm Writer (CAW) (which recognised indices, need for reused translators or paraphrasers) or a neural network.
 34.  I viewed the results of the algorithm.  I ran commands on the server while a web page presented live updates.  The results of the legs of threads affected the next leg of threads.  Threads were created or destroyed based on previous data.  A monitor displayed current and past threads and results.
+
+35. I found conditions in terms of variables with previous algorithms.  I wrote the whole interpreter with program finder.  I found the required algorithms with program finder.  I matched the mathematical specifications for the interpreter (e.g. a_i,...,a_n-><sorted, increasing list>) and matched them with mathematical specification from the required algorithms (sorted was described using an algorithm, and identified using run all when there were numbers that didn't fit another pattern).  I tested for conditions based on the small number of variables.
+36. * finds maths spec levels within data
+37. * finds as much as possible with pft
+38. * finds rest of code (unknown conn to code from maths spec) with nn
+39. * adds finished code found with nn to db x find with nn each time
+40. * check seemingly to simple code might be enough
+41. * aim to identify obsolete code (solved with lazy evaluation)
+42. * a1-n -> an-1 for reverse with pft
+43. * saves many pft algs
+44. * references saved algs with maths specs
+45. * combines algs in pft to find new algs eg reverse, string concat
+46. * adds to db, uses with maths specs
+47. * better search algs (quantum, 
+48. * neural, 
+49. * quantum neural)
+50. * find wanted algs eg using lists of lists as variable data
+51. * make undefined variables instead of empty values back compatible with non equals4 mode
+ 
+
+
