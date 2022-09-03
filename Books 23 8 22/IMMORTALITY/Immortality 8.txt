@@ -67,3 +67,23 @@ Immortality 8
 60.  I chose solutions that led to more creativity and simplicity. First, I checked whether the data was wrong.  I did this by finding the correct data and algorithm from the specification.  Then, I detected conflicts when it was wrong.  I resolved these conflicts.
 61.  I objected to undefined variables returning false positives.  I checked whether the data was too general.  I detected whether the type statements were too broad and could be made more specific.  I saw whether the algorithm was too general and had bugs.  I noticed whether the data was too wide for the type statements and whether the type statements could be made more general.
 62.  I could make computer courses available as open problems.  I sped up mind reading and tested for sentiment, the existence of thoughts and thought-conversations.  I used random mind reading (which was faster) by activating it using mind reading CAW, which spent longer asking a few people about the characters of the day.  I used mind reading to make psychological predictions about whether a user would make changes to code.  I wrote the most intelligent conclusions down and sped up writing code with my brain.
+
+63.  I could predict the change of order between lists of lists.  I started by changing the order of arguments from 123456789 to 321 654 987.  I did this by breaking 12345678 into 123, etc.  Then, I reversed 123 to 321.  I repeated this for the other lists.
+64.  I stored the operations in a single place.  I started by writing an induction algorithm in C.  First, I gave it 1,1 and 2.  It worked out that 1+1=2.  It could apply this rule to other data.
+65.  I could store trees as lists in arrays.  Storing these variables was part of writing an interpreter in C.  First, I parsed A=1+1.  Then, I calculated A=1+2=3.  I kept variables in an array.
+
+66. * I wrote a parser in C.
+67. * I added multiplication to the register state machine.
+68. * I added list processing to the register state machine.
+69. * I assigned lists to variables in the register state machine.
+70. * I added ceiling to the register state machine.
+71. * I added floor to the register state machine.
+72. * I added square root to the register state machine.
+73. * I added powers to the register state machine.
+74. * I added absolute number to the register state machine.
+75. * I found the member in the register state machine.
+76. * I deleted the item in the register state machine.
+77. * I appended the list item in the register state machine.
+78. * I found the sum in the register state machine.
+79. * I completed recursion with recursive findall.
+80. * I reordered arguments using properties of their item number, recursively.
