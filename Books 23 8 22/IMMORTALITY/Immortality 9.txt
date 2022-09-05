@@ -1,0 +1,19 @@
+Immortality 9
+
+1.  I removed unnecessary levels of calls.  I found a:-b.  b:-c.  c.  I simplified this to a:-c.  c.  Before this, I simplified predicates to check whether they were the same by translating them.  They could be in another programming language.  Or they could be in another spoken language.
+2.  I also removed unnecessary variables with the same surroundings.  I worked out and recorded removing the unnecessary variable from the state machine.  If the predicates were the same, I could delete the unnecessary variables.  They were names earlier in the predicate but were unused.  I only kept the only variables that I used.
+
+3. * I assimilated and named the same algorithms.
+4. * I recorded the history of induction.
+5. * I cognitively ordered the commands intuitively.
+6. * I ordered the predicates by output priority.
+7. * I used findall to keep one of a set of output in order.
+8. * I used dynamic argument ordering.
+9. * I used static XML argument ordering. alphabetical
+10. * I repeated induction techniques using neural networks.
+11. * I changed not(AvB) to not not(A), not(B).
+12. * I worked out and recorded removing the tautology from the state machine.
+13. * I ordered the predicates by usefulness.
+14. * I recorded the history of bots. preparation
+15. * I ordered the predicates by importance. if it broke a frontier
+16. * I found all test cases, rather than ran each one at a time.
