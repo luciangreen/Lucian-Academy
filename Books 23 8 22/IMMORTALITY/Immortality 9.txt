@@ -3,16 +3,17 @@ Immortality 9
 1.  I removed unnecessary levels of calls.  I found a:-b.  b:-c.  c.  I simplified this to a:-c.  c.  Before this, I simplified predicates to check whether they were the same by translating them.  They could be in another programming language.  Or they could be in another spoken language.
 2.  I also removed unnecessary variables with the same surroundings.  I worked out and recorded removing the unnecessary variable from the state machine.  If the predicates were the same, I could delete the unnecessary variables.  They were names earlier in the predicate but were unused.  I only kept the only variables that I used.
 
-3. * I assimilated and named the same algorithms.
-4. * I recorded the history of induction.
-5. * I cognitively ordered the commands intuitively.
-6. * I ordered the predicates by output priority.
-7. * I used findall to keep one of a set of output in order.
-8. * I used dynamic argument ordering.
-9. * I used static XML argument ordering. alphabetical
-10. * I repeated induction techniques using neural networks.
-11. * I changed not(AvB) to not not(A), not(B).
-12. * I worked out and recorded removing the tautology from the state machine.
+3.  I assimilated and named the same algorithms, using nomenclature such as breasoning.  I did this by finding syno-functional algorithms.  These algorithms could multiply.  They could also paraphrase.  Or, they could induct.
+4.  I discovered pedagogical thresholds.  Separately, I recorded the history of induction.  I did this by writing specifications for the scale of induction projects.  They got bigger.  I explained simulation algorithms from neural networks.
+5.  I cognitively ordered the commands intuitively.  I grouped the algorithms by function.  I mind-mapped functions within other parts, etc.  I found how algorithms fit inside others complexly.  Finally, I fitted general language to specific arguments.
+6.  I found better tools and conclusions with self, other and computational knowledge.  Before this, I ordered the predicates by output priority. Then, I questioned how vital the output was. Then, I asked whether algorithms would lead to different algorithms. Finally, I predicted the trajectory of the production with time.
+7.  I aimed for large and small to be thought of clearly.   I used findall to keep one of a set of outputs in order.  In this, the first level of predicates produced a set of production.  The second level of predicates created one of these sets using findall.  I prepared for 100% correctness.
+8.  I found the target and method of output. Third, I used dynamic argument ordering. Third, I reprogrammed the algorithm after splitting predicates into those with individual functions, which I could run one after another rather than complexly together. Fourth, I edited out superfluous arguments. Finally, I found the profession of writing.
+9.  I used static XML argument ordering.  I did this by ordering the arguments alphabetically.  I also ordered the arguments at compilation time.  Reordering the arguments helped cognitively.  I noted the reused predicates. 
+10.  I found a line of algorithms.  I repeated induction techniques using neural networks.  I split off other functions from predicates.  I over-split and then came back to needed combinations.  I kept the data and made simple models of more extended algorithms.
+11.  I favoured simplicity and expansion.  I changed not(A), not(B) to not(AvB).  Also, I changed them back.  And I changed not(A) v not(B) to not(A^B).  I changed it back.
+
+12. * I worked out and recorded removing the tautology from the state machine.  
 13. * I ordered the predicates by usefulness.
 14. * I recorded the history of bots. preparation
 15. * I ordered the predicates by importance. if it broke a frontier
