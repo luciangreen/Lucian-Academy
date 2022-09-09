@@ -34,3 +34,28 @@ Immortality 9
 31.  I used multithreading in Mind Reading Combination Algorithm Writer (MRCAW).  I did this by mind-reading mind-mapped parts at the same time.  I could also transfer mutexed globals between threads.  I considered a brain implant for better quality mind reading and writing of my algorithms. However, I ended up using neural networks.
 30.  I examined each part of the music composer algorithm to consider multithreading, for example, searches for chord progressions.  I used multithreading in Mind Reading Music Composer.  I found lyrics when I had determined the main characters in previous parts.  I found the starting notes of sections and found the melody and harmony at the same time.  I filled in instruments for different sections at the same time.
 32.  Detailed mind reading was better, and I tested multithreading for better results.  I used multithreading in Detailed Mind Reading in Essay Helper.  I worked on the exposition and critique simultaneously.  I worked on different paragraphs simultaneously, making sentences as used.  I worked on connections simultaneously, mind-reading topical sentences.
+
+33.  There was an Unsatisfactory Progress Committee to help students when they performed poorly.  I did this to support agreement and disagreement in the academy.  The student first agreed or disagreed with the essay topic.  They disagreed with causality.  They received a lower grade.
+34.  The fail was borderline if there were a few unsure disagreements in the first half.  I supported success and failure in the academy.  I explained the marking system to the student.  They read the text and decided whether to agree in the first half.  If they disagreed in the first half, they failed.
+35.  Business included conscious thoughts and solved problems.  It did this when supporting positive and negative terms in reasons.  As part of this, I identified possible negative or unusual positive thoughts.  Then, I protected people from them.  The thoughts prompted people's curiosity and thought.
+36.  I changed the test cases to Prolog. Next, I changed v to vsys in List Prolog to use the string "v" in data.  I did this by writing vsys in the settings file. Next, I read vsys each time I ran List Prolog. Finally, I converted Prolog into List Prolog with vsys identifying variables.
+37.  I used "n" in games in Prolog.  I changed n to nsys in List Prolog to use the string "n" in data.  I wrote nsys to identify the names of predicates.  The word "nsys" didn't appear in Prolog.  The Prolog to List Prolog converter inserted it.
+38.  I changed the converter to support definite clause grammars.  I changed -> to --> in Prolog.  The longer array denoted definite clause grammars.  Their name meant they always had a predicate body.  I reserved -> for if-then clauses.
+39.  When installing a language, I translated all the needed words at once to save the API quota.  I simplified language translation in List Prolog.  I detected whether there was a dictionary entry for the term.  If translating to long-form English, I changed underscores to spaces.  I only translated reserved words.
+40.  I ran one frame at a time in multithreading.  I called each "thread" part of the Prolog thread.  I ran one frame (like a trace line) per thread, where the C code was in a separate function.  I accounted for mutexes around predicates and globals, running predicates or accessing globals only if the user unlocked their mutex.  I simplified SSI to have two SSI predicates.
+41.  I controlled mutexes manually.  The algorithm contained a mutex wrapper.  With this wrapper, the algorithm couldn't run the same part of code with the mutex simultaneously in different threads.  The SSI state machine recorded the mutex number next to the code inside the mutex.  Mutexes behaved like the "once" command.  
+
+42. * I simulated sales in the academy.  
+43. * I marked the academy assignment.
+44. * I simplified the sentence.
+45. * I used text to algorithm to write a predicate about the key words in the sentence.
+46. * I wrote a sentence in terms of language from the other sentence.
+47. * I detected the student thinking about an argument.
+48. * I increased the student's argument.
+49. * I solved negativity to myself.
+50. * In the vocational education version, the negative content (in fact, food) was done automatically.
+51. * The difference between school and University was that University students' thoughts were mind-read.
+52. * There was a hybrid vocational education/University system.
+53. * Secondary schools had positive terms around a negative term.
+54. * I hand wrote and interpreted 80 algorithms for sales and assignments.
+55. * I wrote longer algorithm sequences for some assignments and sales.
