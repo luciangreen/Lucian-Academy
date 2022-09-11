@@ -63,4 +63,29 @@ Immortality 9
 equals4(A,B),equals4(B,C),equals4(C,1). A=1, B=1, C=1.  Also, I entered equals4([A,B],C),equals4(C,[1,1]), returning A=1, B=1, C=[1,1].  Also, I entered  equals4([A,A,B],[C,D,D]),equals4([E,E,B],[1,G,G]), returning A=1, B=1, C=1, D=1, E=1, G=1.  
 59.  I changed equals4 to "=".  I converted this "=" symbol from Prolog to List Prolog.  I removed equals4 as a command.  I also removed equals 2 and 3.  Separately, I reused code in the Philosophy algorithms lpi and lucianpl.
 
+60. I found our common interests. I found intersection(A,B,C) with no values.  I entered intersection([E,B,C],[B,C,D],A).  The interpreter returned E = B, B = C, A = [C, C, C].  Entering no values allowed faster computation.
+61.  In the intersection command, the result had the same number of items as the shorter input. Separately, I found union(A, B, C) without values. I entered union([A,B],[C,D],E).  The interpreter returned A = B, B = C, E = [C, D].  The interpreter merged undefined variables.
+62. I found maximum(A, B) without values. I entered maximum([A,B,C],D).  The interpreter returned E, where E>=F, F>=G. The maximum result without values could be in the bindings table. It was like co-routining (where dif(A, B) can be in the bindings table and returns true if not(A=B)).
+63. I found the maplist(predicate, List, Result) command without values. I entered foldr(p,[A,B,C],D).  The interpreter returned D=p(p(A,B),C).  I could store this result in the variable bindings table. Also foldr(p,[A,B,C],D,E) returned E=p(p(p(A,B),C),D).
+64. I computed the free proof. I found add(A,B,C) without values.  I entered sum(A,B,C).  The interpreter returned C is A+B. I stored this in the C variable, and the interpreter evaluated it when A and B were defined.
+65. I found findall([A1,A2...],(member_and_rules(...A1),member_and_rules(...A2)),B) without data.  I entered findall([A1,A2...],(member_and_rules([C1...CN],...A1),member_and_rules([D1...DM],...A2)),B).  The interpreter returned N*M... lists where N and M were the list input lengths, respectively. I stored a mathematical expression of the result for B. I found failures, such as odd numbers, mathematically.
+66. I wrote the database formula finder. I found subtract_set(A,B,C) without values.  I entered subtract_set([A1,A2,A3],B,C).  The interpreter returned A1 = A2, A2 = A3, B = [A3|_], C = [].  I stored what I wanted (the predicate name in the variables).  
+67. I found delete(A, B, C) without data. I entered delete([A,B],B,C).  The interpreter returned C = [A].  If I wanted an explicit result, I could enter delete([1,2],2,D), returning D = [1].  I also entered append([A],[B],C),delete(C,A,D), returning D = [B].
+68. I increased the assignment to be like research. There was always a new idea in this project. In the project, I kept track of the possibilities and perspectives. There could also be multiple perspectives. I helped the student to them.
+69. I generalised the free expression (I removed the brackets). Before this, I increased research to be like an assignment. I did this by working on the probable questions. Further, I compared the research with existing research. Finally, I changed the standard to achieve future possibilities.
+70. I corrected the reasoning in a private consultation. I did this by recalling the conversation thread. First, I added the ideas. The student then wrote them down. Next, I generated business (mathematical bindings) research. Finally, I wrote that the free binding equalled 1+1=2.
+71. I examined the literature about a topic. Then, I was free to make decisions about it. I could design it freely. I could also verify freely. In this way, I learned about one type of work.
+72. I examined simple and extended ideas. Separately, I recommended time travel to the meditator. First, I travelled from home to the centre. Then, I practised meditation. Finally, I neurospected (sic) writing to time travel.
+
+73. * I performed the Brunei sword dance.  
+74. * correct cut - compare behaviour of position of cut in vetusia with prolog
+75. * I time travelled to the time of the important academic
+76. * tail recusion optimisation - Cut In lp not sm form 
+77. * Find last commands
+78. * cut if no cp commands in pred or cut
+79. * Poss cut for rest
+80. * Check for recursive call or call of call etc
+81. * Brackets if needed around cut, recursive command 
+
+see screenshot of progress in gmail
 
