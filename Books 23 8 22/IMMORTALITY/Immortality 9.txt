@@ -77,15 +77,11 @@ equals4(A,B),equals4(B,C),equals4(C,1). A=1, B=1, C=1.  Also, I entered equals4(
 71. I examined the literature about a topic. Then, I was free to make decisions about it. I could design it freely. I could also verify freely. In this way, I learned about one type of work.
 72. I examined simple and extended ideas. Separately, I recommended time travel to the meditator. First, I travelled from home to the centre. Then, I practised meditation. Finally, I neurospected (sic) writing to time travel.
 
-73. * I performed the Brunei sword dance.  
-74. * correct cut - compare behaviour of position of cut in vetusia with prolog
-75. * I time travelled to the time of the important academic
-76. * tail recusion optimisation - Cut In lp not sm form 
-77. * Find last commands
-78. * cut if no cp commands in pred or cut
-79. * Poss cut for rest
-80. * Check for recursive call or call of call etc
-81. * Brackets if needed around cut, recursive command 
-
-see screenshot of progress in gmail
-
+73.  I categorised the tasks and worked on them.  I watched the Brunei sword dance.  I prepared the art.  I composed the music.  I synthesised the highlights of the philosophy.
+74.  I worked on the correct form of the cut command.  I compared the behaviour of various positions of cut in Vetusia with Prolog.  I found the different behaviour of the cut command at a particular place.  I found the reason for the behaviour.  I changed the algorithm to behave as I wanted.
+75.  I time travelled to the time of the important academic.  I thought of this by creating a box puppet theatre set in the times. First, I made puppets of me and the intellectual. Then, I created a script in which I asked the academic what his favourite implementation of Prolog was.  He answered, "List Prolog" because it was essential to start at the beginning.
+76.  I verified the definitions of cut and inserting cut when possible in optimisation.  As part of tail recursion optimisation, I added a cut command in List Prolog, not state machine form.  I experimented with adding the cut command in state machine form.  The advantage was locating the final command more easily.  In the case of member(A,[1,2,3]), !, I changed it to A=1.
+77.  In tail recursion optimisation, I found the last commands.  I did this by examining the algorithm in state machine form.  I started by finding the last commands in each predicate. Then, I inserted brackets around each of them. Finally, I inserted a cut command before them.
+78.  I didn't have to search through the algorithm; I found choice points in runtime with the interpreter to determine whether to insert the cut command.  In tail recursion optimisation, I inserted the cut command if there were no commands with choice points in the predicate (usually when it was the final clause) or if there was a cut so far.  I verified that there were no choice points with the current predicate number touching through a link.  If it was the final clause of a predicate, then there were no more recursive calls before the last command.  If there was a cut so far in the predicate, tail recursion optimisation already worked through the cut command.
+79.  I verified whether tail recursion optimisation sped up Vetusia. Otherwise, I tried adding a local stack or reusing globals. Then, I activated tail recursion optimisation with a possible cut for the rest of the predicate. First, I checked that there were no choice points just before the findall recursive call of the predicate (including other clauses).  If there were no choice points, then I inserted cut before the last recursive calls.  Cut removed unnecessary stack data, approaching the efficiency of a C for-loop.
+80.  I counted the calls to each predicate in each predicate.  Before adding a tail recursion optimisation cut, I checked for a recursive call or call of call.  The definition of a recursive call was a previously called predicate.  I could also check whether the call was to a predicate, and so on, that called a previously called predicate.  I could check for these calls in the state machine.
