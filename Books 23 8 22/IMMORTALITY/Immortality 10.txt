@@ -1,0 +1,24 @@
+Immortality 10
+
+1.  I couldn't add tail recursion optimisation if the recursive call were inside, for example, findall, where the cut command would have unwanted effects.  In tail recursion optimisation, I inserted brackets around the cut command and the recursive command, if needed.  I found each command that exited on status -2 (successfully exited) in the state machine.  I burrowed back until finding a recursive call, however many brackets it was inside.  I changed for example, recursive_call(A..B) to (!, recursive_call(A..B)).
+2.  I benefited from all parts of life.  I did this by stopping the effects of social isolation.  As part of this, I saw people.  I felt like myself.  I took part in social events.
+3.  I chose the most intelligent thoughts.  I had high distinctions for what appeared. First, I registered that the person had appeared.  I acknowledged them.  I gave the following high distinction in my specialisation to them.
+4.  I found that breasoning currency accounted for activity and receiving.  I wrote questions and answers (a mea culpa) for my performance about aphoria (thinking of ideas).  I wrote that an aphor was a use, an algorithm topic and three steps. First, I invented ideas about ideas. Then, I expanded the steps and found rhizomatic connections.
+5.  I worked out logical frames of objects.  I wrote questions and answers about breasonism (working out computational ideas), pointing at ontology or nothingness at the end.  I found the logical structure of thought and life. Study and life were in terms of algorithms.  I wrote enough and wrote systems that ported the most relevant ideas to a point.
+6.  I checked that immortality would help.  Later, I helped the main role helper.  First, I visited the office.  My work gave me the role. Then, I checked the attributes of the position.
+7.  I helped the female role helper.  She was friends with the leading role helper.  I wondered if she was a time traveller, but she was just friends with the former role helper.  I determined that time travellers might look like inhabitants.  I found out that she had gone home.
+8.  I enjoyed visiting the office and talking with the staff.  As part of this, I helped the dark-haired role helper.  First, my employer gave me the role. Then, she asked about my career. After that, I worked in the role.
+
+
+9. * I helped the main female role helper
+10. * I helped the role helper who was my age
+11. * I helped the new female role helper
+12. * I helped the former role helper
+13. * I helped the prospective architecture academic
+14. * I helped the city person with meditation
+15. * I helped the country person with meditation
+16. * secular technique has same result as meditation
+17. * 50 copywritten As for encyclopedia
+18. * 50 copywritten As for an article 
+
+see screenshot of progress in gmail
