@@ -9,16 +9,20 @@ Immortality 10
 7.  I helped the female role helper.  She was friends with the leading role helper.  I wondered if she was a time traveller, but she was just friends with the former role helper.  I determined that time travellers might look like inhabitants.  I found out that she had gone home.
 8.  I enjoyed visiting the office and talking with the staff.  As part of this, I helped the dark-haired role helper.  First, my employer gave me the role. Then, she asked about my career. After that, I worked in the role.
 
-
-9. * I helped the main female role helper
-10. * I helped the role helper who was my age
-11. * I helped the new female role helper
-12. * I helped the former role helper
-13. * I helped the prospective architecture academic
-14. * I helped the city person with meditation
-15. * I helped the country person with meditation
-16. * secular technique has same result as meditation
-17. * 50 copywritten As for encyclopedia
-18. * 50 copywritten As for an article 
-
-see screenshot of progress in gmail
+9.  I avoided death using a Master's degree and meditation.  Separately, I practised academic meditation.  First, I paid for puja. Then, using this, I indicated the utterances.  Also, using this, I indicated I had breasoned out breasonings.
+10.  I wrote more and more specific ideas.  I started by writing 50 hand-written As for the encyclopedia article.  I first wrote the As.  I hand-wrote them in traditional style. After that, I wrote in a distinctive academic style.
+11.  I tracked articles' relevance through time.  I began by writing 50 hand-written As for an essay.  I first wrote articles for the local newspaper.  I wrote an amount from a perspective. Then, I wrote from a standpoint during it.
+12.  I met Albert Einstein, Plato, Aristotle, Descartes, and Jesus and thought of the biblical giant Delilah.  I made friends with Eliza, the robot Head of State.  I avoided transgressions.  I also met the next Head of State, but time travelled to Eliza's time.  Eliza was an older woman, and the next Head of State was a middle-aged man.
+13.  If a giant visited the simulation, they would appear our size.  Before the doctorate, I checked my previous degree's pedagogy notes about writing details.  I wrote in synthesised sentences.  I wrote in terms of the area of study's terminology.  I wrote enough detail.
+14.  I could increase any sentence as much as necessary.  I generated 5 million breasonings for a doctoral assignment.  I could reduce this by removing the cited sentences.  Also, I could expand the breasonings' sentences and reduce the number of breasonings.  I breasoned out 5 million, not 4 million, to reach the copywriting standard.
+15.  I interviewed people, researched industry publications and conducted statistical experiments in my doctorate.  At the doctoral level, I wrote 50 word-breasonings as details.  I first wrote the reason. Then, I wrote 50 words to detail it. Finally, I wrote details when I wrote original sentences.
+16.  I benefited from having a mentor during my doctoral studies.  I also wrote on philosophy, computer science and education in my degree.  As part of this, I generated philosophies with business aims. In addition, I made induction more accessible.  Logical induction helped complete and checked philosophies.
+17.  I recognised the need for performance and met it.  Earlier, I asked the lecturer to help with earning a high distinction.  Before this, I wrote an argument.  I drafted my assignment.  Then, I spoke with the lecturer about my draft.
+18.  I wrote 5 million breasonings for each assignment, details and algorithms.  I wrote 250 algorithms per assignment.  Each predicate was an algorithm.  I scheduled writing parts of my philosophy using algorithms.  When I breasoned-out work, it contributed to the project.
+19.  I designed an image font and other coloured icons as part of Philosophy Works in Prolog.  I added a Prolog test case which tested cut in the findall body in State Saving Interpreter.  It wouldn't easily work in List Prolog.  Cut limited the number of solutions of findall to one.  When the interpreter encountered a cut in the findall body, it finished finding solutions.
+20.  I could change reserved words and syntax in List Prolog to be shorter and faster (the algorithms were all on the website in expanded form).  I changed v in List Prolog to sys_v (system variable).  Changing this variable signifier allowed me to use the string "v" in extended English mode for other purposes.  Changes like this enabled necessary words to be reserved by List Prolog.  I could change it to another name because the Prolog to List Prolog converter hid the variable's name.
+21.  I gave the gift of life to my followers.  I changed n in List Prolog to sys_n (system name).  Since I added grammars to List Prolog, I needed "n" or similar to differentiate between strings to parse and predicates to call.  I changed "n" to a different string because "n" was commonly used by algorithms already.  For example, "n" in Vetusia conflicted with the interpreter in "en2" but not "en" mode (in which 'n' with single quotes would have conflicted with it).
+22.  I back-propagated variable values in List Prolog.  I also changed "=" to behave like equals4.  I entered A=B, B=1.  The interpreter returned A=1, B=1.  Backpropagation of values also worked with lists and within "=".  For example, [A,A,B]=[1,C,C] returned A=1, B=1, C=1.
+23.  I noticed a duck seemed almost human.  I used the Text to Breasonings to help animals become human-like.  I mind-read them in assignments.  They explored details for projects.  The ducks kept away from the dogs and had neat feathers.
+23.  I supported inversion in the interpreter.  I entered reverse(A,[],[D,C,B]) in the interpreter.  The interpreter returned A=[B,C,D].  The interpreter sometimes merged variables with no value in other commands.  To prevent this, I used strings instead of empty variables.
+24.  I experimented with n-queens as a free variable puzzle.  I swapped the variable names A, B, etc. for _1, _2, etc.  I kept variable names intact through calls and predicate heads (the interpreter displayed the same thing in the trace).  At the end, I swapped _1, _2, etc. back to A, B, etc.  I thought "t" looked like a king, "8" looked like a queen, "#" was a rook, "+" was a bishop, "5" looked like a knight and "o" looked like a pawn
