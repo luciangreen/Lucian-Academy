@@ -25,4 +25,22 @@ Immortality 10
 22.  I back-propagated variable values in List Prolog.  I also changed "=" to behave like equals4.  I entered A=B, B=1.  The interpreter returned A=1, B=1.  Backpropagation of values also worked with lists and within "=".  For example, [A,A,B]=[1,C,C] returned A=1, B=1, C=1.
 23.  I noticed a duck seemed almost human.  I used the Text to Breasonings to help animals become human-like.  I mind-read them in assignments.  They explored details for projects.  The ducks kept away from the dogs and had neat feathers.
 23.  I supported inversion in the interpreter.  I entered reverse(A,[],[D,C,B]) in the interpreter.  The interpreter returned A=[B,C,D].  The interpreter sometimes merged variables with no value in other commands.  To prevent this, I used strings instead of empty variables.
-24.  I experimented with n-queens as a free variable puzzle.  I swapped the variable names A, B, etc. for _1, _2, etc.  I kept variable names intact through calls and predicate heads (the interpreter displayed the same thing in the trace).  At the end, I swapped _1, _2, etc. back to A, B, etc.  I thought "t" looked like a king, "8" looked like a queen, "#" was a rook, "+" was a bishop, "5" looked like a knight and "o" looked like a pawn
+24.  I experimented with n-queens as a free variable puzzle.  I swapped the variable names A, B, etc. for _1, _2, etc.  I kept variable names intact through calls and predicate heads (the interpreter displayed the same thing in the trace).  At the end, I swapped _1, _2, etc. back to A, B, etc.  I thought "t" looked like a king, "8" looked like a queen, "#" was a rook, "+" was a bishop, "4" looked like a knight and "i" looked like a pawn
+
+25. I monadalised from a hierarchy to a list. I started with [1,[2,[3]]].  I converted it to the list [1,2,3]. There might be two items starting at the same level, for example, [1,[2,3]]. In this case, the algorithm introduced state numbers (if it was an if-then clause), e.g. [[1-2],[1-3]].
+26. Functional optimisation called the same predicate with different arguments. I demonadalised from a list to a hierarchy. I used this technique to develop code from a state machine. First, I found the functional optimisation of the state machine. Then, I found the number in the string optimisation of the state machine.
+27. I generated all possible inputs to the website to test it. I did this by testing many characters. Then, I tested all characters from a set. Finally, I tested two users at the same time. After that, I tried to break in and make certain combinations of inputs by the users cause a crash, which I solved.
+28. I wrote data limitations in algorithm inputs to guide generated input. For example, I specified to enter a number from 1-10. Or, I wrote if a response was 1, then to go to a particular branch of the algorithm. I could also store my responses in variables. I could back-propagate variable values, given A=B, B=1, and check them.
+29. I suggested apps save progress as they go, with the ability to return to a previous progress point. I wrote a simple way to have multiple buttons in the Prolog web app. I replaced buttons with text fields with multiple-choice answers. I replaced multi-choice questions with "what" or content questions. I converted between multi-choice questions (for example, is A B or C?) and "what" questions (for example, what is A?) and provided hints.
+
+30. * there were test scripts that were guided by rules of data input following clicking a button.  
+31. * there were practise data generators with buttons
+32. * I could swap from text file to web view to view a certain page.
+33. * I generated instructions for filling in fields
+34. * I optimised the app if the same patterns with different instructions were asked for.
+35. * I generated the no-code app from a text file
+36. * I generated this text file using an algorithm
+37. * I could customise the app's number of levels items per level, and cycles.
+38. * I could convert asking for a number of answers to findall and edit it
+39. * I could edit the text file with an algorithm - expand, collapse
+40. * I could edit the text file with a graphical algorithm - flowchart - generates flowchart, can edit
