@@ -33,8 +33,8 @@ Immortality 10
 28. I wrote data limitations in algorithm inputs to guide generated input. For example, I specified to enter a number from 1-10. Or, I wrote if a response was 1, then to go to a particular branch of the algorithm. I could also store my responses in variables. I could back-propagate variable values, given A=B, B=1, and check them.
 29. I suggested apps save progress as they go, with the ability to return to a previous progress point. I wrote a simple way to have multiple buttons in the Prolog web app. I replaced buttons with text fields with multiple-choice answers. I replaced multi-choice questions with "what" or content questions. I converted between multi-choice questions (for example, is A B or C?) and "what" questions (for example, what is A?) and provided hints.
 
-30. * there were test scripts that were guided by rules of data input following clicking a button.  
-31. * there were practise data generators with buttons
+30. I asked for a paraphrased multi-choice answer (when writing a quiz). There were test scripts that were guided by rules of data input following clicking a button (answering a multi-choice question).  I wrote the rule that an answer needed a certain phrase in it.  The test script followed these rules.  For example, I changed the answer to lower case, removed punctuation and found the base words together in order of the required phrase.
+31. There were practise data generators with buttons (in fact, when answering a multi-choice question).  I wrote the possible answers.  I wrote any required phrase in an answer.  I wrote the question flow from particular answers, to help correct mistakes.  I consolidated with hints until the student answered correctly.
 32. * I could swap from text file to web view to view a certain page.
 33. * I generated instructions for filling in fields
 34. * I optimised the app if the same patterns with different instructions were asked for.
@@ -44,3 +44,78 @@ Immortality 10
 38. * I could convert asking for a number of answers to findall and edit it
 39. * I could edit the text file with an algorithm - expand, collapse
 40. * I could edit the text file with a graphical algorithm - flowchart - generates flowchart, can edit
+
+41. * 
+42. * 
+43. * 
+44. * 
+45. * 
+46. * 
+47. * 
+48. * 
+49. * 
+50. * 
+51. * 
+52. * 
+53. * 
+54. * 
+55. * 
+56. * 
+
+c2pl
+
+is -> =
+
+[A] in head -> in body, with equals4
+
+back to C:
+if-then
+- A->B;C -> a(A1),if A1 then ...
+
+equals4
+[A] -> "[A]"
+requires var table vars
+
+to if A and B in C
+
+to nested if thens in C
+
+from C -> keep / change back to a(A1),if A1 then ... -> A->B;C
+
+check if logical structure is already there so doesn't need to be inserted
+
+function returns value x they are *vars
+
+if then else fail function
+vs
+if then A else B
+convert differently
+
+a(In1,In2,Out1,Out2)
+- act like *vars
+
+A=1, A="string" in C
+
+test C vars act immutably
+
+output from whole alg has to be printed, etc.
+
+lp-like-c to and from lp converter
+- can run lp like c to test code with additional preds
+- lp in this sense means contracted code in lp
+- sometimes <a(A1,A2),if A1 and A2> won't contract to (A1,A2)->B;C leave the same because they might be too long
+- update vars etc
+
+question: are checkargs and update vars needed with *vars - no
+
+- need to add interp cmds to ssi, remove cps from ssi (convert findall to a pred), speed up slow interp (with optimisers or lg stacks)
+
+web, multithreading issue lists
+
+append pred for multiple modes
+
+--
+
+distribute lucianpl.pl in non like-c form, convert it twice on installation and run it
+
+- could run cp-less pl algs with this, but better to run them in ssi (lucianpl)
