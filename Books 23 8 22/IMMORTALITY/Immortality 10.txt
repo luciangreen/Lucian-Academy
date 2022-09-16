@@ -33,89 +33,57 @@ Immortality 10
 28. I wrote data limitations in algorithm inputs to guide generated input. For example, I specified to enter a number from 1-10. Or, I wrote if a response was 1, then to go to a particular branch of the algorithm. I could also store my responses in variables. I could back-propagate variable values, given A=B, B=1, and check them.
 29. I suggested apps save progress as they go, with the ability to return to a previous progress point. I wrote a simple way to have multiple buttons in the Prolog web app. I replaced buttons with text fields with multiple-choice answers. I replaced multi-choice questions with "what" or content questions. I converted between multi-choice questions (for example, is A B or C?) and "what" questions (for example, what is A?) and provided hints.
 
-30. I asked for a paraphrased multi-choice answer (when writing a quiz). There were test scripts that were guided by rules of data input following clicking a button (answering a multi-choice question).  I wrote the rule that an answer needed a certain phrase in it.  The test script followed these rules.  For example, I changed the answer to lower case, removed punctuation and found the base words together in order of the required phrase.
-31. There were practise data generators with buttons (in fact, when answering a multi-choice question).  I wrote the possible answers.  I wrote any required phrase in an answer.  I wrote the question flow from particular answers, to help correct mistakes.  I consolidated with hints until the student answered correctly.
-32. * I could swap from text file to web view to view a certain page.
-33. * I generated instructions for filling in fields
-34. * I optimised the app if the same patterns with different instructions were asked for.
-35. * I generated the no-code app from a text file
-36. * I generated this text file using an algorithm
-37. * I could customise the app's number of levels items per level, and cycles.
-38. * I could convert asking for a number of answers to findall and edit it
-39. * I could edit the text file with an algorithm - expand, collapse
-40. * I could edit the text file with a graphical algorithm - flowchart - generates flowchart, can edit
+30.  I asked for a paraphrased multi-choice answer (when writing a quiz).  There were test scripts where rules guided answering multi-choice questions.  I wrote the rule that an answer needed a particular phrase in it.  The test script followed these rules.  For example, I changed the answer to lowercase, removed punctuation and found the base words together in order of the required phrase.
+31.  There were practice data generators with multi-choice questions.  I wrote the possible answers. Next, I wrote a required phrase in each answer.  Then, I wrote the question flow from particular answers to help correct mistakes. Later, I consolidated with hints until the student answered correctly.
+32.  I could swap from text file to web view to view a specific page.  I developed the app in Prolog.  I ran it with SSI, running the non-deterministic app on different web pages ending with a read field.  While editing part of the code as a web page, I could run the app to a point to view it in the browser.  A text file contained the instructions so far to reach that point.
+33.  I asked for the client's name. Then, I generated instructions for filling in the fields.  To do this, I wrote the field name. Next, I wrote the pattern that the input needed to follow. Finally, I wrote an example of the input.
+34.  I could sort by a column and update values based on data chains.  I optimised the app if the app requested the same patterns with different instructions. For example, I noted that the app asked for a word or a number.  I called this code or instructed it to do this twice, with different instructions.  I could generate various reports online, which I analysed.
+35.  I could create, edit and delete parts of the database.  I did this to generate the no-code app from a text file.  I could view the data as strings or abbreviations.  I could create IDs for customers.  I could return errors if a record didn't exist.
+36.  I formatted the web page from a database selection and checked boxes or numbers.  Earlier, I generated the app-generating text file using an algorithm.  This algorithm asked for specific information.  It gave a certain number of hints to similar questions.  For example, it was a document library or question-answer database.
+37.  I could customise the database's background or the group email format.  Earlier, I could customise the app's number of levels, items per level, and cycles.  For example, I could specify an information retrieval system with various levels.  I could also store any number of items per level. Finally, I could also process the items and the pages using a recursive algorithm.
+38.  I tracked the data about the entities and merged the databases. Then, I could convert by asking for several answers to findall and edit it.  I did this by inputting the data.  Alternatively, I edited specific rows.  In the end, I tried automating the spreadsheet.
+39.  I used a database formula finder to write queries with the intersection, not, etc.  I could edit the text file with an algorithm and expand or collapse parts of the app flowchart.  I edited the access level of the column.  I gave the users certain levels of access.  I went into a movement of the app and expanded it.
+40.  I could edit the text file with a graphical algorithm.  I generated the flowchart from the text file.  I edited the flowchart.  I visualised the web pages on one page, given the model data. Finally, I error-checked the app, with pages of the app devoted to this.
+41.  I wrote an algorithm in Prolog, converted it to C, edited it, and then converted it back to Prolog.  As part of this, I wrote a converter from C to Prolog.  It conserved immutability (non-changing variable values).  It changed local and global variables.  It was a deterministic version of Prolog, which could run a compiler for non-determinism.
+42.  I converted Prolog expressions to C expressions.  I changed "is" to "=".  For example, I converted A is B+1 to A = B+1.  A verification algorithm produced an error on A=A+1 because A's value should not change.  Also, +(A, B, C) had another function in C, which the program converted to C=A+B.
+43.  I moved [A] in the Prolog head to the body.  I first wrote a([A]).  I converted this to a(B):-equals4("B","[A]").  I used a separate predicate for setting a string to a variable's value, for example, equals_string(C, "string").  I could also set an atom to a variable's value, using equals_atom(D, "atom").
+44.  I could store the number type, string or atom with equals4 and unify variables with numbers later using a variable table.  I wrote [A] in the body with equals4.  I converted "[A]" to a tree in an array.  The algorithm stored this tree as B=list(C), C=var(A).  This tree representation couldn't reduce to B=list(A) because C has to be grounded in a terminal.
+45.  I benefitted from the simplicity of Prolog and the speed of C.  I wrote the Prolog to C converter. First, I used SSI to process choice points in Prolog. Then, I ran SSI (which didn't process choice points using choice points in itself). Finally, I wrote a version of Prolog in C that only needed a list and command support to convert SSI.
+46.  I inserted variables to convert if-then statements from Prolog to C.  I rewrote the if-then statement (a(1)->B;C) in Prolog as a(a1);if(a1==1){B}else{C} in C.  Also, I rewrote ((a(1),b(1))->B;C) in Prolog as a(a1);b(b1);if(a1 == 1 && b1 == 1){B}else{C} in C.  Also, I rewrote ((a(1)->true;b(1))->B;C) in Prolog as a(a1);b(b1);if(a1 == 1 || b1 == 1){B}else{C} in C.  I also rewrote the if-then statement (not(a(1))->B;C) in Prolog as a(a1);if(!a1==1){B}else{C} in C.
 
-41. * 
-42. * 
-43. * 
-44. * 
-45. * 
-46. * 
-47. * 
-48. * 
-49. * 
-50. * 
-51. * 
-52. * 
-53. * 
-54. * 
-55. * 
-56. * 
-
-c2pl
-
-is -> =
-
-[A] in head -> in body, with equals4
-
-back to C:
-if-then
-- A->B;C -> a(A1),if A1 then ...
-
-equals4
-[A] -> "[A]"
-requires var table vars
-
-to if A and B in C
-
-to nested if thens in C
-
-from C -> keep / change back to a(A1),if A1 then ... -> A->B;C
-
-check if logical structure is already there so doesn't need to be inserted
-
-function returns value x they are *vars
-
-if then else fail function
-vs
+47. * equals4 [A] -> "[A]"
+48. * equals4 requires var table vars
+49. * Prolog to if A and B in C
+50. * Prolog anded statements to nested if thens in C
+51. * C to Prolog -> keep / change back to a(A1),if A1 then ... -> A->B;C
+52. * a(A1,Result) returns result=0 or 1 based on successful exit, which can be tested by if-then.
+53. * check if logical structure (for example, only converts if-then to Prolog if has else, otherwise leaves it as anded Prolog statements) is already there so doesn't need to be inserted
+54. * function returns value x they are *vars (vars include var table i/o and logical result of function)
+55. * if then else fail function vs
 if then A else B
 convert differently
-
-a(In1,In2,Out1,Out2)
-- act like *vars
-
-A=1, A="string" in C
-
-test C vars act immutably
-
-output from whole alg has to be printed, etc.
-
-lp-like-c to and from lp converter
-- can run lp like c to test code with additional preds
-- lp in this sense means contracted code in lp
-- sometimes <a(A1,A2),if A1 and A2> won't contract to (A1,A2)->B;C leave the same because they might be too long
-- update vars etc
-
-question: are checkargs and update vars needed with *vars - no
-
-- need to add interp cmds to ssi, remove cps from ssi (convert findall to a pred), speed up slow interp (with optimisers or lg stacks)
-
-web, multithreading issue lists
-
-append pred for multiple modes
-
---
-
-distribute lucianpl.pl in non like-c form, convert it twice on installation and run it
-
-- could run cp-less pl algs with this, but better to run them in ssi (lucianpl)
+56. * a(In1,In2,Out1,Out2) - act like *vars
+57. * Prolog A=1 in C
+58. * Prolog A="string" in C
+59. * test C vars act immutably
+60. * output from whole C alg has to be printed, etc.
+61. * test C alg in Prolog form
+62. * lp-like-c to lp converter
+63. * lp to lp-like-c converter
+64. * - can run lp like c to test code with additional preds
+65. * - lp in this sense means contracted code in lp
+66. * - sometimes <a(A1,A2),if A1 and A2> won't contract to (A1,A2)->B;C leave the same because they might be too long
+67. * - update vars etc unneeded in C - a new version of Prolog without lists in prolog head, no need for update vars etc at end of predicate
+68. * question: are checkargs and update vars needed with *vars - no
+69. * - need to add interp cmds to ssi
+70. * remove cps from ssi
+71. * remove cps from ssi (for example, convert findall to a pred)
+72. * run vetusia in ui mode to pinpoint slowness of interp (is it in a findall predicate or due to the stack size which could be alleviated with tail recursion optimisation)
+73. * speed up slow interp (with optimisers or lg stacks)
+74. * issue lists
+75. * web issue list
+76. * multithreading issue list
+77. * append pred for multiple modes (just append run in ssi)
+78. * distribute lucianpl.pl in non like-c pl form, convert it twice on installation and run it
+79. * first convert it to like-c pl, then to c
+80. * could run cp-less pl algs with this, but better to run them in ssi (lucianpl)
