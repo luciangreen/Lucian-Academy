@@ -51,22 +51,21 @@ Immortality 10
 45.  I benefitted from the simplicity of Prolog and the speed of C.  I wrote the Prolog to C converter. First, I used SSI to process choice points in Prolog. Then, I ran SSI (which didn't process choice points using choice points in itself). Finally, I wrote a version of Prolog in C that only needed a list and command support to convert SSI.
 46.  I inserted variables to convert if-then statements from Prolog to C.  I rewrote the if-then statement (a(1)->B;C) in Prolog as a(a1);if(a1==1){B}else{C} in C.  Also, I rewrote ((a(1),b(1))->B;C) in Prolog as a(a1);b(b1);if(a1 == 1 && b1 == 1){B}else{C} in C.  Also, I rewrote ((a(1)->true;b(1))->B;C) in Prolog as a(a1);b(b1);if(a1 == 1 || b1 == 1){B}else{C} in C.  I also rewrote the if-then statement (not(a(1))->B;C) in Prolog as a(a1);if(!a1==1){B}else{C} in C.
 
-47. * equals4 [A] -> "[A]"
-48. * equals4 requires var table vars
-49. * Prolog to if A and B in C
-50. * Prolog anded statements to nested if thens in C
-51. * C to Prolog -> keep / change back to a(A1),if A1 then ... -> A->B;C
-52. * a(A1,Result) returns result=0 or 1 based on successful exit, which can be tested by if-then.
-53. * check if logical structure (for example, only converts if-then to Prolog if has else, otherwise leaves it as anded Prolog statements) is already there so doesn't need to be inserted
-54. * function returns value x they are *vars (vars include var table i/o and logical result of function)
-55. * if then else fail function vs
-if then A else B
-convert differently
-56. * a(In1,In2,Out1,Out2) - act like *vars
-57. * Prolog A=1 in C
-58. * Prolog A="string" in C
-59. * test C vars act immutably
-60. * output from whole C alg has to be printed, etc.
+47.  Once the algorithm converted equals4 to C, it could use it to get and put values.  I wrote equals4([A],...) in Prolog as -> equals4("[A]",...).  I transformed [A] to "[A]".  I transformed it into an atom with the string to list predicate.  As an example, I entered string_to_list("[[\"a\"]]",A), giving A = [["a"]].
+48.  I could compile algorithms to use numbers instead of strings.  On a separate note, equals4 requires variables in a variable table.  I passed the variable table to equals4 and took the outputted variable table from it.  Expressions containing variables (for example, [v,_]) in List Prolog were not confused with strings, which the converter wrapped in \"...\".  I could directly set strings and atoms to variables with equals4("[v,a]","\"string\"") and equals4("[v,a]","'atom'") or equals4("[v,a]","atom"), respectively.
+49.  List Prolog types contained recursive types and lists.  I converted from ((a(1),b(1,1))->B;C) in Prolog as a(a1);b(b1,b2);if(a1 == 1 && (b1 == 1 && b2 == 1)){B}else{C} in C.  Or, I converted from ((a(1),(b(1)->true;c(1)))->B;C) in Prolog as a(a1);b(b1);c(c1);if(a1 == 1 && (b1 == 1 || c1 == 1)){B}else{C} in C.  I added types to C to enable the algorithm to convert C into Javascript.
+50.  I converted anded statements and clauses in Prolog to C.  I converted Prolog anded statements to nested if-then statements in C.    For example, a, b, c in Prolog was converted to if a then (if b then return 1, else return 0) else return 0.  There were no choice points, so this method accounted for failed predicates.  Also, clauses were joined together in a single function.   The converter renamed clauses, and a failed previous clause would lead to running the following clause.
+51.  I converted C to Prolog to optimise or edit if-then clauses.  When converting from C to Prolog, I kept or changed back a(A1), if A1, then to A->B; C.  Note: this is the reverse direction from the previous examples.  I could keep or change back to A->B; C.  I could also convert back from (b1 == 1 && b2 == 1) to b(1,1) or b1(1),b2(1) in Prolog.
+52.  The Result variable name needs to be different for each function.  A predicate call in Prolog may resemble a(A1, Result), which returns Result=0 or 1 based on whether it has successfully exited, which the calling predicate can test if-then.  If the interpreter successfully leaves a predicate, it must return Result=1.  The programmer should set Result=1 at the end of the predicate.  If a clause is successful, it returns Result=1, or if the predicate is unsuccessful, it returns Result=0.
+53.  I converted some if-then clauses in C to if-then clauses in Prolog.  I checked if the logical structure was already there, so the converter didn't need to insert it.  For example, the algorithm only converted an if-then clause to one in Prolog if it had a filled-in else clause.  Otherwise, it left it as anded Prolog statements.  For example, if(A){B}else{Result=0} is converted to A,B and if(A){B}else{C} is converted to A->B;C.
+54.  The C function doesn't return the result value.  Instead, the function sets Result to the logical result of the function.  In addition, it uses the variable table input and output variables, i.e. *vars_in and *vars_out.  These are local variables, treated as immutable, for conversion to Prolog.  I processed changes, additions, or deletions to the variable table in "put value" in equals4.
+55.  I converted if-then clauses in C to different logical structures in Prolog.  I described how if A then B else fail function versus if A then B else C converts from C to Prolog differently.  As illustrated, the if A, then B else fail function converts to A, B in Prolog.  Also, if A, then B else C function converts to A->B; C in Prolog.   The programmer may replace A, B or C with A1->B1; C1, etc.
+56.  I constructed the Prolog predicate to be in the form a(In1, In2, Out1, Out2).  These variables behaved like C *vars when converted to C.  I could take in1 as an input, and add to, change or delete part of it.  I could set the result to another variable or out1.  I could get the head or tail of a variable and copy or change an item.
+57.  The Prolog to C converter used type and mode statements.  I converted A=1 in Prolog to C.  The conversion was the same, A=1 in C.  I also discriminated between 1==1 and A (undefined)=1 (an assignment).  Finally, I traced each variable's type (defined or undefined) with type statements.
+58. I interchanged get_item_n(Array,Item_number,Item) and item=array[item_number].  I converted A="string" in Prolog to C.  In C, it was char a[] = "string";.  Before this, I initialised the variable char a[100];.  I couldn't overwrite the string and could process the string one character at a time, which I could convert from C to Prolog.
+59.  I tested that C variables behaved immutably.  Immutability meant that a variable's value couldn't be reassigned but could be read and operated on before assigning another value to another variable.  Before converting to C, I checked that the variables weren't assigned conflicting variables and that their modes didn't conflict.  When converting to C, once a programmer had created a variable, the programmer only compared it, so the verification algorithm didn't need to check it to be immutable.  I verified that C variables were immutable so that the algorithm could convert them to Prolog variables. 
+
+60. * The output from the whole C alg has to be printed, etc.
 61. * test C alg in Prolog form
 62. * lp-like-c to lp converter
 63. * lp to lp-like-c converter
