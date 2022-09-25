@@ -20,3 +20,5 @@ Use Grammarly Premium:
 14. I gained money and information technology resources to start a company.  I wrote a secure app in SSI.  The app couldn't be hacked through the web, i.e. it couldn't access others' information if it crashed.  Also, it couldn't be hacked as if a user had paid when they hadn't.  The user's path through the app was private and couldn't be tracked.
 15. I could ask a user to test algorithms by entering data and asking if there was other data it should process.  I tested the product with SSI.  I asked for feedback after each page or group of pages.  Sometimes, I asked for feedback after one idea on a page.  Occasionally, the users could customise elements of the algorithm (for example, skip a question if ...).
 16. I customised the product with SSI.  I could add retry to SSI.  Then, I could retry an oddly behaving predicate and change it.  SSI Web Service made the algorithm more accessible via the web, and allowed feedback that could change into a customisation (collapsing and expanding a trace view).   I viewed changed data in a customised app in a text file to test changes to the app.
+
+
