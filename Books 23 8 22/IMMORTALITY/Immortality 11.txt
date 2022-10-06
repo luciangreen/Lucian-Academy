@@ -77,19 +77,10 @@ Immortality 11
 71.  I prevented opening accounts for unsavoury prospects.  I did this by stopping illegal activity by monitoring user activity. First, I found the negative term. Then, I checked whether it was warranted.  If necessary, I gave a warning or suspended the account.
 72.  The data was locked to others until a user completed it or rolled it back (I undid it).  I did this as part of locking the database.  First, the client paid. Then, the system recorded this payment.  The database only registered the transaction if the user had paid it, and another user or session could not change it.
 73.  I only used the graph if necessary.  I explained the chart.  The type of graph was chosen, with advantages and disadvantages over other types of graph.  The vital information was at the top of the page.  There were blow-up details, lines to details or radial or visually appealing charts.
-74. *
-75. *
-76. *
-77. *
-78. *
-79. *
-80. *
-
-
-
-319. 2 10 22. 24 9 21.  I will write an algorithm.
-319. 2 10 22. 24 9 21.  I will write an algorithm.
-392. 2 10 22.  I will write an algorithm
-392. 2 10 22.  I will write an algorithm
-396. 2 10 22. 13 10 5689. I will write an algorithm.
-396. 2 10 22. 13 10 5689. I will write an algorithm.
+74.  I enabled sales, bots and education with 4*50 As.  I wrote As, not necessarily relying on neural networks in philosophy.  I wrote 50 As.  When I had written 4*50 As, this meant Bs, and sometimes algorithms were unnecessary.  I could sell and use the 4*50 As as a PhD text.
+75.  I wrote functionally decomposed sentences and their algorithms.  This stage was part of the long effort to finish the project.  I wrote an algorithm to simplify algorithms into algorithms with a single function.  I described this algorithm with a sentence.  I experimented with joining these algorithms together and then rewriting the sentence.
+76.  I paraphrased the algorithm.  Paraphrasing the algorithm was part of writing new As.  I did this by converting functionally decomposed algorithms and sentences into new knowledge.  Then, I rejoined them differently.  If a rejoined algorithm did the same thing and was more straightforward, I replaced another algorithm with it.
+77.  I paraphrased a certain number of words per sentence and simplified the grammar.  Then, I wrote new As with ontologies of sentences.  To do this, I found the category that contained the word in the sentence.  Then, I found another word in this category. Finally, I rewrote the sentence with the new term.
+78.  I paraphrased the algorithm.  I did this by writing the word.  Next, I noted its synonym.  In this way, I changed the word to this synonym.  I sometimes optimised by bringing forward values to equals statements.
+79.  I collected and reused the intermediate algorithms.  I paraphrased the algorithm connections.  The algorithm connection was between two algorithms, for example, two parts going well together.  It could be a more general version of another algorithm.  This algorithm dealt with any rather than a specific type.
+80.  Later, I wrote more algorithm connections using the same patterns.  The goal was to find links where there were none. Then, if an algorithm fitted, I used it.  Linking in this way generated more algorithms and inspired functional optimisation.  Functional optimisation reduced predicates to their functions and ran these one at a time.
