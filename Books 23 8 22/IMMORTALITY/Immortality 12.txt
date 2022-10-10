@@ -1,4 +1,3 @@
-
 Immortality 12
 
 1.  I found the best interpretation of a sentence as an algorithm for a particular use.  I worked out an algorithm from other sentences and an algorithm. For example, the first sentence had the first algorithm.  I worked out how the second sentence had the second algorithm from this relation.  For example, the first algorithm concatenated red strings and the second algorithm concatenated blue strings.
@@ -23,16 +22,15 @@ Immortality 12
 20.  I encouraged finding 100 algorithms between ideas, for example, in a PhD.  I wrote connections between the concepts.  I actively encouraged students to understand the algorithms.  The links helped students understand the inner workings of the algorithms.  I found including the algorithms made finding connections more effortless and contributed to student research.
 21.  I created and solved critical content as an exercise.  I reverted to critical content and helped with connective content as a player when the 5 As for details had run out.  I helped find the bug in an algorithm that connected two algorithms.  I found what the person wanted and gave it to them, as long as it was possible and reasonable.
 
-
-22. * 
-23. * 
-24. * 
-25. * 
-26. * 
-27. * 
-28. * 
-29. * 
-30. * 
+22. I worked for myself, writing necessary algorithms.  I wrote an algorithm that took care of everyone's thoughts.  I came to work.  I made a comment.  I followed up with an algorithm.
+23. I read the horoscope with prayers.  I chose algorithms to write using Jyotish.  Jyotish helped select auspicious work times.  I could tell when it was good to work on an algorithm.  I worked on algorithms, which didn't require other algorithms.
+24. The work was finished, but had updates for others.  An argument should be long enough for an essay.  The argument should be long enough for a 4000 word essay.  The argument should be long enough for a thesis.  Also, the argument should be long enough for detailed, longer and further work.
+25. I created tools to find unknown, often future-related knowledge.  I wrote thoughtful details about each thought.  I made priorities.  I made goals.  I stayed with my first priority.
+26. I redrafted the work by simplifying it, and checking the connections and critical content, for example problems and solutions.  I rewrote and nourished the text with understanding of the topic.  I wrote and described the algorithm.  I checked the output.  I also wanted good methods.
+27. I found the spiritual or computational algorithm and optimised it.  The spiritual algorithm was education.  Once I had completed it, I could forget it.  I refreshed it later.  The computational algorithm should be completed, then it was finished.
+28. I wrote illustrative prose and algorithms.  I wrote the algorithm.  I considered the line representing it in terms of life.  I thought of more science if necessary.  Science of reasoning was entered into an algorithm to check for missing parts, mistakes or a replacement.
+29. * alg that transforms words into words from the argument using mr for smoothing - to be done to sents 1,2 per para 
+30. * (rest of sents transformed to nothingness terms eg self, other 
 31. * 
 32. * 
 33. * 
@@ -84,11 +82,8 @@ Immortality 12
 79. * 
 80. * 
 
- - rest is daily producer act - 5 things done - use Jyotish (gl)
- - args should be long enough for an essay, not nec a 4000 word essay
- - don't do details (books are long enough) - simplify, check with conns (and bs x)
- - write alg that transforms s,c terms, inserts in text for smoothing, allows new s,c terms and replacements to be entered
- - alg that transforms words into words from the argument using mr for smoothing - to be done to sents 1,2 per para (rest of sents transformed to nothingness terms eg self, other x replace same words as sent 1,2 in rest with nothingness versions of words from arg) nothingness words are "point", to be hand replaced with "event" x start with "event"
+
+ - x replace same words as sent 1,2 in rest with nothingness versions of words from arg) nothingness words are "point", to be hand replaced with "event" x start with "event"
  - alg that find first relevant functional difference between sents (chooses a short phrase from each sent) with mr and conns them (with a fleshed-out eg x), then author rewrites orig sents
   - the sc and arg replacement sentences are written sent1 sent2 not word1 x word 2 x word3.
  - another alg that write 5*50 As of gl details per sent, conn - record of br n with date

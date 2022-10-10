@@ -192,7 +192,7 @@ new_student_number(First,Last,N) :-
 	append(M1,M2,M3),
 	length(M3,L),
 	random(X),N is ceiling(L*X),
-	get_item_n(M3,N,[First,Last,_,_,_,_,_,_,_,_,_]),!.
+	get_item_n(M3,N,[First,Last,_,_,_,_,_,_,_,_,_,_]),!.
 
 
 
