@@ -65,14 +65,15 @@ Immortality 12
 59. I sped up SSI-WS to work with multiple-page course sites. In my List Prolog and State Saving interpreters, I made the spelling of the string concat and member commands uniform. I kept "=", not "equals4" in the Prolog to List Prolog converter. I redrafted the converter's handling of lines, variable names and single command cuts. I fixed the bug with multiple calls to a function and cut in List Prolog Interpreter.
 60. I saved progress over different windows in SSI-WS, including saving progress if a window was closed. If a student made changes in one window, they could load these in another window. These windows had different session data. One needed to be aware that one session could overwrite another session's data. To prevent overwriting data, I checked that data wasn't going to overwrite other data in each session.
 
-61. * 
-62. * 
-63. * 
-64. * 
-65. * 
-66. * 
-67. * 
-68. * 
+61.  There was a single login for quizzes and student administration.  There was two-factor authentication using email.  SSI Web Service contained the whole website in a single algorithm, so students needed a single login for the entire site.  When students log in, they can visit any part of the site.  If the student wasn't logged in, they could see any public part of the site within SSI-WS and then log in.
+62.  I didn't need to log in with cookies if I was already logged in before a time limit.  I logged in and stayed logged in, in different windows.  I returned to the GET form method, allowing me to copy and paste URLs for specific pages.  The algorithm saved data by changing it on the server rather than in variables in the algorithm.  As long as the algorithm collected garbage after closing a predicate (speeding the algorithm up), the single SSI-WS algorithm made testing and a single login possible.
+63.  I redirected the user to the first page if they opened the landing page or sent them to the URL in the GET form method.  I wrote an AI word-guessing player.  It guessed from a list of words and recent words and detected cheating if either player used recent words.  Finally, I wrote a solid-block maze in Prolog in HTML, using Javascript for get_single_char.  It was a 3D maze, with different levels visible at the same time.
+64.  The person established a company to buy products, increasing quality with testing and allowing others to buy many products.  This company bought products to try.  It also recruited students from various places.  In addition, It organised scholarships for them.  It subsidised fees.
+65.  I kept writing, and solving spiritual science, for example, spiritual computers.  I wrote As with neural networks.  I wrote an algorithm to help me understand the creation of the algorithms and logic.  I sensed the urgency with a backlog of algorithms to write.  And students and staff needed As.
+66.  I used previous algorithms as helpers and wrote algorithms for institution assignments.  I took action and did work when I wanted.  I avoided stricture but came up with ideas about each thing.  I set up issues (to-do lists) for algorithms.  Also, I generated other possible algorithm specifications using different algorithms, solving problems myself.
+67.  Higher education was similar to VET, and I thought of more thoughts.  So I wrote an assignment to be vocational education and training (VET)-like assessment.  After writing 250 breasonings, the rest fell into place.  The helpers needed a seen-as version of trains moving thoughts into position before being thought, funnels and harmless interpretations of possibly radical ideas.  VET did all these for 250 breasonings.
+
+68. * Computer science assignments
 69. * 
 70. * 
 71. * 
@@ -81,23 +82,16 @@ Immortality 12
 74. * 
 75. * 
 76. * 
+
 77. * 
 78. * 
 79. * 
 80. * 
 
-- one login for quizzes, admin etc
-- stay logged in, log in
-- go back to first page if open at landing
 
-Pay for 2nd company to buy products 
-- As with nn
 
-() take action x do when want
 
-Vet like assessment 
 
-Computer science assignments
 - 10 algs, 80 phil br
 
 250 br in phil allows 100%
