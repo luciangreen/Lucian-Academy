@@ -44,7 +44,7 @@
 40.  I explained to look up my writing and algorithms.  My skills and knowledge came from writing enough on Pedagogy, Immortality, etc.  I meditated (wrote) about what to write about while living.  I thought of many topics to write on.  I also programmed creative topics or topics that were advanced topics for our times.
 41.  I examined and researched possible issues during meditation while I remained aware that I could complement meditation with improving science and technology in the future.  I decided to streamline people's meditation experience, particularly preventing headaches and psychological issues while transitioning to becoming immortal.  I learned that I could avoid headaches with meditation (writing).  Because immortality was positive, there was always a positive outcome.  I also learned that computation pedagogy (with word breasonings) was necessary for studying for a master's degree.
 42.  I overcame bullying and enjoyed life without overhanging negativity.  I thought people could benefit from immortality and being in the world.  I encouraged people to move from strength to strength, claim a lively place in the world and continue being successful.  The world offered well-knownness and enjoyment, and immortality lengthened and emphasised this.  Nothing was missing that was needed; I could explain everything by reason and science, and I remained present.
-43.  I chose radicalism in continental philosophy.  My unique selling proposition contained breasonings, a spiritual idea that I activated with 4*50 (word or sentence) As per chapter, and enabled immortality.  I not only wrote 4*50 sentence-type As per department but 4*50 word-type As per chapter.  Writing more per chapter required additional concentration and resulted in a cosmological achievement—additionally, 5*50 (word or sentence) As was the \"top\" and achieved the copywriting standard.
+43.  I chose radicalism in continental philosophy.  My unique selling proposition contained breasonings, a spiritual idea that I activated with 4*50 (word or sentence) As per chapter, and enabled immortality.  I not only wrote 4*50 sentence-type As per department but 4*50 word-type As per chapter.  Writing more per chapter required additional concentration and resulted in a cosmological achievement-additionally, 5*50 (word or sentence) As was the \"top\" and achieved the copywriting standard.
 44.  Computational breasonings require the lecturer (choosing, not having someone else decide what to breason out for you), recordings (replicating breasoning through other times and medically supporting computational breasoning), medicine and delegate possibly headache-causing workloads with spiritual medicine, philosophy and creative writing skills, among others.  I imagined that people could generate breasonings with or without computers and that philosophy students could memorise algorithms.  I preferred to create breasonings with a computer, automating writing high distinctions and opening up the possibility of future technologies being available in our time.  Not only were breasonings necessary for healthily conceiving a baby, but they made immortality and permanent good health available.  I regularly held Prolog-based fairs of my algorithms to demonstrate them.
 
 45. I created and checked ideas. I wrote an algorithm that verified that words in the key sentences were words from the argument. The argument contained words that linked to each sentence. The first and second sentences in the paragraph were the key sentences. I used mind-reading (similar to generative art) to make smoother choices of words to replace.
@@ -73,9 +73,9 @@
 66.  I used previous algorithms as helpers and wrote algorithms for institution assignments.  I took action and did work when I wanted.  I avoided stricture but came up with ideas about each thing.  I set up issues (to-do lists) for algorithms.  Also, I generated other possible algorithm specifications using different algorithms, solving problems myself.
 67.  Higher education was similar to VET, and I thought of more thoughts.  So I wrote an assignment to be vocational education and training (VET)-like assessment.  After writing 250 breasonings, the rest fell into place.  The helpers needed a seen-as version of trains moving thoughts into position before being thought, funnels and harmless interpretations of possibly radical ideas.  VET did all these for 250 breasonings.
 
-68. * I set the computer science assignment.  I wrote the philosophy.
-69. * 
-70. * 
+68. I wrote the contract with the company, different from a computer science student agreeing to do the work.  I set the computer science assignment.  I wrote the philosophy.  I explained shortness in terms of longness.  I arrived at the conclusion there is nothing else to a quantum conclusion, the top in our time.  
+69. I inspired other algorithms.  I wrote 10 algorithms and 80 philosophy breasonings to reach the proper logical standard.  I wondered whether it was the top in the future.  I then wondered what caused it to work, does the universe naturally form divine forms?  For example long arguments containing perfect ideas are divine.  
+70. * I breasoned out 250 breasonings in philosophy to earn 100%.  I wondered whether future science was further down the argument, with perfect programs.
 71. * 
 72. * 
 73. * 
@@ -92,9 +92,7 @@
 
 
 
-- 10 algs, 80 phil br
 
-250 br in phil allows 100%
 
 
 Rust garbage collection
@@ -178,3 +176,5 @@ find custs, etc. using intersection of mr, gl, jyotish, nn
 academy teaches with a series of algorithms stepped through on web
 
 - 20 tests per assignment"]
+
+ssi dev, to do in dropbox, gmail notes
