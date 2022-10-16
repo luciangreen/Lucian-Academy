@@ -1,0 +1,26 @@
+["Green, L 2021, <i>Bots 1</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Bots
+
+4*800-(16+80+80)/5=3165 sentence paragraphs
+3165/80=40 80s
+
+1. The bot transcribed the text.
+2. The bot was thanked for doing a good job.
+3. The bot wrote the scene.
+4. The bot measured the yield.
+5. The bot offered the bounty for help.
+6. The bot included instructions.
+7. The bot delivered the goods.
+8. The bot bought food.
+9. The bot cooked the food.
+10. The bot spiritually cared for the person.
+11. The bot discussed writing an algorithm with the person.
+12. I noticed how the algorithms developed, involving new methods.
+13. I noticed the new use of foldr, a customised predicate.
+14. I noticed commands to check types and modes.
+15. I could customise functional predicates by giving them new arguments.
+16. The new argument was reverse sort.
+17. I combined predicates in new ways.
+18. I wrote algorithms in this way.
+19. I wrote an interpreter in a few lines.
+20. I wrote an algorithm in a few lines.
+"]

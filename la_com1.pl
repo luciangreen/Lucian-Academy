@@ -27,8 +27,10 @@ writeln("New students"),
 	-> (new_student_number(First,Last,Student_number), 
 										get_time(TS_of_enrollment),stamp_date_time(TS_of_enrollment,date(Year_of_enrollment,Month_of_enrollment,Day_of_enrollment,_Hour2,_Minute2,_Seconda,_A,_TZ,_False),local),
 
+	directory_files("Books/",Courses1a),
+	delete_invisibles_etc(Courses1a,Courses1),
 
-folders(Courses1),
+%folders(Courses1),
 random_member(Course,Courses1),
 
 random_member([Course_type,Years_to_complete,Essays_left,As],[["short_course",1,5,1],["diploma",4,10,1],["honours",2,10,30],["master",5,20,100],["phd",10,30,400]]),
@@ -206,11 +208,21 @@ get_grad_students(String02a) :-
 		string_codes(String02b,String00a),
 		atom_to_term(String02b,String02a,[]).
 
-get_texts(Dept,Texts) :-
+get_texts(Courses1a,Texts) :-
+	directory_files("Books/",Courses1a),
+	delete_invisibles_etc(Courses1a,Courses1b),
+	findall(Courses1c,(member(Courses1d,Courses1b),
+	foldr(string_concat,["Books/",Courses1d],Courses1c)),
+	Dept),
+
 	string_concat(Dept,"/",Dept1),
 	directory_files(Dept1,F),
 	delete_invisibles_etc(F,G),
 	findall(String02b,(member(Filex1,G),
+
+	string_concat(A,_,Filex1),string_length(A,4),
+	not(A="dot-"),
+
 	string_concat(Dept1,Filex1,Filex),
 		phrase_from_file_s(string(String00a), Filex),
 		string_codes(String02b,String00a)),Texts1),
@@ -221,6 +233,7 @@ get_texts(Dept,Texts) :-
 		
 choose_texts(Texts1,Texts2,Text) :-
 	random_member(Text,Texts1),
+	
 	delete(Texts1,Text,Texts2).
 
 toss_coin :-
