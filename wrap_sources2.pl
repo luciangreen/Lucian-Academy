@@ -22,8 +22,12 @@ wrap_sources:-
 	concat_list(Filex321,Filex33),
 	string_concat(Filex4,".txt ",Filex33),
 		phrase_from_file_s(string(String00a), Filex),
-		string_codes(String02b,String00a),
-		
+		string_codes(String02c,String00a),
+
+	atomic_list_concat(B,"\"",String02c),
+	atomic_list_concat(B,"\\""",C),
+	atom_string(C,String02b),
+	
 	string_concat(A,_,Filex1),string_length(A,4),
 	(A="dot-" ->
 	

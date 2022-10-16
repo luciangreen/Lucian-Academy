@@ -13,11 +13,11 @@
 11. I bundled the items for sale.
 12. I sold the security features of SSI.
 13. Lucian Prolog has deidentified variable names.
-14. I "sold" pedagogy in time travel.
-15. I "sold" meditation in time travel.
+14. I \"sold\" pedagogy in time travel.
+15. I \"sold\" meditation in time travel.
 16. I checked that meditation worked.
 17. I checked the maximum jump length and time.
-18. I "bought" the field.
+18. I \"bought\" the field.
 19. I noticed the stasis field worked later.
 20. I calculated my biological age with Chinese herbs.
 21. I planned my writing.

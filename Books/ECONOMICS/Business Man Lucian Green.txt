@@ -9,7 +9,7 @@
 7. Sometimes, only famousness is the cut and makes the difference between an enticing business partner or not.
 8. Becoming business royalty means you can do business with royals. One should note that royals are influential, and you can also exert your considered and wise influence. In addition, royals have more resources and would like better ways of enjoying life, such as pedagogy and having help with it.
 9. Having fifty arguments for a business person can be used in a politics 50 As (because politics includes business).
-10. Politics of organisations, through the business person 50 As, allows doing a "blue square" for politics of an organisation, where politics keeps track of the internal politics of an organisation.
+10. Politics of organisations, through the business person 50 As, allows doing a \"blue square\" for politics of an organisation, where politics keeps track of the internal politics of an organisation.
 11. Politics of organisation through business person 50 As enables more money through a better understanding of an organisation.
 12. I converted myself to a business person with my business person A.
 13. I wore business clothes.
@@ -76,7 +76,7 @@ Deploying the Lucian bot
 
 Academic Specialisations
 
-71. "My way" was a professor specialisation on topics with ten breasonings on my topic.
+71. \"My way\" was a professor specialisation on topics with ten breasonings on my topic.
 72. I helped those who didn't specialise in a topic to have one.
 73. I tracked academic specialisations using a system like politics.
 74. The specialisation was a subset of a subject, e.g. the philosophy of Combination Algorithm Writer (specifically regarding a particular subject such as graphics and its data specifications).
