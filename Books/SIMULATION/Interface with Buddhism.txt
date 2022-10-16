@@ -21,7 +21,7 @@
 19. I noticed that people's thoughts were of better quality.
 20. Everything, i.e. being from a meditation University in the present, visiting a simulation in the future, was smoother with the help.
 21. I wondered whether the company was only present at certain moments in the centuries or if it remained there the whole time.
-22. I queried the end of civilisation and wondered if enough people were trying and if "forgetting a thought" could lead to rigorous computer science.
+22. I queried the end of civilisation and wondered if enough people were trying and if \"forgetting a thought\" could lead to rigorous computer science.
 23. I wondered whether the future civilisation would want the ancient texts and religions from before and whether its citizens might complement their advanced computing with the spiritual quantum science of the present.
 24. I quickly made it a priority to work on microcircuits, in fact, machine language.
 25. I thought that microcircuits would require knowledge of addition, memory and transistors.

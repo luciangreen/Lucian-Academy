@@ -209,11 +209,13 @@ get_grad_students(String02a) :-
 		atom_to_term(String02b,String02a,[]).
 
 get_texts(Courses1a,Texts) :-
-	directory_files("Books/",Courses1a),
-	delete_invisibles_etc(Courses1a,Courses1b),
-	findall(Courses1c,(member(Courses1d,Courses1b),
-	foldr(string_concat,["Books/",Courses1d],Courses1c)),
-	Dept),
+%trace,
+	foldr(string_concat,["Books/",Courses1a],Dept),
+	%directory_files(Courses1e,Courses1b),
+	%delete_invisibles_etc(Courses1b,Dept),
+	%findall(Courses1c,(member(Courses1d,Courses1a),
+	%foldr(string_concat,["Books/",Courses1d],Courses1c)),
+	%Dept),
 
 	string_concat(Dept,"/",Dept1),
 	directory_files(Dept1,F),
@@ -227,9 +229,15 @@ get_texts(Courses1a,Texts) :-
 		phrase_from_file_s(string(String00a), Filex),
 		string_codes(String02b,String00a)),Texts1),
 		choose_texts(Texts1,Texts2,Text_a),
-		choose_texts(Texts2,Texts3,Text_b),
-		choose_texts(Texts3,_Texts4,Text_c),
-		maplist(append,[[[Text_a,Text_b,Text_c]]],[Texts]).
+		(choose_texts(Texts2,Texts3,Text_b)->
+		(choose_texts(Texts3,_Texts4,Text_c)->true;
+		Text_c="");
+		(Text_b="",Text_c="")),
+		%trace,
+		findall(Text1,(member(Text1,[Text_a,Text_b,Text_c]),
+		not(Text1="")),Texts3),
+		%foldr(append,[
+		Texts=Texts3.%[Text_a,Text_b,Text_c]],Texts).
 		
 choose_texts(Texts1,Texts2,Text) :-
 	random_member(Text,Texts1),
