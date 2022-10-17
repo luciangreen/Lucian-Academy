@@ -75,9 +75,9 @@
 
 68. I wrote the contract with the company, different from a computer science student agreeing to do the work.  I set the computer science assignment.  I wrote the philosophy.  I explained shortness in terms of longness.  I arrived at the conclusion there is nothing else to a quantum conclusion, the top in our time.  
 69. I inspired other algorithms.  I wrote 10 algorithms and 80 philosophy breasonings to reach the proper logical standard.  I wondered whether it was the top in the future.  I then wondered what caused it to work, does the universe naturally form divine forms?  For example long arguments containing perfect ideas are divine.  
-70. * I breasoned out 250 breasonings in philosophy to earn 100%.  I wondered whether future science was further down the argument, with perfect programs.
-71. * 
-72. * 
+70. I breasoned out 250 breasonings in philosophy to earn 100% (like 100% correctness from deleting the record of a finished predicate or allowing the same predicate to be concurrently run).  There were 250 philosophy breasonings and 250 algorithms.  I prepared for each assignment in this way as a professor.  I wondered whether future science was further down the argument, with perfect programs.  I allowed the same predicate to be concurrently run.
+71. I worked on the algorithms instead of asking the future computer to work on them to aid my understanding.  I collected garbage by deleting finished predicates.  I recorded the state of variables after finishing the predicate.  I deleted the record if there were no choice points in it.  I asked, what more developed time travel is available?
+72. * I replaced \"n\" and \"v\" in List Prolog with \"&\" and \"^\", respectively.  I considered \"predicate name\" and \"variable name\", or \"system name\" and \"system variable\", but these would take too long to type.  I could change them to \"predicate name\" and \"variable name\" later because the code would  be written in Prolog, not List Prolog at first and the longer names would only be visible to the interpreter, not the user.  I converted any instances of \"predicate name\" and \"variable name\" to Prolog, not List Prolog if they were visible to the user.
 73. * 
 74. * 
 75. * 
@@ -95,86 +95,7 @@
 
 
 
-Rust garbage collection
-- delete finished preds 
-
-replace n, v
 
 
-lcms
+"]
 
-profile/multidim forum
-- with vision impaired browser
-
-verify/submit
-
-messages
-
-resources
-
-essay submission
-- similarity checking
-
-based on vision impaired browser
-
-aria tags
-
-html sections
-- lfl
-
-instead of video, presentations - typing lectures as chat
-
-test with ssi (not web) with a text file
-- prints input when text file name is entered as an argument
-
-
-run businesses with educ masters
-- 5*50 gl As per product, 250 br per line of text or shape
-- As to do them are from t2b
-- educ products need accred from la com (cpd xxx) (uni x)
-- structure so can be self-managed x automated
-- enough As takes care of separate pitch As needed
-
-like a dba:
-
-business mentoring
-ads
-accred (50 5*50s at start)
-sales
-bots
-music
-mix, master
-copywriting
-programming
-essays
-finance
-education
-- theatre, music, film jobs
-- business
-- education
-- etc. (meditation, medicine, computational english, popology, societology, mathematics, immortality)
-- computer science (paraphraser, gl, t2b, eh, interp, compiler, caw, pf, font, etc.)
-make websites
-- neural networks: data science in different areas
-apps for above
-music sales to companies with mr, repet of right genre
-advertise the above, go on other sites
-font
-
-after making money, invest in others
-
-
-alg that br 5 million gl br from a file
-- tries n*gl with 10*400 words duplicated from a file
-- a file with the lines to increase, and a file with the lines increased
-
-find custs, etc. using intersection of mr, gl, jyotish, nn
-
-5*50 As for vedic astrology
-4*50 As for each sentence for publishing
-
-academy teaches with a series of algorithms stepped through on web
-
-- 20 tests per assignment"]
-
-ssi dev, to do in dropbox, gmail notes
