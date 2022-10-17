@@ -223,7 +223,7 @@ get_texts(Courses1a,Texts) :-
 	findall(String02b,(member(Filex1,G),
 
 	string_concat(A,_,Filex1),string_length(A,4),
-	not(A="dot-"),
+	not(A="dot-"),!,
 
 	string_concat(Dept1,Filex1,Filex),
 		phrase_from_file_s(string(String00a), Filex),
