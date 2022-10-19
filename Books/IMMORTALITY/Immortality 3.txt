@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortality 3</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortality 3
+["Green, L 2022, <i>Immortality 3</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 3
 
 1. I tested the compiler before writing about it in many applications.  I did this by researching the lucianpl compiler.  I started by examining performance comparisons.  Then, I studied feature comparisons.  Finally, I looked at stability and security.
 2. I examined machine learning output about Prolog and philosophy.  I researched nondeterminism in lucianpl.  I established a flag with the number of nondeterministic results to return.  I returned this number of results on specific modes of append, member and string concat.  I examined cyclical and acyclical data structures, including multiple equal signs. 

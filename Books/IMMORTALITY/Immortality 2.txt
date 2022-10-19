@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortality 2</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortality 2
+["Green, L 2022, <i>Immortality 2</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 2
 
 1.  I asked how much the students liked the algorithm or how easy they thought it was.  I asked the students if they knew the algorithm. Third, I asked them how many times they had used it. Finally, I asked them if they could work it out for themselves.  I timed them doing this without cheating.
 2.  I gave the lowest (winning) score for the best-performing code.  To do this, I assessed the students in a programming competition.  In this way, I timed them, finding patterns in the input and output.  I also timed them in simplifying the code.  I gave the best score for the fastest, not most straightforward code.

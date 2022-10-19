@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Bots 1</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Bots
+["Green, L 2022, <i>Bots 1</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Bots
 
 4*800-(16+80+80)/5=3165 sentence paragraphs
 3165/80=40 80s

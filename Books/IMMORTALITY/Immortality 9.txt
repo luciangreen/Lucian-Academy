@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortality 9</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortality 9
+["Green, L 2022, <i>Immortality 9</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 9
 
 1.  I removed unnecessary levels of calls.  I found a:-b.  b:-c.  c.  I simplified this to a:-c.  c.  Before this, I simplified predicates to check whether they were the same by translating them.  They could be in another programming language.  Or they could be in another spoken language.
 2.  I also removed unnecessary variables with the same surroundings.  I worked out and recorded removing the unnecessary variable from the state machine.  If the predicates were the same, I could delete the unnecessary variables.  They were names earlier in the predicate but were unused.  I only kept the only variables that I used.

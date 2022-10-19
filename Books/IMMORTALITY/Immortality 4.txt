@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortality 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortality 4
+["Green, L 2022, <i>Immortality 4</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 4
 
 1. I gained repair points from bringing supplies.  I began by listing the collisions from all directions.  In these, the objects were possibly mutually annihilated.  Or one was damaged.  Or, the clash had destroyed both, requiring repair points.
 2. I wrote the member1.pl algorithm.  I wrote a member predicate using list processing. Then, I translated the member predicate into C.  I translated the list processing command using string to list.  The unification algorithm represented lists as trees as arrays.

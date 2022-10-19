@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortality 6</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortality 6
+["Green, L 2022, <i>Immortality 6</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 6
 
 1.  I presented the progress bar for converting List Prolog to C.  I could run batch file manipulation commands using Prolog. First, I created many files using an algorithm.  Then, I inputted these files into another algorithm to produce more files.  I scheduled this operation regularly.
 2.  I debugged the C code in a Prolog form (using a C to Prolog converter).  I converted the Prolog list to an array of items in C without the string to list algorithm.  I converted A=[B,C] to A[1]=B and A[2]=C.  If B or C were lists, I pointed to new lines of the array, i.e. A[y][x].  B or C could be numbers representing letters, lists, etc.

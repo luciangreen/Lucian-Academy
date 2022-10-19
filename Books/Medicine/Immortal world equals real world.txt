@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortal world equals real world</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortal world equals real world - I feel good.
+["Green, L 2022, <i>Immortal world equals real world</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortal world equals real world - I feel good.
 
 1.  I wrote the content management system with SSI.  As part of this, I could dole out the editing status.  I used Web Editor.  It was able to be downloaded and edited.  It was online for all to see, and I could back it up and revert to any version.
 2.  I managed the project with SSI.  Everyone could see all task statuses on one page.  Everyone and everything needed to be perfect-each task must be differentiated into different functions (to put together) to maintain simplicity.  I inserted code that could show common elements and recommended website structures, such as mind-mapping and delegation.
