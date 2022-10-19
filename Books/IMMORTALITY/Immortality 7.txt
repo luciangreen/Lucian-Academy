@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortality 7</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortality 7
+["Green, L 2022, <i>Immortality 7</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 7
 
 1.  I wrote an interpreter to parse the variable [v1, name].  I built a term argument by argument using append.  I wrote an alternative variable notation, [v1,name].  Variables had a name in the algorithm.  In listings and traces, the interpreter replaced variables with _1, _2, etc.
 2.  I inverted reverse with the query reverse(B,[],[3,2,1]).  and program reverse([],A,A) :- !. reverse([A|D],B,C) :- reverse(D,[A|B],C),!. with the result B = [1, 2, 3].  As an arithmetic comparison, I rounded both values and tested whether they were equal.  I wrote a new predicate that deleted extra zeros after numbers and tested whether they were equal.  I back-moved from results to operations that formed them to find constraints.  For example, x^2+y=5 and x+y=3, so x=2 and y=1.

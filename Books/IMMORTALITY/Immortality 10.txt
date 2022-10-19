@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortality 10</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortality 10
+["Green, L 2022, <i>Immortality 10</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 10
 
 1.  I couldn't add tail recursion optimisation if the recursive call were inside, for example, findall, where the cut command would have unwanted effects.  In tail recursion optimisation, I inserted brackets around the cut command and the recursive command, if needed.  I found each command that exited on status -2 (successfully exited) in the state machine.  I burrowed back until finding a recursive call, however many brackets it was inside.  I changed for example, recursive_call(A..B) to (!, recursive_call(A..B)).
 2.  I benefited from all parts of life.  I did this by stopping the effects of social isolation.  As part of this, I saw people.  I felt like myself.  I took part in social events.

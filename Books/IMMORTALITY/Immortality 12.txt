@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Immortality 12</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Immortality 12
+["Green, L 2022, <i>Immortality 12</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 12
 
 1.  I found the best interpretation of a sentence as an algorithm for a particular use.  I worked out an algorithm from other sentences and an algorithm. For example, the first sentence had the first algorithm.  I worked out how the second sentence had the second algorithm from this relation.  For example, the first algorithm concatenated red strings and the second algorithm concatenated blue strings.
 2.  I recommended writing functional algorithms as a mental exercise.  I wrote more extended algorithms.  I could write longer algorithms from the start or join other functional algorithms to form more extended algorithms.  I wrote longer algorithms initially, with the most extended algorithms being interpreters. Then, I added my algorithms to the interpreter.

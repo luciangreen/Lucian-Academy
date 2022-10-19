@@ -1,4 +1,4 @@
-["Green, L 2021, <i>Bots 1 2</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Bots 1
+["Green, L 2022, <i>Bots 1 2</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Bots 1
 
 1. I started the web business in the future and the present.  There were a set number of places.  SSI in C was needed for more places.  I had fifty As, or at least 50 breasonings for each conclusion.
 2. I needed bots as customers.  I needed sales for them to make.  I needed SSI in C for the backend of the web site so that it wouldn't crash.  This required web hooks and LLVM.  I needed ISO Prolog so that my apps would run.

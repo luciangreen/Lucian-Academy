@@ -1,4 +1,4 @@
-["Green, L 2021, <i>SSI</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"SSI
+["Green, L 2022, <i>SSI</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"SSI
 
 1. I examined the trace. 
 I wrote the retry feature in SSI. First, the interpreter reset to the state. Then, the computer reran the part.  It found the bug.
