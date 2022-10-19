@@ -73,28 +73,19 @@
 66.  I used previous algorithms as helpers and wrote algorithms for institution assignments.  I took action and did work when I wanted.  I avoided stricture but came up with ideas about each thing.  I set up issues (to-do lists) for algorithms.  Also, I generated other possible algorithm specifications using different algorithms, solving problems myself.
 67.  Higher education was similar to VET, and I thought of more thoughts.  So I wrote an assignment to be vocational education and training (VET)-like assessment.  After writing 250 breasonings, the rest fell into place.  The helpers needed a seen-as version of trains moving thoughts into position before being thought, funnels and harmless interpretations of possibly radical ideas.  VET did all these for 250 breasonings.
 
-68. I wrote the contract with the company, different from a computer science student agreeing to do the work.  I set the computer science assignment.  I wrote the philosophy.  I explained shortness in terms of longness.  I arrived at the conclusion there is nothing else to a quantum conclusion, the top in our time.  
-69. I inspired other algorithms.  I wrote 10 algorithms and 80 philosophy breasonings to reach the proper logical standard.  I wondered whether it was the top in the future.  I then wondered what caused it to work, does the universe naturally form divine forms?  For example long arguments containing perfect ideas are divine.  
-70. I breasoned out 250 breasonings in philosophy to earn 100% (like 100% correctness from deleting the record of a finished predicate or allowing the same predicate to be concurrently run).  There were 250 philosophy breasonings and 250 algorithms.  I prepared for each assignment in this way as a professor.  I wondered whether future science was further down the argument, with perfect programs.  I allowed the same predicate to be concurrently run.
-71. I worked on the algorithms instead of asking the future computer to work on them to aid my understanding.  I collected garbage by deleting finished predicates.  I recorded the state of variables after finishing the predicate.  I deleted the record if there were no choice points in it.  I asked, what more developed time travel is available?
-72. * I replaced \"n\" and \"v\" in List Prolog with \"&\" and \"^\", respectively.  I considered \"predicate name\" and \"variable name\", or \"system name\" and \"system variable\", but these would take too long to type.  I could change them to \"predicate name\" and \"variable name\" later because the code would  be written in Prolog, not List Prolog at first and the longer names would only be visible to the interpreter, not the user.  I converted any instances of \"predicate name\" and \"variable name\" to Prolog, not List Prolog if they were visible to the user.
-73. * 
-74. * 
-75. * 
-76. * 
-
-77. * 
-78. * 
-79. * 
-80. * 
-
-
-
-
-
-
-
-
+68. I wrote the contract with the company, different from a computer science student agreeing to do the work. Separately, I set the computer science assignment. I wrote the philosophy. I explained shortness in terms of longness. I concluded there is nothing else to a quantum conclusion, the top in our time.  
+69. I inspired other algorithms. To reach the proper logical standard, I wrote ten algorithms and 80 philosophy breasonings. I wondered whether it would be the top in the future. I then asked what caused it to work. Does the universe naturally form divine forms? For example, long arguments containing perfect ideas are divine.  
+70. I breasoned out 250 breasonings in philosophy to earn 100% (like 100% correctness from deleting the record of a finished predicate or allowing the same predicate to be concurrently run). There were 250 philosophy breasonings and 250 algorithms. I prepared for each assignment in this way as a professor. I wondered whether future science was further down the argument with perfect programs. I allowed the same predicate to run concurrently.
+71. I worked on the algorithms instead of asking the future computer to work on them to aid my understanding. I collected garbage by deleting finished predicates. I recorded the state of variables after finishing the predicate. I deleted the record if there were no choice points in it. I asked, what more developed time travel is available?
+72. * I replaced \"n\" and \"v\" in List Prolog with \"&\" and \"^\", respectively.  I considered \"predicate name\" and \"variable name\", or \"system name\" and \"system variable\", but these would take too long to type.  I could change them to \"predicate name\" and \"variable name\" later because I would write the code in Prolog, not List Prolog, at first, and the longer names would only be visible to the interpreter, not the user. I converted any instances of \"predicate name\" and \"variable name\" to Prolog, not List Prolog, if they were visible to the user.
+73. I wrote the Learning Content Management System (LCMS) in State Saving Interpreter Web Service to help earn 100%. I used the LCMS to teach Prolog. I explained the commands. I gave the question. I checked and returned hints about improving the answer.
+74. I introduced myself and discussed the topics. I did this by establishing a profile page and multi-dimensional forum. I started with the top. I could go up or down. Vision-impaired people could use the browser or navigator because it had a feature to print all levels.
+75. I searched with the vision-impaired browser. I began by editing the post. Then I viewed the post. I could also search for terms in the post. Finally, I could search my philosophy for conjunctions of terms.
+76. The students could verify and submit programs however many times they wanted. To allow this, I made automated programming assignment verification and submission algorithms. These algorithms helped increase grades. Indirectly related to my logic studies, I attended the International Logic Summer School on a scholarship. The prestigious institution appointed me as a logic tutor.
+77. I sent the student's grades and financial information to them. As part of this, there were messages on the system. The students logged in to read these messages. There was also an email notification when there was a new message. Each message had recipients, a subject and a body.
+78. Students could download resources to complete work. These resources were on the LCMS. First, I wrote the source. Second, I uploaded it to the LCMS. There were also a unit outline and assessment information on the LCMS.
+79. The students could submit essays (and play ten types of games). They wrote the articles. They pasted the paper into a text file. Finally, they submitted the text using a form. The lecturer marked this essay and commented on the clarity of connections (with ontologies).
+80. I wrote as the point of immortality. As part of this, I checked the essays for similarity with other articles in the database. I also checked whether they correctly cited the source. I checked the essay format, including the title, introduction, exposition, critique, conclusion, citations and references. I also checked that the writer had had ten words or fewer per quote and that they had adequately paraphrased unquoted excerpts.
 
 
 "]
