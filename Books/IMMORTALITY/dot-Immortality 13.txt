@@ -1,7 +1,6 @@
 
-based on vision impaired browser
 
-aria tags
+
 
 html sections
 - lfl
