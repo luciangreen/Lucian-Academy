@@ -1,16 +1,17 @@
 ["Green, L 2022, <i>Immortality 13</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 13
 
-1. I downloaded the LCMS to browse offline.  The LCMS is based on the vision-impaired browser.  I reused the resource.  I bookmarked my place.  I stored items offline.
-2. I computed on parallel machines.  I listed all the jobs.  I selected parts of the list.  I ran these on different computers at the same time, given memory limitations and possibly using multithreading.  I updated the finished tasks.
-3. I rewrote non-deterministic predicates in SSI to be simpler. Before this, I wrote ARIA labels to help make my web page accessible to certain disabled people.  I used the labels to describe elements with no visible text on the screen.  I compared Prolog on the web and terminal.  I wondered if SSI was more intuitive than SWI-Prolog.
-4. * 
-5. * 
-6. * 
-7. * 
-8. * 
-9. * 
-10. * 
-11. * 
+12.    I downloaded the Learning Content Management System (LCMS) to browse offline.    Before this, I stated that the LCMS is based on the vision-impaired browser.    I reused the resource in the LCMS.    Also, I bookmarked my place.    I stored items offline.
+2.    I computed on parallel machines.    I listed all the jobs.    Then, I selected parts of this list.    Then, I ran these parts on different computers simultaneously, given memory limitations and possibly multithreading.    Finally, I updated the finished tasks.
+3.    I rewrote non-deterministic predicates in SSI to be more straightforward.    Before this, I wrote ARIA labels to help make my web page accessible to certain disabled people.    I used labels to describe elements with no visible text on the screen.    I compared Prolog on the web and terminal.    I wondered if SSI was more intuitive than SWI-Prolog.
+4.    I wrote the HTML section in List Formatting Language (LFL) for programs.    First, I entered the Prolog algorithm.    Then, I pretty-printed Prolog.    The algorithm could be pre- or post-pretty-printed.    I could also pretty print List Prolog after entering it in List Formatting Language (lists of lists).
+5.    There were specifications for the algorithms in the philosophy.    Separately, I created an HTML table with LFL. First, I inserted a list for the table. Next, I added a list for the row.   Finally, I put in a list for the column.
+6.    I entered LFL in the chat.    Instead of video and presentations, the participants typed during lectures as a chat.    The lecturer typed and presented text lectures with questions.    The students typed the answers.    They asked questions and interacted during the conversation, customising their experience and catering for their needs.
+7.    I could quickly test the website using a single set of tests.    Before this, I tried the SSI-WS app with SSI (not on the web) with a text file. First, I wrote the return-delimited inputs in the text file. Then, I pasted it into the terminal. Finally, I tested each part of the algorithm, assuming it gave output to check at the end.  
+8.    When testing an SSI-WS algorithm in SSI (not in the browser), I entered the inputs when the text file name was entered as an argument, checking that the questions asking for input and the documentation matched the clarity and user-friendliness of the text file.    Given this file, the algorithm took each line of input from it.    I also tested each predicate separately.    I automatically took the output from one predicate to input into the following predicate to test the predicates separately.    I tried child predicates before parent predicates.
+9.    As an alternative to pedagogy, I could breason out business.    Before this, I stated that I ran businesses after breasoning out a breasonings-accredited (not accredited outside) Pedagogy master's degree.    The education company was a business (earned money).    The teachers bought products as part of their jobs.    The first breasoning (the degree) protected future uses of the department, and subsequent breasonings were for specific products (jobs, employees, sales and assignments).
+10.    Customers trusted the PhD/copywriting standard.    I breasoned out 5*50 GL As per product or text (5 million breasonings) and 250 breasonings per line of the text (in fact, I covered this with the 5 million breasonings).    I used all my computer and phone processors to finish the breasonings more quickly. As a result, I could help more meditators more carefully with mind-read philosophies, algorithms and details.
+11.    I wrote 250 algorithms per assignment, with a particular number of assignments per degree.    I used the text-to-breasonings algorithm to produce the commerce-type As.  Text-to-breasonings required education, lecturer, recordings and medical skills.    Text-to-breasonings could breason out word (not character) breasonings of the correct quantity required for master's and above.    Epistemological knowledge needed to know that text-to-breasonings needed to do this included writing enough algorithms for qualifications.
+
 12. * 
 13. * 
 14. * 
