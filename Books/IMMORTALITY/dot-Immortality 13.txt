@@ -1,13 +1,6 @@
-- educ products need accred from la com (cpd xxx) (uni x)
-- structure so can be self-managed x automated
-- enough As takes care of separate pitch As needed
 
-like a dba:
 
-business mentoring
-ads
-accred (50 5*50s at start)
-sales
+
 bots
 music
 mix, master
