@@ -1,18 +1,4 @@
 
-
-
-bots
-music
-mix, master
-copywriting
-programming
-essays
-finance
-education
-- theatre, music, film jobs
-- business
-- education
-- etc. (meditation, medicine, computational english, popology, societology, mathematics, immortality)
 - computer science (paraphraser, gl, t2b, eh, interp, compiler, caw, pf, font, etc.)
 make websites
 - neural networks: data science in different areas
