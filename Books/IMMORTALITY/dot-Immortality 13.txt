@@ -1,8 +1,4 @@
 
-- computer science (paraphraser, gl, t2b, eh, interp, compiler, caw, pf, font, etc.)
-make websites
-- neural networks: data science in different areas
-apps for above
 music sales to companies with mr, repet of right genre
 advertise the above, go on other sites
 font
@@ -24,3 +20,5 @@ academy teaches with a series of algorithms stepped through on web
 - 20 tests per assignment
 
 ssi dev, to do in dropbox, gmail notes
+
+dropbox, gmail ssi c notes
