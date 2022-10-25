@@ -1,24 +1,145 @@
+pl table databases
+lpi, ssi
+to do 15 10 22
 
-music sales to companies with mr, repet of right genre
-advertise the above, go on other sites
-font
+bug check string concat, member in ssi
 
-after making money, invest in others
+new commands ssi
 
 
-alg that br 5 million gl br from a file
-- tries n*gl with 10*400 words duplicated from a file
-- a file with the lines to increase, and a file with the lines increased
+swap X,Y in member(X,Y)
+- lpi, ssi
+- lpi caveats
+eventually, add nd cps (for append etc, repeat) to ssi
+- finds next n (eg 10) sols for cps
+add member, stringconcat to langs (and listrecursion) in lpi, ssi
+record whether a predicate (cp set) has cps, update when delete a cp
+- speeds up deleting unnec cp data on pred close
+global garbage collection
+- starts with var vals
+- if a var val contains another val, this is adjusted in the table
+- strings are not split x
 
-find custs, etc. using intersection of mr, gl, jyotish, nn
+philosophy lpi, lucianpl
+- return without a query unwantedly turns on trace
 
-5*50 As for vedic astrology
-4*50 As for each sentence for publishing
+cs assessment in la com
 
-academy teaches with a series of algorithms stepped through on web
+- 5-15 predicates assessed per subject
+- tutorials, faqs and sample answers in course
+- different versions of algs assessed
+- pl or lp v
+- whole, not x preds v of algs
+- phils need algs for assessment
+- students need 80 phil arg, 80 algs for h1
+- acredit cpd
+- ask for algs on la com, quizzes (output) on coursera
+- scan phil, repos for algs, data or recreate data to write courses
+- anti bot check x
+- use type statements 
+- visible verify and submit cases
+- 100% pass mark
 
-- 20 tests per assignment
+mr help with them
+- options (skills) they need
+- if they choose other, help with it
+an education (as against cs) A to help with skills
 
-ssi dev, to do in dropbox, gmail notes
+write an alg that checks for " not \" in la com books
 
-dropbox, gmail ssi c notes
+uploads them
+
+
+Bus 5*50 As for converting a non lead to another lead
+
+Daoism 5*50 not 4*50 As to relax muscles etc like above
+
+It’s me, bots, sales, bus -each 80 phil br arg given 5*50 As--
+
+Start giving chapters 5*50 As (two ways of paraph)
+
+Remove br, write about finding fault, change stories to phil--
+
+Rewrite ped to have new args, not ped ways of thinking 
+
+One instance of words humanist ped, medit
+
+Do prim texts, then sec texts in this way 
+
+Text to too
+
+4*50 As for infinite knowledge --
+
+
+Meditation 
+5*50 As last mistake is positive then deleted
+
+Change around when others do it to us
+
+make up things for others 
+
+50 As for going through the information --
+
+50 As for A, B to B, B to self
+
+- find links from people to others as well as oneself
+- always positive at end
+
+arem utterance 50
+
+
+Ssi to c
+
+String concat in terms of append
+
+Append etc have intermediate preds to turn off, on debug
+
+Debug (display and flag) in terms of pred, flag
+
+Whole interpreter in terms of preds x
+
+No commands, just command preds
+
+
+Leave converted strings as trees
+
+Cps done automatically with clauses together, if then in c
+
+Test lpi, ssi after deleting convert_to_lp_pipe(empty2,empty2) :- !. in lpi
+
+Instead of initialising output vars to a value, initialise by itself when output is set to _
+
+Warn when a singleton, probably an output isn’t _
+X initialise all vars, initialise vars to values if nec
+
+Don’t need types 
+
+
+Leave globals etc as tree arrays 
+
+Pf for
+State machine 
+Pf
+Etc 
+Interp
+Compiler 
+C compiler 
+
+Instead of pf with nn, nn finds code for pf
+
+Finds tab n in pp after pf parts 
+
+
+Delete called pred data if no cps
+
+Tail recursion optimisation 
+Set values on changeover, ignore x check args 
+In same pred as parent
+
+
+
+cs assessment in la com.txt
+
+convert "[a]" to list already in c tree during compilation
+
+groups of preds not single preds or whole alg assessable
