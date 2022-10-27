@@ -1,23 +1,6 @@
-- speeds up deleting unnec cp data on pred close
-global garbage collection
-- starts with var vals
-- if a var val contains another val, this is adjusted in the table
-- strings are not split x
 
-philosophy lpi, lucianpl
-- return without a query unwantedly turns on trace
 
-cs assessment in la com
 
-- 5-15 predicates assessed per subject
-- tutorials, faqs and sample answers in course
-- different versions of algs assessed
-- pl or lp v
-- whole, not x preds v of algs
-- phils need algs for assessment
-- students need 80 phil arg, 80 algs for h1
-- acredit cpd
-- ask for algs on la com, quizzes (output) on coursera
 - scan phil, repos for algs, data or recreate data to write courses
 - anti bot check x
 - use type statements 
