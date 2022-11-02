@@ -1,6 +1,3 @@
-
-
-
 - scan phil, repos for algs, data or recreate data to write courses
 - anti bot check x
 - use type statements 
@@ -110,5 +107,7 @@ cs assessment in la com.txt
 convert "[a]" to list already in c tree during compilation
 
 groups of preds not single preds or whole alg assessable
+
+to do 25 10 22
 
 old gmail notes, to do, sandbox
