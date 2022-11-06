@@ -1,5 +1,9 @@
 
-Leave globals etc as tree arrays 
+reverse, foldr, intersection, delete, sort, subtract, atomic list concat, permutations with strings
+
+atoms like strings
+
+load specific lpiv test in lpi, lucianpl in phil
 
 Pf for
 State machine 
