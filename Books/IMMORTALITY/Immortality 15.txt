@@ -14,5 +14,22 @@ Grammarly Premium:
 10. All data could be represented as numbers with types.  In C, I initialised all variables, and initialised variables to values if necessary.  I questioned setting arrays to [] (like empty lists).  I also invented a way of composing lists within lists using indices.  I wrote a way of embedding lists within lists using down and up characters, to save time going through multiple data structures.
 11. I didn't need types.  While first-year students preferred them to help learn programming, type checking could be done without explicit type checkers.  Whether C lists were made with \"->\" or single arrays, types were needed, except in a list of numbers.  For longer data structures, I recommended using tree arrays with some of these properties.  Prolog could model these data structures and convert them to C.
 
+12. I kept two tree arrays (one for numbers and lists and the other for atoms and strings) for lists to be more easily converted between Prolog and C.  In SSI, I converted variable bindings tables, globals, etc., to and stored them as tree arrays.  I decided in favour of bindings tables rather than C argument variables for educational clarity.  I converted the list values, etc., to tree arrays as soon as possible (I could table and reuse commonly converted items and collect garbage, or reference commonly used items once).  I made computer science general (like philosophy) in my departments.
+13. * I wrote reverse in List Prolog.  There was one set of predicates for forwards and backwards directions.  It could be used to change foldl to foldr.  I could get the last item in a list using append(_,[A],[a,b,c]).
+14. * foldr, intersection, delete, sort, subtract, atomic list concat, permutations in lp
+15. * 
+16. * 
+17. * 
+18. * 
+19. * 
+20. * 
+21. * 
+22. * 
+23. * 
+24. * 
+25. * 
+26. * 
+27. * 
+
 "]
 
