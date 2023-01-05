@@ -3,7 +3,7 @@
 %:-include('combophil/combophil_grammar_logic_to_alg.pl').
 %:-include('algwriter/grammar_logic_to_alg.pl').
 %:-include('meditationnoreplace.pl').
-:-include('folders.pl').
+%:-include('folders.pl').
 %:-include('sectest_p.pl').
 :-include('../listprologinterpreter/la_maths.pl').
 %:-include('../Text-to-Breasonings/truncate_words_conserving_formatting.pl').
