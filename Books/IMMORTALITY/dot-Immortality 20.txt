@@ -1,0 +1,46 @@
+Immortality 20
+
+1. With additional data, the immortal differentiated list expressions from earlier ones. I produced modified list expressions. For example, I converted symbols to symbols. Or, I added more or flattened levels. Alternatively, I changed atoms to other atoms, sometimes with a three-way replacement.
+
+2. * I wrote additional data to differentiate new list expressions from old ones. This might be "first item",..., "item n" or types of types, for example, musical note 1 or rectangle shape.
+
+Types to alg
+Lists of lists not just repeating parts of lists
+la com ssi web service
+
+- try messager in ssiws
+
+edu skill As
+
+
+
+* cs, phil students with cpd
+- cs: 3 different entry points to a building block (10 hand br, rest of 250 qb br)
+ - find lists and gen alg by themselves
+ - cs in fact (like data), rule and predicate form x start with simple cases, primer
+- phil conns - range of easiness from grade level 3 up
+ - like cs, need a number of cs details x
+ - 2 uses and for conns as algs (cs also) x
+ - 5*5 details
+
+faqs and cs spec sheets
+
+Cpd imm, bus
+
+80 br, alg for lec, student - students should work on 80 br, algs
+- edu skills mr - secret egs for algs - an education A, worked on by a lecturer for student As, contains lists of skills thought of in student breasonings, and the algorithms for these (eg addition) may be 1+1=2
+
+Edu thoughts for 3-4 years - after the student finishes the qualification, there are thoughts done for the next few years.
+
+
+Edu skills A - what are the skills As?:
+
+Linear lists 
+Command names
+Recursion 
+Multi pred recursion x intermediate preds
+
+As for each of these
+eg recursion - A for anything, A for processing anything
+
+A could be ethics of this type of induction - create or cost jobs
