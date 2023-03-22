@@ -53,4 +53,64 @@ Immortality 20
 
 * grammarly not done from here
 
+50. The immortal's religion was 4*50 As. In my big moment, I recommended writing 80 breasonings and a $1 copywriting sentence to finish the 4*50 As. I wrote 4*50 As per algorithm. The main aim was to write 4*50 As per book. The copywritten text also helped overcome big ideas in the course.
+51. The immortal processed the data first and entered data quickly at the end. I wrote a mini-text to breasonings algorithm, which stored dictionaries as terms and was the same speed. I finished the available breasonings. At the end, I prompted the user for missing objects. Also, I prompted the user for missing breasonings.
+52. The immortal breasoned out medicine about education to help relax the student. I breasoned out the medicine arguments to help improve the feeling of customers. I listed each organ system.  I breasoned out an A for each one. The customers felt refreshed and well.
+53. The immortal breasoned out medicine about education to help relax the student. I breasoned out the medicine arguments to help relax the student. The task was simple. The algorithm was as difficult as the interpreter. The student relaxed her muscles and could focus on the task.
+54. The immortal professor completed administration work. I made a decision to start my business. I focused my time on high quality tasks, such as original writing. There was a 250 breasoning argument for a comment. I wrote the philosophy, then pressed the button at the end.
+55. The immortal wrote the autobot. I followed the customer around the website.  They bought the course. They completed the assignment. I prepared for each action they took.
+56. The immortal helped the customer to buy the product again with an A. I asked, what are three things in sales? It could refer to three drafts of an essay. Or, it could refer to three drafts of an algorithm.  Or, it could refer to both, or professional development in buying the product repeatedly over time.
+57. The immortal wanted a particular course on an occasion. I wrote the A for buying a course. I imagined being the customer.  I read my mind and wrote the questions I had about the product.  I wrote the answers. 
+58. The immortal collected answers to recurring questions to save time. I wrote the A for doing the assignment. I imagined being the student. I completed the assignment. If I had a question at a point, I wrote it down. I wrote down the answer to the question.
+59. The immortal tested each departmental product three times. I pretended to be the autobot.  I did everything that the person would do.  I checked that their pathway was clear.  I saved the notes and prepared the setting for the real person.
+60. The immortal preferred studying the minimum number of courses, and used copywriting for other customers. I completed the Chinese Medicine course regularly.  It relaxed my muscles. I had no headaches. Lucianic medicine used an MBA technology to prevent headaches.
+61. The immortal ensured that the systems were smooth running. I wrote the pedagogical arguments about immortality, bots and sales. I could recline in time. During this, I could attract employees and customers. I asked, is "ticketing" an industry to help customers in open source software.
+62. The immortal optimised the algorithm by minimising it, for safety. I wrote the deterministic finite automaton (DFA) minimisation algorithm.  I detected the sections which connected to the same nodes.  I deleted them and reconnected the severed connections. I redid loops until it was complete.
+63. The software customer paid the immortal. I made the paid ticketing system in the state saving interpreter, with payments for the software customer. The software customer typed their question into the web site. It helped improve and shape the direction of the software. The profits helped pay for costs.
+64. The philosophy student paid the immortal. I made the paid ticketing system in the state saving interpreter, with payments for the philosophy student. The philosophy student typed their question into the web site. The lecturer answered the student's question. This helped pay for philosophy teaching costs.
+65. The computer science student paid the immortal. I made the paid ticketing system in the state saving interpreter, with payments for the computer science student. The computer science student typed their question into the web site. The student asked a question and the database software or lecturer replied. This helped pay for computer science teaching costs.
+
+66. The course customer paid the immortal. I made the paid ticketing system in the state saving interpreter, with payments for the course customer. The course customer typed their question into the web site. It helped *. The profits helped pay for costs.
+
+The philosophy paid the immortal.
+medium
+- phil, ssi ws algs
+
+
+- for academy questions
+
+login - already done
+() pay for service plan
+take a ticket, emails admin - messager-based
+admin responds to ticket
+
+la com 21 3 23
+
+i as bot
+- 3 testers for it to work
+- 50 brs to and from people in bus, edu, dept (done for them if they don't do it)
+ - their thoughts
+ - this is the practicum for As meaning you don't need to do any more work
+
+la com
+
+5 As - text,lecture, 3 students
+- rest not including text br
+- use similar alg to eh with "because" - permute
+- change algs to phil in terms of arg
+
+- break texts into 16 paras
+ - can ask students for algs
+ 
+do 5 times as many hidden phils, algs when they are approximate
+- use br alg gen
+- an alg writer (types to alg)
+
+cs book with data transformations in projects, with specs
+
+
+65. *
+
+
  find last point in imm 1 as basis
+ 
