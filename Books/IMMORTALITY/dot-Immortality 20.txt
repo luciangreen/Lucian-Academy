@@ -85,37 +85,3 @@ Immortality 20
 78. The immortal helped the user with their support, programming or writing question. The user took a ticket from the ticketing system.  This meant that they registered a comment, question or complaint. The officer on duty would reply within 1-2 business days. For some questions, the turnaround may be 1 hour.
 79. The immortal partially automated support. The ticketing system alerted the admin by email.  The admin logged in to the ticketing system, based on Messager, and answered the question. All that was required was a forum, which could run some Prolog code. For example, it could run code which didn't access files, or could, if they were provided, and it was safe.
 80. The immortal spent parts of the day reading, writing and coding. Writing example Prolog algorithms helped new users learn and borrow code. I wrote the code and the "briefing" report.  I spent 10-15 minutes per day responding to others on their and my pages. I gathered supporters and donated the money to philosophy.
-
-take a ticket, emails admin - messager-based
-admin responds to ticket
-
-la com 21 3 23
-
-i as bot
-- 3 testers for it to work
-- 50 brs to and from people in bus, edu, dept (done for them if they don't do it)
- - their thoughts
- - this is the practicum for As meaning you don't need to do any more work
-
-la com
-
-5 As - text,lecture, 3 students
-- rest not including text br
-- use similar alg to eh with "because" - permute
-- change algs to phil in terms of arg
-
-- break texts into 16 paras
- - can ask students for algs
- 
-do 5 times as many hidden phils, algs when they are approximate
-- use br alg gen
-- an alg writer (types to alg)
-
-cs book with data transformations in projects, with specs
-
-
-80. *
-
-
- find last point in imm 1 as basis
- 
