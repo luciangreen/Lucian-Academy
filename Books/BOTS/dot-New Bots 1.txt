@@ -13,16 +13,29 @@ New Bots 1
 10. The bot wrote code from the type statement. I used type statements to correct code. I used type statements to correct errors in data.  These errors may be in the data format.  Or they may be in the code.
 11. The bot wrote in machine language. I simplified the string lengths in the code state machine. Instead of "choice point" I wrote "c". I could pretty print this as "choice point". The shorter strings could be outputted by the state machine listing command.
 12. The bot passed the output of a functional call to another variable in the functional call. I created the functional expression. It was output by the metre. For example f(In,Out) was a term. It could be passed to other functions, for example g(f(In,Out1),Out1,Out2).
-13. The bot tested the recursive funcitonal call. I retrieved values from the called expression. I could switch inputs on and off. I could control functions using flags. I returned two or more values from a function.
-
-14. I converted and passed terms as part of functional expressions.
-15. I wrote texts optimising essays.
-16. I devised a programmatic spoken language which could specify algorithms in algorithms.
+13. The bot tested the recursive functional call. I retrieved values from the called expression. I could switch inputs on and off. I could control functions using flags. I returned two or more values from a function.
 
 
-Create shop
-Find code from description, spec
+14. The bot converted the functional call from Prolog to List Prolog. I converted and passed terms as part of functional expressions to do this. First, I converted the term from Prolog to List Prolog. The algorithm performed this conversion when given the label "Prolog". Then, I ran the expression.
+15. The bot simplified the process. I wrote texts optimising essays. I found the algorithm described in the paper. I minimised the definite finite automaton. I wrote it in essay form.
+16. I perfectly customised the new language. I devised a programmatic spoken language that could specify algorithms in algorithms. I trained the algorithm with a new word with an algorithmic meaning. These words could be in terms of other programmed words. They could be recursive.
+17. The bot counted how many levels deep skills had. I drew a chart of educational skill advancement in computer science. I noted the obscurity of a command used. I noted the simulation of complicated commands. I noted parallel programming languages as interpreters, compilers and in C.
+18. The bot returned the work with the same number or up to 80 predicates. As part of this, I rewrote educational skills diagrams as connections between skills only. I counted recursion. I counted commands, only keeping the samenesses. Finally, I counted the facts, rules and predicates.
+19. The bot converted the algorithm into a finder of unpredictable code and found algorithms. I wrote the chatbot to upgrade the generation of the algorithm. I wrote a web version. I wrote an editor. I wrote a neuronetwork algorithm writer.
+20. The bot prepared to find more algorithms. I converted the algorithm into a finder of unpredictable code. I wrote the algorithm as a functional call. I split it into predictable and unpredictable command sections. I could predict pattern matching and find unpredictable other commands.
+21. The bot wrote the functional call with a customised number of arguments. I found algorithms. I went inwards from the input and output. I worked out unpredictable commands from previous possible combinations of commands used previously. I repeated this until finding a match in the middle.
+22. The bot created a neuro-decision tree with values from any data part. The neuro-algorithm writer found algorithms by matching data like a neuronetwork. The whole thing was better as a neuronetwork. I wrote a decision tree for the entire thing. The neuronetwork was like this.
+23. The bot worked out better, simpler conclusions. In the previous version, the algorithm kept both furthest-reaching pathways, testing for a meeting or overlap. Computer Science often did this computation. Instead, the neuronetwork found all possible solutions and the single fitting solution. This computation took many tries.
+24. The professor made a complex bot. I concentrated on the interpreter, finding stable conclusions the neuronetwork could interpret at each point. After this, I built my first space station. It was part of the simulation. Once scientists made the space slingshot, the simulation could subsidise the number of space jumps. Once scientists finished quantum medicine, societal behaviour prevented disease.
+25. The bot could develop simulated products for interpreters, like brains. Instead, I walked around on a simulated planet. The flight was safe. It was fast. The conditions were delightful, and everything was modern.
+26. The bot or someone else was in charge. If everything was inside the simulation, people could enjoy the quality of life they wanted and have positive mindsets. The people were optimistic. The food was healthy. People could program or go for walks with friends.
+27. The bot travelled back in time at the end. I watched the students. They kept writing. I answered their questions. They were prepared and memorised or used notes.
+28. The bot enjoyed working at the company. The person sold the food and put the money in the bank. He used the money to pay the costs and employees. The employees could enjoy entertainment and fine dining. I wondered if someone I knew was immortal.
+29. The bot developed the A. The person thought of a reason to eat. It had an alternative style. It returned to normal. The philosophy extended interest in both the customer and the workers.
 
+%%%  done:The bot bought food  and modes.  The bot bought food  customised predicate.   
+
+29. *
 
 ?- bag2phil(A),writeln(A).
 Enter number of input files:
@@ -37,7 +50,7 @@ Enter file 2 path:
 4.  I noticed how the algorithms developed, involving  in this way.  I noticed how the algorithms developed, involving algorithms developed, involving new methods.  I noticed how the algorithms developed, involving new methods  bought food.  I noticed how the algorithms developed, involving new methods  for help.  I noticed how the algorithms developed, involving new methods  good job. 
 5.  I noticed how the algorithms developed, involving new methods  included instructions.  I noticed how the algorithms developed, involving new methods  the food.  I noticed how the algorithms developed, involving new methods  the goods.  I noticed how the algorithms developed, involving new methods  the person.  I noticed how the algorithms developed, involving new methods  the scene. 
 6.  I noticed how the algorithms developed, involving new methods  the text.  I noticed how the algorithms developed, involving new methods  the yield.  I noticed how the algorithms developed, involving new methods a business about my ideas in themselves.  I noticed how the algorithms developed, involving new methods with if I couldn't secure housing.  My company was within laws to not offer replacements for real degrees, and used an accountant from the future to help  and modes. 
-7.  My company was within laws to not offer replacements for real degrees, and used an accountant from the future to help  customised predicate.  My company was within laws to not offer replacements for real degrees, and used an accountant from the future to help  new methods.  The bot bought food  and modes.  The bot bought food  customised predicate.  The bot bought food  new methods. 
+7.  My company was within laws to not offer replacements for real degrees, and used an accountant from the future to help  customised predicate.  My company was within laws to not offer replacements for real degrees, and used an accountant from the future to help  new methods.  The bot bought food  and modes.  The bot bought food  customised predicate.  *The bot bought food  new methods. 
 8.  The bot cooked the food  and modes.  The bot cooked the food  customised predicate.  The bot cooked the food  new methods.  The bot delivered the goods  and modes.  The bot delivered the goods  customised predicate. 
 9.  The bot delivered the goods  new methods.  The bot included instructions  and modes.  The bot included instructions  customised predicate.  The bot included instructions  new methods.  The bot measured the yield  and modes. 
 10.  The bot measured the yield  customised predicate.  The bot measured the yield  new methods.  The bot offered the bounty for help  and modes.  The bot offered the bounty for help  customised predicate.  The bot offered the bounty for help  new methods. 
