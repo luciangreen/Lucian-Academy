@@ -1,8 +1,0 @@
-types
-- finder
-- lists finder
-- recursive types finder
-- lists and recursive types finder
-
-- generate data using types
-- find alg using types
