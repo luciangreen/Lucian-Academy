@@ -2,7 +2,7 @@
 by Lucian Green
 Derivability 1 of 4
 
-1ah.     I prepared to visualise the dimensions of the object that a word represented.  I did this by writing the words on the pedagogy screen.  First, I set up the pedagogy screen.  Second, I wrote down the words on it.  Third, I drew the object on the screen.  In this way, I prepared to visualise the dimensions of the object that a word represented by writing the words on the pedagogy screen.
+1.     I prepared to visualise the dimensions of the object that a word represented.  I did this by writing the words on the pedagogy screen.  First, I set up the pedagogy screen.  Second, I wrote down the words on it.  Third, I drew the object on the screen.  In this way, I prepared to visualise the dimensions of the object that a word represented by writing the words on the pedagogy screen.
 
 2.    I prepared to disseminate implication.  I did this by describing the logical operator ^i (and-implication).  First, I stated that And-Implication meant that A implies B is true when A is true.  Second, I stated that And-Implication meant that A implies B is true when B is also true.  Third, I stated that And-Implication meant that A implies B is true when A^B is also true.  In this way, I prepared to disseminate implication by describing the logical operator ^i (and-implication).
 
