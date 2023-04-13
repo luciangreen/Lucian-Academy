@@ -1,0 +1,35 @@
+["Green, L 2022, <i>Immortality 15</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 15
+
+Grammarly Premium:
+
+1. In the interpreter, append, etc., had intermediate preds to turn trace off and on.  I could turn this feature off.  If turned off, I could examine the workings of these predicates.  I could skip their traces if necessary.  I could trace usually hidden features such as maplist and foldl.
+2. I could assert predicates with bodies.  I also controlled trace (in-predicate display and flag) in terms of a predicate flag.  This flag was contained by an asserted rule.  It was depth_trace(Flag) where Flag=on or off.  Other flags were also rules.
+3. I sped up some predicates in C by converting Prolog to C.  Earlier, I wrote the entire interpreter in terms of List Prolog predicates.  This included interpret body, and was difficult.  There were many parts of the interpreter that could be written as List Prolog predicates.  I improved on the bad code, and rewrote the good code.
+4. I wrote a trace summary algorithm.  There were no commands in C, only List Prolog command predicates.  There were only parts of commands in C, such as type converters and verifiers.  Writing in List Prolog encouraged functional and dependency-thinking.  List Prolog here refers to Prolog, which is converted to List Prolog and run in SSI in C.
+5. I left converted strings as trees.  I converted the algorithm, which was a string, into a tree.  As mentioned earlier, I didn't only leave it in this form before running, but if it was the SSI or other algorithm, I converted its findalls, etc., and decomposed lists into comparisons or assignments in the algorithm.  In this, the interpreter faded as it was part of the algorithm.  It was a way of teaching about interpreters, showing how to run code most efficiently.  The interpreter didn't run the algorithm, rather the C interpreter did.
+6. Choice points were computed automatically by joining clauses together, using if-then in C.  In this way, Prolog was monadic, meaning it was like a sequence of if-then statements.  I sped up Prolog by converting it to C, deleting unused code, where code use was checked while running, and only deleted if no input (using random, user input or APIs) or the given input didn't cause it to run.  An archive of the code was reused if other given input needed certain code.  The repeat command was replaced with predicates, or a command.
+7. I considered writing a C interpreter which compiled into assembly language.  Separately, I tested List Prolog Interpreter and State Saving Interpreter after deleting unused code.  I turned off and highlighted singletons for deletion.  All underscore variables were considered.  I considered changing e.g. _A to _ if it saved time and was correct.
+8. When converting from Prolog to C if-then statements, instead of initialising output variables of a function to a value, initialise to undefined or ignore it when the output is set to _.  I kept a copy of the Prolog algorithm, which contained the simple logic, which could be converted to C for better performance.  There was a compile to C command in Prolog.  There was a performance improvement algorithm, which allowed editing out unused features.  It might edit the API or fix bugs, bottlenecks and security holes.
+9. I avoided using e.g. _A in a version because singletons should be called _ and are costly.  I produced a warning when a singleton, probably an output, wasn't _.  I identified the singleton as a single instance of a variable in a clause.  The code was understood to work.  Removing or renaming the singleton to be undefined would speed up the code.
+10. All data could be represented as numbers with types.  In C, I initialised all variables, and initialised variables to values if necessary.  I questioned setting arrays to [] (like empty lists).  I also invented a way of composing lists within lists using indices.  I wrote a way of embedding lists within lists using down and up characters, to save time going through multiple data structures.
+11. I didn't need types.  While first-year students preferred them to help learn programming, type checking could be done without explicit type checkers.  Whether C lists were made with \"->\" or single arrays, types were needed, except in a list of numbers.  For longer data structures, I recommended using tree arrays with some of these properties.  Prolog could model these data structures and convert them to C.
+
+12. I kept two tree arrays (one for numbers and lists and the other for atoms and strings) for lists to be more easily converted between Prolog and C.  In SSI, I converted variable bindings tables, globals, etc., to and stored them as tree arrays.  I decided in favour of bindings tables rather than C argument variables for educational clarity.  I converted the list values, etc., to tree arrays as soon as possible (I could table and reuse commonly converted items and collect garbage, or reference commonly used items once).  I made computer science general (like philosophy) in my departments.
+13. * I wrote reverse in List Prolog.  There was one set of predicates for forwards and backwards directions.  It could be used to change foldl to foldr.  I could get the last item in a list using append(_,[A],[a,b,c]).
+14. * foldr, intersection, delete, sort, subtract, atomic list concat, permutations in lp
+15. * 
+16. * 
+17. * 
+18. * 
+19. * 
+20. * 
+21. * 
+22. * 
+23. * 
+24. * 
+25. * 
+26. * 
+27. * 
+
+"]
+
