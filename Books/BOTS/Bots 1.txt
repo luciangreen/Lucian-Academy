@@ -3,24 +3,40 @@
 4*800-(16+80+80)/5=3165 sentence paragraphs
 3165/80=40 80s
 
-1. The bot transcribed the text.
-2. The bot was thanked for doing a good job.
-3. The bot wrote the scene.
-4. The bot measured the yield.
-5. The bot offered the bounty for help.
-6. The bot included instructions.
-7. The bot delivered the goods.
-8. The bot bought food.
-9. The bot cooked the food.
-10. The bot spiritually cared for the person.
-11. The bot discussed writing an algorithm with the person.
-12. I noticed how the algorithms developed, involving new methods.
-13. I noticed the new use of foldr, a customised predicate.
-14. I noticed commands to check types and modes.
-15. I could customise functional predicates by giving them new arguments.
-16. The new argument was reverse sort.
-17. I combined predicates in new ways.
-18. I wrote algorithms in this way.
-19. I wrote an interpreter in a few lines.
-20. I wrote an algorithm in a few lines.
+1. I finished the app by placing the file in the app, automatically finishing the code. The bot transcribed the text. I wrote the specification for the code I had written. I started the DevOps pipeline in the background. It alerted me if I had finished the code.
+2. I replaced the top level flag when writing a predicate with different predicates. The bot was thanked for doing a good job. If the code wasn't finished, the alert told me this. I ran continuous DevOps tests every two minutes while editing the algorithm. Even if I wanted to continue, I stopped when the code was finished.
+3. I focused on one program, predicate or line at a time. The bot wrote the scene. I tried different orders in diff combos to merge possible predicates. In addition, I tried different combinations of replacements of adjacent lines. Finally, I tried different combinations of parts of lines.
+4. I changed the diff combos algorithm in DevOps. The bot measured the yield. I focused on one predicate when it replaced another predicate.  I focused on one line when it replaced another line. I tried reordering items and tried different combinations of replacements of adjacent items.
+5. The bot offered the bounty for help. I wrote the question. I wrote the answer. I determined that the answer needed redrafting. So I offered the bounty for help.
+6. The bot included instructions. I examined the model answer. I substituted in my values. I found the answer. I wrote units, diagrams and verified the order of magnitude of th answer.
+7. The bot delivered the goods. I manufactured the goods. I packaged the goods. I sent the goods to an address. I confirmed receipt of the goods.
+8. The bot bought food. I wrote down the body's required foods. I modified for variety. I found the most delicious recipes. I bought fresh ingredients and made recipes.
+9. The bot cooked the food. I listed the food needed to cook. I wrote a GAANT chart with the cooking times for the food. There was one item to cook. I taste-tested the food.
+10. The bot spiritually cared for the person. I found the person. I took them to their destination. I asked them which food they would like. I gave it to them.
+11. The bot discussed writing an algorithm with the person. I am the bot. I asked what the person would like to program. The algorithm explored a rigorous aspect, such as logic or another formula. It had a use, such as web, editor or graphics.
+12. The bot wrote the chain of uses for an algorithm. I noticed how the algorithms developed, involving new methods. I developed skills to use particular commands. I wrote my own version of known commands. I learned how to write customised commmands.
+13. The bot found short cut commands. I noticed the new use of foldr, a customised predicate. I questioned why foldr was not in Prolog. I gave reversed input to foldl and called it foldr. I used the command with append and string_concat.
+14. The bot started concentrating on computer science by writing input and output in conjunction with types. I noticed commands to check types and modes. I wrote the command to check the type statements. I wrote the command to check mode statements. Types relied on modes, which we could have by themselves.
+15. The bot could customise functional predicates by giving them new arguments. The argument determined a sub-predicate. Or, it determined a sub-argument. I could write the predicate and call it with a functional call to an intermediate predicate. I divided the predicate into different functions, and called them functionally.
+16. The bot determined that the new argument was reverse sort. I wrote reverse(sort(list)). I used a typing predictor, and pressed tab to accept a suggestion. I found all results and placed them in n lists. There was a command to find unwanted non-deterministic results and convert code to C.
+
+17. The bot wrote its own software. I combined predicates in new ways. I listed the commands in both predicates. I wrote their types. I combined combinations of commands, converting output from one into input in another.
+18. The bot inserted functional cut, which only affected the not, findall or if-then clause. I wrote algorithms by combining predicates in new ways. I could combine parts of predicates together to give certain output. I could combine parts of predicates together mimicking hierarchies of methods, for example modifying List Prolog code by converting it to a Finite State Machine and making one of a number of changes and converting it back. Or, I could find the best combination of changes to lines found with diff.
+19. The bot simplified the interpreter using constraint propagation. I wrote an interpreter in a few lines. I wrote the input and output, for example 1 and 1, and 2. I wrote the algorithm C is A+B. I wrote an interpreter to compute this.
+20. The bot wrote separate algorithms that had different functions. I wrote an algorithm in a few lines. I eliminated if-then clauses using constraint propagation. In addition, I eliminated findall clauses using constraint propagation. Moroever, I eliminated unnecessary not clauses using constraint propagation.
+21. I diffed (sic) a line by splitting it into one character per line. I wrote the new methods within new methods for writing an algorithm. I started with the first new methods. I meditated and wrote algorithms that had these new methods in them. When I had written a required method, I wrote the new algorithm.
+22. The bot helped create a new method in programming.
+I tracked new methods with time. I wrote down the new methods in the algorithm. I could work out any combination of 8 commands and variables with Combination Algorithm Writer (CAW) = 8! = 40,320 possibilites to test, and I could test 16 changes with DevOps = 2^16 = 65,536 possibilities to test. As well as testing for combinations of lines and characters, I computed to concatenate closing brackets at the end of tested function names.
+23. The bot wrote the debugger, helping them write in a positive-functional manner. I used a mind-reading debugger, which rewarded me for thinking of alternative thoughts and letting me write the debugger. Instead of "taking my point" and telling me the answers or not letting me learn, the debugger provided spirital practica so I could pedagogically mind map details when debugging. I found myself having conversations with it, which could be done with neuronetworks, about new features and ways of tackling the problem. Just as writing a program to find a mathematical result enabled neuronal development and neuroplasticity, writing the debugger familiarised me with algorithm and debugger algorithm-level methods for debugging.
+24. The bot was mindful of intellectual property and learning while developing. I wrote the algorithm finder for the algorithm, to configure the algorithm differently. I wrote new options to call the algorithm with, running different features. I wrote modules that could be plugged in. I could quickly generate an algorithm that performed the task.
+25. The disabled bot preferred using new predicates wherever possible, with descriptive names. The person wrote a style sheet for the way they wrote algorithms, for example unique names, indenting and choice of synocommands (sic). The person chose appropriate names for predicates and variables, allowing for the specific style of the algorithm. They indented using tabs in longer algorithms and a space for educational algorithms, which could be read more quickly by disabled learners. I used foldr append as a shortcut for append list.
+26. The bot tested that instructions matched the program. I wrote instructions for writing instructions for using an algorithm, for example preparing, running and a walkthrough. I explained how to install and register a password if necessary. I explained how to run the algorithm with examples. I explained how to use the algorithm, explaining the input and output at each step.
+27. The bot varied the description of variables with one variable (per variable) per line. I wrote instructions for running an algorithm in the same format, with labels for inputs and outputs and examples. For example, I used the format predicate(+In1, +In2, -Out), where + denotes an input and - denotes an output. Then, I explained that In1 had the type [string1,{number1}], for example ["a",[1,2,3]].  I labelled string1 as the name and number(s)1 as the scores.
+28. * The algorithm presented useful statistics about the programming session, such as the number of new methods and suggestions such as registering repositories called from the repository. I 
+The person provided feedback about whether the instructions were clear, could have more detail, or needed troubleshooting advice.
+I wrote instructions for writing new methods, for example I wrote a C-code generator to call from within Prolog.
+I gave positive feedback about the new method using a grammar in C.
+I wrote the best method, a combination of string_concat and append.
+I found the modes throughout the algorithm, debugging mode errors.
+I verified that the predicate was customised, and that it didn't have unnecessary constants in it.
 "]
