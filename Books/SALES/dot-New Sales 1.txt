@@ -35,7 +35,7 @@ New Sales 1
 31. The salesperson needed to cover costs. I compiled possible prices. I considered product costs and what the buyer was willing to pay. The cost could influence the price. I listed the components and complete package prices from lowest to highest.
 32. The salesperson asked shareholders whether they wanted to receive share value or dividends. I gave the profits to the shareholders. I paid the costs. I divided the franked dividends among the shareholders. The shareholders choose whether to receive share value or dividends.
 
-33. I sold old goods to clear them.
+33. * I sold old goods to clear them. 
 34. I could use the money from sales.
 35. I checked the cost (how much it cost to manufacture).
 36. I checked the price (how much it would be sold for).
