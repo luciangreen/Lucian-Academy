@@ -35,22 +35,24 @@ New Sales 1
 31. The salesperson needed to cover costs. I compiled possible prices. I considered product costs and what the buyer was willing to pay. The cost could influence the price. I listed the components and complete package prices from lowest to highest.
 32. The salesperson asked shareholders whether they wanted to receive share value or dividends. I gave the profits to the shareholders. I paid the costs. I divided the franked dividends among the shareholders. The shareholders choose whether to receive share value or dividends.
 
-33. * I sold old goods to clear them. 
-34. I could use the money from sales.
-35. I checked the cost (how much it cost to manufacture).
-36. I checked the price (how much it would be sold for).
-37. I checked the product's sales.
-38. I gave the task of checking to the appropriate person.
-39. I priced the product.
-40. I entered the product in the competition.
-41. I conducted business to help a person.
-42. I competed for results.
-43. I checked the product.
-44. I tested which product best achieved the result.
-45. I tested what customers reacted to.
-46. I experimented in the sales lab.
-47. I checked use of money.
-48. I checked the rate of spending and saving.
+33. The salesperson sold for a good price. I sold old goods to clear them. I checked that the old goods were in proper condition. I advertised them for sale. I sold them to an early buyer.
+34. The salesperson prepared for the next sales cycle. I could use the money from sales. I invested the money from sales. There were some costs. I spent money on wages, accreditation and computer costs.
+35. The salesperson worked on open-source software. I checked the cost (how much it costed to manufacture). I explained that the cost was the cost to manufacture and the price was the price to sell. I checked that I had enough money to manufacture the product. I supplied enough information products.
+36. The salesperson and customers were necessary. I checked the price (how much it would be sold for). I found the price, based on the cost. I also factored in the competition's prices. I also considered ways of making money to cover other costs.
+37. The salesperson read all about the person and their strengths. I checked the product's sales. I checked the unit sales for the period (where unit means the product). I monitored the sales, and saw ways of helping. I put on more staff, helped with customer service and helped with supplies.
+38. The salesperson memorised and checked service criteria. I gave the task of checking to the appropriate person. The person checked the product quality. In addition, they checked for enough supplies. Finally, they checked the premises were tidy and well-presented.
+39. The salesperson undertook training. I priced the product. As a seller, I also bought supplies. I priced the product based on the cost of the supplies. I was aware that a professional buyer needed training.
+40. The salesperson sold more prize-winning products. I entered the product in the competition. I found the appropriate category in the competition. I entered the product in the competition. I tried with the entry, and recorded the result.
+41. The salesperson discussed the question with the manager. I conducted business to help a person. I settled on the person to help. I discussed their needs, such as an eduction product. I taught the person and the cost was covered by funding.
+42. The salesperson collected the sales points, the most rigorous philosophies. I competed for results. I wrote the most rigorous philosophies. These included many simple algorithms. It was possible to discuss a simple idea in the essay about them.
+43. The salesperson checked the overall necessity of the project. I checked the product. I checked that all the students in the class were familiar with all the commands in the algorithm. I tested whether they could work out the combination of commands themselves. If there was a specific requirement in the project, it needed to be both different and necessary looking enough.
+44. The salesperson listed the performance criteria of the test. I tested which product best achieved the result. I listed the candidate products. I tested them against the hypothesis. I scored and ranked them.
+45. The salesperson found the wording of questions, the question format and feedback format that the customer responded to. I tested what customers reacted to. The customers needs ranged from sustenance to intellectual and personal. They required intellectual stimulation in the form "what is it?", rather than "is it right?". The helper algorithm, written by the student, got faster as staged output followed by inputs were automatically translated into code.
+46. The salesperson made a 3D sales pitch game. I experimented in the sales lab. I wrote movie and 3D game generators. I started with 2D bitmap graphics. I focused on the characters' 3D models, and the way they moved. I made a 3D educational game in which players moved around mazes, making maps on pieces of paper as they went.
+47. The salesperson spent on the new technology. I checked the use of money. I listed the uses for money. I took out unnecessary costs. I spent more on sustainable products.
+48. The salesperson helped contribute to costs. I checked the rate of spending and saving. I spent $A. I saved $B. The return on my savings helped pay for my costs.
+
+***
 49. I reacted to customers.
 50. I conducted product research.
 51. I researched the competition.

@@ -1,0 +1,28 @@
+Education on Pedagogy 1
+
+1. * I considered whether the formula reflected the point of the algorithm.
+2.
+
+1.
+  DION: Line 22 returns whether Line1 contains two h's (two short handles % Tests whether  or two h's (two short handles).
+  ALEXIS  carryable(Line) :- %% Returns whether the first line has one long (two or more) h's (one long handle) or two h's (two short handles (Line1, Item1) :- %% Determines whether Line1 contains a line of at least            line(Line, h).
+   ALEXIS Line they have one long (two or more) h's (handles) at the top DION: Two uses are correct because of the comparison of nature, which is correct because the subject should morally evaluate the person's two uses.
+   ALEXIS  twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short handles % Tests that h is a member of Line1.
+   ALEXIS         carryable(Firstline), %% Tests whether Firstline is carryable (the first line carry  return true?.
+ 
+2.
+  DION: Line 19 determines whether Line1 contains a line of at least %% Deletes the first instance of h in Line   logically connected breasonings.
+      twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short one long handle) or two h's (two short handles) and can stand, that is the last line has a horizontal line of at least  that h is a member of Line1.
+  	ALEXIS         carryable(Firstline), %% Tests whether Firstline is carryable subject should be sharp and short.
+      twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles   twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short  the first line has one long (two or more) h's (one long handle) or two h's (two short handles) and can stand, that is the last line has a horizontal line of at least            line(Line, h).
+      twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles % Tests whether Lastline can stand (the last line )).
+ 
+3.
+   ALEXIS  twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short  pan to empty the material onto the plate).
+      twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles That is, the first line  object is shown to carry ' '))) return true?.
+   ALEXIS         carryable(Firstline  ',' ',p, h, h),.
+      twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short            line , p, p,' ',' '))) return true?.
+     ALEXIS 	ALEXIS  handle) or two h's (two short p, p))) return true?.
+ 
+4.
+  DION: The subject shouldn't forget speech's handles (memory of text) (where the subject asked why you don't just speak without text, for the sake of argument, like identifying that speech has handles % Tests whether  reviewer reviewed the article, like the subject being able to see the object's top  First, I knew about the two uses.
