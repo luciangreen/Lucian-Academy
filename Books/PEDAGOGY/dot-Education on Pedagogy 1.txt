@@ -1,28 +1,18 @@
 Education on Pedagogy 1
 
 1. * I considered whether the formula reflected the point of the algorithm.
-2.
-
-1.
-  DION: Line 22 returns whether Line1 contains two h's (two short handles % Tests whether  or two h's (two short handles).
-  ALEXIS  carryable(Line) :- %% Returns whether the first line has one long (two or more) h's (one long handle) or two h's (two short handles (Line1, Item1) :- %% Determines whether Line1 contains a line of at least            line(Line, h).
-   ALEXIS Line they have one long (two or more) h's (handles) at the top DION: Two uses are correct because of the comparison of nature, which is correct because the subject should morally evaluate the person's two uses.
-   ALEXIS  twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short handles % Tests that h is a member of Line1.
-   ALEXIS         carryable(Firstline), %% Tests whether Firstline is carryable (the first line carry  return true?.
- 
-2.
-  DION: Line 19 determines whether Line1 contains a line of at least %% Deletes the first instance of h in Line   logically connected breasonings.
-      twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short one long handle) or two h's (two short handles) and can stand, that is the last line has a horizontal line of at least  that h is a member of Line1.
-  	ALEXIS         carryable(Firstline), %% Tests whether Firstline is carryable subject should be sharp and short.
-      twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles   twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short  the first line has one long (two or more) h's (one long handle) or two h's (two short handles) and can stand, that is the last line has a horizontal line of at least            line(Line, h).
-      twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles % Tests whether Lastline can stand (the last line )).
- 
-3.
-   ALEXIS  twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short  pan to empty the material onto the plate).
-      twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles That is, the first line  object is shown to carry ' '))) return true?.
-   ALEXIS         carryable(Firstline  ',' ',p, h, h),.
-      twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short            line , p, p,' ',' '))) return true?.
-     ALEXIS 	ALEXIS  handle) or two h's (two short p, p))) return true?.
- 
-4.
-  DION: The subject shouldn't forget speech's handles (memory of text) (where the subject asked why you don't just speak without text, for the sake of argument, like identifying that speech has handles % Tests whether  reviewer reviewed the article, like the subject being able to see the object's top  First, I knew about the two uses.
+2. I connected the start of the algorithm to its formula.
+3. The objects rhetorically represented the philosophy.
+4. I tested that the member of the list was valid.
+5. I queried the property of the data.
+6. I deleted an item from the list of logical terms.
+7. I checked that the list member was a member of another list.
+8. I tested whether the property had a certain property.
+9. I turned the overlapping regions into a single region.
+10. I used the idea with the necessary properties and one unusual feature.
+11. I prepared the stages before running the process.
+12. I determined that it was true that the object contained a hole.
+13. I read the function of the item at the top of the page.
+14. I used two subjects to test communication about truth.
+15. I found truth in the short essence.
+16. I memorised the main point and worked out its two uses.
