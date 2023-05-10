@@ -50,6 +50,9 @@ I tracked new methods with time. I wrote down the new methods in the algorithm. 
 42. The bot cut some of the loose choice points. The algorithm answer on the forum was new. I checked for the same or similar questions. I checked whether their answer already existed or was new. For example, I put if-then antecedent or not clauses in a separate predicate with cut at the end.
 43. The bot wrote a time out to remove loops he was suspicious were infinite loops. I verified that an input was not a variable (A=_). I queried whether the free variable expression could be simplified and infinite loops eliminated. A professor said they would still be processed in Prolog. It might work in Haskell.
 
+44. The bot removed an infinite loop in the middle using constraints. I multithreaded continuously integrating blocks of code. The blocks went through pipelines. The blocks were useful because they could be saved. I could skip over wrong blocks.
+45. 
+
 The bot bought food  food  new methods.   I noticed how the algorithms developed, involving new methods  for help  was thanked for doing a good job  customised predicate. 
 10.   The bot transcribed the text  new methods I noticed how the algorithms developed, involving algorithms developed, involving new methods.   The bot offered the bounty for help I noticed how the algorithms developed, involving new methods  included instructions.   I noticed how the algorithms developed, involving new methods  for help  cooked the food  new methods.   The bot was thanked for doing a good job The bot measured the yield  new methods.   The bot offered the bounty for help The bot transcribed the text  new methods. 
 11.   I noticed how the algorithms developed, involving new methods  good job   I noticed how the algorithms developed, involving new methods  the person.
