@@ -1,18 +1,18 @@
 Education on Pedagogy 1
 
-1. * I considered whether the formula reflected the point of the algorithm.
-2. I connected the start of the algorithm to its formula.
-3. The objects rhetorically represented the philosophy.
-4. I tested that the member of the list was valid.
-5. I queried the property of the data.
-6. I deleted an item from the list of logical terms.
-7. I checked that the list member was a member of another list.
-8. I tested whether the property had a certain property.
-9. I turned the overlapping regions into a single region.
-10. I used the idea with the necessary properties and one unusual feature.
-11. I prepared the stages before running the process.
-12. I determined that it was true that the object contained a hole.
-13. I read the function of the item at the top of the page.
-14. I used two subjects to test communication about truth.
-15. I found truth in the short essence.
-16. I memorised the main point and worked out its two uses.
+1. The pedagogue worked bottom-up to find new algorithms. I considered whether the formula reflected the point of the algorithm. I wrote the point of the algorithm. I wrote the formula for this. I completed the algorithm.
+2. The pedagogue found the uses for uses, and their algorithms. I connected the start of the algorithm to its formula. I found the formula. I found its use. I found more of these top-down.
+3. The pedagogue matched nonmonotonicities (differences) between the object and the philosophy to parts of each other. The objects rhetorically represented the philosophy. I checked the philosophy against the objects. I checked the object. I checked the philosophy.
+4. The pedagogue checked that the module's output was valid. I tested that the member of the list was valid. I found whether the algorithm could accept plug-ins. I checked the documentation. I checked whether the code had functional calls and could "reach" using intermediate predicates to other predicates.
+5. The pedagogue checked the data's validity compared with the program. I queried the property of the data. The data was the input and output of a predicate. I checked that the data didn't have an operator expected error. I checked that the individual items were correct and present.
+6. The pedagogue tried a smaller set of data first. I deleted an item from the list of logical terms. I minimised the deterministic finite automaton (DFA). Separately, I solved a bottleneck bug. In addition, I wrote a command that deleted certain previous choice points.
+7. I regularly mind read my thoughts to test for logical accuracy. I checked that the list member was a member of another list. I stored the spiritual and immortal items. I checked that the item was a spiritual item. I checked that the people could use the text to breasonings algorithm.
+8. The pedagogue tested all functions present. I tested whether the property had a certain property. The property was correctness. The sub-property was necessity. I tested each function of the algorithm.
+9. The pedagogue found the skills each student had. I turned the overlapping regions into a single region. I listed the possible overlapping parts of each shape. I attempted to fit the shapes together. I cut off the overlapping regions.
+10. The pedagogue read the reseach first. I used the idea with the necessary properties and one unusual feature. I wrote the argument. I found a new angle. I compared this with the texts.
+11. The pedagogue tested each combination of changes, in the hierarchy of characters and lines in a predicate and predicates. I prepared the stages before running the process. I completed all the programming first. I competed all the debugging. Then I ran the program.
+12. The pedagogue inserted a string into a hole, creating a knot. I determined that it was true that the object contained a hole. The shape was compressed. If two paths met each other and tightening the loop crossed a void, there was a hole. Tightening this loop should produce a single point if there is no hole.
+13. The pedagogue checked the end-points of the features of the predicate and checked the data against them. I read the function of the item at the top of the page. I found the base case in the loop. I traced the algorithm backwards, testing each combination of changes affecting the data processed by parts of the predicates and the predicates on the way. The data processed by the parts of the predicates was found by tracing the data through the predicate, testing character and line changes, possibly tracing through base cases of loops in the predicate.
+14. The pedagogue asked whether the IQ score allowed for making things up (CQ?). I used two subjects to test communication about truth. I found the mathematical definitions of the predicate features. For example, I found the way to perfectly process a string with a series of append commands. I worked out how to capture a result in the search net.
+15. The pedagogue multiplied the length examined by a factor of 10 to check it. I found truth in the short essence. How intelligent was it? I found the number one, the 4*50, the copywriting for the algorithm. I judged and synthesised the discoveries.
+16. The pedagogue used the framework to check the ideas. I memorised the main point and worked out its two uses. I believed the memories were the neurons (the synapses).  I naturally thought of the significance of the thought. I used thoughts as peg holes to remember ideas.
