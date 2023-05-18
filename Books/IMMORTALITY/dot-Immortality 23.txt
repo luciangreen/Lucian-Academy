@@ -17,21 +17,22 @@ Immortality 23
 15. The immortal deserved copywriting for writing breasonings. I wrote on Immortality. I asked for medical treatment with 250 breasonings. I completed this request with copywriting. I considered asking for pedagogy with 250 breasonings and copywriting.
 16. The immortal mind-read dependencies of skills and mind-projected necessary psychologies to help with them. I wrote on the Lecturer. I wrote education texts on each subject. These were the skills of the areas of study. They were the practica for high distinctions.
 
-Mathematics
-Medicine
-Meditation
-Mind Reading
-Pedagogy
-Politics
-Popology
-Replication
-Sales
-Short Arguments
-Simulation
-Societology
-Theology
-Time Travel
-
+17. The immortal made three changes at a time, with eight combinations of changes to test. I wrote about Mathematics. I tested all combinations of the changes to predicates and algorithms together. There should be fewer than 16 changes, with an error otherwise, where more than 16 changes resulted in testing the result itself. I accepted the first working, most straightforward change set.
+18. The immortal identified the bottleneck and solved it. I wrote about Medicine. I dispensed with individual predicate tests because intra-predicate and inter-predicate changes were inseparable and interdependent. On another note, I created data structures with logic and logical structures. I kept the combinations that worked with the unit tests for further testing.
+19. The immortal identified and tested sets of changes to test in the whole algorithm. I wrote about Meditation. I wrote the feeder algorithm for the small number of changes to test simultaneously. The programmer separated changes into individual lines. I used Combination Algorithm Writer (CAW) or a neuronetwork to find the necessary combination of lines.
+20. The immortal identified the need for pattern matching or new fundamental parts. I wrote on Mind Reading. I used CAW to generate if-then clauses. If-then involved multiple predicates. They could have cuts.
+21. The immortal split the predicate into lines to find the best changes. I wrote on Pedagogy. I wrote pattern matching for strings. I split the string into character strings. On another note, if there were duplicate lists to find combinations from, the algorithm found no combinations, assuming the algorithm wouldn't suggest duplicates - therefore, state machines were more appropriate to find differences between them.
+22. The immortal pretty printed the List Prolog and found the differences. I wrote on Politics. I could manipulate the lines of the state machine without line numbers and add the line numbers afterwards. So, I could find all the differences between the two algorithms in state machine form, with line numbers replaced with variables. Instead, I divided List Prolog or Prolog algorithms by return characters without worrying about predicates.
+23. The immortal used List Prolog in pretty printed form to delete unnecessary spaces. I wrote on Popology. I put file dividers into other files. I converted the sets of algorithm files into a single file with file dividers. Then, I compared this file like this with another and divided the finished file into files before saving them.
+24. The immortal ran pipelines when necessary after changes. I wrote on Replication. If the tests failed, I reported the tests that failed with the current final file. This report included the repositories depending on the changed repositories. In addition, I could edit source files, they would be the new initial files, and I would test these.
+25. The immortal extended, not replaced, the verification algorithm to form the algorithm, helping write tests. I wrote on Sales. I helped write tests by verifying data. I also verified the values. I converted the verification algorithm into the algorithm, which helped stabilise the algorithm.
+26. The immortal converted the type statements into code, detecting common symbols and finding commands using neuronetworks. I wrote on Short Arguments. I wrote type statements. I defined the bottom-level values. If they were functional, I agreed.
+27. The immortal wrote a DevOps system that merged changed parts of the code, built the depending apps and tested that they functioned correctly with the unit and other tests. I wrote on the Simulation. I compared predicates separately from lines in case some lines were the same. I could do them together. I deleted duplicate clauses. I checked for clauses that were not together with others with their name and arity.
+28. The immortal finally approved the files, saving them, which made them ready for uploading. I wrote on Societology. I kept the first and shortest working combination of changes because it worked and tested the tests true. If the produced code was incorrect or incomplete on inspection, the tests may need changes, deletions or additions. Because I hadn't made the final approval, I could change the tests, for example, by adding negative tests (to fail given a condition) or by testing an added feature.
+29. The immortal looked at diff reports of developers' code and the build code. I wrote on Theology. I could view the changes between the uploaded and the code to be uploaded. I checked that necessary code was not missing. In addition, I checked that comments and other important data were not missing.
+30. The immortal  I wrote on Time Travel. I manually inserted comments and needed parts of the code. In addition, I checked that code constructed by adding and removing lines delimited by the newline character didn't have an operator expected error by catching errors. Finally, I queried the value of deletions; for example, when I modified a comment, I could delete it.
+31. The immortal chose the best changes. First, I wrote lists of items to complete. Then, I wrote the possible changes. Or, I wrote the item stayed the same. Then, I wrote the potential changes to test.
+32. The immortal agreed with development operations. First, I wrote a note describing the benefits of DevOps. Then, I wrote the algorithm in fewer steps. In addition, I ran tests on the code, line by line, to ensure accuracy. Finally, I ran tests regularly, testing all the repositories' accuracy.
 
 use to do folder, Gmail, tbroker
 
@@ -41,7 +42,7 @@ Lucian CI/CD
 Seek.com.au Software Developer 2
 I worked on Human Resources very well in the holidays for Lucian Academy.
 I worked on Marketing well in the holidays for Lucian Academy.
-I worked on Sales fantastically in the holidays for Lucian Academy.
+I worked on Sales, especially in the holidays for Lucian Academy.
 DevOps
 Continuous feedback process in DevOps
 Seek.com.au Software Developer 3
@@ -105,7 +106,7 @@ I can teach students online and in person at my philosophy academy.
 I can tutor primary and secondary students in the homework-help club.
 I avoided unclear thoughts while studying by relaxing.
 Work without the mantra or effort
-Recordings and lecturer skills necessary for earning high distinctions with the text to breasonings algorithm can be ordered with copywriting for each.
+Recordings and lecturer skills are necessary for earning high distinctions with the text to breasonings algorithm can be ordered with copywriting for each.
 I can move from strength to strength, saving effort in meditation.
 I can relax and live longer by paying a small fee for meditation.
 I can relax and think about paying a small fee for mind reading.
@@ -116,9 +117,10 @@ I can achieve my educational goals by paying a small fee for pedagogy.
 Royal treatment
 I wrote on human resources during my MBA to help me build networks.
 I wrote on sales during my MBA to help me build networks.
-I wrote on business during my MBA to help me build networks.
+I wrote about business during my MBA to help me build networks.
 I will be highly distinguished for GSBS6005Marketing Management and Planning (T2 2023 ONLINE).
 
-80. *
 
- find last point in imm 1 as basis
+ find the last point in imm 1 as the basis
+
+32. *
