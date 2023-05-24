@@ -1,0 +1,24 @@
+Medicine of Pedagogy 1
+
+1. The medicine student sorted the items without removing duplicates. I found whether the line contained the first items in the other lines. I found the first item in each line. I sorted them. I sorted the items in the main line, determining they were the same.
+2. *
+
+  DION: Line 15 determines whether Line1 contains a line of at least        deletefirst(Line1, h, (), Line  short ' '))) return true?.
+   That is, the first line has one long (two or more) h's (one long handle) or two h's (two short handles   twouses1(Image) :- %% Returns true if Image contains an object that has handles  two uses).
+   They can stand if they have a horizontal line of at least        deletefirst(Line1, h, (), Line  to carry ',' ',' '))) return true?.
+      twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short handles   twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles)) and can stand (the last line has horizontal line  like the subject being able to see the object's top  30.
+ 
+5.
+   %% Returns whether the first line has two h's (two short handles  of at least   deletefirst(Line2, h, (), _Line3).
+  DION: Line 22 returns whether Line1 contains two h's (two short handles   twouses1(Image) :- %% Returns true if Image contains an object that has handles a reviewer reviewed the article, like the subject being able to see the object's top  should intertwine two uses with each frame.
+  ALEXIS Line 10 returns whether the first line has one long (two or more) h's (one long handle) or two h's (two short handles the subject being able to see the object's top  program is functional.
+   The subject can carry them if they have one long (two or more) h's (handles) at the top or two short            line  the bibliography, like tilting the pan to empty the material onto the plate).
+  	ALEXIS: This Two Uses algorithm returns whether the saucepan, pot or frying ALEXIS: The subject should remember text as speech's handles  '))) return true?.
+ 
+6.
+     ALEXIS Line 22 returns whether Line an animation in which an object is shown to carry true?.
+   ALEXIS  twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short handles  Returns whether the first line has one long (two or more) h's (one long handle) or two h's (two short handles   twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles)) and can stand (the last line has horizontal line of at least two p's (pan)).
+  DION: Line 22 returns whether Line1 contains two h's (two short handles   twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles)) and can stand (the last line shouldn't misunderstand the review (where the subject included the review in the bibliography, like moving the pan onto the heat).
+     ALEXIS  h's (handles) at the top or two short h's at the top writers in the exposition.
+      twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short handles That is, the first line has one long (two or more) h's (one long handle) or two h's (two short handles %% Determines whether Line contains a line of at least   deletefirst(Line2, h, (), _Line3).
+ 
