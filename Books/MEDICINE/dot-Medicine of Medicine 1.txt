@@ -25,7 +25,10 @@ if one phil's alg changes other algs may change
 
 rewrite phil from new alg
 
+check dependencies align with code
+
 8.
+
 
  
 11.
