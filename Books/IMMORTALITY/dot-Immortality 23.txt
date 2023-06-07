@@ -68,17 +68,24 @@ Immortality 23
 63. The immortal only kept intelligent systems they had written. I was skilled in visualisation. I created the simulation of the algorithm in virtual reality. In augmented reality, I controlled bug checking like grammar checking using my mind. Also, I played game versions of my algorithms in augmented reality to balance help and intellect.
 64. The immortal helped others they met with specific questions. I exhibited grit. Through trial and error, I found the pedagogical essay format, algorithm discoveries and the way to be immortal. The immortal wrote a diary of breasonings (algorithms). They wrote 80 arguments and 80 algorithms per week.
 
-<li>Candidates will have experience with Prolog.  </li>
-</ul>
+65. The immortal had experience with Prolog. I summarised what I had done in five years, and what I would do later. In the first two years, I created List Prolog Interpreter, Mind Reader and Music Composer. In the next two years, I created Essay Helper and Philosophy. In the next two years, I created Lucian CI/CD.
+66. The immortal worked on Human Resources for Lucian Academy. I stated that As (a database) and money (growth) were no object. I looked at the production studio. The products had to be smart enough. I worked on the academic's child's mind map.
+67. The immortal sold everything. I worked on Robot Resources for Lucian Academy. I built a robot.  Was it electronic water? The VR/AR headset allowed me to prepare for the future and mind map changes to my algorithms.
+68. The immortal easily set up mind reading. I worked on Marketing in the holidays for Lucian Academy. Together with Human Resources and Sales, if I worked on Marketing every holiday and study period until graduation, I would receive support with these in business. Someone asked if I was tired of the thoughts thought, and wanted to buy a database. Instead, I wrote 4*50 As for a product category and then 80 breasonings per day I used it after this.
+69. The immortal tried teaching people, with 4*50 As for developed things. I wondered if accreditation was a chatbot integrated with mind reader. I noticed the acting company had acting developed things. I wondered if they noticed them. In philosophy, the details were for developed things, all examinable, where I was corrected about the thoughts being positive.
+70. The immortal professor gave 4*50 As to each thought in academia, by setting up the chatbot with mind reader. I didn't go past anything, and gave the high quality thoughts 4*50 As, or copywriting. I gave keeping it there in immortality 4*50 As. I went through my daily regiment and gave everything 4*50 As. The developed things were interesting in themselves.
+71. The immortal kept up to date with others. I concluded with producer developed things and breasonings after meditating each day. I thought in my sleep. I had lovely dreams. I replied to an article about CI/CD which reminded me of Lucian CI/CD.
+72. The immortal queried why the program ran out of memory, and converted it to C. I worked on Sales for Lucian Academy. I tested for performance. I tested for speed. I tested for memory use. I found and solved bottlenecks and used optimisations.
+73. The immortal developed a DevOps algorithm. I used an algorithm that processed and got tests from files using append. I used it with practice test formats to find different kinds of tests in source files. Users could customise the list of types of tests. I wrote an algorithm that could test C algorithms from Prolog or run List Prolog testing algorithms in Lucian CI/CD.
+74. The immortal intercepted predator and unfinished thoughts and listened to the animals. I wondered what it would be like to give each animal immortality. I mind read the animal and gave it 50 As per day, with qualifications to help its appearance and quality of life. I conversed with the animals and helped them with pedagogy, some doing it themselves. I dived in with the back of my hands together.
+75. The immortal developed the continuous feedback process in DevOps. Only the top is allowed it. No one is God, but they might have had their own complete thoughts. I was satisfied with 4*50 As, which is a long book, for a department. The others, the 50 As books could be departments with enough details. 
+76. The immortal experienced the birth of thought by writing the Haskell interpeter. I simulated the user feedback. There was a negative result test. There were user interface, cognitive product and intuitiveness tests. Even randomness had to be treated sentiently and not get in the way.
+77. The immortal covered philosophy and computer science in the performance. I played myself, a software developer. I simulated the device to test for compatibility. I wrote my own operating systems and CPUs. The CPU could be created using quantum computers or I could print one. This required a printer with certain element inks.
+78. The immortal recommended to keep text notes recording one's thoughts. I stated that Lucian Academy is a software firm with 10 years' experience in the field of open-source software development. I established the company and started writing algorithms ten years before. I tested accessibility of an algorithm. I wrote everything in text, representing colours, images and difficult to find information at one's fingertips or in text.
+79. The immortal tested the installer and way to save data between installations. I had exceptional problem-solving skills. I wrote the visual testing tool. I wrote an interpreter that returned screenshots of the terminal. I could test menu systems. I could test games. I tested my typing speed, improving my accuracy.
+80. The immortal saved the breasonings dictionaries and thesaurus file. I had a philosophy of never being too old to learn. I saved data between algorithm updates. I used the data file with an algorithm I downloaded. I saved the data file, updated the algorithm and reloaded the data file.
 
-I worked on Human Resources very well in the holidays for Lucian Academy.
-I worked on Marketing well in the holidays for Lucian Academy.
-I worked on Sales, especially in the holidays for Lucian Academy.
-DevOps
-Continuous feedback process in DevOps
-Seek.com.au Software Developer 3
-
-Lucian Academy is a software firm with 10 years' experience in the field of open-source software development. As the CEO, I'm searching for candidates who exhibit exceptional problem-solving skills, have a philosophy of never being too old to learn, and also have a drive to produce high-quality code to accomplish a variety of projects. I might be the boss, but the people who work for me and I have to be a team to reach our goals. Candidates should be able to visualise both end results and processes for getting there while being persistent toward any current goals. They also must be honest, have integrity, and communicate openly and forthrightly.
+, and also have a drive to produce high-quality code to accomplish a variety of projects. I might be the boss, but the people who work for me and I have to be a team to reach our goals. Candidates should be able to visualise both end results and processes for getting there while being persistent toward any current goals. They also must be honest, have integrity, and communicate openly and forthrightly.
 
 I wrote about time travel, helping me stand back and take in life-saving information, such as travelling to a distant simulation and increasing my longevity.
 After graduating from Melbourne University, I wrote about medicine, specialising in spiritual medicine to help prevent headaches, avoid viruses and benefit from quantum science.
@@ -159,4 +166,4 @@ I will be highly distinguished for GSBS6005Marketing Management and Planning (T2
 
 use to do folder, Gmail, tbroker
 
-64. *
+80. *
