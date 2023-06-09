@@ -53,13 +53,21 @@ New Sales 1
 48. The salesperson helped contribute to costs. I checked the rate of spending and saving. I spent $A. I saved $B. The return on my savings helped pay for my costs.
 
 ***
-49. I reacted to customers.
-50. I conducted product research.
-51. I researched the competition.
-52. I competed for sales.
-53. I checked for prospects.
-54. I checked for qualified leads.
-55. I competed by checking.
-56. I checked published prices.
-57. I checked similar products.
-58. I replaced the product with a similar product.
+49. The salesperson and customer listened to each other's specification and answers to frequently asked questions, respectively. I reacted to customers. I listened to the customer's specification for what they wanted. I estimated delivery. I delivered the product.
+50. The salesperson helped the customer with buying, using and possibly returning the product. I wrote the answers to the frequently asked questions. I listened to the customer's question. I wrote the answer. I wrote answers to frequently asked questions for others.
+51. The salesperson checked the function, user friendliness, feasibility and cost of the product. I conducted product research. I found the specification. I built a prototype product. I tested the product with people.
+52. The salesperson also checked the tim and cost of testing. I investigated the feasibility of the product. I checked its development time. I checked its manufacturing time. I checked the cost of development.
+53. The salesperson modified the test reader to work in other languages, such as with standard out (output to the terminal window) in C. I researched the competition. I experimented with converting non-Prolog source files into List Prolog to procure commented-out tests. This was possible in C, etc. I could modify the test script to run the tests in the interpreter in the other programming language.
+54. The salesperson tested code in other languages. I wrote the code in C. I wrote the correct output in a file. I tested that the program's output and the correct output were the same in Shell. This program was in Prolog.
+55. The salesperson wrote the neuronetwork to work out algorithms and breasonings. I competed for sales. I pitched to the client. The client chose one of the salespeople. This was a round-robin tournament.
+56. The salesperson wrote the command line option more memory for the interpreter. found the short-cut neuronetwork that really found the if-then relationships in the data. In fact, I found the thoughts of the stone. I wrote down As from the perspectives of the crystals. I critically analysed the animal.
+57. The salesperson sold meditation classes to school, gyms and industry. I checked for prospects. I listed the methods of contact. I listed the prospect. I contacted the prospect.
+58. The salesperson was bigger. I considered promoting my immortality time machine. It worked for meditator-pedagogues. It was essential in the army, psychiatric wards, hospitals, workplaces and universities. Some preferred to work towards it.
+59. The salesperson checked for qualified leads. The new immortal was over forty. They could do the pedagogy later. The child was too young. The animal worked, but more should be done.
+60. The salesperson cared for and got on well with the inanimate. The rock was left out. However, the play, the oeuvre and the magna opera were done. I tested the music. I visited number ones in time.
+61. The salesperson remained above academia. I competed by checking. I caught up with thoughts per student per day of the years. I caught up with qualification assignments, and to an extent, thoughts during the qualification. Writing came at a premium.
+62. The salesperson wrote the algorithm writers with the same code and different inserts. I segmented neuronetworks by chapter and algorithm. I meant algorithms by philosophy. And I meant algorithms with simply expressed specifications by algorithms. There were algorithm writers for hierarchical file processors, file opening and saving algorithms and menu systems.
+63. The salesperson tested seven changes at a time and simplified the code. I checked published prices. On a separate note, I rewrote the interpreter using DevOps. I found the first stable version. I tested each predicate. I wrote type statements and type verification code.
+64. The salesperson introduced new features. I checked similar products. I rewrote the interpreter not have Query2=[_|_], but label choicepoints. I rewrote it to not have predicates for points and choicepoints, but use one predicate. I also removed the two reverses from the interpreter.
+
+65. * I replaced the product with a similar product.
