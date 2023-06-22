@@ -69,24 +69,14 @@ I tracked new methods with time. I wrote down the new methods in the algorithm. 
 59. The bot debugged and wrote new code as part of CI/CD pipelines. I touched up pretty print to have possible patterns in a data file. I signalled one of these data sets or modifications to them. I wrote the data like a pretty printed file. I constantly tried optimising code as part of CI/CI pipelines.
 60. The bot trained the compiler on the interpreter's tests. I compiled and ran an interpreter with itself, testing any new predicates. I tracked the features the interpreter needed to run itself. For example, I supported multifile algorithms, included libraries and dynamic variables. I split predicates into requisite functions and tested each of them.
 
-I wrote the C interpreter.
-assembly code, linker
-CPU
-
-
----
-
-
-
-As to talk to pol, rel, medic, phil--
-
-A for it.
-
-Depts I write on
-
-Do with bag, 5 points per day during whole day
-
-Give to separate character
+61. The bot traded off expansionism as against contractionism of code when it felt natural. I tested the code against the criterion of intuitiveness, or transparently clearness. I wrote the C interpreter. It started in the middle of the Prolog interpreter. I converted the interpreter to C, by allocating memory in C.
+62. The bot wrote the series of programs necessary to process files. I wrote a file processor algorithm writer, which took starting and ending frames and produced a list of rules to plug into the file processing algorithm. I wrote the machine code, the hexadecimal version of the code, the lowest-level interface to the CPU. Assembly language contained a linker, which linked to modules needed for an algorithm. These might include memory handling routines.
+63. The bot optimised the circuit, removing redundancy. The game involved the player's reaction and touch typing skills. I created the Central Processing Unit (CPU). It processed data at a certain cycle rate. It interpreted, processed and executed instructions, using logic and transistors.
+64. The bot verified the generated type statements and data. I solved the bug by changing the mode statement. I developed thoughts about politics, religion, medicine and philosophy. These represented the view of the outside world, which would receive the thoughts. The input and output were correct.
+65. The bot tested the physical limits of the system. I found when the file processing algorithm was needed, by treating the disk as memory and checking the data transformations. I wrote As or high distinctions about politics, religion, medicine and philosophy. These included the most prestigious thoughts or 4*50 As. Professors had enough correct thoughts.
+66. The bot entered the simulation and started a movement. The programming language had the appropriate features to complete a task. In addition to politics, religion, medicine and philosophy, I wrote on departments I wrote on, such as pedagogy, Computational English, mind reading, time travel and immortality. The high distinctions on these topics were checked and documented. The professors also accepted and checked thoughts.
+67. The bot had medicine and kept on working at the usual rate. I eliminated duplicate sentences in the database. I developed five thoughts per day involving multiple departments with the Breasoning Algorithm Generator (BAG). I wrote the original sentence. I wrote perspectives (with the latest literature) on the latest details about the idea.
+68. The bot treated mind reading and high distinctions as dealing with rectangular prisms representing data. I instructed the person to write an algorithm with an algorithm. I gave the high distinction to a separate character representing me. The character listened to everyone in the company. They helped them with their work. They gave 4*50 As, and uncovered new possibilities.
 
 3 points*3 levels for a conc
 
@@ -108,21 +98,6 @@ do thing like musc comp mr for algs (art, architecture, design)
 ----
 
 
-   The bot bought and delivered the goods  and modes.
-   The bot delivered the good's instructions  and modes.
- 
-13.
-   I noticed  the algorithms developed involving new methods,  including instructions.
-   The bot delivered the goods developed, involving  in this way.
-   The bot cooked the food and offered the bounty for help  and modes.
-  3165/80=40 80s  new methods  involving new methods  included instructions.
-   I noticed how the algorithms developed, involving new methods to buy food, the algorithms developed, involving new methods  the yield.
-
-14.
-
-   I noticed how the algorithms developed, involving new methods  the goods  the algorithms developed, involving new methods  good job.
-
-   The bot included instructions  algorithms developed, involving new methods.
 
   3165/80=40 80s  new methods  the algorithms developed, involving new methods  the food.
 
