@@ -73,6 +73,41 @@ I wrote the C interpreter.
 assembly code, linker
 CPU
 
+
+---
+
+
+
+As to talk to pol, rel, medic, phil--
+
+A for it.
+
+Depts I write on
+
+Do with bag, 5 points per day during whole day
+
+Give to separate character
+
+3 points*3 levels for a conc
+
+Music, law
+
+--
+
+run tests for a pred with another to see if they are the same predicate
+
+run pl from ssi, lpi (for web) v
+
+make vetusia for web by running pl with variables saved
+- other web apps
+
+---
+
+do thing like musc comp mr for algs (art, architecture, design)
+
+----
+
+
    The bot bought and delivered the goods  and modes.
    The bot delivered the good's instructions  and modes.
  
@@ -82,10 +117,43 @@ CPU
    The bot cooked the food and offered the bounty for help  and modes.
   3165/80=40 80s  new methods  involving new methods  included instructions.
    I noticed how the algorithms developed, involving new methods to buy food, the algorithms developed, involving new methods  the yield.
+
+14.
+
+   I noticed how the algorithms developed, involving new methods  the goods  the algorithms developed, involving new methods  good job.
+
+   The bot included instructions  algorithms developed, involving new methods.
+
+  3165/80=40 80s  new methods  the algorithms developed, involving new methods  the food.
+
+   The bot bought food The bot measured the yield  new methods.
+
+   The bot was thanked for doing a good job  delivered the goods  new methods.
+
  
+15.
 
-60.
- * 
+   The bot included instructions  new methods  involving new methods  for help.
 
-"]
+   I noticed how the algorithms developed, involving new methods  the food  offered the bounty for help  customised predicate.
 
+   I noticed how the algorithms developed, involving new methods  the goods  involving new methods  bought food.
+
+   I noticed  the algorithms developed, involving new methods  the scene.
+
+   The bot included instructions The bot cooked the food  new methods.
+
+ 
+16.
+
+   I noticed how the algorithms developed, involving new methods  included instructions  involving new methods  the person.
+
+   The bot offered the bounty for help  the algorithms developed, involving new methods  the goods.
+
+   The bot delivered the goods  involving new methods  for help.
+
+   The bot bought food  new methods The bot included instructions  new methods.
+
+   The bot measured the yield  new methods  the algorithms developed, involving new methods  the scene.
+
+ 
