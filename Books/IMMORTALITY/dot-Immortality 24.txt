@@ -34,24 +34,34 @@ Immortality 24
 31. The immortal fostered the child. When I got home, I entered the brain think tank and checked the data on the bridge. I wrote software for communication. I made secret passages. I hid the secrets.
 32. The immortal connected the quantum box to mind reading. I wrote on mind reading using a computer and meditation. I created the result of vague thoughts in essays, music composition, and later art. Later, I changed the algorithm to eliminate outliers in the signal. I wrote writing about art or concrete poetry.
 
-34. *
+34. The immortal was in the background. I automated work with the bots. I moved conversations to a bulk area. In addition, I answered common questions. Also, I helped supervise students.
+35. The immortal helped remember the person's friends and relevant thoughts. I created customer relations management software, which automatically replied to customers, contacted them after a period of inactivity and kept their details up-to-date. Up-close contact was always different, so it needed constant moderation as well as the other bots. I spiced up lectures, invitations and thought representations by thinking of radical, traditional and face-to-face possibilities. The bot collected and delivered sales products, found out the inner meanings in human thoughts, and was more personable.
+36. The immortal optionally delivered a mini-lecture during the office hour. The bot helped mind-map necessary details. They helped build confidence with epistemological sales. They helped meet professional requirements in education. They delivered products' professional requirements at home.
+37. The immortal filled gaps in enrollments with serious students.  The bot wrote more details. They were or augmented the students, writing feedback about the lecturers. In addition, they, I and employees increased details about other subjects. Help was on its way.
+38. The immortal provided feedback as the student went. The bot helped grade the assignments. They wrote a page of comments. Their handwriting was Tolkeinesque. It was like a doctor's.
+39. The immortal fired at thoughts with 4*50 As, which improved their quality enough. The bot gave needed feedback for the 100% pass mark. It was a computer science or multi-choice assignment. If it was a humanities assignment, computational humanities skills such as increasing computer science, problem-solving and new methods such as lazy evaluation were assessed. Finding out was given prominence.
+40. The immortal covered the rest with investments. I wrote advertisements for the academy, which definitely needed a long term plan. It was the best value. I said continental like computational. I experimented with the dark hot chocolate.
+41. The immortal eventually studied an MBA and medicine master's every 40 years. I worked as an extra for the first ten years, which I could invest in gold. I separated personal and work computing costs. I studied an MBA every ten years to support sales and bots. I also studied medicine master's for longevity.
+42. The immortal helped the thoughts and levels beyond. The employees rated the executive. I completed the first level first. Then, I completed thoughts using neuronetworks. I cre-rated (sic) my thoughts, where I was performing well because I was happy.
+43. The immortal completed all the classes. The executive rated the employees. Like academia, they had a grade. Mine was the algorithms. The students completed some, and some of their own. The details for each level included the classes.
+44. The immortal balanced how much money they had. I tried to recreate the integrated business computer experience. It was automation. It was generative SI, which plugged in to the Office Suite. I automatically wrote and put up ads, the companies partnered with the tertiary education institution and wrote emails if employees weren't available.
+45. I had more humans, not robots visible, this endured and the database was in terms of the database (the As for the website looked like my writing, which explored a particular perspective on an idea). I automated tasks, starting internally and expanding. At least I simulated what should happen, letting human workers follow their own path. I let it come to me, by developing the software. There were roles, gapless systems controlling the way it works, and 4*50 As for each "object".
+46. The immortal connected things such as business data, computing and philosophy writing, which was the most intelligent because of the ease in connecting ideas, and physics for teleportation and medicine. I wrote a generative writing and programming algorithm, which only outputted working texts, with citations and was sympathetic to humans. I could tell the recommendation giving systems would improve. It also embraced theology and human immortality. There were very different communities following the philosophy, such as readers, writers, programmers and business people, who regularly read and commented on the philosophy.
+47. The immortal created an operating system using generative SI. I automatically performed tasks. I wrote about things to make them come true. I created a computer, really software, with a better, simpler programming language. Why didn't Prolog like C? Maybe I could use Prolog instead, and prevent security problems.
+48. The immortal explored immortality as a time-crystal. I automatically created the computer chip. It had many optimisations, building two or more functions on one system. The whole thing was like a list, or hardware-as-software. Medicine also benefited from reality-as-simulation.
 
-bot automation:
+music mids, meta on gh
 
-Details
-Ways grade them
-Ads
+Win comp
 
-Employees rate me
+Employees rate m
 
 Bus depts from pov of me, employees and custs
 
 
-Win comp
+
 Budget for ads, accred
 Make own lecturers 
-
-
 
 
 lc
@@ -65,8 +75,6 @@ x this is not the contention, instead make a, d, c changes if nec, but try combi
 lc shorter code not fewer changes
 
 algorithm refactoring
-
-
 
 
 Dfa min like diff group combos cut possibility maker
