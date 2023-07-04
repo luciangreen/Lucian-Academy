@@ -50,6 +50,106 @@ Immortality 24
 47. The immortal created an operating system using generative SI. I automatically performed tasks. I wrote about things to make them come true. I created a computer, really software, with a better, more straightforward programming language. Why didn't Prolog like C? Maybe I could use Prolog instead and prevent security problems.
 48. The immortal explored immortality as a time-crystal. I automatically created the computer chip. It had many optimisations, building two or more functions on one system. The whole thing was like a list or hardware-as-software. Medicine also benefited from reality-as-simulation.
 
+49. The immortal learned how to become immortal from meditation, which also wouldn't have been possible without their computer. I wrote about my meditation experiences such as computational thoughts and experiencing the taste of time travel. I crossed parts of my new algorithm with parts of classic algorithms to freeze my age. I connected my recent algorithms to my previous and best algorithms. This had N^2 complexity.
+50. * 
+
+Download nn jupiter, for algs, args
+
+Lc asks in SSI whether to keep comments, data--
+
+Ask to commit, giving time to make changes 
+
+Jit only enter an alg if it is indexed for the query xx based on modes
+Write lp code 
+
+
+Sim A--
+
+Keep on going if world stops
+
+People”
+Planets “
+
+Give thoughts As
+
+
+lc
+
+keep tests x
+
+
+lc - a new algorithm that manually adds comments, data
+
+SSI JIT - Prolog without choice-points
+- do code, before, after choice-points as JIT
+
+cut (if-then) stops further clauses, some cps
+
+append, member - cps - save recursive data
+
+top level - start again if cps left
+
+convert lists to arrays were possible
+
+grammars operate on arrays
+
+cps in reverse order for speed
+* only x runs out of stack otherwise
+
+give the illusion of cps in trace
+
+- prolog only if cp and cut
+
+jit (vetusia) in ssi
+ssi mem solutions
+
+delete past frames one doesn't need
+store frames on disk
+
+Medicine and Time Travel As
+
+3 medicine As on first day
+2 on next days
+
+3 time travel As per day
+
+(this means 1 arg A and 1 alg A)
+-
+5*2=10 As today
+=2*(5*16000 sentences)
+=2*80,000 sent
+
+* t2b, tab
+* latest work
+
+br to alg with rules
+t2ab - only accept single words x
+
+The changes might aim towards selling people as brands. It isn't enjoyable when you look for a product on Facebook and have to search through your history, so it might help with that.
+
+cw imm, medic *2 per week, 4->2 dim
+
+x 540 with dims*1 *5 for algs, args (*2 dims on computer)
+alg dict with 1 rule per object
+
+x 4 each week + 1 A of algs
+540s for student As, sales
+
+dets for tt each day from 540
+
+subliminal study in sleep
+
+Ask the people of the future to put through the algorithms for you to the best of their ability with an algorithm you've written with GL details, for 2 million br.
+
+Write 250 breasonings first about this.
+
+Also do double 4*50 As arguments for "algorithms".
+
+x do more, shorter BAGs
+
+connect recent algs to previous and best algorithms.
+
+-----
 music mids, meta on gh
 
 Win comp
@@ -157,4 +257,4 @@ I will be highly distinguished for GSBS6005Marketing Management and Planning (T2
 
 use to do folder, Gmail, tbroker
 
-48. *
+64. *
