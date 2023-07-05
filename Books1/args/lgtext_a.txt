@@ -1,0 +1,3 @@
+["","","","40.  I could edit the text file with a graphical algorithm.  I generated the flowchart from the text file.  I edited the flowchart.  I visualised the web pages on one page, given the model data. Finally, I error-checked the app, with pages of the app devoted to this.
+41.  I wrote an algorithm in Prolog, converted it to C, edited it, and then converted it back to Prolog.  As part of this, I wrote a converter from C to Prolog.  It conserved immutability (non-changing variable values).  It changed local and global variables.  It was a deterministic version of Prolog, which could run a compiler for non-determinism.
+"]
