@@ -55,146 +55,20 @@ Immortality 24
 51. The immortal preferred the graphical user interface of Lucian CI/CD, which ran in the background and automatically committe code. I exercised and relaxed my eye muscles (musicles?) I programmed Lucian CI/CD to ask in SSI whether to keep comments and data. This SSI app could be written as a web app. If comments and data were ignored, they were logged for later keeping.
 52. The immortal came to the conclusion in time about how to freeze their age. I turned of light-headedness with 250 medicine breasonings. On a separate note, Lucian CI/CD asked me whether to commit changes, giving me time to make changes. The algorithm notified me of a pipeline or I ran a Lucian CI/CD pipeline. I approved whether to make additional changes or cancelled the pipeline.
 53. The immortal recommended how much memory to use for the algorithm. I enjoyed meeting new people at University. I printed out what the program with a large stack had got up to before it crashed. The "Just In Time" (JIT) Prolog compiler only ran an algorithm if it was indexed for the query, and matched based on modes. JIT wasn't C, but was Prolog without choicepoints and cuts. Note: and! - with either of these by themselves, the JIT compiler could be invoked.
-54. The next step in Lucian Prolog was to finish the lists and go on with the compiler. I relaxed, meditated and exercised to prevent headaches. I wrote List Prolog code with the JIT compiler. It wrote machine code for a compiler that worked with various architectures. I termed the state machine code I had written machine code.
-55. * 
+54. The next step for the immortal in Lucian Prolog was to finish the lists and go on with the compiler. I relaxed, meditated and exercised to prevent headaches. I wrote List Prolog code with the JIT compiler. It wrote machine code for a compiler that worked with various architectures. I termed the state machine code I had written machine code.
+55. The immortal drank cultured fruit juice for no stomach aches. As soon as I could write my own 4*50 As, I wrote an A for the simulation. My As for time travel and anti-ageing medicine contributed to the simulation. I wrote down thoughts with reasons, each with 4*50 As over the days.
+56. The immortal performed detailed preparation for the future. I took a holiday and relaxed to adjust and return to normal. I wrote an A for the simulation. Even if a reason was surprising, I had expanded, logical thoughts. The 4*50 As had a seen-as-version each day.
+57. The immortal recommended 4*50 BAG As as soon as possible to freeze ageing. I relaxed and remained active to maintain positive function. The simulation kept on going if the world stopped. It was a universe in itself. I was present and had high quality of life.
+58. The immortal gave BAG thoughts to images about copywriting. I had natural dark hair. The noumenon was BAG, the tokens were Essay Helper and Grammar Logic. BAG used recent thoughts and the education institution wrote its own arguments and algorithms. I stressed the need for BAG despite its craziness because it completed needed work that could be done no other way.
+59. The immortal exercised and meditated daily to maintain their health. The simulation kept people and planets going. The universe's people were researched. The people were welcome to the simulation. The earlier people had presents given to them. I marvelled at the technology of our age.
+60. The immortal stayed out of fiction. I avoided infection and prevented having a poor diet by maintaining my upkeep and enjoying a healthy diet. I gave my thoughts As. I stopped the virus with zinc. I felt free to walk and talk. I noticed the scientists performing better.
+61. The immortal avoided physical endangering themselves, and avoided risks. The computational philosopher felt like freezing their age. Lucian CI/CD didn't keep tests, because they may be incorrect. The user could choose whether to keep the tests, based on whether they were still needed. Tests, comments and data were manually added because tests couldn't detect them, and the paradox of a test that disappears, causing failure is solved by keeping the test.
+62. The immortal sold books and taught on a clipboard. I wrote about how fewer sales needed focus and ways to improve. I wrote a new algorithm as part of Lucian CI/CD that manually added comments and data. It asked the user whether each comment and data line should be kept. This algorithm could be terminal or web-based.
+63. The immortal built up from an accredited educational institution to offer PhDs. I wrote about how sales were positive and showed promising results. I made a website with a paywall around age freezing. I talked to the students. They completed worksheet questionnaires. Some students came online and completed qualifications.
+64. The immortal's JIT compiler was light because it didn't have choicepoints and cut. I learned how to take the initiative and write longer in Education. State Saving Interpreter (SSI) with a Just In Time (JIT) compiler offered Prolog without choicepoints. I breasoned out sales and the As were there for the students to get. I counted the exact number of sentence breasonings in the BAG algorithm.
 
-
-As soon as I could write my own 4*50 As, I wrote an A for the simlation
-
-
-
-Sim A--
-
-Keep on going if world stops
-
-People”
-Planets “
-
-Give thoughts As
-
-
-lc
-
-keep tests x
-
-
-lc - a new algorithm that manually adds comments, data
-
-SSI JIT - Prolog without choice-points
-- do code, before, after choice-points as JIT
-
-cut (if-then) stops further clauses, some cps
-
-append, member - cps - save recursive data
-
-top level - start again if cps left
-
-convert lists to arrays were possible
-
-grammars operate on arrays
-
-cps in reverse order for speed
-* only x runs out of stack otherwise
-
-give the illusion of cps in trace
-
-- prolog only if cp and cut
-
-jit (vetusia) in ssi
-ssi mem solutions
-
-delete past frames one doesn't need
-store frames on disk
-
-Medicine and Time Travel As
-
-3 medicine As on first day
-2 on next days
-
-3 time travel As per day
-
-(this means 1 arg A and 1 alg A)
--
-5*2=10 As today
-=2*(5*16000 sentences)
-=2*80,000 sent
-
-* t2b, tab
-* latest work
-
-br to alg with rules
-t2ab - only accept single words x
-
-The changes might aim towards selling people as brands. It isn't enjoyable when you look for a product on Facebook and have to search through your history, so it might help with that.
-
-cw imm, medic *2 per week, 4->2 dim
-
-x 540 with dims*1 *5 for algs, args (*2 dims on computer)
-alg dict with 1 rule per object
-
-x 4 each week + 1 A of algs
-540s for student As, sales
-
-dets for tt each day from 540
-
-subliminal study in sleep
-
-Ask the people of the future to put through the algorithms for you to the best of their ability with an algorithm you've written with GL details, for 2 million br.
-
-Write 250 breasonings first about this.
-
-Also do double 4*50 As arguments for "algorithms".
-
-x do more, shorter BAGs
-
-connect recent algs to previous and best algorithms.
-
------
-music mids, meta on gh
-
-Win comp
-
-Employees rate m
-
-Bus depts from pov of me, employees and custs
-
-
-
-Budget for ads, accred
-Make own lecturers 
-
-
-lc
-
-should not add or change, only delete
-- x no progress
-
-x this is not the contention, instead make a, d, c changes if nec, but try combinations with fewer lines (possibly deletions first rather than last)
-
-- p2lp backconversion, other pl
-lc shorter code not fewer changes
-
-algorithm refactoring
-
-
-Dfa min like diff group combos cut possibility maker
-Jun 7, 2023, 8:10 PM
-You sent
-Mus comp with listenable sections as compose
 ---
 
-I settled, meditated and did exercises to prevent headaches.
-I drank cultured milk to help my stomach to feel normal again.
-I took time off and relaxed to adjust and return to normal.
-I took a few days off to help my sore knee to return to normal.
-I coloured my hair dark brown to cover any grey patches.
-I exercised and meditated daily to maintain my health.
-I took a pill to treat the fungal infection on my foot, which promptly disappeared.
-I took medication to treat my fungal rash, which promptly disappeared.
-I had my ingrown toenail treated by a doctor, who was very careful.
-I wrote about how fewer sales needed focus and ways to improve.
-I wrote about how sales were positive and showed promising results.
-I learned how to take the initiative and write longer in Education.
 I learned how to remember and apply ideas in Education.
 I learned how to increase the longevity of my Skeletal System.
 I learned how to improve the longevity of my Respiratory system.
