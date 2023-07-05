@@ -51,16 +51,16 @@ Immortality 24
 48. The immortal explored immortality as a time-crystal. I automatically created the computer chip. It had many optimisations, building two or more functions on one system. The whole thing was like a list or hardware-as-software. Medicine also benefited from reality-as-simulation.
 
 49. The immortal learned how to become immortal from meditation, which also wouldn't have been possible without their computer. I wrote about my meditation experiences such as computational thoughts and experiencing the taste of time travel. I crossed parts of my new algorithm with parts of classic algorithms to freeze my age. I connected my recent algorithms to my previous and best algorithms. This had N^2 complexity.
-50. * 
+50. The immortal prepared for space travel programming languages. I practised music to maintain my musical ear and interest in composition. I approached the order of neuronetworks to write algorithms and arguments. The neuronetwork helped with meditation and the uber-interpreter helped speed up programs unfairly. It overbore slowness by running Prolog as C where possible.
+51. The immortal preferred the graphical user interface of Lucian CI/CD, which ran in the background and automatically committe code. I exercised and relaxed my eye muscles (musicles?) I programmed Lucian CI/CD to ask in SSI whether to keep comments and data. This SSI app could be written as a web app. If comments and data were ignored, they were logged for later keeping.
+52. The immortal came to the conclusion in time about how to freeze their age. I turned of light-headedness with 250 medicine breasonings. On a separate note, Lucian CI/CD asked me whether to commit changes, giving me time to make changes. The algorithm notified me of a pipeline or I ran a Lucian CI/CD pipeline. I approved whether to make additional changes or cancelled the pipeline.
+53. The immortal recommended how much memory to use for the algorithm. I enjoyed meeting new people at University. I printed out what the program with a large stack had got up to before it crashed. The "Just In Time" (JIT) Prolog compiler only ran an algorithm if it was indexed for the query, and matched based on modes. JIT wasn't C, but was Prolog without choicepoints and cuts. Note: and! - with either of these by themselves, the JIT compiler could be invoked.
+54. The next step in Lucian Prolog was to finish the lists and go on with the compiler. I relaxed, meditated and exercised to prevent headaches. I wrote List Prolog code with the JIT compiler. It wrote machine code for a compiler that worked with various architectures. I termed the state machine code I had written machine code.
+55. * 
 
-Download nn jupiter, for algs, args
 
-Lc asks in SSI whether to keep comments, data--
+As soon as I could write my own 4*50 As, I wrote an A for the simlation
 
-Ask to commit, giving time to make changes 
-
-Jit only enter an alg if it is indexed for the query xx based on modes
-Write lp code 
 
 
 Sim A--
@@ -183,11 +183,6 @@ You sent
 Mus comp with listenable sections as compose
 ---
 
-I wrote about meditation after learning meditation and graduating with my Arts/Science degree at Melbourne University to teach meditation to others.
-I had regular check-ups and surgery to prevent and treat deafness.
-I had regular check-ups and surgery to prevent and treat cataracts.
-To prevent light-headedness after my bath, I got up slowly.
-I made friends for life when attending Uni, the nicest people.
 I settled, meditated and did exercises to prevent headaches.
 I drank cultured milk to help my stomach to feel normal again.
 I took time off and relaxed to adjust and return to normal.
