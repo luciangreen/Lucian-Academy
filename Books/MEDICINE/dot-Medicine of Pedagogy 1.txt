@@ -39,7 +39,16 @@ Medicine of Pedagogy 1
 64. *
 
 ---
+delete smart quotes from t2b dict, find them while running
+remove smart quotes, weird characters from t2b, t2ab
 
+check changes in t2b, t2ab dicts for correctness
+
+
+double 80000 x *1.75, online
+br to alg with rules
+t2ab - only accept single words x
+---
 - do code, before, after choice-points as JIT
 
 cut (if-then) stops further clauses, some cps
