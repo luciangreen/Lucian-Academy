@@ -67,6 +67,174 @@ Immortality 24
 63. The immortal built up from an accredited educational institution to offer PhDs. I wrote about how sales were positive and showed promising results. I made a website with a paywall around age freezing. I talked to the students. They completed worksheet questionnaires. Some students came online and completed their qualifications.
 64. The immortal's JIT compiler was light because it didn't have choice points and cuts. I learned how to take the initiative and write longer in Education. State Saving Interpreter (SSI) with a Just In Time (JIT) compiler offered Prolog without choice points. I breasoned out sales, and the As were there for the students to get. I counted the exact number of sentence breasonings in the BAG algorithm.
 
+65. The immortal accounted for errors and used all available CPUs. I learned the skill of professional development in business. I performed the 2000 page work for five people per day and then completed my daily regimen. This enabled me to freeze my age. I automated this.
+66. * 
+
+---
+
+lg dr
+ring cba about paypal v
+
+eh
+make mac bag script
+install on iphone, mba 2011
+
+
+cd ../../../Applications/SWI-Prolog.app/Contents/MacOS/SWI-Prolog a.pl 
+- can use initialise
+
+I froze my age in the painting, staying that way for all to see.
+save bag, t2b, t2ab in private2 v
+
+double 80000 x *1.75, online
+t2ab concurr.pl
+
+t2b
+- why doesn't it auto add words
+delete smart quotes from t2b dict, find them while running
+remove smart quotes, weird characters from t2b, t2ab
+
+check changes in t2b, t2ab dicts for correctness
+
+
+texttobrall2_readingnon_concurr.pl
+algs540.pl
+relevance not working - only give all args or algs
+bag variant which does latest phil
+
+bag with 6000*16 in one .pl
+
+person.sh with all br for freezing age in one .pl
+
+ba2 80 s ba3 89 s.txt
+sign up for 4 cpu vps x starter at first
+change 2 cpu -> 1 xx
+continuous high quality thoughts
+- remove voice notification
+- upload
+- cron script to run in the background
+ - if takes too long to finish, start a new one
+ - test by sending emails at the start and end with server time
+- alarm to meditate at midnight
+- auto download new args, algs from github - * br as go
+- 5 meditation+n hqt
+- email self from mba if detects br not yet br, t2ba "
+- 10 400% vps's
+
+---
+move gh/private2 to gh-private2
+(ghp2 refers to files in gh)
+save ghp2 as gh on server
+find refs to private2 and change them
+
+x
+
+t2b data can be public
+move private data to private repos
+- t2b medits, meditnoreplace
+
+
+* git get updated software-as-files
+
+bag
+delete time notifs
+- reports of total, br true
+print out when over 6000
+put recent docs in
+
+bring time limit from 5 -> 2*average v
+
+use faster of alg of concurrent v/old bag - v
+
+
+* put in gh
+
+continuous hqt
+
+gits.txt - download ghs to vps
+
+test_alarm.pl on a minute/hour
+swipl 
+
+https://www.swi-prolog.org/FAQ/StackSizes.html
+
+:- set_prolog_stack(local,  limit(2 000 000 000)).
+2G
+3
+
+
+--
+
+wasm
+- multithreading, web
+
+https://www.swi-prolog.org/pldoc/man?section=wasm-loading
+
+
+try running up to 96k br in an hour
+
+--x:
+javascript
+
+window.open('https://www.javatpoint.com')
+ 
+ run js from wasm
+ https://www.swi-prolog.org/pldoc/man?section=wasm-js-call
+ 
+ 
+ google: javascript send receive data with apis
+bag
+
+exclude sparse files with low scores
+
+conflicted copies from mba dropbox:
+
+
+mac crontab -e (?)
+customise x
+run a person's bag every 2 hours x 5 minutes if not running
+except audio alert, putting through
+move log file after n done
+
+separate archive aa log into new alg
+pop singer v keep new bag
+if bag fails, redo v
+
+adrian antonia hqt x redo bag
+download t2b non concurrent for vps vx kept concurr
+
+ameet ass
+ssi
+
+
+copy bag to priv2, vps
+
+delete () in freeze v
+perhaps take random section x start
+
+- test where last line of eg 6000 is
++5% v
+repair t2b, t2ab dicts v
+
+remove non alpha chars t2b v
+
+br, v
+t2ab v
+
+daily reg v
+
+recent algs, args v
+multithread bag, t2b, t2ab (with installers for different cpu n - test whether only top level pred needs duplicating) v
+
+9 7 23
+
+test run bag on vps for 24h
+upload non critical repos each day
+email count at 9 AM
+
+today restart, send email at 12 PM
+- upload with sending 2 emails x 3, one at 3 PM
+
 ---
 
 I learned how to remember and apply ideas in Education.
