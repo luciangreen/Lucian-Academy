@@ -1,15 +1,15 @@
 ["Green, L 2022, <i>Business Man Lucian Green</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Business Man Lucian Green, Deploying the Lucian bot, Academic Specialisations and Non-Transgression of Science from Time Travel
 
-1. * Flip risks into successes. 
-2. Transcend the cage of the inner critic, and be an actor in any department, particularly in business, who is seen as professional and can do anything necessary.
-3. Without an A for the business person, you can't be a brand, but with it, you can be the subject of journalism and marketing, which is necessary for business.
-4. In particular, the business person argument makes money by being trusted with it and does business with other business people, his star-studded business partners.
-5. Having fifty arguments for a business person is half-theatre studies, implying performance.
-6. If you make deals with famous partners, you will be notable about them, and they will be noted about you, making more money.
-7. Sometimes, only famousness is the cut and makes the difference between an enticing business partner or not.
-8. Becoming business royalty means you can do business with royals. One should note that royals are influential, and you can also exert your considered and wise influence. In addition, royals have more resources and would like better ways of enjoying life, such as pedagogy and having help with it.
-9. Having fifty arguments for a business person can be used in a politics 50 As (because politics includes business).
-10. Politics of organisations, through the business person 50 As, allows doing a \"blue square\" for politics of an organisation, where politics keeps track of the internal politics of an organisation.
+1. The business man taught meditation. Flip risks into successes. Given BAG output, I wrote it in simpler form. If there was only one CPU, then I switched off multithreading in T2B, T2AB and BAG. I timed the computation, to calculate how long it took with particular input.
+2. The business man helped develop the living. Transcend the cage of the inner critic, and be an actor in any department, particularly in business, who is seen as professional and can do anything necessary. There was a spare computer in case a computer went down. I devised the algorithm to develop continuous high quality thoughts. I also took a break, importantly giving my brain rest.
+3. The business man smoothed the entry to use the product. Without an A for the business person, you can't be a brand, but with it, you can be the subject of journalism and marketing, which is necessary for business. I noticed subjectivity had its own objectivity, or setting. I added a voice or email notification when a machine had completed its computation. Also, if there was a problem I received a notification.
+4. The business man gave the language in the text As. In particular, the business person argument makes money by being trusted with it and does business with other business people, his star-studded business partners. I negotiated more business in philosophy, music and computer science over time than a short time. I uploaded the necessary files for to support the students to the Virtual Private Server (VPS). The students needed to be supported at the time they were working.
+5. The business man helped the meditator. Having fifty arguments for a business person is theatre studies. The actor prepared the speech from the philosophy. The worker developed the algorithm. I wrote an algorithm to run in the background according to a schedule.
+6. The business man charged subscribers of the algorithm. If you make deals with famous partners, you will be notable about them, and they will be noted about you, making more money. I advertised to the people. The algorithm to freeze people's age can be resold. Individuals can buy the algorithm and run it each day to freeze their age.
+7. The business man helped the person on all fronts to be immortal. Sometimes, only famousness is the cut and makes the difference between an enticing business partner or not. I cut the number of breasonings produced by the BAG algorithm to the end of the day. I used mind reading to detect when I meditated and ran the BAG algorithm from then until the end of the day. Only the people of the time could be protected because there were so many to do.
+8. The business man only ran BAG for paying meditators. Becoming business royalty means you can do business with royals. One should note that royals are influential, and you can also exert your considered and wise influence. In addition, royals have more resources and would like better ways of enjoying life, such as pedagogy and having help with it. I meditated in the morning and started BAG.
+9. The business man downloaded new content every day. Having fifty arguments for a business person can be used in politics 50 As (because politics includes business). I automatically downloaded new arguments and algorithms from the server. I breasoned out texts as I went. I hand-entered new breasonings individually later.
+10. * Politics of organisations, through the business person 50 As, allows doing a \"blue square\" for politics of an organisation, where politics keeps track of the internal politics of an organisation. I breasoned out 40 people * 4*50 As (*80 breasonings) *2*(for home and future locations) * (1 teleportation + 1 anti-ageing medicine + 1 meditation + from 0-15 high quality thoughts) = 5120000 breasonings with one high quality thought, taking up to 10.7 hours.
 11. Politics of organisation through business person 50 As enables more money through a better understanding of an organisation.
 12. I converted myself to a business person with my business person A.
 13. I wore business clothes.
@@ -91,21 +91,58 @@ Non-Transgression of Science from Time Travel
 80. The natural property of time travel is that teleportation causing transgressions is impossible, where adverse effects of violations are not experienced by the destination time in the universe as if the offender had never arrived. (This is an expansion of, not proven by a phys.org article which shows why closed time-like curves (CTCs), which it says it doesn't necessarily know exist, don't allow passage of a killer, solving the grandfather paradox of time travel.)  The absence of transgressions in nature shows that this may be true.
 "]
 
-
-change 2 cpu -> 1 xx
-continuous high quality thoughts
-- remove voice notification
-- upload
-- cron script to run in the background
- - if takes too long to finish, start a new one
- - test by sending emails at the start and end with server time
-- alarm to meditate at midnight
-- auto download new args, algs from github - * br as go
-- 5 meditation+n hqt
 - email self from mba if detects br not yet br, t2ba "
 - 10 400% vps's
 
 ---
+
+5% above last item used in eg 96000 
+
+Truncate file 
+
+Bag 10 not 5 thoughts prof--
+
+Take 4 off tt dr--
+
+10 prof, 15 pol hqt
+
+Content is from 15 words
+Algs, args keep capitalisation
+Stops back aches
+
+Protect texts as within sliders- 1 of 10 points
+
+Antonyms for each word
+
+Antonyms for t2b, t2ba
+
+Br, t2ba ant
+
+Replace with theirwords in original textfile
+
+Shell bag saves each br set
+
+For new medits, find pos with few det mr, more mr and mostly random
+
+Catch timeout for bag
+- find time from logs
+--
+
+Bag give self A for A--
+
+bag
+- count all br, even failed ones
+- count and stop when algs, args reach n
+
+only count working br (total is correct but day2.pl's counter overcounts)
+- change day2.pl, bag_args21.pl etc and bag
+
+ 
+need 1 person each bag person faces to be done too 
+4*50 As for br face expressions
+?- N=1,M=14000,texttobr(5,u,"square",M).
+
+
 move gh/private2 to gh-private2
 (ghp2 refers to files in gh)
 save ghp2 as gh on server
