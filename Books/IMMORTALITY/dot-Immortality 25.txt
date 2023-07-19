@@ -1,0 +1,240 @@
+Immortality 25
+
+1. The immortal could do more with less. I increased my lifespan and energy with the Chinese herb goji berries. I found duplicate instances of a list or additions and deletions to either end of a list in the garbage (global variable) collector. For example, I used the push, tail, append or except_last functions. I kept all the dependent data when considering whether to keep a data item, and added data in terms of other data to save memory.
+2. The immortal kept track of the records in the book. I increased my longevity with the Chinese herb reishi mushroom. If I deleted a data item, I kept a record of it in the globals if other data depended on it. I deleted data when removing a frame or other data. When I added data, if it was similar to other data, I expressed it in terms of other data.
+3. The immortal sometimes replaced long data with shorter data if frames or instances of it were removed. I relaxed my muscles and meditated to prevent headaches. I added data in terms of other data by finding the data to express the data in terms of. I expressed the data in terms of this data. When the data that was in terms of other data was in one place, it made finding, changing and deleting it in the frames of choice-points easier.
+4. The immortal chose the in-terms-of link in the globals list rather than in the frame side-of-the-contention to speed up finding it, necessitating links to these terms in the frames. I compared each idea with its computational equivalent to analyse it. I operated only on the necessary data when storing or retrieving garbage collected (global) data. When storing the data, I expressed it in terms of other data, or part of a chain of terms. When retrieving the data, I followed the chain of, for example tails to find the the complete list or string.
+5. The immortal kept data tail, etc., not pointed-to data in the globals table. I walked and exercised regularly to avoid muscle aches and pains. I optimised the globals by removing redundant frames. I removed a frame, which contained an end of a chain. So, I removed and updated the end of the chain.
+6. The immortal stored the location of the garbage-collected global data. I memorised sequences backwards, visually and with gaps for the best results. The garbage collector was used when content was added or retrieved. When content was added, the variables were compressed and the repeated data was stored in the global variables, changing minimal data. When content was retrieved, the relevant data was uncompressed. When content was deleted, the unnecessary data in the globals variables was deleted.
+7. The immortal saved memory, allowing them to run more complex algorithms in less time. I composed classical music to explore algorithmic themes.  The garbage collector expressed similar parts of the algorithm and choice-points in terms of each other. The list data in the algorithm written in List Prolog could be simplified. The list data in the choice-points, particularly recursive data in member and append predicates, could be simplified.
+8. The immortal only stored necessary data, minimising space used by storing the same data once. I relaxed and massaged my head, neck and eyes during a regular break. In the garbage collector globals, I represented the concatenation of strings or atoms or the appending of lists with (:), for example, "ab":"c" = "abc" and [a,b]:[c] = [a,b,c]. These formats were used when a single character or item was concatenated or appended to a list. When deleting data broke a chain back to a complete string or list, a new string or list was created.
+9. The immortal wrote an algorithm to notify the user when moving data files to a separate folder. I cleared my mind before working on the Medicine book. I included all current repositories in the List Prolog Package Manager registry for the Time Machine repository. The Time Machine algorithm to freeze one's age required enough arguments and algorithms to generate new data. An algorithm determined whether there were updates and downloaded them, not overwriting data files.
+10. The immortal saved time by removing unnecessary code. I painted the beach scene in my algorithm. The Just In Time compiler was created from the compiler. It ignored the code associated with choice-points. I converted it to C code, changing lists to arrays, initialising variables and allocating memory.
+11. * I wrote letters to others in my mind to check against reality. Algs, args keep capitalisation
+
+
+
+---
+
+sales from end of personal bag-freeze to midnight
+
+extra t2b qb 250s until enough for 100 sales (the 3.2 million sentences) per hour
+- enough red squares for these
+
+website with security based on vetusia web service
+- student area with ass, submit and verify scripts
+- check for plagiarism
+
+1-3 ass per diploma
+
+teach prolog with exercises
+
+cs project specification generator
+- I/O for each pred, pred dependencies
+- n-degree simplified projects for disabled
+
+student thought helper x split project into qs
+- data to alg with big loops for complex patterns (multiple preds instead of findall, types to check), can recognise counters in a run of a pred, increase by 1 - do next reaching-bottom pred of student question (use as much of student's work as possible)
+- do to time/max length of work
+- findall/preds/C/types gen
+
+accredited framework
+policies
+
+--
+
+separate into personal and business
+
+ads $100 for a sale 
+accreditation 55 pounds per month
+
+100/(200/12)=6 machines for 100 sales/hour
+
+x
+
+cw
+
+better web site
+
+produce own songs from mc
+
+
+teaching x research
+
+--
+
+
+Stops back aches
+
+Protect texts as within sliders- 1 of 10 points
+
+Antonyms for each word
+
+Antonyms for t2b, t2ba
+
+Br, t2ba ant
+
+Replace with theirwords in original textfile
+
+Shell bag saves each br set
+
+For new medits, find pos with few det mr, more mr and mostly random
+
+Catch timeout for bag
+- find time from logs
+--
+
+Bag give self A for A--
+
+bag
+- count all br, even failed ones
+- count and stop when algs, args reach n
+
+only count working br (total is correct but day2.pl's counter overcounts)
+- change day2.pl, bag_args21.pl etc and bag
+
+ 
+need 1 person each bag person faces to be done too 
+4*50 As for br face expressions
+?- N=1,M=14000,texttobr(5,u,"square",M).
+
+
+move gh/private2 to gh-private2
+(ghp2 refers to files in gh)
+save ghp2 as gh on server
+find refs to private2 and change them
+
+x
+
+t2b data can be public
+move private data to private repos
+- t2b medits, meditnoreplace
+
+
+* git get updated software-as-files
+
+bag
+delete time notifs
+- reports of total, br true
+print out when over 6000
+put recent docs in
+
+bring time limit from 5 -> 2*average v
+
+use faster of alg of concurrent v/old bag - v
+
+
+* put in gh
+
+continuous hqt
+
+gits.txt - download ghs to vps
+
+test_alarm.pl on a minute/hour
+swipl 
+
+
+
+--
+
+wasm
+- multithreading, web
+
+https://www.swi-prolog.org/pldoc/man?section=wasm-loading
+
+
+try running up to 96k br in an hour
+
+--x:
+javascript
+
+window.open('https://www.javatpoint.com')
+ 
+ run js from wasm
+ https://www.swi-prolog.org/pldoc/man?section=wasm-js-call
+ 
+ 
+ google: javascript send receive data with apis
+bag
+
+exclude sparse files with low scores
+
+conflicted copies from mba dropbox:
+
+
+mac crontab -e (?)
+customise x
+run a person's bag every 2 hours x 5 minutes if not running
+except audio alert, putting through
+move log file after n done
+
+separate archive aa log into new alg
+pop singer v keep new bag
+if bag fails, redo v
+
+adrian antonia hqt x redo bag
+download t2b non concurrent for vps vx kept concurr
+
+ameet ass
+ssi
+
+
+copy bag to priv2, vps
+
+delete () in freeze v
+perhaps take random section x start
+
+- test where last line of eg 6000 is
++5% v
+repair t2b, t2ab dicts v
+
+remove non alpha chars t2b v
+
+br, v
+t2ab v
+
+daily reg v
+
+recent algs, args v
+multithread bag, t2b, t2ab (with installers for different cpu n - test whether only top level pred needs duplicating) v
+
+9 7 23
+
+test run bag on vps for 24h
+upload non critical repos each day
+email count at 9 AM
+
+today restart, send email at 12 PM
+- upload with sending 2 emails x 3, one at 3 PM
+
+---
+
+I had regular enough exercise to avoid heart problems.
+I stopped growing the pansies when I had enough to sell.
+I taught meditation to a person of another faith.
+I can teach students online with my Prolog eco-system, including Prolog algorithms-as-data.
+I can teach students online with my Prolog interpreter.
+I can tutor computer science students at University.
+I can teach students online and in person at my computer science academy.
+I can teach students online and in person at my philosophy academy.
+I can tutor primary and secondary students in the homework-help club.
+I avoided unclear thoughts while studying by relaxing.
+Work without the mantra or effort
+Recordings and lecturer skills are necessary for earning high distinctions with the text to breasonings algorithm can be ordered with copywriting for each.
+I can move from strength to strength, saving effort in meditation.
+I can relax and live longer by paying a small fee for meditation.
+I can relax and think about paying a small fee for mind reading.
+I can relax and imagine travelling to different places by paying a small fee for time travel.
+I can settle by paying a small fee for medicine and practising meditation.
+I can relax by paying a small fee for meditation and practising the technique.
+I can achieve my educational goals by paying a small fee for pedagogy.
+Royal treatment
+I wrote on human resources during my MBA to help me build networks.
+I wrote on sales during my MBA to help me build networks.
+I wrote about business during my MBA to help me build networks.
+I will be highly distinguished for GSBS6005Marketing Management and Planning (T2 2023 ONLINE).
+
+
+ find the last point in imm 1 as the basis
+
+use to do folder, Gmail, tbroker
