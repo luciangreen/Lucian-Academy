@@ -1,5 +1,4 @@
-["","","","collect_arguments_body(Body1,[],Body2) :-
-**/
-%%predicate_or_rule_name([A,B]) :- atom(A),is_list(B),!.
-%predicate_or_rule_name([V_or_n,_Name]) :- (V_or_n=v->true;V_or_n=n),!.%%,atom(Name),!.
+["","","","
+
+
 "]
