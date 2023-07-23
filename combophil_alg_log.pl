@@ -22,10 +22,10 @@ list([L|Ls]) --> [L], list(Ls).
 combophil_alg_log :-
 	N1 = 4, %% maximum number of algorithms per file
 	% find files with n or fewer algorithms
-	phrase_from_file_s(string(String00a), "combophil_alg_log.txt"),
-	string_codes(String02b,String00a),
+	%phrase_from_file_s(string(String00a), "combophil_alg_log.txt"),
+	%string_codes(String02b,String00a),
 	%trace,
-	atom_to_term(String02b,String02a,[]),
+	%atom_to_term(String02b,String02a,[]),
 	
 	
 	folders(Folders),
@@ -44,11 +44,12 @@ combophil_alg_log :-
 %trace,
 	combophil_alg_log(N1,G3,G4),
  	
-	term_to_atom(G4,String1),
+	%term_to_atom(G4,String1),
 
-	(open_s("combophil_alg_log.txt",write,Stream1),
-	write(Stream1,String1),
-	close(Stream1)),!.
+	%(open_s("combophil_alg_log.txt",write,Stream1),
+	%write(Stream1,String1),
+	%close(Stream1)),
+	!.
 	
 delete_all([],G,G) :- !.
 delete_all(G0,G1,G2) :-
