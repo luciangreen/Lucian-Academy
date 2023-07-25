@@ -17,40 +17,23 @@ Immortality 25
 15. The immortal gave the VWS site a security code. I taught students online with my Prolog eco-system, including Prolog algorithms-as-data. I created a website with security and speed based on Vetusia Web Service (or VWS, a Prolog converter to a website with a variable getter and putter). VWS could change the colour of each page, keep a tracking list and take payments. The converter altered the structure of the algorithm to display each predicate, which was top-level, until taking user input, generating page predicates that joined the processing of input to the next page.
 16. The immortal chose the BAG algorithm. I taught students online with my Prolog interpreter. The VWS didn't allow outside-page choice points, allowed diverging to different predicates on input, and only allowed forward movement, i.e. moving forward, not back to base cases, which automatically link to the instruction in the following predicate after a predicate call, which could mechanically return through predicate levels. If these didn't alter the data, they could be skipped over. An input could be through a form field, single character press or other Javascript manipulation.
 
-17. * 
+17. The immortal saved space in their system. I tutored computer science students. I used the find predicate to find repeated values in SSI to represent in a single place. In the SSI repeated value garbage collection, if there was only one item per level, I deleted the level. I counted how many references there were to a variable, replacing the variable with the value if there was only a single reference.
+18. The immortal spiritually projected the model solution, or an A if the student hadn't understood it yet. I taught students online and in person at my computer science academy. I helped computer science students with a model solution for each predicate. I helped everyone with a model solution for each algorithm line. I showed the formula with different data.
+19. The immortal defined deep as very useful. I taught students online and in person in my philosophy academy. The student wrote their own vocational course, linking together the elements. I combined meta-computer science and meta-education, by teaching how to teach computer science. For example, an algorithm wrote many, deep algorithms in education.
+20. The immortal queued the events in bytecode. I tutored primary and secondary students in the homework-help club. I back-translated texts to master different languages to check texts and used model solutions in science. I designed the operating system kernel in terms of queues and bytecode. It was an interpreter that worked with the CPU.
+21. The immortal avoided unclear thoughts while studying. I visited the month of the pop number one for 15 minutes per day. I wrote the program in terms of a register state machine. The operating system queued algorithm operations and organised memory use. An integer took 4 bytes.
+22. The immortal visited the prestigious institution in time. I worked after the mantra without effort. Some royals automated meditation, with their own thoughts. After a certain amount of work, the predicate find and others could speed up finding algorithms. I worked on a variant of C, called Vetusia, which was easy to program in like Prolog.
+23. The immortal studied the list of topics. Recordings and lecturer skills were necessary for earning high distinctions with the text to breasonings algorithm, and they could be ordered with copywriting for each, following an accredited course. I stored all the data as a list to process. Vetusia Prolog had commands to quickly find and check code. Garbage collection could also compress strings and lists, and give number lines.
+24. The immortal handled strings using Unicode. I moved from strength to strength, saving effort in meditation, with important algorithms. With an algorithm that it used to generate data in an algorithm, Vetusia Prolog could skip over infinite loops and give the number of results and the result without computing them. It modified algorithms to stop when it found the answer, and tried better parameters. By recognising the form of an algorithm, it could look up possible results.
+25. The immortal wrote the program finder with data algorithm using the find predicate. I avoided stress and lived longer by paying for meditation. In politics-replacement of words in high distinctions, I used the plainnesses, "join", "mix" and "fun". I mind-read arguments and algorithms, checking for and prompting for optimised algorithms, and used tools to save time writing each algorithm. I described algorithms in arguments. 
+26. The immortal manipulated, replaced, deleted and saved a term back to multiple terms with the find predicate. I avoided stress and earned money from mind reading. In Lucian Prolog, in "A is B", the algorithm evaluated both sides. So, "2/5 is 4/10" returned true, not just evaluated the right hand side. The students completed a critical analysis about freezing one's age and breasonings.
+27. The immortal simplified code and sentences. I avoided stress and travelled to different places by paying for time travel. I had retired by the time I arrived. I pretended to be a human bot, and was mindful of breasoning and computation. The bot's "humanness" was reinforced by problematising breasoning and computation.
+28. The immortal wrote a musical about their thoughts. I settled by paying for medicine and practising meditation. I wrote an argument for medicine to avoid mistakes and write about the medicine of life. I played the part, observing group dynamics, such as comments, questions and suggestions. The mind reader thought of their thoughts and thoughts about replies to others, with a song found out and played in reality.
+29. The immortal thought of number ones when finding out musical and written content. I relaxed by paying for meditation and practising the technique. I bought a Virtual Private Server to monitor, start and stop and run tasks in the background. The bots came forward when their and my politics were defined. The server did my thoughts, in terms of the key terms of the thoughts (or "politics").
+30. The immortal only discontinued activities after blocks of them. I achieved my educational goals by paying for pedagogy. I tested the website for business and the education materials. I only used the volunteer bots for testing. The bots were self-sufficient, and did not rely on each other physically. If anything unexpected happened, the activity had to be modified.
+31. The immortal anticipated possibilities and prepared for them. I gave myself a royal treatment by writing on business and academic departments and finishing the rest of the 4*50 As. The person completed in-person sales. The manager prepared for possible questions of the people testing education mateirals or business processes. First, the manager mind mapped possibilities, then wrote sample roleplays scripts for them.
+32. The immortal wrote on human resources during their MBA to help them build networks. I conducted disability testing. The website writer wrote the website to accessibility standards. The consultant, who may be disabled, checked the website's function for user friendliness. The master's degree needed algorithms which required 50 As, such as induction. 
 
-25 7 23 gmail
-
-Gc
-If only 1 item per level, delete level 
-
-La com
-
-Help everyone with model solution for each alg line
-
-Kernel
-Queues
-Bytecode
-
-Visit pop number one tt month 15 minutes with bot--
-
-Same with monash/unimelb tt
-
-Pol
-
-Plainnesses join mix fun
-
-lucianpl
-A is B evaluates both sides
-
-Human bot mindful of medic prob--
-
-
-Bots
-- Politics
-- only for volunteer testing
-- other sales (don't lie on forms)
-- disability testing
 - mr with As
 - details (3 levels)
 - put money into company (gold x) - keep records of both
@@ -103,13 +86,6 @@ La com
 
 Help everyone with model solution for each alg line
 
-Kernel
-Queues
-Bytecode
-
-Visit pop number one tt month 15 minutes with bot--
-
-Same with monash/unimelb tt
 
 Pol
 
@@ -312,22 +288,6 @@ today restart, send email at 12 PM
 
 ---
 
-I can tutor computer science students at University.
-I can teach students online and in person at my computer science academy.
-I can teach students online and in person at my philosophy academy.
-I can tutor primary and secondary students in the homework-help club.
-I avoided unclear thoughts while studying by relaxing.
-Work without the mantra or effort
-Recordings and lecturer skills are necessary for earning high distinctions with the text to breasonings algorithm can be ordered with copywriting for each.
-I can move from strength to strength, saving effort in meditation.
-I can relax and live longer by paying a small fee for meditation.
-I can relax and think about paying a small fee for mind reading.
-I can relax and imagine travelling to different places by paying a small fee for time travel.
-I can settle by paying a small fee for medicine and practising meditation.
-I can relax by paying a small fee for meditation and practising the technique.
-I can achieve my educational goals by paying a small fee for pedagogy.
-Royal treatment
-I wrote on human resources during my MBA to help me build networks.
 I wrote on sales during my MBA to help me build networks.
 I wrote about business during my MBA to help me build networks.
 I will be highly distinguished for GSBS6005Marketing Management and Planning (T2 2023 ONLINE).
