@@ -51,31 +51,22 @@ Immortality 25
 47. The immortal detailed the lectures with GL, then BAG. I detailed the lectures with GL. I replaced two words from a sentence in the philosophy with more relevant terms. I saved time by replacing words in the philosophy, not the BAG output because the BAG output was more extended. I ran BAG on GL output.
 48. The immortal stated that Essay Helper suggested new ways of examining a text and tested a text's readiness to be an area of study. I compared the philosophy with others to see if it was the same idea. I removed the hyphen variant from the Text to Breasonings and paraphraser input file. I found the intersection of punctuation and other languages' characters. The bilingual person could set a language in Text to Breasonings and paraphraser.
 
-49. * 
---
-
-- combos apply to new preds in each group
-- if pred unchanged, skip it x won't know(), other changes may affect it
-- test 1 pred group (with all clauses) at a time
-- save changes x each run goes from start
-
-- tests should be loaded first
-- if no test, error
-- only test Prolog bottom-up
-
-x lc runs all tests anyway, just run tests bottom-up to reset 7 changes
-
-- log reports preds tested, result
-- if everything passes, saves files
-- can find best changes across versions, just need tests for new preds
- - so, error on no test ensures that it is all tested
-- at least save re-lc'd repos as go
-
-* identify pred with name and arity
-* sm
-
-x It is best to run lc with small changes at a time, obsoleting the above x sometimes multiple teams work on multiple changes
-
+49. The immortal built algorithms up to the level being tested, and kept the best combinations of changes at each level. I tested whether the two ideas were identical by working out if their algorithms had the same data. In Lucian CI/CD, combinations of changes applied to new predicates in each group. I tested bottom-level predicates, then predicates that called these. Combinations of up to seven changes could be tested in new predicates in each group.
+50. The immortal ensured the famous text was time-crystal-like by updating the predicates below it. I grappled with the use-by date of the arguments and algorithms, and made them use the best technology to other times. Changes to predicates below, not above a predicate affected its function in testing. I couldn't skip testing a predicate unless it and all the predicates it called were unchanged. A change above it could only affect it if it looped back to or above this predicate.
+51. The immortal attained 100% of the entry-level and advanced CI/CD features. I fired 100% practicums at algorithms during the day. I tested one predicate group (with all its clauses) at a time. I built algorithms with all clauses of needed predicates included. I ran tests on these predicates.
+52. The immortal set the reminder to signal the change of the predicate. I wrote the musical seen-as version of the computer science hint. In Lucian CI/CD, I saved each level of the predicates, where I ran each level after rebuilding. I established the order of predicates bottom-up. I assembled these predicates in their files, and ran the top level predicate's test.
+53. The immortal received a real-time warning that a predicate had a bug, where an algorithm revealed that a test needed changing. In Lucian CI/CD, testing stopped if there was no configuration that tested true, prompting the need for change, including removing unused code in runtime. I loaded the tests separately from the code. I selected from changes scanned every 5 seconds. I found each version, and ran DevOps in case an error had been made.
+54. The immortal developed code using the type statement, writing faster C libraries from Prolog. The bug-fix involved changing the order of commands and arguments, using type statements. If there was no test, Lucian CI/CD gave an error, unless this was disabled in settings. A second algorithm could develop tests from the first algorithm using types. If no test could be computed, there was an error.
+55. The immortal sped up the code using C. Most, in fact all of the Prolog code used C libraries. Lucian CI/CD attempted to test Prolog bottom-up. The predicate dependencies were found. These were ordered by post-order depth-first-search.
+56. The immortal stored all code as Prolog to minimise the number of changes needed. All code was converted to multi-threaded code. By running tests bottom-up, Lucian CI/CD enabled more, up to seven changes per predicate group. A predicate group contained various clauses and predicates in loops. Bottom-up allowed integrations from multiple teams.
+57. The immortal reviewed suggestions to the code, where tests were automatically rewritten if indicated in the settings, or missing predicates were interpolated or performance was graphed. Lucian CI/CD used negative tests (that returned false for given input) to help write if-then statements. A log reported the predicates tested and the results. A mind reading algorithm asked the programmer the data flow at each point of the if-then statement, and simplified it to necessary code. Conditions included maths, logic, set relationships and were found using Combination Algorithm Writer (CAW) or a neuronetwork.
+58. The immortal stepped through the changes, labelling each one. I copied my personal files to the server using Git, to run BAG and GL on lecture notes. If Lucian CI/CD passed everything, it saved the files. Lucian CI/CD either uploaded these finished files or saved a copy of them. Lucian CI/CD uploaded the files when the programmer was satisfied that the version was complete.
+59. I could enter creative changes for Lucian CI/CD to automatically complete, and created hybrid programming languages. The version control system explained each change, and the system could modify the whole algorithm when one change was made, for example, Cultural Translation Tool simplified to one page of translations to process. I kept member2 for the use of CAW, which needed input before output to generate code. I found the best changes in each version, or the first available version, I only needed the tests for the new predicates. I could enter the new tests, and Lucian CI/CD generated tests for the lower predicates (using labels for common data structures) and the lower predicates.
+60. The immortal created all kinds of software in their programming language. I created the performance tests, many candidates for performance and the customers' thoughts. Reporting an error on no test ensured that tests were written and the algorithm was fully tested. Managers looked out for stars who incorporated ideas from other parts of the company in their work. Workers completed their usual tasks until they had clearance for a project.
+61. The immortal found the best configuration of the repository's entire history in terms of the final spec. Creating the professor required a certain number of As, 5*50 As in Education. I saved the repositories reprocessed with Lucian CI/CD as I went. I used the best code from any time. I listed new and changed predicates, and found the best combination of clusters of seven changes to predicates.
+62. The immortal formatted and kept the predicates in order, with the version history of each predicate. The programmer modularised the algorithm into predicates, which the functions could be moved to, storing the (five-secondly) microchanges and finding the best changes to suit the new aims. Lucian CI/CD identified the predicate with the correct name and arity. Lucian CI/CD tested changes to each version of a predicate, until the end of its history to meet the aims. When it found a configuration that met the specs, it kept it until a simpler one was found.
+63. The immortal used old predicates and subparts of predicates, which were stored as functional calls, indexed using type statements. Lucian CI/CD summarised the aim of each algorithm, merging and reusing common code. I found the state machine for each predicate to quickly find dependencies. I redrafted the algorithm to find improvements and better support students. I split the state machine into lines to find the predicates it called.
+64. The immortal integrated the latest technology, often C libraries. I tested individual branches of algorithms, saving them as part of the algorithm. It is best to run Lucian CI/CD with small changes at a time, integrating multiple changes by multiple teams. Individual branches could be explored and perfected separately, then integrated into the whole, requiring small modifications. New features, methods and directions burgeoned at these times, and helped shape the team's and enterprise's direction. 
 
 --
 
@@ -437,24 +428,7 @@ I will be highly distinguished for GSBS6005Marketing Management and Planning (T2
 
 ----
 
-  run tests for a pred with another to see if they are the same  /bag_args/  count and stop when algs age.
-
-  - change change two x 000s algs bag.
-
-  - only hints for each line and args, not the order of args pop singer v another to see if they are the same only hints for each line and args, not the order of args xx.
-
-  - only nec of alg of concurrent  antonym brdict1-2 words pl.
-
-  BAG lecture, ass details, algs  vps  each line and args of alg of concurrent v/old bag - v.
-
- 
-3.
-
-  change two x three random x all x 13 words except common 2 hours x 5 minutes if not running  recent algs, args A for themselves.
-
-  - same brdict arguments to random br  in phil x.
-
-  diff html - updates first check box list after changes - checks what happened to each change object x  and stop when algs , vps.
+x  and stop when algs , vps.
 
   Questionnaire about phil  16000 algorithms - and arguments to random br   - test whole alg, don't worry about changed files x test at, above changed preds x test whole alg (what if order is different) x v.
 
