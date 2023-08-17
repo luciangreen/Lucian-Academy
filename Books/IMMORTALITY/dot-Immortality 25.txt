@@ -68,28 +68,43 @@ Immortality 25
 63. The immortal used old predicates and subparts of predicates, which were stored as functional calls, indexed using type statements. Lucian CI/CD summarised the aim of each algorithm, merging and reusing common code. I found the state machine for each predicate to quickly find dependencies. I redrafted the algorithm to find improvements and better support students. I split the state machine into lines to find the predicates it called.
 64. The immortal integrated the latest technology, often C libraries. I tested individual branches of algorithms, saving them as part of the algorithm. It is best to run Lucian CI/CD with small changes at a time, integrating multiple changes by multiple teams. Individual branches could be explored and perfected separately, then integrated into the whole, requiring small modifications. New features, methods and directions burgeoned at these times, and helped shape the team's and enterprise's direction. 
 
---
+65. The immortal converted between programming languages when completing different tasks. In a post-test world, Lucian CI/CD generated tests and tested whether the algorithm met them. This saved time when changing code. I automatically generated code and changed code following a dialectic with the chatbot, taking advantage of the universal programming language. I reran Lucian CI/CD for each group, inserting two newlines after each predicate.
+66. The immortal wrote the algorithm maker for the state machine, used with programming or text adventure games. I used the Virtual Private Server (VPS) to operate the algorithm generator, making everything into an algorithm maker, including searches, data and places such as "Heart Land". I only tested a predicate once, testing predicates in looping and pacemaker systems together. Heart Land contained a pacemaker state machine. This state machine contained 100%, Vocational Education and let me be on top of them.
+67. The immortal wrote a professor system that wrote details on various assignments. I researched the algorithm, producing a report maker, with, for example, details about affirming a result, calling it an experiment. It was a post-recursion, with foldr and post-search world. I always loaded data files to maintain correct function in Lucian CI/CD. I wrote the date of the last version of Lucian CI/CD that was compatible with languages other than Prolog, until support for other languages was established.
+68. The immortal drafted algorithms and arguments from internal perspectives. Report maker exposed simple algorithms at each point, developing research frontiers. Lucian CI/CD loaded the tests for each predicate. These included the various clauses of the predicate. Each new word in a test should have ten instances. There should also be ten instances of intra-algorithm connections, usually variations of methods.
+69. The immortal ensured the back-compatibility of member2. I tested the algorithm with various data, from numbers, illegal characters to foreign characters. I manually tested an algorithm or predicate, without touching a file. I automatically generated and ran tests with unusual characters and heavy loads. I ported, built and tested the software on various systems.
+70. The immortal auto-downloaded and tested updates to repositories on VPSs with different operating systems and architectures. I monitored the entire set of repositories and bulk-uploaded them after testing. I wrote a line of code containing a repository's main file name, without which testing failed. I separated unused sections of repositories and recommended reused code be moved to local libraries. I either made unused sections of repositories into new repositories, deleted them or loaded them with the rest of the repository.
+71. The immortal manually checked automatically generated tests for security holes and unwanted results. I used subtract in the following:
 
-rerun lc for each group
-- only test a pred once
-- always load data files (the last version of lc that is compatible with non prolog is before 1 8 23)
-- how will the tests be loaded - for each pred
-- preds needed for preds are different from touched files
- - need a test that contains a repo's main file name, fails without it
- - test whole alg, don't worry about changed files x test at, above changed preds x test whole alg (what if order is different) x run lc when a file changes, but test whole alg x test changed parts
- - assumed all files in a repo are called by the main file
-  - if other repos use a pred, test them as well
- - use lppm deps to produce error if a pred isn't found x check a pred from another repo is loaded using lppm (when that repo is the main one), otherwise error x when running a repo, check all preds in other repos are loaded with lppm
+collect_clauses_in_loops2([N1,A],NDs1,NDs2) :-
+ (member([N1,_],NDs1)->subtract(NDs1,[[N1,_A2]],NDs2);
+ append(NDs1,[[N1,A]],NDs2)).
 
---
-search for member, member2 outside lpi v
+which worked as well as:
 
-reenroll v
-imm song x wait for 4*50 x 5 new songs
-put bag on vps2
-luciancicd - bottom up preds
+collect_clauses_in_loops2([N1,A],NDs1,NDs2) :-
+ (member([N1,_],NDs1)->delete(NDs1,[N1,_A2],NDs2);
+ append(NDs1,[[N1,A]],NDs2)).
 
-acting cw v
+which worked with the query:
+
+foldr(collect_clauses_in_loops2,[[[2,4],[1,0]]],[[1,3],[2,4],[2,5]],A).
+
+to give the following result:
+
+A = [].
+
+I uploaded and tested the algorithmic form, usually ten, of arguments. I tested parts of algorithms with changes at that level or below. I tested these levels up to the top on a change to a predicate.
+72. The immortal funnelled viral work to be developed by the human. I automatically ran BAG on lectures, assignments and, algorithms and arguments in a private repository. I assumed all files in a repository were called by the main file, and checked this. I used Essay Helper and CAW with types to connect different arguments and algorithms together. Then I ran BAG on these new connections.
+73. The immortal embarked on more ambitious automated changes, such as simplifying bulk data to one input, recognising and activating levels and using a functional call to a interpreter as a Just In Time, online or other compiler. I wrote a multithreaded version of music composer. If other repositories used a predicate, then I tested them as well. I changed Lucian CI/CD to multithreading. I recorded whether a repository was successfully tested, and uploaded it.
+74. The immortal found new thoughts between people. I compared and set out to find similarities and differences between generati (sic) between times, also using Vedic Astrology. When running a repository, I checked all predicates in the repositories were loaded with List Prolog Package Manager (LPPM), by simulating installing them with LPPM. I suggested new repositories to add to a repository's entry in LPPM. I searched for missing predicates, reporting and deleting duplicates.
+75. The immortal rapidly bug tested code from a range of possibilities using a CAW capsule and other algorithms. I wrote arguments and algorithms as lecture details to earn a high distinction. I made member(Item, List) in List Prolog the same as Prolog, but kept member2(List, Item) (with the arguments the other way around) to work with CAW, which inserted inputs before getting outputs. I used the CAW output which satisfied 100% of the specifications. I used a capsule in CAW which ran predicates using a functional call.
+76. The immortal developed high distinctions as part of their preparations. The hints were details in the lectures. I set up an automatic reminder to students to re-enrol. I asked the students how to improve and how they were progressing with their goals in the feedback form. The student wrote their own lecture about their progress, with details, and a self-written assignment specification and exam to assess their understanding of lectures.
+77. The immortal published their work, to pitchers to teach it. Arguments were stronger than algorithms because they could be critically examined without reference to algorithms, and were clearer to people. I wrote the work with, or as 4*50 As. I used text to breasonings to help with freezing my age, and the institution supported me writing breasonings. The intellectual examined the idea with 4*50 As.
+78. The immortal researched international audiences. I methodically changed all my algorithms to multithreading. I installed BAG on the VPS, to act as a backup. If the computer went down, I could run BAG from my iPhone on the terminal. I used breasonings in the producer way of thinking to keep up with international laws.
+79. The immortal timed different versions of commands, and secretly replaced slower versions. I developed my List Prolog interpreter to run all the algorithms Prolog could run. It needed speed and the predicates written in C. I wrote the second version of Lucian CI/CD to test predicates bottom-up. I used multithreading in the interpreter to speed it up.
+80. The immortal earned a high distinction for the feature in Prolog. I wrote findall in C in my Prolog interpreter, where the choicepoints were sped up in C. I ordered copy for acting. Everything was a predicate, and often written in C. The professional ordered copy to support a high distinction.
+
 --
 
 Different each time
@@ -427,19 +442,6 @@ I wrote about business during my MBA to help me build networks.
 I will be highly distinguished for GSBS6005Marketing Management and Planning (T2 2023 ONLINE).
 
 ----
-
-x  and stop when algs , vps.
-
-  Questionnaire about phil  16000 algorithms - and arguments to random br   - test whole alg, don't worry about changed files x test at, above changed preds x test whole alg (what if order is different) x v.
-
-  - upload with sending 2 emails x reports of total, br  pl, bag_args ) v.
-
- 
-4.
-
-  BAG lecture, ass details, algs of alg of concurrent v/old  BAG lecture, ass details on vps for 24h.
-
-  - only hints for each line and args, not the order of args of alg of concurrent  to priv2, vps ws wo x payment, pl in lp.
 
   % ssi ws wo x same brdict object x  - only hints for each line and args, not the order of args ) v.
 
