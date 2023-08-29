@@ -21,6 +21,49 @@ Immortality 26
 
 ---
 
+triple 3.2 m br for each person
+u18 - add to eh bag gl
+Non computer era people can program a computer in the future --
+
+lc: tests preds
+put back curr pred result count
+- success=0, 1 if fails
+set pred list to an empty list at the beginning, so it is not reset while running
+troubleshooting: dependencies, main file, settings (username, paths), code works (has correc include statements)
+
+test
+- all tests for each predicate v
+- each level of predicates, v
+ - throughout repositories v
+- their main files and predicates
+- all dependencies connected to a repository
+
+test with multiple wrong possibilities
+
+Bottom-up version - Lucian CI/CD can now check sets of repositories bottom-up, which means there are up to 7 possible changes to a set of current predicates to find a working combination of. Current predicates are each predicate in depth first, post order, or sets of clauses or predicates involved in loops.
+
+explain to use luciangreen, main file, gh2, omit
+explain other programming languages aren't fully supported yet (even though the non-bottom-up version does at 27 8 23, only 7 changes to whole set of repositories
+
+lc alg inserts commas in appended code to be translated from list prolog into prolog
+
+merge files bug fixes- double brackets around item to append, added include statement to list prolog, fixed bug in finding the last instance of an item in a list
+
+working preds saved after success
+signal success to stop loop
+numbers in the working preds have to be removed before merging (integrating) the differences between old and new
+preds are inserted after predicates of their name and arity
+
+read about cut behaviour and program it
+
+I'm writing about how all the tests for a current predicate need to be passed, and all the tests for the repository need to be passed and concerning the correct tests for the current predicates and numbering predicates.
+- there are different tests for each of these results
+
+all tests come from preds from main file first pred
+
+bug fix text files being wrongly converted to [[comment]] rather than [[[comment]]]
+
+
 clauses
 7 changes of preds
 - integrate
