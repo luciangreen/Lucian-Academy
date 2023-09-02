@@ -27,7 +27,7 @@ combophil_alg_log :-
 	%trace,
 	%atom_to_term(String02b,String02a,[]),
 	
-	
+	working_directory(_,'Books'),
 	folders(Folders),
 	%Folders=["a000"],
 	%trace,
