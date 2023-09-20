@@ -51,6 +51,361 @@ Education on Pedagogy 1
 47. The pedagogue paid for the course for results. I analysed the companies and people around me using mind reading. I attributed algorithms to spiritual conversations. I started with research, attributing algorithms to my academy's research students and finding various methods for each algorithm, like political sliders. The B2B company held details for each person.
 48. The pedagogue decided on imagery to appear when specific algorithms were finished. I created a background algorithm writer that mind-read me, took notes and wrote the finished algorithm. I started with tens when I commenced politics, in other words, thoughts in terms of specific keywords. I wrote two keywords and objected to others as the tens. It made the imagery light up.
 
+49. The pedagogue made a functional call that called intermediate predicates that called other predicates in Prolog. I ran Prolog from State Saving Interpreter (SSI) and LPI for the web. The Prolog algorithm was run from within SSI or LPI. I ran SSI or LPI online, running a Prolog algorithm on the page, for speed. Prolog could run the same code within a recursive algorithm.
+50. The pedagogue checked their knowledge. I advised Essay Helper users to remove page references when not making a direct quote in the APA citation style. If they used a direct quote, they should use a page reference. If they didn't use a direct quote, they should only give the author's surname and the year. I explained they were specifications, not descriptions.
+51. The pedagogue processed, ranked and produced understandable knowledge. I wrote a neuronetwork and an API for algorithms and arguments. Everything was categorised by algorithm topic and how the knowledge related to it. I accessed the neuronetwork using an API. The answers came in tens, and more detail could be asked about an item.
+52. The pedagogue predicted mistakes in arguments in the future. I traversed the text from the neuronetwork. I found the number of items per level. I found the number of levels. I traversed the data pre-order, depth-first.
+53. The pedagogue explored complete knowledge. I saved the sentences done and queries to the neuronetwork. If there was a similar sentence, I found new queries from the old answers. I saved the sentences looked up, to avoid looking them up again. I saved the queries to avoid looking them up again.
+54. The pedagogy professor read the summary each day. I solved the problem with more details and connections. I wrote the primary philosophy. I connected the argument to more departments, topics and keywords. I made connections between sentences.
+55. The pedagogue only breasoned out documents if the daily regimen had been read that day and BAG had been started. I wrote an algorithm which copied, queued, paraphrased and breasoned out documents. The documents were copied to "paraphrase and breason out" or "breason out" folders. When the computer had time, it processed these folders. These algorithms were automatic, and required no additional input.
+56. The pedagogue made queue workflows where files could be moved, cancelled, stopped at midnight or use the right amount of memory. I breasoned out each document with two million breasonings. I put the document in the queue for two million breasonings. I breasoned it out. The two million breasonings gave me enough breasonings for master's.
+57. The pedagogue wrote and read. I breasoned out 3*80+15 (for a detail) = 255 sentences per day. Once I had finished, I completed necessary tasks. I completed details for the philosophy and assignments. These were 30 for master's, 50 for professor and 4*50 for business.
+58. The pedagogue tested comments in predicates in each algorithm. I added the case of "a:-b,\n%d,e." with a comment in the predicate to the Prolog converter. I added the comment between the lines of the predicate. This comment needed to be hard-saved in Lucian CI/CD. To do this, it was added to the code before adding lines of code to test and running the set up command.
+59. The pedagogue wrote an algorithm with short and long parameter lists. I wrote the "graft" algorithm, which found multi-use algorithms. It found different entry points to algorithms. Parameters could be added to these entry points for additional features. Example of these features were automatic, languages, debug or SSI long debug.
+60. The pedagogue ran the new generation interpreter. I included Lucian CI/CD as a List Prolog (List Prolog Interpreter or LPI, or State Saving Interpreter or SSI) module. The Lucian CI/CD module finds the simplified code from versions before running. If a predicate passes or fails unwantedly compared with how it is expected to work, Lucian CI/CD can correct the predicate's code. If the code is backdated, the user is notified that buggy code was removed.
+61. The pedagogue automatically kept new comments in Lucian CI/CD without the need to hard-save them. In Lucian CI/CD, I automatically included new comments and discarded old ones. The new comments were kept in order and changes flowed around them (predicates with the same names and arities were compared in the old versions). The predicates with the same names and arities were kept together and combinations of changes to them tested. If the order of predicates in the old or new version were in the correct order, they would be tested in this order.
+62. The pedagogue wrote an algorithm that detected and corrected files and predicates from being loaded multiple times. I eliminated discontiguous predicates. I loaded each file once. This step stopped predicates from being discontiguous (predicates with the same name and arity being listed separately). This step stopped predicates being run multiple times, causing errors.
+63. The pedagogue queried, "What is after interpreters?" which was answered with "The brain". I divided the predicates into old and new to find the right combination of changes to them. The old comments were discarded. The new comments were copied to the old and new predicates. If a predicate was unchanged, no new combinations of it were found, and it was tested.
+64. The pedagogue wrote 80 breasonings, or as many or few as they liked. I wrote 6*4*50 As (A=80 sentence breasonings) in education. These covered the assignments well. The students could work on seen-as assignments. Their subsidised work was taken care of for them.
+
+6 4*50s in bus incl company product employee
+
+Br daily philosophy from nn
+
+Ssi
+Various optimisations
+If then cuts non links to other preds
+Gc
+Cut cuts numbers of further preds
+
+Make clause nums cps
+
+Not dels cps
+
+ 
+make vetusia for web by running pl with variables saved
+- other web apps
+
+luciancicd 23 6 23
+
+- list diff summary, link in log
+- toc at start with file names
+- line nums
+- not pl or pp0, remove comments
+
+- how long doc is at start
+- toc also in diff files
+web luciancicd
+
+- lets choose from possible changes (for up to seven changes at a time x)
+- version description for group of changes
+- can upload or not upload after a group tests positive
+
+diff html - updates first check box list after changes - checks what happened to each change
+table of contents of changes
+asks if want to manually keep text, comments
+ssi need check boxes
+luciancicd needs web output
+
+x no multiple stages
+
+each pipeline, result and diff (of finished version)
+- start pipeline command and logs
+- result, not live results
+
+xx tests can't be separated from each other, so do simple web app
+
+chronological order
+
+keep 4 levels
+
+---
+
+Money: property
+- Job: aged care
+
+% help-replace alg with solution
+- one pred at a time
+- paraph
+- only hints for each line and args, not the order of args xx
+- explain and confirm understanding of the code x
+
+% vetusia-style website with login, enrollment (with payment 40 4*50 As for high -powered refunds), account, courses-teaching, assessment (plagiarism checker) and help.
+
+% ssi ws wo x payment, pl in lp
+
+bus bank acct
+
+bo* sales
+test ws, courses
+bytecode lpi lang
+
+&varlist
+=variable list
+
+
+Ask the female head of state robot nicely if she can do medicine and immortality things.
+- Still need tt As
+- don't need to tt (die to home time)
+
+x the other character will get old and have lower quality of life
+
+25 7 23 gmail
+
+Gc
+If only 1 item per level, delete level 
+
+La com
+
+Help everyone with model solution for each alg line
+
+
+Pol
+
+Plainnesses join mix fun
+
+lucianpl
+A is B evaluates both sides
+
+Human bot mindful of medic prob--
+
+
+% split200.pl
+
+% I supported freezing one's age with meditation politically, including its lifestyle and implications.
+
+% 3 sales, with groups of 3 4*50 As 5-8 seconds apart
+% all 20 x 100% positive thoughts
+% half of 4*50 As should be det mr
+% protected with seen-as appearance
+
+
+4*50 As with bag texts - 2 words replaced with terms from A, 8 words replaced with antonym brdict1-2 words
+- some bag results left alone for an A for themselves
+
+split of 200
+- 0.5 text details
+- only nec for tt, medic, medit
+- rest sales (mr):
+
+morally end mr not working
+
+everyone contributes As to mr
+
+find out whether customer is a lead
+
+if so do alg
+
+alg
+- () 3 level funnels for each of:
+- aim i/o - data
+- thing that interests you - 1 command
+- if more m-readers, can have more thoughts - 5 commands (and more data)
+- br is descr of alg
+- if alg doesn't work, make up 5 more
+
+* It is a non-profit business. The paid students (who are employed from dividends from investments) x the volunteer students are found through a site will have A given to them at the time. 
+
+- focus mr from other times on a single time
+- 10 4*50 As to find best times of day
+
+x keep first 200 for me
+
+remove double quotes from paraphraser1
+
+--
+
+
+Stops back aches
+
+Protect texts as within sliders- 1 of 10 points
+
+Antonyms for each word
+
+Antonyms for t2b, t2ba
+
+Br, t2ba ant
+
+Replace with theirwords in original textfile
+
+Shell bag saves each br set
+
+For new medits, find pos with few det mr, more mr and mostly random
+
+Catch timeout for bag
+- find time from logs
+--
+
+Bag give self A for A--
+
+bag
+- count all br, even failed ones
+- count and stop when algs, args reach n
+
+only count working br (total is correct but day2.pl's counter overcounts)
+- change day2.pl, bag_args21.pl etc and bag
+
+ 
+need 1 person each bag person faces to be done too 
+4*50 As for br face expressions
+?- N=1,M=14000,texttobr(5,u,"square",M).
+
+
+move gh/private2 to gh-private2
+(ghp2 refers to files in gh)
+save ghp2 as gh on server
+find refs to private2 and change them
+
+x
+
+t2b data can be public
+move private data to private repos
+- t2b medits, meditnoreplace
+
+
+* git get updated software-as-files
+
+bag
+delete time notifs
+- reports of total, br true
+print out when over 6000
+put recent docs in
+
+bring time limit from 5 -> 2*average v
+
+use faster of alg of concurrent v/old bag - v
+
+
+* put in gh
+
+continuous hqt
+
+gits.txt - download ghs to vps
+
+test_alarm.pl on a minute/hour
+swipl 
+
+
+
+--
+
+wasm
+- multithreading, web
+
+https://www.swi-prolog.org/pldoc/man?section=wasm-loading
+
+
+try running up to 96k br in an hour
+
+--x:
+javascript
+
+window.open('https://www.javatpoint.com')
+ 
+ run js from wasm
+ https://www.swi-prolog.org/pldoc/man?section=wasm-js-call
+ 
+ 
+ google: javascript send receive data with apis
+bag
+
+exclude sparse files with low scores
+
+conflicted copies from mba dropbox:
+
+
+mac crontab -e (?)
+customise x
+run a person's bag every 2 hours x 5 minutes if not running
+except audio alert, putting through
+move log file after n done
+
+separate archive aa log into new alg
+pop singer v keep new bag
+if bag fails, redo v
+
+adrian antonia hqt x redo bag
+download t2b non concurrent for vps vx kept concurr
+
+ameet ass
+ssi
+
+
+copy bag to priv2, vps
+
+delete () in freeze v
+perhaps take random section x start
+
+- test where last line of eg 6000 is
++5% v
+repair t2b, t2ab dicts v
+
+remove non alpha chars t2b v
+
+br, v
+t2ab v
+
+daily reg v
+
+recent algs, args v
+multithread bag, t2b, t2ab (with installers for different cpu n - test whether only top level pred needs duplicating) v
+
+9 7 23
+
+test run bag on vps for 24h
+upload non critical repos each day
+email count at 9 AM
+
+today restart, send email at 12 PM
+- upload with sending 2 emails x 3, one at 3 PM
+
+
+I wrote on sales during my MBA to help me build networks.
+I wrote about business during my MBA to help me build networks.
+I will be highly distinguished for GSBS6005Marketing Management and Planning (T2 2023 ONLINE).
+---
+ reports of total, br true.
+
+  run tests for a pred with another to see if they are the same  x test whole alg (what if order is different) x  5 text details copy bag to priv2, vps.
+
+  diff html - updates first check box list after changes - checks what happened to each change v ass details non concurrent for vps vx kept concurr.
+
+  change two x v  brdict  payment, pl in lp.
+
+  bag with brdict customise x  stop when algs, args reach n.
+
+ 
+8.
+
+   - test whole alg, don't worry about changed files x reports of total, br 4h.
+
+  Toplevel, append a person's bag 1 A not 4*50 As nec  vps2.
+
+  run tests for a pred with another to see if they are the same  x  save changes x reports of total, br true.
+
+  pl, bag_args age  change two x change two x three random x all x 13 words except common words in each excerpt in the sequence of 16000 algorithms - and arguments to random br.
+
+  - count and stop when algs adrian antonia hqt x redo  the order of args minutes if not running.
+
+ 
+
+
+   I audited  replaced   I audited  the result.
+
+ 
+15.
+
+   I audited  replaced   I made sales decisions quickly  I competed for the result.
+
+   I audited  replaced   I replaced  I competed for the result.
+
+   I audited  replaced   I replaced the product with a similar  I competed for the result.
+
+   I audited  replaced   The product helped me to react more quickly  I competed for the result.
+
+   I audited  replaced  Green, L  the result.
+
+ 
 
       carryable(Line) :- %% Returns whether the first line has one long (two or more) h's (one long handle) or two h's (two short being able to see the object's top two uses affected people, where he used the two items in two different ways each).
 
