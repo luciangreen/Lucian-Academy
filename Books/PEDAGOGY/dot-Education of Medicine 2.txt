@@ -34,66 +34,23 @@ Education of Medicine 2
 31. The medicine student included labels to explain the code. To simplify testing, I functionally decomposed predicates, using an algorithm to decompose an algorithm and write tests. I used code that was compatible with C for conversion and speed. I wrote a language like Prolog with C-like loops, arrays and data structures, with the immutability (single value) of a single type of Prolog variables. I wrote an algorithm that removed redundant, unconnected code or led nowhere.
 32. The medicine student checked and uploaded the files. The Lucian CI/CD weblog was printed in reverse chronological order. The modification dates of the files were collected. They were ordered from newest to oldest. I read that the latest build had passed.
 
-keep 4 levels of lc log
+33. The medicine student wrote many details and their algorithms in business. I wrote a bytecode List Prolog language. List Prolog algorithms could be in any language, with reserved and user predicate and variable names translated. I added a bytecode language, which contained the initials of words as the word. I could also write the initials from any spoken language.
+34. The medicine student used time travel to produce results at the time. I mind read professors ahead of time each day and wrote an algorithm for them with Combination Algorithm Writer (CAW) to solve hard problems. They specified the algorithm, or if they didn't, a seen-as specification was written for them. The computer found this, produced the algorithm and they viewed it and possibly wrote it down. Pattern matching algorithm and neuronetworks may also be involved.
+35. The medicine student collected the garbage after a predicate finished. I wrote a label for variable lists in List Prolog, "&varlist". This made finding varlists easier, for garbage collection. I replaced repeating values with a symbol. I garbage collected items after findall finished.
+36. The medicine student  I found out that I needed 4*50 As for freezing age medicine and time travel each day when I asked the robot female head of state nicely if she could give me medicine and immortality As. I used Breasoning Algorithm Generator (BAG) to write 4*50 As about my philosophy and computer science. I still had to breason out my own time travel As each day. By time travelling,  I survived in my home time.
+37. The medicine student favoured the term meditation miracle. My home time character stayed young and had higher quality of life when I time travelled to the simulation, after breasoning out As and breasoning out age-freezing medicine each day. I could stay in my chosen profession and teach new ideas. I avoided medical problems and remained stress-free. The missing hen reappeared after protection was indicated for her.
+38. The medicine student added on protection during their tours. I wrote the garbage collection algorithm in List Prolog. I scanned lists of variables. I replaced repeating values with symbols. I stored the table of symbols and values in the global variables.
+39. The medicine student wrote a repeating value tree in terms of the symbols "a:-[b|c].". If there was only one item per level in a garbage tree, I deleted the level. In "a:-b.", "b:-c." and "c:-d.", I deleted "b:-c." and replaced "c:-d." with "b:-d.". Garbage trees arose when a symbol was in terms of one or more symbols. Trees may have one item per level if a value becomes empty and the tree is simplified.
+40. The medicine student tried small, simple steps. In Lucian Academy, I helped the student with the model solution for each algorithm line. The highest quality thought was to help a student with a line of code. The people got up to the neuronetworks from the future. The professor had A.
+41. The medicine student found the interdisciplinary job. In political pedagogy, plainnesses joined the mix fun. I found the general form of an idea. It definitely started with an algorithm. In political pedagogy, involving replacing words in a sentence with keywords to relate it to a topic, simple, plain connecting words joined the sentences, mixed with keywords, which brought in unusual nomenclature.
+42. The medicine student avoided not evaluating the left hand side of an "is" expression. In lucianpl, A is B evaluated both sides. For example, in 1+1 is 0+2, 1+1 and 0+2 both evaluated to 2. This became 2 is 2. In Prolog, this was logically true.
+43. The medicine student rewrote the algorithm for quantum computers. The human bot was mindful of medical problems. Medical problems were postive questions and answers, such as arguments and algorithms. The person acted like a robot, thinking of logic. They were human, so they could find out and work out arguments and algorithms.
+44. The medicine student helped the person be a self-sufficient immortal. Each meditator split the As to give the gift of life. The person was a close family member. They were given As for meditation, time travel to 5689 and age-freezing medicine. They needed 4*50 As for each of these, and used two sets of As for the return journey back to the future.
+45. The medicine student became an institution. I supported freezing one's age with meditation politically, including its lifestyle and implications. I wrote arguments and algorithms. I wrote new additions each week. I enjoyed preparing for times and joining in with academia. I took care with long-term plans, writing many philosophy books.
+46. The medicine student turned up as a volunteer because of the product As. I prepared for three sales each for meditation, medicine and time travel, with groups of three 4*50 As five to eight seconds apart. I prepared to buy the products as a customer with As. The vendor also gave me As when I bought the products. Buying products with As firmed up the product. I checked the product for professional sides.
+47. The medicine student considered whether the product was needed or wanted. At least twenty, or 100% of the products had positive thoughts associated with them. I wrote the product name. I collected customer feedback on the product, classifying it as wanted or unwanted. I sold the wanted product.
+48. The medicine student experienced depth from detailed mind reading. Half of the 4*50 As were detailedly mind read. I detailedly mind read the algorithm. I detailedly mind read the ontology. I detailedly mind read the connection.
 
----
-
-Money: property
-- Job: aged care
-
-% help-replace alg with solution
-- one pred at a time
-- paraph
-- only hints for each line and args, not the order of args xx
-- explain and confirm understanding of the code x
-
-% vetusia-style website with login, enrollment (with payment 40 4*50 As for high -powered refunds), account, courses-teaching, assessment (plagiarism checker) and help.
-
-% ssi ws wo x payment, pl in lp
-
-bus bank acct
-
-bo* sales
-test ws, courses
-bytecode lpi lang
-
-&varlist
-=variable list
-
-
-Ask the female head of state robot nicely if she can do medicine and immortality things.
-- Still need tt As
-- don't need to tt (die to home time)
-
-x the other character will get old and have lower quality of life
-
-25 7 23 gmail
-
-Gc
-If only 1 item per level, delete level 
-
-La com
-
-Help everyone with model solution for each alg line
-
-
-Pol
-
-Plainnesses join mix fun
-
-lucianpl
-A is B evaluates both sides
-
-Human bot mindful of medic prob--
-
-
-% split200.pl
-
-% I supported freezing one's age with meditation politically, including its lifestyle and implications.
-
-% 3 sales, with groups of 3 4*50 As 5-8 seconds apart
-% all 20 x 100% positive thoughts
-% half of 4*50 As should be det mr
 % protected with seen-as appearance
 
 
@@ -354,4 +311,21 @@ I will be highly distinguished for GSBS6005Marketing Management and Planning (T2
 
  
  
+ 
+
+   The bot wrote the scene  new methods  the algorithms developed, involving new methods  the goods.
+
+ 
+20.
+
+   I noticed how the algorithms developed, involving new methods  good job  the algorithms developed, involving new methods  the person.
+
+   I noticed how the algorithms developed, involving new methods  the food   I noticed how the algorithms developed, involving new methods  good job.
+
+  3165/80=40 80s  new methods  involving new methods  the goods.
+
+   I noticed how the algorithms developed, involving new methods  the goods  the algorithms developed, involving new methods  the scene.
+
+   The bot transcribed the text  new methods  involving new methods  the text.
+
  
