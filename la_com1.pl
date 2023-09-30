@@ -9,6 +9,7 @@
 %:-include('../Text-to-Breasonings/truncate_words_conserving_formatting.pl').
 
 :-include('../Text-to-Breasonings/text_to_breasonings.pl').
+:-include('../Text-to-Breasonings/texttobrall2_reading3.pl').
 :-include('../Text-to-Breasonings/meditatorsanddoctors.pl').
 %:-include('../Text-to-Breasonings/truncate.pl').
 
@@ -126,10 +127,14 @@ append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 	(true%toss_coin 
 	-> (get_texts(Course,Texts),
 	
-trace,
+%trace,
 	short_essay_helper(Texts,Course,3,Essay_0),
 	%writeln([essay_0,Essay_0]),
-	W is 50*4,texttobr2(u,u,Essay_0,u,false,false,false,false,false,false,W),
+	W is 50*4,%texttobr2(u,u,Essay_0,u,false,false,false,false,false,false,W,[auto,on]),
+	
+	texttobr2(u,u,Essay_0,u,[auto,on]),
+
+
 	texttobr(u,u,Essay_0,u),
 	
 	working_directory(_, '../Lucian-Academy/'),
@@ -163,7 +168,10 @@ trace,
 
 	working_directory(_, '../Lucian-Academy/'),
 
-	texttobr2(u,u,GL_out,Br,false,false,false,false,false,false,W),
+	%texttobr2(u,u,GL_out,Br,false,false,false,false,false,false,W),
+	
+    texttobr2(u,u,GL_out,Br,[auto,on]),
+
 	texttobr(u,u,GL_out,Br),
 
 		
