@@ -42,16 +42,3 @@ I originally thought lambda expressions were inductive and that currying was fin
 14. The simulant reduced the large change to several smaller changes, or identified what the items in the chunk had in common. I found the changed items. The changes were chunks of changed items. They may have been inserted in order. This ordering may have been given an index or an understood index.
 15. The simulant specified simple cases of an exact item being deleted from a list of lists. I found whether the item was missing in several places in the term. I checked whether it was missing in all places in a list. Or I checked whether it was missing in all places in a term. Or I checked whether it was missing in some parts of a term and not others.
 16. The simulant might concatenate [3] giving "3". I found whether several items in a term had been subtracted. For example [[1,[2,3]],[2]] might become [[[3]],[]] if [1,2] had been subtracted from the original. Additionally, [] might be deleted, giving [[[3]]]. Also, the term might be flattened, giving [3].
-
-
-
-
-
-
-
-
-
-
-
-
-
