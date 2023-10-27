@@ -57,8 +57,6 @@ Deploying the Lucian bot
 51. The businessman helped the bot achieve a goal. I prepared the bot to do what it wanted to do. I gave the bot a model solution and question. I explained how to do each step. I inserted explanations, quantifications, examples and originality scores.
 52. The businessman checked whether there were any updates to the perspectives. I found arcs of thoughts and brought relevant information forward. I defined an arc as a set of categories and their movement over time. I explored the set of algorithms. I could write a report on them, including description, input, output, difficulties, methods and future research.
 
-***
-
 53. Royalty gave the thoughts to the person, so they needed to be created as well, with royal bot As.
 54. When I had finished the business level, I let bots take the lead within bounds.
 55. There were different bounds of necessary thoughts within a business level.
@@ -75,6 +73,9 @@ Deploying the Lucian bot
 66. I studied a person-hiring and selling-to business course.
 67. I went around humans instead of becoming them.
 68. I found the thoughts of the bot.
+
+***
+
 69. I guessed the human thoughts, even though I couldn't become the human.
 70. I became the customer and employee to understand their interaction.
 
@@ -94,3 +95,4 @@ Non-Transgression of Science from Time Travel
 79. Time travel (a natural property of the universe) naturally prevents transgressions, like stomach aches of selfishness, because they could prevent people from discovering time travel, among other inventions and ultimately have a moral downturn.
 80. The natural property of time travel is that teleportation causing transgressions is impossible, where adverse effects of violations are not experienced by the destination time in the universe as if the offender had never arrived. (This is an expansion of, not proven by a phys.org article which shows why closed time-like curves (CTCs), which it says it doesn't necessarily know exist, don't allow passage of a killer, solving the grandfather paradox of time travel.)  The absence of transgressions in nature shows that this may be true.
 "]
+

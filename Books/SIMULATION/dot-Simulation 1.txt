@@ -1,16 +1,16 @@
 Simulation 1
 
 1. The simulant ate the food. I gave the lambda expression input. For example: "?-maplist([In]>>atom_concat(In,'_p',_Out), [a,b]).". In this, [a,b] are inputs with In in the predicate. The result is true, indicating it worked.
-2. The simulant gained exercise from the walk. I gave the lambda expression input, returning output. For example: "?- maplist([In,Out]>>atom_concat(In,'_p',Out), [a,b], ListOut)." In this, [a,b] are inputs with In and ListOut is the output from Out in the predicate. The result is "ListOut = [a_p, b_p]." indicating "_p" was successfully concatenated to each of [a,b].
-3. The simulant used lambda notation to exclude certain variables. In the following, there are two clauses of q that have the arguments [1,c] and [2,d], respectively. 
+2. The simulant gained exercise from the walk. I gave the lambda expression input, returning output. For example: "?- maplist([In, Out]>>atom_concat(In,'_p',Out), [a,b], ListOut)." In this, [a,b] are inputs with In, and ListOut is the output from Out in the predicate. The result is "ListOut = [a_p, b_p]." indicating "_p" was successfully concatenated to each of [a,b].
+3. The simulant used lambda notation to exclude certain variables. In the following, two clauses of q have the arguments [1,c] and [2,d], respectively. 
 q(1,c).
 q(2,d).
-In the following query, I used a lambda expression to find set X equal to the first argument in each of the previous clauses.
+In the following query, I used a lambda expression to find a set X equal to the first argument in each previous clause.
 ?- {X}/q(X,Y).
 X = 1;
 X = 2.
 The results are X = 1 and X = 2, as explained.
-The following queries have equivalent results, and use existential quantification (^/2) to exclude variables and lambda expressions respectively.
+The following queries have equivalent results and use existential quantification (^/2) to exclude variables and lambda expressions.
 setof(X, Y^q(X,Y), Xs).
 setof(X, {X}/q(X,_), Xs).
 Both these queries return Xs = [1, 2].
@@ -21,24 +21,24 @@ q(b,d).
 The following results are the same as before.
 Xs = [a, b],
 ListOut = [a_p, b_p].
-5. The simulant checked the command went backwards. In the following, I went backwards using lambda expressions:
+5. The simulant checked the command was going backwards. In the following, I went backwards using lambda expressions:
 ?- maplist([In,Out]>>atom_concat(In,'_p',Out), A, [a_p,b_p]).
 A = [a, b].
-This found a from a_p, etc.
+This command found a from a_p, etc.
 6. The simulant compressed the code. I wrote the lambda expression in terms of findall in Prolog. This was: ?- C=[a,b],findall(A,(member(B,C),atom_concat(B,'_p',A)),D).
 The result was:
 C = [a, b],
 D = [a_p, b_p].
-This could be converted to a loop in C code.
-7. The simulant found A in "maplist([In,Out]>>A(In,'_p',Out), [a,b], [a_p,b_p])." equalled atom_concat. I wrote this findall command in List Prolog, in tokens. This was: [[n,=],[[v,c],[a,b]]],[[n,findall],[[v,a],[[[n,member],[[v,b],[v,c]]],[[n,atom_concat],[[v,b],'_p',[v,a]]]],[v,d]]].
+This code could be converted to a loop in C code.
+7. The simulant found A in "maplist([In, Out]>>A(In,'_p', Out), [a,b], [a_p,b_p])." equalled atom_concat. I wrote this findall command in List Prolog in tokens. This was: [[n,=],[[v,c],[a,b]]],[[n,findall],[[v,a],[[[n,member],[[v,b],[v,c]]],[[n,atom_concat],[[v,b],'_p',[v,a]]]],[v,d]]].
 The results were the same as above.
-I originally thought lambda expressions were inductive and that currying was finding the operator.
-8. The simulant found the concatenation and any conversion necessary. In an inductive algorithm, I found atom_concat. I found the types of the input and output. I found the string difference or similar. I found atom_concat.
+I initially thought lambda expressions were inductive and that currying was finding the operator.
+8. The simulant found the concatenation and any conversion necessary. In an inductive algorithm, I found atom_concat. I found the types of input and output. I found the string difference or similar. I found atom_concat.
 9. The simulant found the string difference. The first string was "a". The second string was "a_p". I found that "a" was part of "a_p". I found the string difference "_p".
-10. The simulant used sets of data and found patterns of changes in terms. I found the term difference. I used subterm with address, which found the multi-dimensional address of a subterm in a term. I found deletions, moves, insertions and changes. If the whole term was replaced or there were multiplied changes I recorded this.
-11. The simulant found the deletion in the term. I compared the terms level by level. I checked each level, noting any differences. If an item was missing, it was noted. It might be missing in several places or several items might be subtracted.
-12. The simulant recorded how the items had moved, to replicate. I found the moved items in the term. I detected sorting, swapping, mathematical shifts such as always moving the first item or collecting items. I decided, "That's not moving, that's collecting" when items had been collected given particular criteria. This criteria might be containing a certain term or a command with a particular property.
-13. The simulant found items inserted in alphabetical order. I found the inserted items. I found the items inserted in a level, inserted levels or other transformations applied to levels, such as sorted levels. Sorted levels were sorted chains of one item per level. I verified that the move was all the change was, otherwise, I checked for additional changes.
-14. The simulant reduced the large change to several smaller changes, or identified what the items in the chunk had in common. I found the changed items. The changes were chunks of changed items. They may have been inserted in order. This ordering may have been given an index or an understood index.
-15. The simulant specified simple cases of an exact item being deleted from a list of lists. I found whether the item was missing in several places in the term. I checked whether it was missing in all places in a list. Or I checked whether it was missing in all places in a term. Or I checked whether it was missing in some parts of a term and not others.
-16. The simulant might concatenate [3] giving "3". I found whether several items in a term had been subtracted. For example [[1,[2,3]],[2]] might become [[[3]],[]] if [1,2] had been subtracted from the original. Additionally, [] might be deleted, giving [[[3]]]. Also, the term might be flattened, giving [3].
+10. The simulant used data sets and found patterns of changes in terms. I found the term difference. I used subterm with address, which found the multidimensional address of a subterm in a term. I found deletions, moves, insertions and changes. I recorded if the whole term was replaced or if there were multiplied changes.
+11. The simulant found the deletion in the term. I compared the terms level by level. I checked each level, noting any differences. If an item was missing, it was recorded. It might be missing in several places, or several items might be subtracted.
+12. The simulant recorded how the items had moved to replicate. I found the moved items in the term. I detected sorting, swapping, and mathematical shifts, such as always moving or collecting the first item. I decided, "That's not moving; that's collecting" when items had been collected given particular criteria. This criterion might contain a specific term or a command with a particular property.
+13. The simulant found items inserted in alphabetical order. I found the inserted items. I found the items inserted in a level, inserted levels or other transformations applied to levels, such as sorted levels. Sorted levels were sorted levels in chains of one item per level. I verified that the move was all the change; otherwise, I checked for additional changes.
+14. The simulant reduced the significant change to several more minor changes or identified what the items in the chunk had in common. I found the changed items. The changes were chunks of altered items. They may have been inserted in order. This ordering may have been given an index or an understood index.
+15. The simulant specified simple cases of an exact item being deleted from a list of lists. I found that the item was missing in several places in the term. I checked whether it was missing in all places in the list. Or I checked whether it was missing in all places in a term. Or I checked whether it was missing in some parts of a term and not others.
+16. The simulant might concatenate [3], giving "3". I found whether several items in a term had been subtracted. For example, [[1,[2,3]],[2]] might become [[[3]],[]] if [1,2] had been subtracted from the original. Additionally, [] might be deleted, giving [[[3]]]. Also, the term might be flattened, giving [3].
