@@ -1,0 +1,14 @@
+University 2 - 1
+
+1. The lecturer listed the commands with no output to preserve in Lucian CI/CD, such as close/1. I found the types for the algorithm. I found list, string, number, atom, blob, variable, predicate and type types. I proposed that each of these be put in terms of the number type. There were integer and floating number types, converted to each other depending on the number.
+2. The lecturer listed the hierarchy of types, including "or". I verified that the tests were compatible with the types. The test was "a(1,2,A). A=3.". The type was "a(number,number,number).". I verified 1 was a number, 2 was a number and that 3 was a number.
+3. The lecturer corrected the incompatible tests. I listed the compatible tests and produced errors about the incompatible tests. All the arguments in the test had a type. If one of these types didn't match a type statement, there was an error. Types could specify hierarchies of commands and lists.
+4. The lecturer wrote a grammar of the programming language. I wrote types as a single statement, including "or". The single statement was instead of a hierarchy. I wrote "and", "lists" and "or" in the hierarchy. This single statement avoided the need to name reused types. I used a grammar.
+5. The lecturer shortened the grammar, listing different endings together. I wrote nested commands in the hierarchy of types. For example, "predicate_name:rounded_list(variables) :- commands.", where commands="command, commands", command="findall(-,commands,-)" or command="halt", etc. I combined the types from the algorithm into one hierarchy. I found the parts which were supposed to be called the same but hadn't, and did.
+6. The lecturer found the grammar and formulas to produce the input. I grouped the recurring types. I examined the code producing the string. I preserved the lists of characters, converted to strings from findall. I kept note of properties, saved as separate formulas, to produce tests.
+7. The lecturer constructed the type (1 or "1"),2 and the test 1,2. I constructed a hierarchy of types containing disjunctives. The hierarchy was given by the example "a:-b,number. b:-string. b:-number.". The single statement was given by the example "a:-(string or number),number.". A formula was given by the example, "a:-(number a or string a),number b. {b is a+1}.".
+8. * I wrote intermediate types to define types with the same beginnings and ends but different middles. 
+then before, to earlier in imm 28
+After company strategy 
+
+

@@ -17,9 +17,5 @@ University 1 - 1
 15. The lecturer explained that the item was transformed and put back. Simplified expressions were a new programming language. I extracted items with member or subterm with address. I wrote connections between equal expressions and extractors, such as list(max(list1)). I extracted information twice, when correspondences were needed.
 16. The lecturer explained how the algorithm should work in plain language. I explained that the item was transformed and put back. For example, list([a where member([b,C],a) and C is replaced with C+1]). Or C could be compared with a value inside or outside it. Or only a list([b,C]) could be returned, or addresses of [b,C] could be recorded before substituting back.
 
-I found the types for the algorithm.
-continue from imm 29 in imm 28
-then before, to earlier in imm 28
-After company strategy 
 
 
