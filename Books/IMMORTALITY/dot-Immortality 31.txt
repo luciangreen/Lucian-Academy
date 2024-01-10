@@ -1,0 +1,20 @@
+Immortality 31
+
+Compiled pl optimisations 
+
+Dynamic predicates as added arguments x globals
+Use subterm with address to quickly traverse terms
+Skip constants if already there
+Use c structs to represent lists of lists
+
+Findall over multiple preds-findall converted in each pred
+
+Use lazy evaluation to optimise 
+Spiritual high distinction for nothing computations
+List and string always true or false computations
+Convert lists to nums
+Grammars for parsing 
+
+llvm
+
+from imm 30: I included options to recognise specific languages' syntax, including variables, lines and functions.
