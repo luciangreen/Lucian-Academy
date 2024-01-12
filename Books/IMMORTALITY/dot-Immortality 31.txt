@@ -1,20 +1,40 @@
 Immortality 31
 
-Compiled pl optimisations 
+1. The immortal ran the Prolog algorithm like a program in C, saving memory. Assuming choice points are contained, rather than a Prolog optimiser treating dynamic predicates as added arguments, it can treat them as  globals. If a sequence of predicates fail, the globals will be intact. The command retractall(predicate(_)) (assuming a :-dynamic(predicate/1) declaration) would initialise the stack for a particular dynamic predicate as a global. The command assertz(predicate(x)) would add x to predicate as a global.
+2. The immortal optimised the algorithm to find the item at an address with arrays. I used subterm with address to quickly traverse terms. If a Prolog predicate always jumped to an absolute address (or address relative to an address) then I jumped to it with subterm with address. I analysed the code to find the address. I got the item at the address, transformed it and substituted it back in.
+3. The immortal updated the algorithms for different processors. I skipped constants if they were already there. I didn't verify previously verified constants. I converted Prolog to C to run it faster. I familiarised myself with assembly code and optimised code for various machines.
+4. The immortal edited the Lucian CI/CD document in diff view. I found efficient algorithms in Prolog and assembly language with Combination Algorithm Writer (CAW). I simplified the data. I focused on the first necessary outputs. I counted the length of the string in assembly language.
+5. The immortal used C structs instead of arrays to account for complex data. I used C structs to represent lists of lists. I identified different repeating structures. I counted the number of items per level and number of levels. I stored string and numbers in one structure.
+6. The immortal changed non-determinism into C loops. I converted findall over multiple predicates to findall in each predicate and then to loops in C. I separated data collection and computation. I ran a child predicate to collect findall results, then ran findall in the current predicate. Separate nested findalls were used to collect and build lists.
+7. The immortal alerted the user about type errors such as split_string given a list. I used lazy evaluation to optimise algorithms. I stated that any number raised to the power of 0 equalled one. I identified a(A):-a(A). infinite loops, and removed them, also if their output was not needed. I removed infinite loops such as append(_,_,_).
+8. The immortal worked out the family respected architecture. I gave a spiritual high distinction for null computations. The maximum was 4*50 As. I checked that the entry was in the database. I couldn't change the code, although I performed comparisons.
+9. The immortal deleted true by itself and clauses with false by itself. I found and deleted computations involving lists and strings that were always true or false. For instance, string_concat("a","b","ab"). was always true. Also, append([a],[b],[a,c]). was always false. If I found true->a;b, I converted it to a, and if I had found false->a;b, I converted it to b.
+10. The immortal stated that not((true,true)) and (not(true)->true;not(true)) were both false, not((true,false)) and (not(true)->true;not(false)) were both true and that not((false,false)) and (not(false)->true;not(false)) were both true. If I found a->false;b, I converted it to not(a)->b;false. I could further simplify this to not(a),b. I couldn't write not(c,d) because this had more than one argument, so I wrote not((c,d)). Also, I changed not((a,b)) to (not(a)->true;not(b)) and the reverse if there were more than two arguments.
+11. The immortal caught errors in State Saving Interpeter Web Service and returned to a safe page. I converted the list to numbers. This was a design decision, and gave better performance but was less understandable. The code had one version with strings and one with numbers, with labels showing the variable with a particular type. In the end, I ran code for performance.
+12. The immortal treated grammars like predicates, for example with list building, for simplicity. I wrote grammars for parsing strings. These were a good way of parsing strings. Alternatively, I converted the string to a list and got chunks of the list with append. If I needed a simpler solution, I parsed the list with a predicate.
+13. The immortal agreed robots were uniform in coding. I used a de-blocker optimisation that checked types, checked code against neuronetworks and that the predicate complexity was under the limit. The ideal code was available in premium code checkers and was ratified by law. Rants, knots and literary curses were against the rules. Students may write longer code, as long as it was simplified.
+14. The immortal could commit the code in GitL when it had passed tests. In Lucian CI/CD, I tested that the single line of code passed the test. The line was compared with nothing, so was always kept. I checked that the line met the query test. Lucian CI/CD checked each predicate set one at a time.
+15. The immortal avoided "exploit" errors. I tested the recursive predicate in Lucian CI/CD. I considered supporting custom dependencies, files at specified paths, file date data and program error codes in tests. Both clauses of the predicate were kept when it passed the tests. Lines would only be added from the previous version or removed if they were needed to construct the shortest version which satisfied the test.
+16. The immortal tested multiple repositories, some with no main predicates (but which were used by other repositories). I tested different contents of main_file.txt (in each repository) in Lucian CI/CD. I tested combinations of one, two or three predicates per file and one, two or three files. These were the main predicates that called the other predicates in each repository, and the files they were in. Later the algorithm could detect these predicates.
 
-Dynamic predicates as added arguments x globals
-Use subterm with address to quickly traverse terms
-Skip constants if already there
-Use c structs to represent lists of lists
+- (1,2,)3 preds per file
+- (1,2,)3 files
+- () 3 preds per 3 files
+- () 0 main files in rep
 
-Findall over multiple preds-findall converted in each pred
+package manager
+- reuse deps in tests - say this in lc verify.pl
 
-Use lazy evaluation to optimise 
-Spiritual high distinction for nothing computations
-List and string always true or false computations
-Convert lists to nums
-Grammars for parsing 
-
-llvm
+multiple files
+- l8r:  non mentioned files
+- multiple reps
+- l8r: circular refs (reps loaded twice)
+- loops
+- l8r: loops across files and reps
+- l8r: multi-clause preds across "
+- reverse order of preds in main file and bottom-up order x
+- single command to move lc to gitl folder
+- save Github_lc/* file, restore
+- diff of start and end in lc, in pl
 
 from imm 30: I included options to recognise specific languages' syntax, including variables, lines and functions.
