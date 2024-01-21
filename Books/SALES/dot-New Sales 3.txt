@@ -1,10 +1,10 @@
 New Sales 3
 
-1. The salesperson claimed they already had global variables and diff commands in C in Prolog. I hinted at the programming method. I attempted the problem. This gave me insight into modifying code, improving the algorithm and making simplifications. I wrote a predicate to command (such as foldr) converter.
+1. The salesperson claimed they already had global variables and “diff” commands in C in Prolog. I hinted at the programming method. I attempted the problem. This attempt gave me insight into modifying code, improving the algorithm and making simplifications. I wrote a predicate to command (such as foldr) converter.
 2. The salesperson labelled data and used expressive data to find the bug. I wrote model solutions for algorithms. I gave examples of the commands involved. I showed example data structures and combinations of commands. I explained the workings of the interpreter to help design the algorithm.
-3. The salesperson said that Combination Algorithm Writer (CAW) and connections were all there were. I stated that an example of the algorithm puzzle was N Queens. Similarly, I found configuration properties of puzzles that led to shortcuts in solving them. This was true in chess, tic-tac-toe, other games and text adventures. In text adventures, certain combinations of interactions with characters led to progress in the game.
-4. The salesperson tried starting in numerous locations and collating separately tried methods in other cases. I wrote the colouring algorithm. I started in numerous locations. Alternatively, I tried each method separately and put the results together. This applied to kinds of connections in the colouring graph, matching patterns.
-5. The salesperson recognised cognitive structures in long-form Prolog algorithms and converted them to short form. I wrote the descendant algorithm. It started as:
+3. The salesperson said that Combination Algorithm Writer (CAW) and connections were all there were. I stated that an example of the algorithm puzzle was N Queens. Similarly, I found configuration properties of puzzles that led to shortcuts in solving them. These shortcuts were possible in chess, tic-tac-toe, other games and text adventures. In text adventures, certain combinations of interactions with characters led to progress in the game.
+4. The salesperson tried starting in numerous locations and collating separately tried methods in other cases. I wrote the colouring algorithm. I began in multiple locations. Alternatively, I tried each method individually and put the results together. This process applied to connections in the colouring graph, matching patterns.
+5. The salesperson recognised cognitive structures in long-form Prolog algorithms and converted them to short-form. I wrote the descendant algorithm. It started as:
 
 descendant(Person, Descendant) :-
  parent(Person, Descendant).
@@ -12,7 +12,7 @@ descendant(Person, Descendant) :-
  parent(Person, Child),
  descendant(Child, Descendant).
 
-This was the simplified form to think of and edit. It could be expanded to:
+The algorithm above is the simplified form to think of and edit. It could be expanded to:
 
 descendant(A1,B1) :- findall([A,B],parent(A,B),C),
  descendant1(A1,B1,C,C). 
@@ -27,7 +27,8 @@ foldr_append([A1|A2],B,C) :-
  append(B,A1,D),
  foldr_append(A2,D,C),!.
 
-This was the form to convert to C. It separated findall into collecting and computing data and had separate clauses (loops) for each non-deterministic statement.
-6. The salesperson wrote a CI/CD algorithm that corrected itself. The game asked the player to modify the algorithm. There were "copy the correct data", speed-debugging and "points for making accurate functional decomposition decisions" modes. The players were allowed to write helper CI/CD, unit testing and CAW algorithms. There were marks for simplicity, accuracy and speed.
+The algorithm above was the form to convert to C. It separated findall into collecting and computing data and had separate clauses (loops) for each nondeterministic statement.
+6. The salesperson wrote a CI/CD algorithm that corrected itself. The game asked the player to modify the algorithm. There were “copy the correct data”, speed-debugging and “points for making accurate functional decomposition decisions” modes. The players were allowed to write helper CI/CD, unit testing and CAW algorithms. There were marks for simplicity, accuracy and speed.
 
 optimising or debugging the algorithm
+
