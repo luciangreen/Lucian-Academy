@@ -55,4 +55,4 @@ Immortality 31
  [a,c]
 ]
 ], returning b and c at certain addresses. The labels could contain metadata such as variable ID, algorithm ID and could link to previous data. The variable ID referred to the origin of the data, with an example or description, the algorithm ID referred to the algorithm that a flag helped express.
-48. * I stated that with labels, building them, for example, converting data to types, was more straightforward. 
+48. After the following, I found the possible types for each line and put them together bottom-up. I stated that with labels, building lists, for example, converting data to types, was more straightforward. I converted the data to long-form types without variables. I inspected different data sets and inserted variables for recurring types. I found and converted the labels for types into short-form types with subterm with address.
