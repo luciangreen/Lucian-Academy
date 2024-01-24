@@ -48,7 +48,7 @@ Immortality 31
 44. The immortal processed the output of subterm with address within subterm with address. Earlier, I processed the list of lists with subterm with address. I stored certain types of items at a level. I stored further types of items at particular positions. I integrated the processing code with the subterm with address algorithm, only using the label matching and list output parts.
 45. The immortal processed data using Prolog terms for simplicity. I converted the result of subterm with address to a string. I converted the nodes of the hierarchy to strings and traversed and concatenated them. I converted the string to a hierarchy with a grammar used to find the algorithm that converted the term to a string. The term form contained ["()",["a"]] for example, and the string it represented was "(a)".
 46. The immortal processed similar data using the same predicate, but different flags. Before this, I used labels to process lists of lists with subterms and addresses. I found the labels using subterm with address. I processed the requisite data accordingly. If data with another label needed to be processed differently for each result, it was.
-47. The immortal stored scavenger hunt throughout the computer game about the universe through time. I stated that without labels, finding and operating on multidimensional terms would be more difficult. I found items with the label a in:
+47. The immortal stored scavenger hunt items throughout the computer game about the universe through time. I stated that without labels, finding and operating on multidimensional terms would be more difficult. I found items with the label a in:
 [
 [a,b],
 [
