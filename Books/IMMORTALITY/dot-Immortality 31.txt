@@ -68,7 +68,7 @@ Immortality 31
 57. The immortal modified shorter versions of code. If needed types were missing, I wrote new code. I wrote the input and output types. If their patterns didn't map, I treated all input variables as inputs into the regression and the outputs as outputs. Alternately, I tried single commands from the database, diff combinations if merging two interpretations or versions or shorter versions of code.
 58. The immortal created two variables from a variable to process them separately. I wrote a new command to connect gaps in unpredictable code. I skipped over the easy ones and wrote the hard ones. It took concentration to work out answers. There was a more intelligent connection, a new variable.
 59. The immortal represented terms as tables in C. I used subterm with address instead of another predicate. Instead of a predicate that recursively searched levels of a term and processed its results in different clauses, subterm with address found occurrences of a subterm throughout the term. Subterm with address was a short-form algorithm, while the other predicate was the long-form algorithm, where subterm with address represented how one thought by "collecting" results using a single method and the long-form predicate joined search to processing, risking missing brackets. Processing routines from subterm with address were substituted into the predicate, for faster running in C.
-60. * I found subterms to process with findall. For example, I labelled term parts to find later,
+60. The immortal let subterm with address search for terms and give addresses so they could substitute the transformed terms back. I found subterms to process with findall. For example, I labelled term parts to find later,
 ?- sub_term_wa([x,_],
 [
  [x,1],
@@ -82,4 +82,8 @@ Immortality 31
  ]
 ],A).
 A = [[[1, 1], [x, 1]], [[1, 2, 1], [x, 2]], [[1, 2, 2, 1, 1], [x, 3]]].
-
+If given 1, 1's address would be 1. So, [1,1] is 1 in [[x,1]], and so on.
+61. The immortal used a predicate if a term depended on one before it. I transformed data collected with subterm with address. I collected data in the form {[Address, Term]}, where {} meant a repeating list. I found all the pairs, took the term's second argument, added one to it, and returned the pairs. If I had needed to renumber the second arguments, I would have used numbers//4 or a predicate to do this.
+62. The immortal combined or divided addresses. I substituted subterms with addresses back. I pretty-printed the term with subterm with address. I could represent arrays in this manner. I could represent arrays with addresses, saving memory and enabling tranformations and compression.
+63. The immortal ran sub_term_wa(1,{{1}},A), with the result A = [[[1, 1, 1], 1]]. I customised subterm with address to work with different types of brackets. For example A={B|C}, A=(B|C) or A=<A|B>. In some cases A=/A|B\ was allowed. In addition, [A|B] in the predicate header or call could be replaced with this kind of nomenclature.
+64. The immortal wrote the Prolog interpreter in Prolog. I customised subterm with address to work with "|" (the pipe symbol). I changed "|" to &(|), which was reserved. I processed the symbol like any other with list processing. I wrote list processing predicates.
