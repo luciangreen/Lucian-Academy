@@ -1,0 +1,8 @@
+["Green, L 2021, <i>Log</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Log
+
+1. The number of zeros was the log.  M had N 0's or log M 0s.  For example, M=1000.  I calculated Log(1000).  Log(1000)=3.
+2. I assumed n was a positive integer.  M should be >= 10n.  For example 10>=10*1 => 10>=10.  Also, 100>=10*2=20.  And 1000>=10*3=30.
+3. It is far less.  N should be =< 10m.  For example 1=<10*10=100.  2=<10*100=1000.  3=<10*1000=10,000.
+4. I led the good life.  I recorded walking one distance's order.  I walked to the switch.  I walked to the computer.  I walked the distance of the order.
+5. I took the scenic route.  I walked the distance, not displacement.  Distance was the total distance covered.  Displacement was the distance between the starting and ending points.  I walked around the room, not to the destination.
+"]

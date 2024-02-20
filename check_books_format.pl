@@ -4,18 +4,18 @@
 % copy Books folder into sources, move out dot-stub.txt
 
 check_books_format:-
-	directory_files("sources/",F),
+	directory_files("sources1/",F),
 	delete_invisibles_etc(F,G),
 %%trace,
 %SepandPad="#@~%`$?-+*^,()|.:;=_/[]<>{}\n\r\s\t\\!'0123456789",
 	findall(_,(member(Folderx1,G),
-	string_concat("sources/",Folderx1,Folderx),
+	string_concat("sources1/",Folderx1,Folderx),
 	directory_files(Folderx,F1),
 	delete_invisibles_etc(F1,G1),
 	
 	findall(_,(member(Filex1,G1),
 	%trace,
-	foldr(string_concat,["sources/",Folderx1,"/",Filex1],Filex),
+	foldr(string_concat,["sources1/",Folderx1,"/",Filex1],Filex),
 	%foldr(string_concat,["sources1/",Folderx1,"/",Filex1],Filexx),
 	
 	%split_string(Filex1," "," ",Filex2),
@@ -33,16 +33,16 @@ check_books_format:-
 	%atomic_list_concat(B,"\\""",C),
 	%atom_string(C,String02b),
 	
-	string_concat(A,_,Filex1),string_length(A,4),
+	once((string_concat(A,_,Filex1),string_length(A,4))),
 	(A="dot-" ->
 	
 		true;%Line=String00a;
 		
-	(
-		(catch((term_to_atom(String02c,String00a),
+	(string_codes(String02c,String00a),
+		(catch((term_to_atom(String02c1,String02c),
 
 
-		String02c=[_,_,_,_]),_B,(%writeln(B),
+		String02c1=[_,_,_,_]),_B,(%writeln(B),
 		false))->true;
 		writeln([Folderx1,Filex1,corrupted,format]))
 		%concat_list(["[\"Green, L 2022, <i>",Filex4,"</i>, Lucian Academy Press, Melbourne.\",\"Green, L 2022\",1,\"",String02b,"\"]"],Line)

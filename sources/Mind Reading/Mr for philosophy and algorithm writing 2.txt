@@ -1,0 +1,15 @@
+["Green, L 2021, <i>Mr for philosophy and algorithm writing 2</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Mr for philosophy and algorithm writing 2
+15. I mind read the plan for the algorithm, to replace with data and logic.
+16. I kept back-ups of development of the mind read algorithm.
+17. I produced mind drafts of the algorithm at different points of development using simulated intelligence.
+18. I mind produced algorithms using machine learning.
+19. I mind drew diagrams of the algorithm's output.
+20. I mind recorded walk-throughs of the algorithm.
+21. I mind found obscure bugs in the algorithm.
+22. I mind refined the blocks world inspiration by the philosophy into an algorithm.
+23. I mind read three algorithms influenced by the philosophy, e.g. simplified them one at a time, shown by grammars where a->b, a->B (where B is any empty variable to read a character), a->B (where B is a variable with a string value to read a character) and a->B (where B is a variable with an atomic name of another predicate to call).
+24. I mind debated with the other the formatting decision about the algorithm (the XML description of the data).
+25. I engineered a biological circuit that mind read the algorithm.
+26. The poor person automated mind programming on the spiritual computer, making her own spiritual phone.
+27. I mind ran the algorithm to find the key phrase in real time.
+28. I established the spiritual centre, with a shop, meditation room and bots."]

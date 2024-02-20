@@ -1,0 +1,13 @@
+["Green, L 2021, <i>Lecturer Hermeneutics</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Lecturer Hermeneutics
+
+1. I answered with the writer of the algorithm.  I wrote the queryable ideology.  I found the ideology.  I wrote it's header.  I wrote the query.
+2. It could be a single name.  I wrote the query.  I asked for the order that the algorithms were written in.  I wrote the predicate name.  I wrote the variable name.
+3. The ontology listed the order of the predicates.  I wrote the ontology as answer.  I wrote the order that the predicates were written in.  I found the dependencies of the predicates.  I wrote the number of the first predicate.  I wrote the order of the rest of the predicates.
+4. I found the intermediate algorithm.  I wrote the conjoined parts.  I found the inference between the parts.  I wrote the first part.  I wrote the part that joined it to the second part.
+5. I detected each algorithm.  I wrote one of the parts of the disjunction.  I wrote the intermediate algorithm.  I wrote the first part of the disjunction.  I wrote the second part of the disjunction.
+6. I continued until they got tired.  I wrote the answer set in the ideology.  I found the lit up part according to mind reading.  I found the philosophy.  Alternatively, I found the computer science.
+7. I hypothesised the possible solution.  I converted the question into an answer.  I wrote the answer as a question.  I matched key terms in the question with the answer.  I identified and bridged knowledge gaps.
+8. I wrote the function-call-within-function-call.  I wrote the reason for the ontology.  I found the previous cases like the possible solution.  I found the difference.  I modified the previous case to be the solution.
+9. The people ideas were food.  I inferenced the horizon with the conclusion.  I wrote the algorithm.  I wrote the possible horizon philosophy.  I wrote their connection.
+10. I uniformised the clauses by calling common code in another predicate.  I verified the disjunctive part.  I identified that a disjunctive clause was needed in addition to the clause.  I wrote the disjunctive clause, in the right order.  I tested the algorithm.
+"]

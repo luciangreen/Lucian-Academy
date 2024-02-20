@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 18 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 18 of 30
+
+170.	ALEXIS: I prepared to state that what if the text contained details of characters and the speech provided details of characters, and these didn't correspond, what then? I did this by writing Alexius Meinong's probable comments on the Press Release for Alexius Meinong's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I asked does this text have a personality? Second, I asked does this speech have a character? Third, I questioned how do the text having a personality and the speech having a character interrelate? What if it went wrong (the personality corresponded to the character)?
+
+171.	DION: The subject shouldn't know what characters looked like (where the subject stated that it would be problematic if the text contained details of characters and the speech provided details of characters, and these didn't correspond, where these were like two hands holding the pot).
+
+172.	ALEXIS: The subject identified that the character wanted to meet the other character.
+
+173.	DION: The subject should answer importantly and on the topic because the subject determined that the character wanted to meet the other character.
+
+174.	ALEXIS: I prepared to make new comments given the suggestions of the breasoning, in which the same comments as old comments are filtered out (where breasonings are the functional unit of pedagogy and pedagogy inspired the nanny state, in which offensive content is filtered out). I did this by writing Alexius Meinong's probable comments on Alexius Meinong's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I asked how the text might change under different conditions. Second, I questioned how the speech might change under different conditions. Third, I matched the conditions of the text and speech.
+
+175.	DION: The subject shouldn't verify and over-consume new breasonings This is where the subject made new comments given the suggestions of the breasoning, in which same comments as old comments are filtered out. It is also where breasonings are the functional unit of pedagogy and pedagogy inspired the nanny state, in which the subject filters offensive content out, where the subject finds two polygons, representing pedagogy and breasonings.
+
+176.	ALEXIS: The subject should verify and consume enough new breasonings.
+
+177.	DION: The subject identified the speech's character being tested against and consuming content from the text's character.
+
+178.	ALEXIS: What is the meaning of onelonghandle(Line) in line 13?
+
+179.	DION: Line 13 returns whether the first line has one long (two or more) h's (one long handle).
+"]
