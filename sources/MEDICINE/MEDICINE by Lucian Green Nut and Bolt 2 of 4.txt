@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Nut and Bolt 2 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"MEDICINE
+by Lucian Green
+Nut and Bolt 2 of 4
+
+11.I prepared to put the rest of the money into the bank account.  I did this by putting school fees into salaries.  First, I set the school fees.  Second, I accepted the school fees.  Third, I placed them into salaries.  In this way, I prepared to put the rest of the money into the bank account by putting school fees into salaries.
+
+12.I prepared to help the next child.  I did this by singing pop goes the weasel.  First, I gave the child A to be conceived.  Second, I noticed the mother.  Third, I noticed the child.  In this way, I prepared to help the next child by singing pop goes the weasel.
+
+13.I prepared to win the literature prize.  I did this by stating that I am intelligent in literature.  First, I wrote on literature.  Second, I wrote on many things.  Third, I wrote for you.  In this way, I prepared to win the literature prize by stating that I am intelligent in literature.
+
+14.I prepared to critically evaluate the Anarchy argument.  I did this by stating that the Anarchy argument was assessable in the school curriculum.  First, I wrote the Anarchy argument about the army.  Second, I verified it.  Third, I assessed students on it.  In this way, I prepared to critically evaluate the Anarchy argument by stating that the Anarchy argument was assessable in the school curriculum.
+
+15.I prepared to not deduct marks, but give the same mark for a mixture of sides.  I did this by awarding one of two sides of the debate the appropriate mark in the Lucianic Marking Scheme.  First, I determined the side that the first sequence of reasons, objections and rebuttals (from conclusion to leftmost terminal child node) was on, where objections must object to the exact reason.  Second, I determined that each sequence was on this side.  Third, I awarded the appropriate mark to the essay.  In this way, I prepared to not deduct marks, but give the same mark for a mixture of sides by awarding one of two sides of the debate the appropriate mark in the Lucianic Marking Scheme.
+
+16.I prepared to become a professor.  I did this by writing that an exposition and critique are necessary for top marks.  First, I wrote that an exposition was necessary for top marks.  Second, I wrote that a critique was necessary for top marks.  Third, I wrote that the critique followed the exposition. In this way, I prepared to become a professor by writing that an exposition and critique are necessary for top marks.
+
+17.I prepared to see where it could lead.  I did this by stating that finding fault (agreeing) in the exposition passed.  First, I identified the disagreeing (agreeing) term.  Second, I decided to pass the essay.  Third, I gave it a good grade.  In this way, I prepared to see where it could lead by stating that finding fault (agreeing) in the exposition passed.
+
+18.I prepared to use the usable funds up.  I did this by receiving capital for a school in the area from a sponsor.  First, I opened a centre for several months which stayed open from months before the school would start.  Second, I applied for financial backing from a potential sponsor.  Third, I received the needed funds.  In this way, I prepared to use the usable funds up by receiving capital for a school in the area from a sponsor.
+
+19.I prepared to ensure that the business survived.  I did this by stating that the centre was wound down to save money.  First, I observed that the centre had not received funds for a week.  Second, I remunerated the staff.  Third, I closed the centre.  In this way, I prepared to ensure that the business survived by stating that the centre was wound down to save money.
+
+20.I prepared to write the essay.  I did this by crediting the author to use a source in Education, given understanding.  First, I sought understanding.  Second, I used the source.  Third, I credited the author.  In this way, I prepared to write the essay by crediting the author to use a source in Education, given understanding.
+
+"]

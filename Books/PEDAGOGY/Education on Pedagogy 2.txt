@@ -1,0 +1,56 @@
+["Green, L 2024, <i>Education on Pedagogy 2</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Education of Pedagogy 3
+
+1. The pedagogue used free variables for checking multiple types. I checked that the list was non-empty before assigning it to a variable, i.e. A=[_|_], A=[1,2,3]. Or I found that the list was a list after it was defined, for example, A=[1,2,3],is_list(A). The advantage of the second option was that it worked with empty lists, i.e. A=[], is_list(A). The robot's computer preferred the second option because it accounted for empty lists.
+2. The pedagogue experimented with writing [A|B] in Prolog and converting to C with list composition. I contrasted using [A|B] in calls:
+
+/* 
+path1(0, 2, [[0,[1]],[1,[2,3]],[2,[0]]], [], Visited).
+Visited = [2, 1] ;
+*/
+
+path1(Start, End, Tree, Visited, [End|Visited]) :-
+    member([Start, Ends], Tree),
+    member(End, Ends),
+    \\+ member(End, Visited).
+
+path1(Start, End, Tree, Visited, Path) :-
+    member([Start, Ends], Tree),
+    member(Next, Ends),
+    \\+ member(Next, Visited),
+    path1(Next, End, Tree, [Next|Visited], Path).
+
+Or using list decomposition:
+/* 
+path2(0, 2, [[0,[1]],[1,[2,3]],[2,[0]]], [], Visited).
+Visited = [1, 2] ;
+*/
+
+path2(Start, End, Tree, Visited1, Visited2) :-
+    member([Start, Ends], Tree),
+    member(End, Ends),
+    not(member(End, Visited1)),
+    append(Visited1,[End],Visited2).
+
+path2(Start, End, Tree, Visited1, Path) :-
+    member([Start, Ends], Tree),
+    member(Next, Ends),
+    not(member(Next, Visited1)),
+    append(Visited1,[Next],Visited2),
+    path2(Next, End, Tree, Visited2, Path).
+
+In both, there is a base case clause that doesn't call pathn (sic). In the second example, the results are reversed, but this is desired. The number of instructions and variables is fewer in the first example.
+3. I relaxed in the morning or before lunch and worked out in the morning. I determined the best time to work or relax. I took a 15-minute break an hour after starting. Then I had a 30-minute lunch break. I also took a 15-minute break an hour before quitting.
+4. The pedagogue stated that the Apple IIe game was compressing Prolog's memory to work on the machine. I suggested the best way of filming a story. The sky was black except the pink dawn, and the dawn lighted the faces. The train was stopping, and we took a break to walk around. The miasma of thought was like an Apple IIe game.
+5. The pedagogue remembered every last detail of their life. I retained records of all the memories. I documented the computer program with flowcharts, print-outs, diagrams, walkthroughs and instructions. I took and kept photographs in an electronic album or on a private website. I wrote poems, stories, ideas and diary entries.
+6. The pedagogue also accepted real money to help promote work. I simulated executives, management and promotion of the work using my algorithms. The executives decided on the best details (tens) to maintain the software. The managers helped the workers to develop these details with, for example, simple maplist algorithms. The algorithms had essay connection inviters, algorithms in action, and live play, and one could gain credit to promote them by using other algorithms.
+7. The pedagogue split the algorithm into chunks, identifying the needed components bottom-up. I chose to go on holiday at any time. I decided to visit at the shoulder season (from peak to off-season). I left for my business trip in the early afternoon. I organised my work so that I was relaxed and could automate work with my algorithms.
+8. The pedagogue was conscious that Lucian CI/CD was output, not input-dependent. I ran Lucian CI/CD, then deleted singletons in the Prolog predicate head. I also ensured there was no other predicate with the name and arity from this. If there was, I changed the new predicate name. I was careful to edit calls and tests so that they didn't use this variable.
+9. The pedagogue merged similar predicates. I checked for any duplicate predicates. I listed all the predicates' names and arities. I checked for any predicates with the same name and arity as another. I deleted duplicates with the same body.
+10. The pedagogue merged predicates that were similar enough but not identical. I checked for any similar predicates. The predicate was similar if it had a similar head, start, middle or end of the body. I moved reused code into another predicate or did this after bringing the called code into the main body. I called these subpredicates directly in the body or placed them in antecedents or consequents of if-then clauses or findall or nested findall statements.
+11. The pedagogue simplified always true or false antecedents and kept interpreter commands in other repositories. I checked for any unnecessary predicates. I ran code with some or all of the clauses with a particular name and arity. I found the minimum number of clauses with the desired result. I checked for and removed database translations of commands in the interpreter.
+12. The pedagogue found out from science. I checked for missing predicate calls. I found the previous specifications to find an algorithm. Or I matched the formula from the text in the specification and extrapolated the code bottom-up. Ideas started simple and gathered links.
+13. The pedagogue tried rewriting the code from scratch, with more straightforward and uncomplicated code with each neuronetwork version. I checked for unnecessary extra predicate calls. I tried removing the line. I replaced it with other code or adjusted variables in other commands. When I deleted the predicate call, the predicate became obsolete. 
+14. The pedagogue inserted code with fewer commands and variables into the database. I replaced a command with another one. I replaced the code with inline code from a predicate, replaced the reused code with a predicate call, or more efficient code with fewer commands and variables. Or it could be replaced with direct binary code.
+15. The pedagogue tried creating hardware and software that was native in [A|B] in calls. I did more with less. I compressed many expressions of a meaning into one. I found many paths for humans to get back on track. I replaced list processing with [A|B] in calls in my code (processed faster with human cognition), then converted back to [A|B] in calls (processed faster by computers).
+16. The pedagogue left mathematical formulas alone. I removed a command and adjusted variables in other commands. For example, I changed variables in the remaining commands in the body to those from the removed command. Believing in using [A|B], not [[A, C]|B] in a call, I let each predicate process a level in the term for readability. At least, I let D=[A, C] (using two parts going together) and used [D|B] in a call.
+"]

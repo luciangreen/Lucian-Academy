@@ -1,0 +1,37 @@
+["Green, L 2021, <i>Subject Mix 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Subject Mix 1 of 4
+
+
+
+1. After reading a narratology page giving the following structure of subjects:
+
+author - reader
+
+narrator - addressee(s)
+
+character - character(s)
+
+1a. I spoke with a friend and she said the subjects the subjects addressed could be mixed up. For example, the narrator could address the reader, or the author could address a character.
+
+1a.     I prepared to present the stage play.  I did this by stating that the writer, reader and character understood (met) each other.  First, I wrote that the writer and reader met each other.  Second, I wrote that the reader and character met each other.  Third, I wrote that the character and writer met each other.  In this way, I prepared to present the stage play by stating that the writer, reader and character understood (met) each other.
+
+2.    I prepared to show the writer, reader and character interacting with each other during the stage play.  I did this by stating that the writer, reader and character entered each other's worlds.  First, I wrote that the writer and reader entered each other's worlds.  Second, I wrote that the reader and character entered each other's worlds.  Third, I wrote that the character and writer entered each other's worlds.  In this way, I prepared to show the writer, reader and character interacting with each other during the stage play by stating that the writer, reader and character entered each other's worlds.
+
+3.     I prepared to represent plainness.  I did this by writing about reiner (purity).  First, I verified that no objects were inside the object.  Second, I verified that no objects were directly outside the object.  Third, I wrote that the object was present in mass.  In this way, I prepared to represent plainness by writing about reiner (purity).
+
+4.    I prepared to write that the mix configurations were neat.  I did this by determining how the writer, reader and character should be mixed.  First, I wrote that the writer, reader and character were characters.  Second, I rotated their roles by one.  Second, I rotated their roles again by one.  Third, I.  In this way, I prepared to write that the mix configurations were neat by determining how the writer, reader and character should be mixed.
+
+5.    I prepared to rotate need for skills.  I did this by mixing the subjects.  First, I gave the woodcutter the fireman's job.  Second, I gave the fireman the gardener's job.  Third, I gave the gardener the woodcutter's job.  In this way, I prepared to rotate need for skills by mixing the subjects.
+
+6.    I prepared to see Rapunzel.  I did this by climbing up a hair rope.  First, I started at the bottom.  Second, I climbed up the hair rope.  Third, I stopped when I had reached the top.  In this way, I prepared to see Rapunzel by climbing up a hair rope.
+
+7.    I prepared to read Darwin's examination of the specimen.  I did this by reading that Darwin released the specimen.  First, I read that he had found the specimen.  Second, I read that he examined the specimen.  Third, I read that he released the specimen.  In this way, I prepared to read Darwin's examination of the specimen by reading that Darwin released the specimen.
+
+8.    I prepared to take out the tissue.  I did this by touching the plastic square with a hole in it.  First, I found the plastic square.  Second, I grasped it.  Third, I put my finger through the hole in the plastic square.  In this way, I prepared to take out the tissue by touching the plastic square with a hole in it.
+
+9.     I prepared to perform work using the automated machine.  I did this by undoing an action.  First, I performed an action.  Second, I pressed 'Undo'.  Third, I observed the computer undo the action.  In this way, I prepared to perform work using the automated machine by undoing an action.
+
+10.   I prepared to retrain employees.  I did this by watching the business rotate weaknesses to remain strong.  First, I gave the writer the translator's job.  Second, I gave the translator the student's job.  Third, I gave the student the writer's job.  In this way, I prepared to retrain employees by watching the business rotate weaknesses to remain strong.
+
+"]
