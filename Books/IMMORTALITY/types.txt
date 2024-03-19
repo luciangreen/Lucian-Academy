@@ -1,8 +1,0 @@
-["Green, L 2024, <i>types</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"types
-- finder
-- lists finder
-- recursive types finder
-- lists and recursive types finder
-
-- generate data using types
-- find alg using types"]
