@@ -33,13 +33,13 @@ sectest(Agree_or_disagree,Marks_d):-
 	marks(0,Marks15), %% 15
 	marks(0,Marks16), %% 16
 	daysbspeoplearmy, %% dot answer on
-	maplist([n,+],[Marks1,Marks2,Marks3,Marks4,Marks5,Marks6,Marks7,Marks8,Marks9,Marks10,Marks11,Marks12,Marks13,Marks14,Marks15,Marks16],0,Marks_a),
+	foldr(plus,[Marks1,Marks2,Marks3,Marks4,Marks5,Marks6,Marks7,Marks8,Marks9,Marks10,Marks11,Marks12,Marks13,Marks14,Marks15,Marks16],0,Marks_a),
 	(Marks_a > 30 -> Marks_b = 80 ; (Marks_f is Marks_a/30,Marks_b is Marks_f*79)),
 	(((Agree_or_disagree="a",Marks_b<80)->(Marks_e is Marks_b/80,Marks_g is Marks_e*4,Marks_c is 65+Marks_g))->true;
 	(((Agree_or_disagree="d",Marks_b<80)->(Marks_e is Marks_b/80,Marks_g is Marks_e*4,Marks_c is 70+Marks_g))->true;
 	(((Agree_or_disagree="d",Marks_b>=80)->(Marks_e is Marks_b/80,Marks_g is Marks_e*4,Marks_c is 75+Marks_g))->true;
 	(((Agree_or_disagree="a",Marks_b>=80)->Marks_c is 80))))),
-	floor(Marks_c,Marks_d).
+	floor(Marks_c,Marks_d),!.
 	%writeln([Person,H,M,S,Marks_b,marks]).
 	
 marks(Threats1,Threats2):-
