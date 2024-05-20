@@ -15,4 +15,4 @@ Grammar Logic 1
 13. I designed an offline app language that could work on smart devices and desktops.
 14. Web Prolog could integrate Web (Text) Editor, Finder and Shell.
 15. I bulk-processed my notes as issues and completed them.
-16. I saved the Web Editor's and Web Finder's window positions.
+16. I saved the Web Editor’s and Web Finder’s window positions.
