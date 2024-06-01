@@ -1,4 +1,4 @@
-Breasoning Algorithm Generator 1
+["Green, L 2024, <i>Breasoning Algorithm Generator 1</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Breasoning Algorithm Generator 1
 
 1. I could undo changes in other windows.
 2. I dragged text from the Web Editor window to the window.
@@ -16,3 +16,4 @@ Breasoning Algorithm Generator 1
 14. The assignment was to produce the report-writing algorithm, explaining and detailing the logic and mathematics.
 15. If it had permission, Web Editor could edit files on other servers and simplify the approach to old, new and private versions of repositories by using a data folder and testing private data worked with the latest version.
 16. Web Editor updated the location of moved files.
+"]

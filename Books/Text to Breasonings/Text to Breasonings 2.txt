@@ -1,4 +1,4 @@
-Text to Breasonings 2
+["Green, L 2024, <i>Text to Breasonings 2</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Text to Breasonings 2
 
 1. To increase the likelihood of a successful link between the assignment sentence and my philosophy, I replaced non-alphabetic characters in the assignment sentence with space and then tried them without replacement.
 2. The mind-reading algorithm (a random number generator influenced by meditation) helped me find random sentences to improve or review.
@@ -80,4 +80,4 @@ Text to Breasonings 2
 77. I selected all the text using a keyboard shortcut or button, where there was enough space to resize the view using one’s fingers.
 78. PFT could identify patterns in unpredictable data with multiple data sets and quickly write code.
 79. I clicked a button at the top of the window to open a new document.
-80. Web Finder allowed opening files while they were part of a group selection, saving selections, moving or doing other things to files with other selections, and not scrolling too fast or opening panes in windows.
+80. Web Finder allowed opening files while they were part of a group selection, saving selections, moving or doing other things to files with other selections, and not scrolling too fast or opening panes in windows."]

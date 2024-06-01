@@ -1,4 +1,4 @@
-Grammar Logic 1
+["Green, L 2024, <i>Grammar Logic 1</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Grammar Logic 1
 
 1. I could achieve file manipulation results with Prolog. For example, I selected the files in Web Finder and applied an operation.
 2. I dragged sets of files into a Web Editor file window.
@@ -16,3 +16,4 @@ Grammar Logic 1
 14. Web Prolog could integrate Web (Text) Editor, Finder and Shell.
 15. I bulk-processed my notes as issues and completed them.
 16. I saved the Web Editor’s and Web Finder’s window positions.
+"]

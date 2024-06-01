@@ -12,7 +12,7 @@ wrap_sources:-
 	
 	findall(_,(member(Filex1,G1),
 	%trace,
-	foldr(string_concat,["sources/",Folderx1,"/",Filex1],Filex),
+	((foldr(string_concat,["sources/",Folderx1,"/",Filex1],Filex),
 	foldr(string_concat,["sources1/",Folderx1,"/",Filex1],Filexx),
 	
 	split_string(Filex1," "," ",Filex2),
@@ -49,7 +49,9 @@ string_concat(B2,".txt",B1),
 	(open_s(Filexx2,write,Stream1),
 %%	string_codes(BrDict3),
 	write(Stream1,Line),
-	close(Stream1))),_)),_).
+	close(Stream1))
+	)->true;(writeln(["Error:",Filex1,"didn't convert."])))
+	),_)),_).
 		
 delete_invisibles_etc(F,G) :-
 	findall(J,(member(H,F),atom_string(H,J),not(J="."),not(J=".."),not(string_concat(".",_,J))),G).
