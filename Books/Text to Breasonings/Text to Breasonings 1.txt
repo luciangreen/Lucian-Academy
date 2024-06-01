@@ -1,4 +1,4 @@
-Text to Breasonings 1
+["Green, L 2024, <i>Text to Breasonings 1</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Text to Breasonings 1
 
 1. I planned to run Time Machine in the background, allowing me to travel without concern about my internet connection dropping out.
 2. I worked around the swipl stack limit in Debian by running swipl with stack limit in shell from swipl.
@@ -80,4 +80,4 @@ Text to Breasonings 1
 78. I printed when I was travelling and stayed on the same day in the future if it was the same day in the present.
 78. I revised the model solutions for the exam.
 79. I wrote a script to help earn high distinctions by connecting sets of my sentences to the assignment text.
-80. I removed the full stop from the end of sentences if they had them to enable easier connection with other sentences.
+80. I removed the full stop from the end of sentences if they had them to enable easier connection with other sentences."]
