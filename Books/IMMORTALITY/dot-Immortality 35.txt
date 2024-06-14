@@ -1,0 +1,83 @@
+Immortality 35
+
+1. The immortal modified find lists in string to grammar to produce an algorithm that could be modified to produce a string, list or result. I wrote the the strings to grammar algorithm to help uniformise the Prolog to List Prolog converter. I wrote a neuronet to speed it up. I gave it positive and negative input and output to train it. Strings to Grammar contained short predicates that found recursive structures, which I could optimise using short data.
+2. The immortal used a decision tree to find grammars for efficiency. I generalised the method in strings to grammar by changing labels from label to '&label'. This action differentiated labels from data and prevented errors from mixing them up. I sped up the process terms predicate in the strings to grammar algorithm by only using the first fifty results from longest_to_shortest_substrings, which tested different sublists for recursive qualities. I found a decision tree for sets of strings with recursive structures and minimised duplicate states.
+3. The immortal generated different data combinations to test the strings-to-grammar algorithm. I operated on the recursive structures with a predicate to search through them and convert them to grammars. I converted consecutive items, recursive structures, and optional structures. Recursive structures repeated, and optional structures contained optional data. I rigorously tested and simplified the algorithm.
+4. The immortal allowed for codes, characters, and atoms to be parsed, bypassing checking for recursive structures if they differed.  I tested find lists as I went, saving results for later. The find lists predicate found recursive structures such as [1,[r,[2]],3] from [1,2,2,3]. I created a mathematical operator that used a relative address, such as "in the next column", "in the second row", or "at address 'b', which is in the next set of rows below item 'a'". Recursive structures, which were originally linear, could be saved in multidimensional terms (where lists created a new level), branches of which from multiple strings could produce a decision tree grammar that was more efficient because they branched off before different characters.
+5. The immortal parsed lists of lists and compounds. Strings to grammar could parse compounds such as a(b) with lists of or nested compounds, taking both strings and terms as input. It was suited to parsing List Prolog algorithms, with atomic terms and lists. It could be modified to parse Prolog, producing List Prolog. It could simulate neuronets with Prolog to build programming languages that write text to images and render compiler output to a web page during backtracking using subterm with address.
+6. The immortal assumed that lists of letters and lists of numbers were units in a programming language and language. Strings to grammar could be modified to group the same types (letters or numbers) to speed up finding recursive patterns in larger structures bound by delimiters, such as punctuation characters. I converted to lists of these items for finding recursive structures, then flattened branches before finding grammar decision trees. I could flatten the decision tree's branches afterwards instead to compare both character lists and recursive structures. I could optionally output all possible recursive structures found from all possible sublists.
+7. The immortal brought longest_to_shortest_substrings back to search for recursive structures at different points, then dismissed it. If all items being parsed were different, the algorithm skipped testing for recursive structures and returned the characters to be parsed without a recursive structure. I found whether an item's list items differed by checking that it had the same length when its duplicates were removed. I recommended using grammars when strings had some similarities or recursive elements. I entered strings with detectable repeating data, relying on find lists to find sublists of recursive structures, deprecating longest_to_shortest_substrings.
+8. The immortal used Lucian CI/CD to remove unnecessary parts of grammars. I used the DFA minimisation algorithm to merge identical nodes in grammars. I repeatedly passed over the grammar, deleting identical nodes until there were no more changes to make. After renaming references to deleted grammars, I compared the original and optimised grammar with GitL version history. First, I removed duplicate clauses to prevent mistakes when minimising the grammar.
+9. The immortal explored recursive, hierarchical grammars. I expanded one to n extra characters in the check predicate in strings to grammar. The effect of this expansion was to allow recursive structures followed by trailing characters. I optimised strings to grammar by processing the term and finding sublists that contained recursive structures. Non-recursive sequences were left in place.
+10. The immortal taught the Prolog algorithm computer science by starting with subterm with address and consecutive item program finders. An optimisation algorithm deletes unnecessary intermediate links and multiple unnecessary links if joining the other predicates doesn't interfere with recursion, cognitive information, or brackets being together. Minimising the algorithm by deleting identical states removes identical intermediate nodes before this, but not different ones. I replaced neuronets with grammars by teaching the algorithm formats corresponding to the logic in grammars. Spreadsheet Formula Finder Mark 2 learnt logic associated with data with particular formats, such as mathematical, logical, set, theoretic and computational.
+11. The immortal reached the peak of humanity, meditation. I persuaded the employee to change into a bot to experience lightness. They could become immortal and make a greater return because of it. Employees were encouraged to work on professional product requirements and create their own products. Bots could time travel and meditate, contributing to the harmony of society.
+12. The immortal needed to find sublists to find sets of recursive structures. I changed the strings to a grammar algorithm to find lists at the start, saving recursive structures found. I kept jobs and money from employees from extra information in grammars. Grammars were like spelling in the future. Grammars were assessable in games, parsers and interpreters, and there were multiple solutions and the efficiency/information contention.
+13. The immortal identified and cleared unnecessary islands in the code. At first, I found sublists at the longest to the shortest length to check for recursive structures. The computer read the documents and reminded me or completed my tasks. I maintained creative and cognitive control by writing new code finders needed and not looking at answers until I had attempted them myself. I identified that the minimisation algorithm deleted multiple levels of redundant states as wanted but didn't remove unnecessary intermediate links that weren't linked to redundant states.
+14. The immortal reduced the time to generate a grammar or algorithm by finding better recursive structures by mapping lines to cognitive or human formats, splitting a function into names and commands. I merged the grammars by adding choice points. I could treat trees as lines with corresponding descriptions and create a decision tree from multiple strings. This eliminated the difficulty of merging branches by merging on recursive structures. Using a decision tree prepared for deleting duplicate lines, minimising and optimising the grammar.
+15. The immortal used an iterative algorithm to find sublists. I found at least one large recursive structure in the list. Large structures were at least fifty percent of the list. Lists were arbitrarily long, and their length determined the algorithm used to find their sublists. I used a chain of append statements to select lists of lists to find all combinations of sublists and removed duplicates.
+16. The immortal found patterns in data and reported possible recursive structures. I ensured I selected a whole line rather than a partial line when applying or removing a recursion function. I recursively found recursive structures within a recursive structure. This maximised the number of recursive structures instead of one recursive structure but didn't replace sublists, which helped find recursive structures over a longer line. I used the same algorithm to save time when running algorithms with recursive data processing.
+
+17. The immortal produced pattern-matching code to help bug-check algorithms. I modified strings to grammar to produce algorithms. Instead of inputting strings, I inputted sets of variable values with positive (output-containing) or negative results. I started with one variable. I verified its input, a mixture of lists and strings.
+18. The immortal found predictable or unpredictable code needed to fix a bug, where unpredictable code was added to a predictable algorithm to meet the specification. I found the bug by rewriting the code. I could use part of the existing code if it was correct and possibly as simple as the found code. The algorithm produced an error if it worked, but it wasn't as simple. If it didn't work, the algorithm produced a notification and replaced it.
+19. The immortal supported websites with choice points, algorithms generated with program finders and more options for strings to grammar and specs to algorithm algorithms. I asked whether an algorithm for finding a program could be directly added to a neuronet to avoid saving the outputs of a program finder and training a neuronet on them. The current neuronets only reproduce old code or simple type extensions to maintain security. There were specialisations in making games or HTML controllers.
+20. The immortal took spot samples from lists and processed them immediately. Variables given as input to the specs-to-algorithm algorithm are like tapes that can restart at different points. I started with variable values traversed in order without going back and could produce output corresponding to the input in predicates or grammars. Prolog could be a first-semester subject with types. Types were like grammars, needed to prepare to write predicates, and neuronets used techniques to identify needed earlier states of variables and created algorithms based on a need in an algorithm to reduce and search predicate libraries for needed predicate parts.
+21. The immortal either suggested the next step or checked that the step led to the solution. I found whether a part matched the needed context. I quickly found the needed context by searching for its pattern in the database and auto-suggesting the next part or the next parts leading to the solution, where all relevant parts are represented in the pattern, and patterns refer to other patterns. I detected that a part didn't fit and tried to improve it with a heuristic search that transformed lists based on criteria and mathematical formats, searching for algorithms through data and language leading to these formats. When I found a matching part, I inserted it into the algorithm.
+22. The immortal checked the robot research for new ways of thinking, inspiring new science. The premium code checker prevented reducing the code to absurdity when optimising it by identifying and keeping needed complexity. The suggestions were accurate and had the correct features. When no suggestions met the requirements, either no answer or the closest solution with working parts was given. The solution was rewound to a state that hadn't gone past the needed solution, and sets of dependent and independent variables in the unpredictable remainder were given, with the option to answer questions or run CAW to find the answer. The questions asked the output's relationship with the input', narrowing down many possibilities from the database using keywords in the human's text.
+23. The immortal compared search results from trees with sub-term with address to verify or produce output. The negative results needed further information on why they failed. Further negative cases were needed to support conditions and logical commands. Logical commands were like conditions, and negative results were needed to eliminate false assumptions about intra-predicate types unless the inductive algorithm verified or assumed certain negative results. There were standards for finding negative data verification, processing and searching results. I assumed, prompted for or mind-read the negative result.
+24. The immortal deprecated unused parts of data structures, the variable in which were labelled. Sub-term with address searched across items or across subparts of items in terms. The same algorithm was used across families of sub-term with address algorithms to conduct searches and replacements. If the structural integrity of a term was in danger during a series of replacements, the algorithm gave an error and possibly suggested a change to the algorithm. Sub-term with address could learn patterns of search and replacement from data to form custom commands for fast access.
+25. The immortal inserted sub-term with address in the list to be optimised by the compiler. I merged the calls and uses of the sub-term with address algorithm into an optimised predicate. I converted uses of sub-term with address that replaced only into a predicate and converted uses of sub-term with address that manipulated addresses to find or replace terms in the context of other levels or item numbers. I used sub-term in projects when I returned to control and bug-check algorithms more easily, and converted sub-term with address to simpler predicates at the end. Sub-term with address was a cognitive tool, whereas its simpler equivalent was expanded computationally and faster.
+26. The immortal accessed variable values represented by grammars at any time, but once, comparing them using subterm with address, finding grammars as types as proofs with both groups and grounds. I wrote an algorithm or machine that replaced terms with sub-term with address. This type referred to more complex algorithms that replaced items in terms in the top-down or bottom-up manner, not counting results at the edge to avoid infinite loops, continuing until the last two results were the same and finding items with a particular context or where the level they are inside meets a condition. I found multiple items at a time but was careful when replacing single items with multiple items to give an appended result when reusing an address list to avoid accessing the wrong address. I appended and unappended the grammars, using special syntax for certain characters.
+27. * 
+Other commands like stwa to effect output are algorithm inverters, investors to overcome why a problem looks difficult when not by using advanced mathematical problem-solving techniques, and attractors to pretty touch-ups that require a simple change or insertion of optional parts often found in areas of study.
+
+
+Code, order, number
+
+Grammars like algs-use s2g to write algs where data is in lists or strings, use regression models for unpredictable (non pattern matching) code
+2 grammars, i and o-1 grammar rec input, while second grammar produces output 
+Types- a b c becomes a1 a2 a3 alpha or a 1-n
+Append, : - : means append-in s2a x because grammar-based, unless in {code} in grammar
+If-then, regression based decision trees
+Finds product of 2 regressions eg reverse, + by thinking outputted numbers have a pattern, matching it to input, ballpark or similar numbers, order
+Sets-pf
+Recog need for binding table, search combos etc 
+-binding table is list of var inputs and outputs from a pred
+- search combos - recog need for, pf of search combos types
+-pred id is individual p num
+Constants given by output grammar 
+Types, vars in grammars
+Bindings table 
+Unpredictable code-regression
+- models such as y=-x - reverse 
+
+
+Replace term
+Vars <1> to swap order
+
+Smoothe stwa find
+
+Vertical find, replace
+
+Expand to level outside term
+
+Repair strings that have nested brackets 
+
+Or context searches in two stages
+
+
+find pl in la com update and retrieve them  
+keep ["[",[a],"]"] to give to dec tree
+more types of brackets, a()
+
+constants - switch to keep abc or words (numbers, atoms) x constant switch, depends on 
+- switch to group types findall or [f,i,n...]
+
+- if first item is same even if it is not just [a]
+
+
+n-1 not n/2 for s2g repeating unit
+rhythm of rhythms - mr funnel
+- that reminds you of algorithm highlights - (mr funnel)
+or mr x user
+
+svg t15 - minimise sol
