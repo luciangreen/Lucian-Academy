@@ -27,57 +27,9 @@ Immortality 35
 24. The immortal deprecated unused parts of data structures, the variable in which were labelled. Sub-term with address searched across items or across subparts of items in terms. The same algorithm was used across families of sub-term with address algorithms to conduct searches and replacements. If the structural integrity of a term was in danger during a series of replacements, the algorithm gave an error and possibly suggested a change to the algorithm. Sub-term with address could learn patterns of search and replacement from data to form custom commands for fast access.
 25. The immortal inserted sub-term with address in the list to be optimised by the compiler. I merged the calls and uses of the sub-term with address algorithm into an optimised predicate. I converted uses of sub-term with address that replaced only into a predicate and converted uses of sub-term with address that manipulated addresses to find or replace terms in the context of other levels or item numbers. I used sub-term in projects when I returned to control and bug-check algorithms more easily, and converted sub-term with address to simpler predicates at the end. Sub-term with address was a cognitive tool, whereas its simpler equivalent was expanded computationally and faster.
 26. The immortal accessed variable values represented by grammars at any time, but once, comparing them using subterm with address, finding grammars as types as proofs with both groups and grounds. I wrote an algorithm or machine that replaced terms with sub-term with address. This type referred to more complex algorithms that replaced items in terms in the top-down or bottom-up manner, not counting results at the edge to avoid infinite loops, continuing until the last two results were the same and finding items with a particular context or where the level they are inside meets a condition. I found multiple items at a time but was careful when replacing single items with multiple items to give an appended result when reusing an address list to avoid accessing the wrong address. I appended and unappended the grammars, using special syntax for certain characters.
-27. * 
-Other commands like stwa to effect output are algorithm inverters, investors to overcome why a problem looks difficult when not by using advanced mathematical problem-solving techniques, and attractors to pretty touch-ups that require a simple change or insertion of optional parts often found in areas of study.
-
-
-Code, order, number
-
-Grammars like algs-use s2g to write algs where data is in lists or strings, use regression models for unpredictable (non pattern matching) code
-2 grammars, i and o-1 grammar rec input, while second grammar produces output 
-Types- a b c becomes a1 a2 a3 alpha or a 1-n
-Append, : - : means append-in s2a x because grammar-based, unless in {code} in grammar
-If-then, regression based decision trees
-Finds product of 2 regressions eg reverse, + by thinking outputted numbers have a pattern, matching it to input, ballpark or similar numbers, order
-Sets-pf
-Recog need for binding table, search combos etc 
--binding table is list of var inputs and outputs from a pred
-- search combos - recog need for, pf of search combos types
--pred id is individual p num
-Constants given by output grammar 
-Types, vars in grammars
-Bindings table 
-Unpredictable code-regression
-- models such as y=-x - reverse 
-
-
-Replace term
-Vars <1> to swap order
-
-Smoothe stwa find
-
-Vertical find, replace
-
-Expand to level outside term
-
-Repair strings that have nested brackets 
-
-Or context searches in two stages
-
-
-find pl in la com update and retrieve them  
-keep ["[",[a],"]"] to give to dec tree
-more types of brackets, a()
-
-constants - switch to keep abc or words (numbers, atoms) x constant switch, depends on 
-- switch to group types findall or [f,i,n...]
-
-- if first item is same even if it is not just [a]
-
-
-n-1 not n/2 for s2g repeating unit
-rhythm of rhythms - mr funnel
-- that reminds you of algorithm highlights - (mr funnel)
-or mr x user
-
-svg t15 - minimise sol
+27. The immortal found the input using the algorithm and output. Other commands that call other commands to effect (sic) output, like subterm with address, include algorithm inverter, which finds input from output by finding algorithms that could find the output. The command also found the input for this algorithm. The command found the algorithm by finding the grammar and possibly unstructuring the output to form input. I developed test cases using this method and developed inputs for the algorithm.
+28. The immortal combined discrete optimisation with neuronetworks in binary. I wrote an algorithm inventor about a constraint satisfaction problem (CSP) to solve or overcome why a problem looks difficult when it is not using advanced mathematical problem-solving techniques. There were a maximum of two levels of helper algorithms for a CSP. I wrote the CSP discrete optimisation algorithm. I found the arguments for a function to equal a particular set of values.
+29. The immortal inserted database, mathematical, logical, computational and matrix formula finders or used a neuronet to do these tasks. I wrote an attractor algorithm to generate pretty touch-ups that require a simple change or insertion of optional parts often found in areas of study. The lecturer appeared, and the female friend noticed that the student had decided to include optional items in the algorithm, refining its accuracy. I included predicates to compute optional data structures and optimised and documented algorithms. If the predicate's condition failed, it passed execution on to its parent.
+30. The immortal preprocessed the algorithm specification by identifying predictable and unpredictable code needed and finding a match for unpredictable code with a neuronet, first representing data using code, order, same value and number. I gave the neuronet algorithms. The algorithm was correct, checked to work given its types, which are used to document the algorithm, and checked to be efficient. I wrote a program finder examining item values by code, order, and number. I wrote an algorithm to change the code, order, or number's value to match the output.
+31. The immortal found a subterm several levels inside a subterm. I identified patterns in addresses compared with data they referred to and properties of addresses and traced smooth address insertion heuristics. Properties of addresses were the first or last item in the address and the last item's value. I found whether there was a mismatch of address and where the original address was pointed. If there was an error in an algorithm referring to addresses, the second algorithm produced the correct subterm with address and simplified code.
+32. The immortal found matching parts of variable values, usually several forming output, and found an algorithm producing this output. The spec-to-algorithm algorithm modified the strings-to-grammar algorithm and produced an algorithm instead of a grammar. I read the code of a previous program finder that converted lists to brackets or repeating lists and then to a List Prolog algorithm producing output and updated the algorithm generator component with subterm-with-address. This new algorithm had better results and had optional and non-deterministic patterns. It had multiple variables, which were processed from point to point, sometimes simultaneously, restarted at points, could be processed starting and finishing at any point, and cognitive ways of programming, such as subterm with address and commands including it, rather than expanded methods were preferred to generate the algorithm with, to make it easier to program and debug.
