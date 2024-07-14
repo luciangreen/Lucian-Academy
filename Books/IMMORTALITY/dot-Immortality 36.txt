@@ -1,0 +1,79 @@
+Immortality 36
+
+1. The immortal modified the Spec to Algorithm (S2A) specs to return unknown variable values. In S2A, I checked for stored recursive structures for a particular pattern. I checked for these patterns in previous instances of running the algorithm. I made CAW-like recursion with dissimilar list items faster by giving formulas for transformations, appends using (:), and string concats using (&). I gave the Prolog algorithm as an example.
+2. The immortal gave the spec for the append predicate, which could be modified to reverse.
+% a([1,2,3],[],A).
+% A = [1, 2, 3].
+a([],A,A).
+a(A,B,C) :-
+ A=[D|E],
+ append(B,[D],F),
+ a(E,F,C).
+3. The immortal rewrote append in one or two lines, as the compiler would to optimise it. The append predicate is represented in S2A as the following spec.
+Inputs: A=[],B=a, Outputs: C=a
+Inputs: A=[],B=b, Outputs: C=b to achieve general variables.
+Inputs: A=[length,[d,1]]:e,B=b, Outputs: C=[a,[e,b:d]]
+and another spec to achieve general variables.
+4. The immortal simplified the spec for easier entry. The S2A spec could be represented as a spec with code similar to Prolog, as shown below.
+Inputs: A={d}:e,B=b, Outputs: C=a(e,b:d)
+The computation is represented in the following way.
+Input=[1,2,3]
+A={1}:[2,3],B=[],C=a([2,3],[]:{1})
+Input=[2,3]
+A={2}:[3],B=[]:{1}=[1],C=a([3],[1]:{2})
+Input=[3]
+A={3}:[],B=[1]:{2}=[1,2],C=a([],[1,2]:{3})
+Input=[]
+A=[],B=[1,2]:{3}=[1,2,3],C=[1,2,3]
+5. The immortal saved time by printing multiple outputs as one or separated them if this was more helpful. If there had been more than one output of "a" (as a single S2A output may have multiple items), it could be represented as a(...)^1, where 1 is the item number of the output. Alternatively, this could be defined as two outputs. This representation involved changes in generating and running the algorithm, including whether outputs are single items determining whether they have brackets. Multiple outputs from a predicate save time and effort when programming by reusing computations.
+6. The immortal simplified append to one input and output in Prolog. Append could also be represented in the following way with two arguments instead of three.
+% b([1,2,3], A).
+% A = [1, 2, 3].
+b([],[]).
+b([D|E],[D|B]) :-
+ b(E,B).
+7. The immortal optimised append. The form of append with two arguments is represented in the following manner.
+Inputs: A=[], Outputs: B=[]
+Inputs: A={d}:e, Outputs: B={d}:b(e)
+and another spec to achieve general variables.
+8. The immortal used fewer computations for append//2. The computation for append//2 is represented in the following way.
+Input=[1,2,3]
+A={1}:[2,3]=[1,2,3],B={1}:b([2,3])
+Input=[2,3]
+A={2}:[3]=[2,3],B={2}:b([3])
+Input=[3]
+A={3}:[]=[3],B={3}:b([])
+Input=[]
+A=[],B=[]
+A=[3],B=[3]
+A=[2,3],B=[2,3]
+A=[1,2,3],B=[1,2,3]
+9. The immortal gave the spec for the append+1 predicate, demonstrating a mixture of append and (+).
+% c([1,2,3],[],A).
+% A = [2, 3, 4].
+c([],A,A).
+c(A,B,C) :-
+ A=[D|E],
+ F is D+1,
+ append(B,[F],G),
+ c(E,G,C).
+10. Append+1//3 could be modified to append+1//2 including:
+Inputs: A={d}:e, Outputs: B={d+1}:b(e)
+The form of append+1 with three arguments is represented in the following manner.
+Inputs: A=[],B=a, Outputs: C=a
+Inputs: A={d}:e,B=b, Outputs: C=a(e,b:(d+1))
+In addition, another spec was used to achieve general variables.
+11. The immortal optimised out unneeded clauses of deterministic predicates, automatically working out the type of clause Mercury Language influenced. The computation for append+1//3 is represented in the following way.
+Input=[1,2,3]
+A={1}:[2,3],B=[],C=a([2,3],[]:{1+1})
+Input=[2,3]
+A={2}:[3],B=[]:{1+1}=[2],C=a([3],[2]:{2+1})
+Input=[3]
+A={3}:[],B=[2]:{2+1}=[2,3],C=a([],[2,3]:{3+1})
+Input=[]
+A=[],B=[2,3]:{3+1}=[2,3,4],C=[2,3,4]
+12. The immortal outputted data without performing calculations using S2A by default, and they could be computed later. The append+1//3 predicate could be modified to use lazy evaluation or only evaluate computations when needed, for instance, with a comparison or at the end, which necessitated the computation. Lazy evaluation leaves the evaluation of a computation until the last minute. For example, it computed 1+(1+(1))=3 or {a}:{a}:{a}=[a, a, a] just before comparison checks this variable or is output at the end. Comparisons are (=), part of verifications of if-then conditions.
+13. The immortal found outputs in terms of two or more functions. An output may be a function of other function(s). For example, a(b)+a(c), string_concat(a(b),".") or string_length(number_string(a(a)+1)). In the case of a(b)+a(c), the results of these subsidiary functions are found and added. If the expression is 1+1, it may only be computed (as part of a lazy evaluation) once needed.
+14. The immortal stored statements needed by outputs in the order they were needed. In addition, an output may use intermediate code that reuses the results of functions. For example, c=a(b), Output1=c, Output2=c. The first statement is stored with the function to find Output1, written as Output1=(store(c=a(b)),c). If more than one statement needs to be stored where Output1 contains more than one variable, it is written store((s1,s2)).
+15. Unless directed otherwise, The immortal tabled and skipped over computing the algorithm. If an S2A spec gave the input [1,2,3] and output [1,2,3] where no other specs suggested foldr(append) was needed or list items were reversed, the algorithm was optimised to remove the append statement. If another spec suggested append was required to fulfil the function of foldr(append), append was kept. One optimisation may lead to a chain of optimisations that the first optimisation led to. If a stored or other function is always 0, 1, [] or ", this may lead to optimisation and ensuing optimisations.
+16. The immortal wrote CAW with types with a neuronet trained on CAW's data. First, I wrote CAW with types, then trained the neuronet on its data. The neuronet found a certain number of possible commands matching the types. Then, the algorithm found a certain number (a small number, to keep complexity down) of commands using depth-first search. Then, it tested the finished algorithms with the Prolog interpreter, stopping when reaching a solution. It ran Prolog using higher-order programming, for example, A=true, A, where A was queried.
