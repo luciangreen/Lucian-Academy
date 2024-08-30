@@ -63,7 +63,8 @@ cd List-Prolog-Package-Manager
 swipl
 ['lppm'].
 lppm_install("luciangreen","Lucian-Academy").
-halt
+../
+halt.
 ```
 
 # Running
