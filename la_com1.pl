@@ -124,11 +124,10 @@ append(Grad_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 	));
 	
 	
-	(true%toss_coin 
-	-> (get_texts(Course,Texts),
+	((get_texts(Course,Texts),
 	
 %trace,
-	short_essay_helper(Texts,Course,3,Essay_0),
+	catch(short_essay_helper(Texts,Course,3,Essay_0),_,false),
 	%writeln([essay_0,Essay_0]),
 	W is 50*4,%texttobr2(u,u,Essay_0,u,false,false,false,false,false,false,W,[auto,on]),
 	
@@ -186,7 +185,7 @@ append(Curr_students_aa1,[[A,B,Student_number,TS_of_enrollment,Year_of_enrollmen
 	Grad_students_aa1=Grad_students_aa3
 	
 
-	);(
+	)->true;(
 	
 	Curr_students_aa1=Curr_students_aa3,
 	Grad_students_aa1=Grad_students_aa3
