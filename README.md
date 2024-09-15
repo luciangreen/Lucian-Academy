@@ -2,7 +2,7 @@
 
 Automates Lucian Academy with practise bots, submission and assignment handling.  I wrote the algorithms in SWI-Prolog.
 
-See <a href="https://github.com/luciangreen/Daily-Regimen">Daily Regimen</a> for scripts to run Lucian Academy and help meditate.
+See <a href="https://github.com/luciangreen/Text-to-Breasonings">Daily Regimen</a> for scripts to run Lucian Academy and help meditate.
 
 * combophil_alg_log.pl - helps record writing up to a number of algorithms per chapter file
 * combophil_alg_log.txt - data file for combophil_alg_log.pl
