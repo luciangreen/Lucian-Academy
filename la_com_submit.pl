@@ -15,8 +15,8 @@
 
 %:- use_module(library(date)).
 
-:- include('../listprologinterpreter/la_strings.pl'). %% Move la_strings and the contents of the repository into the root folder
-:- include('la_com_marks.pl').
+:-include('../listprologinterpreter/la_strings.pl'). %% Move la_strings and the contents of the repository into the root folder
+:-include('la_com_marks.pl').
 
 la_com_start_server(Port) :-
         http_server(http_dispatch, [port(Port)]).

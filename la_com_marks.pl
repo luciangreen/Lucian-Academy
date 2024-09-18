@@ -1,7 +1,7 @@
 :- use_module(library(date)).
 
-:- include('../Text-to-Breasonings/texttobr2qb').
-:- include('../mindreader/mindreadtestshared').
+:-include('../Text-to-Breasonings/texttobr2qb').
+:-include('../mindreader/mindreadtestshared').
 
 daysbspeoplearmy:-
 	daysbspeoplearmy(2), %% 3 days, 3 people, a b bb, seen as version, hq version, army go, army return

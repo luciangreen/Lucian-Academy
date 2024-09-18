@@ -2,7 +2,7 @@
 
 :- initialization main.
 
-:- include('la_com1.pl').
+:-include('la_com1.pl').
 
 main :-
 	la_com1,halt.
