@@ -9,8 +9,8 @@
 
 %% Finds combinations of lines of philosophy
 
-:- include('../listprologinterpreter/la_strings.pl').
-:- include('folders.pl').
+:-include('../listprologinterpreter/la_strings.pl').
+:-include('folders.pl').
 
 string(String) --> list(String).
 
