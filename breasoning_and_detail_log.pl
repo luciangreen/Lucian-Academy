@@ -1,7 +1,7 @@
 % ["Creating and Helping Pedagogues","CREATE AND HELP PEDAGOGUES by Lucian Green Pedagogy Helper - Write on Breasoning - Philosophy 3 of 4.txt",0,algorithms,"    28.    *I noticed the breasoning."]
 
-:-include('../listprologinterpreter/la_strings.pl').
-:-include('../listprologinterpreter/la_strings_string.pl').
+%:-include('../listprologinterpreter/la_strings.pl').
+%:-include('../listprologinterpreter/la_strings_string.pl').
 :-include('word_count.pl').
 :- use_module(library(date)).
 

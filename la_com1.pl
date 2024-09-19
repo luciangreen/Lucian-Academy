@@ -1,20 +1,20 @@
-%*:-include('../listprologinterpreter/la_strings.pl').
+:-include('../listprologinterpreter/listprolog.pl').
 :-include('short_essay_helper3_agps.pl').
 %:-include('combophil/combophil_grammar_logic_to_alg.pl').
 %:-include('algwriter/grammar_logic_to_alg.pl').
 %:-include('meditationnoreplace.pl').
 %:-include('folders.pl').
 %:-include('sectest_p.pl').
-:-include('../listprologinterpreter/la_maths.pl').
+%:-include('../listprologinterpreter/la_maths.pl').
 %:-include('../Text-to-Breasonings/truncate_words_conserving_formatting.pl').
 
-:-include('../Text-to-Breasonings/text_to_breasonings.pl').
-:-include('../Text-to-Breasonings/texttobrall2_reading3.pl').
+:-include('../Text-to-Breasonings/text_to_breasonings1.pl').
+%:-include('../Text-to-Breasonings/texttobrall2_reading3.pl').
 :-include('../Text-to-Breasonings/meditatorsanddoctors.pl').
 %:-include('../Text-to-Breasonings/truncate.pl').
 
 %:-include('../Text-to-Breasonings/meditationnoreplace.pl').
-:-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl').
+:-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg1.pl').
 :-include('breasoning_and_detail_log.pl').
 
 :- use_module(library(date)).
@@ -88,13 +88,12 @@ Year_of_completion is Year_of_enrollment+Years_to_complete,date_time_stamp(date(
 	
 	length(Curr_students2a,LCS),
 	
+	% n, high_distinctions
 	Tally3=[LCS,Tally32],
 	
-	string_atom(Tally4,Tally3),
+	term_to_atom(Tally3,Tally4),
 
-	(open_s("a_tally.txt",write,Stream3),
-	write(Stream3,Tally4),
-	close(Stream3)),!.
+	save_file_s("a_tally.txt",Tally4),!.
 
 	
 /**
