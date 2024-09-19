@@ -17,8 +17,8 @@
 
 %%:-include('distances.pl').
 :- use_module(library(date)).
-:-include('../listprologinterpreter/la_strings.pl').
-:-include('../listprologinterpreter/la_strings_string.pl').
+%:-include('../listprologinterpreter/la_strings.pl').
+%:-include('../listprologinterpreter/la_strings_string.pl').
 
 :- dynamic critique3/1.
 :- dynamic agree_disagree/1.
