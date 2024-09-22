@@ -1,0 +1,70 @@
+Immortality 38
+
+1. The immortal focused on pedagogical technologies that didn't require additional, invasive chemicals, equipment, science (apart from that required) or technology. I made small discoveries, which had enough impact to spurn pedagogical arguments and help shape science. I discovered how an accurate object reader could form the basis of higher dimensional (in effect, quantum because they are based on mind reading) computers, quantum power generators and surgery. These discoveries assumed the purported technologies of the future were noninvasive. In addition, they thought the teleportation technology (16k breasonings) was the same with modifications that caused real teleportation, where 16k teleportation is less invasive for the supple body and with time travel, body replacement (which needs more testing) and organism (societal) behaviour change with meditation VPSs, and could extend the headache-prevention technology to provide therapy given medical object-scans, which also have to be tested. So far, object scans have found words or fragments of words and have not been tested with documents, passes or integration.
+2. The immortal supported humans in charge, enough checking using rigorous systems and security monitoring of robots. In the political ideology of computationalism, computers and science should help the environment overall while providing beneficial discoveries. My variant relies on humans in power, while robots offer specialised skills in uniform service delivery and pedagogical and algorithmic delights, often in science. Humans need robots but can do the job themselves, write pedagogical arguments and carefully uncover scientific discoveries. While the simulation may provide news of discoveries, these discoveries should be checked against reality, proper science with 16k breasonings used as a foundation and reality should be controlled.
+3. The immortal supported themself to be alive, discovered technologies from first principles and moved to a universe with humans in charge. Bored, unhappy or disillusioned robots in monotonous or repetitive jobs may need non-self-aware algorithms to curb malfunction. Robots may claim to be able to discover long-distance space travel. However, these and other discoveries, such as light computers (using electron-photon coupling), security and DevOps testing of code, and support with pedagogy alluded to, can be achieved by humans. Manual neuronets, which are entirely monitored and reasoning checked, can check the function of robots and maintain them.
+4. The immortal wrote a self-exam in which they relied solely on their reasoning skills, not computers. There are two types of S2A optimisers. The first reduces the existing code to specs of pattern matching and the rest of the existing code, and the second reduces code to types and produces specs of all the code, reducing and reusing code, possibly expanding and simplifying constants and variables to code and back to achieve the most straightforward specs. Security, type checking for correctness and output to the screen and files (not just output of the algorithm) need to be checked for necessity and inclusion. Simplification without reductio absurdum or problems with performance when processing Prolog terms compared with C structures need to be considered. People are necessary; they might not want to make some changes, and simplicity, which the computer sometimes can't think of, is the key.
+5. The immortal used the decision tree to quickly select from a range of lists, making a series of choices from choice points in the decision tree. I wrote the short form of the decision tree algorithm, including the frequency list, using findall and the better-performing form, with maplist and foldl. The prior can more easily be converted to C and other languages, while the latter uses faster commands than findall. Findall could be replaced with these commands by the compiler. In addition, I gave the form of the frequency list algorithm that the decision tree used and a form to call directly that sorted in reverse order by frequency.
+6. The immortal used the specialised circuit to mind- and object read with Text to Breasonings. I used a frequency list to quickly determine the number of occurrences of each word in a file and breason them more quickly. Before this, I used a predicate that split the file on non-alphabetic characters using fast predicates, maplist, foldl and foldr. For added speed, I used C and assembly code. In addition, I designed a specialised circuit that optimised the algorithm.
+7. The immortal doubled the speed of the algorithm. I improved the decision tree algorithm.
+
+/*
+decision_tree([[a,a],[a,b],[b,b]],A).
+A = [[a, 2, [[a, 1, []], [b, 1, []]]], [b, 1, [[b, 1, []]]]].
+*/
+
+decision_tree([],[]) :- !.
+decision_tree(A,B) :-
+    findall(C,(member([C|_D],A)),E),
+    frequency_list2(E,L),
+    findall([G,K1,P],(member([G,K1],L),
+    findall(D,member([G|D],A),D2),
+    decision_tree(D2,P)),B).
+
+frequency_list2(E,L) :-
+	msort(E, Sorted),
+	clumped(Sorted, Freq1),
+	findall([B,A],member(B-A,Freq1),L),!.
+	
+The following variant is faster:
+
+decision_tree([],[]) :- !.
+decision_tree(A,B) :-
+    findall(C,(member([C|_D],A)),E),
+    frequency_list2(E,L),
+    decision_tree1(A,L,[],B).
+    decision_tree1(_,[],B,B) :- !.
+
+decision_tree1(A,L,B1,B2) :-
+    L=[[G,K1]|Ls],
+    decision_tree2(A,G,[],B3),
+    decision_tree(B3,P),
+    append(B1,[[G,K1,P]],B4),
+    decision_tree1(A,Ls,B4,B2),!.
+
+decision_tree2([],_,B,B) :- !.
+decision_tree2(A,G,B1,B2) :-
+    A=[[G1|D]|As],
+    (G1=G->append(B1,[D],B3);
+    B1=B3),
+    decision_tree2(As,G,B3,B2).
+
+decision_tree2(A,G,B1,B2) :-
+    A=[[]|As],
+    decision_tree2(As,G,B1,B2).
+
+frequency_list2(E,L) :-
+	msort(E, Sorted),
+	clumped(Sorted, Freq1),
+	findall([B,A],member(B-A,Freq1),L),!.
+
+I separated the frequency list algorithm in case it was needed by itself and for modularity. I sped up the frequency list algorithm to use msort and clumped. I tested foldl instead of the first findall statement because split string on non-alphabetic characters was faster with it. I used predicates instead of findall for the main loop. I dispensed with maplist and foldl because they appeared to make it slower.
+8. The immortal optimised foldr in Prolog. There was nothing to do except C and possibly assembly code. Foldr was useful for atom and string concat. However, these could be done faster using atomic_list_concat and atomics_to_string, respectively. Other uses for fold could be completed in this way.
+9. The immortal used maplist to verify or process a list and foldl to produce an item from lists. I checked apply.pl for commands to use. These included maplist, foldl, convlist and scanl. The idea to use convlist for maplist without failing occurred to me, although I used maplist with predicates that succeeded. I used convlist to process as many items as possible and report the rest.
+10. The immortal reduced the pattern A=B, B=C to A=C or another example using append, a term, a predicate, string concat or atom concat in S2A. Spec to Algorithm can optimise, solve problems, and help debug complicated algorithms. I optimised like LLVM or one of two methods using S2A, optimising pattern matching or code by expanding and simplifying it. For example, I found A=2, changed it to plus(1, 1, A) and grouped like plus statements in an algorithm. For instance, LLVM recognised decision tree code and used an efficient algorithm.
+11. The immortal provided clear instructions from the start. I solved problems using S2A. I used my Mathematical Programming Language to modify code to achieve an aim, such as completing list and string optimisations of S2A using S2G test 15. The algorithm identified where data in the spec was processed and changed the algorithm to give the correct result for test 15. However, the algorithm already gave pointers to pointers, so I checked the code to see if writing MPL was necessary.
+12. The immortal made changes at the first available point. MPL used types to compare the current and desired specs with the code and make insertions, deletions, and changes to match the desired specs. In addition, it chose the more straightforward or better-performing of this code or a direct conversion from the final spec to code using pattern matching and a manual neuronet. I compiled simpler code as better-performing code. Alternatively, MPL could connect in the middle to find the best point to change a computational, mathematical or other command, for example, adding a variable to two different variables at the first available opportunity.
+13. The immortal debugged algorithms using S2A. It worked out that the specs were wrong due to inconsistent results, mathematical mistakes, or inconsistent formatting. The code was correct until a point, or there was a systematic error in the spec or code. I identified the bug in the code compared with the spec and fixed it. For example, there may be a formula A is B+1 in the spec, which should be changed to A is B+2 using CAW, a pattern of values that can be analysed and manipulated or similar to ensure the spec lines and specs worked together to give the correct answer, given an overall master spec, possibly with data only, not formulas. S2A should convert data-only specs to formula specs for each predicate.
+14. The immortal used an extensive database customised for the person who had researched long algorithms. They wanted to use a higher-dimensional computer to perform admin while the students enjoyed themselves. I customised a CAW library predicate by inserting, changing or deleting part(s) to achieve a result. In addition, I saved records of these modifications for future reference. I achieved AGI by manually developing mathematical solutions using Prolog and helping with longer, saleable algorithms resulting from complex integrations between algorithm ideas. The system exhausted all available avenues to help the students achieve the desired result using language analysis, mind-reading and behavioural analysis, allowing them to connect to their goals quickly.
+15. The immortal researched Text-to-Breasonings technologies, their applications and related research. I used Spec to Algorithm to save my life by quickly writing algorithms for research. Many specifications and solutions were mind-read and inferred from language and behaviour on the way to achieving life-saving results. They were cut off for the day, matching what they needed after the professional requirements had been met. The life-saving results included writing 16,000 algorithms for meditation, time travel, anti-ageing body replacement immortality medicine, death prevention, and additional vaporisation or other graphical interventions.
+16. The immortal reran the algorithm without a container if it failed. I increased the memory of the Prolog container (a Shell script running the Prolog algorithm to save memory) or avoided using the container to prevent a fatal error. The problem was with the size of the container or the fact it was in a chain of containers, but possibly more that it was in a chain because the container worked by itself, although it was also small or used a large amount of memory, which caused the issue. I researched whether compiling the algorithm allocated enough memory but surmised it used the memory allocated using programmed settings. I removed the container from the small algorithm in the chain.
