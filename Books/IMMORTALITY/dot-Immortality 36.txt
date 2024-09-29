@@ -83,14 +83,23 @@ A=[],B=[2,3]:{3+1}=[2,3,4],C=[2,3,4]
 19. The immortal matched, reused, and matched groups and wrote code containing variables referring to data structures. The code generator found and returned groups rather than individual variables. I used an algorithm that found whether a list, a sublist or a substring was returned. These substrings could be taken from strings, atoms, numbers or non-list compounds. The algorithm found whether these groups recurred in the input and output, created variables and generated code to process them.
 20. The immortal skipped and retried parts of the nested formula in Prolog when debugging. I converted from Prolog A=a, B=b, f(A, B, C) to the faster formula C=f(a, b). These formulas had single or multiple outputs and were faster because inputs and outputs were defined. Functions could be nested, and S2A specs could quickly be developed and converted to Prolog. If necessary, I kept them in this format for speed, requiring a different interpreter.
 21. The immortal sped up finding recursive structures with a neuronet when optimising the algorithm. I verified the recursive structure and map of the algorithm generated in S2A. This step increased the accuracy of the verification algorithm and allowed faster development. The pattern-matching algorithm called a predicate with these as arguments, shortening the algorithm. I used S2A to help compile the algorithm, first optimising it bottom-up.
-22. * I replaced move vars with a foldr call in S2A. I did this by changing the following:
-move_vars1(_T1,[],_T2_old,Out,Out) :-!.
-move_vars1(T1,Map,T2_old,_Out1,Out2) :-
-	Map=[Map1|Map2],
-	move_vars_pred(T1,Map1,T2_old,Out),
-	move_vars1(T1,Map2,Out,Out,Out2).
-To:
+22. The immortal replaced move vars with a foldr call in S2A. I did this by changing the following call:
+move_vars1(T1, Map, T2_old, Out2)
+query:
+move_vars1([1, 2], [[[1, 1], [[1, 2]]], [[1, 2], [[1, 1]]]], ['C2', 'C1'], Out2)
+algorithm:
+move_vars1(_, [], T2_old, T2_old) :-!.
+move_vars1(T1, [Map|Maps], T2_old, Out2) :-
+    move_vars_pred(T1, Map, T2_old, T2_new),
+    move_vars1(T1, Maps, T2_new, Out2).
+and result:
+Out2 = [2, 1].
+To query:
+foldr(move_vars_pred([1, 2], [[[1, 1], [[1, 2]]], [[1, 2], [[1, 1]]]], ['C2', 'C1'], Out2)
+with call and algorithm:
 foldr(move_vars_pred(T1), Map, T2_old, Out2).
+and result:
+Out2 = [2, 1].
 This optimised move vars. I replaced similar commands with foldr calls.
 23. The Vocational Education assignment for State Saving Interpreter (SSI) evaluates the following algorithm. Put into practice SSI to exhaust choice points in "findall" using a "for" loop. Ensure the interpreter saves the state before each choice point. Use a "for" loop to iterate through all potential solutions. Restore the state after each iteration to evaluate the next choice point. Collect and return all solutions after the loop is completed.
 24. The Vocational Education assignment for Time Machine assesses the following algorithm. Breason out 16k breasonings for time travel and 16k for immortality. Utilise BAG to find new word pairs AD from neighbouring pairs AB, CB, and CD. Implement S2A to find these pairs in sentences. Make new sentences with lateral and exciting significance. Exhaust all possible bonds in the given text.
