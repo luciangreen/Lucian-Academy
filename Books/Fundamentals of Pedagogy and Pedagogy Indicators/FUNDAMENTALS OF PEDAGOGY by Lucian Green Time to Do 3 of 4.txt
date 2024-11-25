@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Time to Do 3 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Time to Do 3 of 4
+
+21. The audience member waited to ask a question. He did this by testing that the 3D shape was evident. First, he walked along a row of hexagons on their bases. Second, he tested that there were no shapes above each hexagon. Third, he proved that this was true for the rest of the rows. In this way, the audience member waited to ask a question by testing that the 3D shape was evident.
+
+22. The scientist prepared to answer the unanswered questions one at a time. She did this by testing whether there was anything to lick in range. First, she opened her mouth. Second, she moved her tongue up and curled it upwards. Third, she moved her tongue down and bent it downwards. In this way, the scientist prepared to answer the unanswered questions one at a time by testing whether there was anything to lick in range.
+
+23. The lecturer walked to work on time. He did this by licking the central lollipop. First, he counted the number of candies. Second, he identified the (floor((n+1)/2))th lollipop, where floor(n) means n is rounded down to the nearest integer. Third, he licked this lollipop. In this way, the lecturer walked to work on time by licking the central lollipop.
+
+24. The professor tested that she had been paid for the hours that she worked. She did this by decompressing the sponge. First, she soaked up water with it. Second, she squeezed the water out of it. Third, she let it decompress on the sink. In this way, the lecturer tested that she had been paid for the hours that she worked by decompressing the sponge.
+
+25. The father prepared to teach his children to read. He did this after cleaning both children's teeth. First, he brushed the first child's teeth. Second, he brushed the second child's teeth. Third, he prepared books for each of them to read in bed. In this way, the father taught his children to read after cleaning both children's teeth.
+
+26. The father kissed the baby good night. He did this by making stairs. First, he cut zig-zags in two beams of wood. Second, he nailed them to the ground and first floor. Third, she nailed steps to the horizontal and vertical edges of the zig-zags on the beams of wood. In this way, the father prepared to kiss the baby good night by making stairs.
+
+27. The prospective parents planned to see a family planner. The male did this after tickling himself with a feather. First, he took his shirt off. Second, he found that his stomach was sensitive. Third, he tickled it with the feather. In this way, the prospective parents planned to see a family planner after the male tickled himself with a feather.
+
+28. The fun park visitor prepared to ride the helter skelter. He did this by licking the chocolate from his finger. First, he started from the base of his finger. Second, he spiraled his tongue upwards, licking all the chocolate from his finger on the way. Third, he stopped when he reached the top. In this way, the fun park visitor prepared to ride the helter skelter by licking the chocolate from his finger.
+
+29. The biochemist calculated the circumference of the protein. He did this by testing the belt fitted correctly. First, he lined the zero on the ruler up with the belt buckle. Second, he computed the correct hole in the strap. Third, he measured the distance between the belt buckle and the hole. In this way, the biochemist prepared to calculate the circumference of the protein by testing the belt fitted correctly.
+
+30. The animation artist copied the cell. She did this by tasting the sugar spread on different parts of her tongue. First, she touched the sourness-detecting part of her tongue with the spatula, with no result. Second, she touched the umami-detecting part of her tongue with the spatula, with no result. Thirdly, she touched the sweetness-detecting part of her tongue with the spatula, and tasted the sugar. In this way, the animation artist prepared to copy the cell by sampling the sugar spread on different parts of her tongue.
+
+"]

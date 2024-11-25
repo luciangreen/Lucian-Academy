@@ -1,0 +1,27 @@
+["Green, L 2021, <i>Time to Finish 1 of 2</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Time to Finish 1 of 4
+
+
+
+1. The aerial surveyor prepared to go downstairs. He did this by bringing his tongue out from behind his top teeth. First, he placed his tongue behind his top teeth. Second, he lowered his tongue. Third, he pushed his tongue forwards. In this way, the aerial surveyor prepared to go downstairs by bringing his tongue out from behind his top teeth.
+
+2. The groundsman prepared to climb a ladder. He did this by bringing his tongue out from behind his bottom teeth. First, he licked the back of his bottom teeth. Second, he raised his tongue. Third, he slid his tongue forward. In this way, he prepared to climb a ladder by bringing his tongue out from behind his bottom teeth.
+
+3. The caterer prepared to lift trays of food. He did this by placing a glass of water on one tray and a glass of orange juice on another. First, he identified the orange juice as opaque orange fluid. Second, he identified the water as transparent colourless fluid. Third, he placed each of them on separate trays. In this way, he prepared to lift trays of food by placing a glass of water on one tray and a glass of orange juice on another.
+
+4. The sound engineer prepared to mix two sounds together. She did this by mixing orange juice and water together. First, she poured half a glass of water Next, she poured half a glass of orange juice into the same glass. Finally, she stirred the liquid in the glass. In this way, she prepared to mix two sounds together by mixing orange juice and water together.
+
+5. The sifter prepared to take the large seeds. He did this by using a straw to drink the orange juice level in the orange juice and water mix. First, he let the orange juice float to the top of the glass. Second, he inserted the straw into the orange juice. Third, he sucked the orange juice through the straw. In this way, the sifter prepared to take the large seeds by using a straw to drink the orange juice level in the orange juice and water mix.
+
+6. The security guard patrolled behind the premises. He did this by licking behind the lollipop. First, he placed his tongue to the front-left of the lollipop. Second, he moved his tongue to the back-left of the lollipop. Third, he bent his tongue behind the lollipop. In this way, he patrolled behind the premises by licking behind the lollipop.
+
+7. The workman prepared to dig the hole. He did this by licking the inner edge of a slice of apple. First, he placed his tongue so that it was touching both ends of the inner edge. Second, he pushed his tongue towards the centre of the inner edge. Third, he stopped pushing his tongue when it completely covered the inner edge. In this way, the workman prepared to dig the hole by licking the inner edge of a slice of apple.
+
+8. The soccer player intercepted the ball. He did this by instructing one of eight players in a circle to block the ball when another player dribbled past each of them. First, he randomly selected one of the eight players, the nth player, to block the ball. Second, a player started dribbling the ball from player 0. Third, player n blocked the ball at 10n seconds. In this way, the soccer player intercepted the ball by instructing one of eight players in a circle to block the ball when another player dribbled past each of them.
+
+9. The party caterer prepared to serve sushi. He did this by filling his bottle from the tap. First, he turned the tap on. Next, he let the tap run. Lastly, he turned the tap off when the bottle was full. In this way, the party caterer prepared to serve sushi by filling his bottle from the tap.
+
+10. The chef tested that the table was stable. He did this by testing that he was equal first with the rope-pulled rabbit. First, he found the time when his maximum y co-ordinate was equal to the finish line. Second, he found the rabbit's y co-ordinate at this time. In conclusion, he tested whether his and the rabbit's y co-ordinates were the same. In this way, the chef tested that the table was stable by testing that he was equal first with the rope-pulled rabbit.
+
+"]

@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Perspectives 2 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Perspectives 2 of 4
+
+11.    I prepared to disambiguate the text.  I did this by writing the anaphor resolution algorithm.  First, I found the first instance of 'him', 'her' or 'it'.  Second, I found the previous object to the instance of 'him', 'her' or 'it'.  Third, I replaced the instance of 'him', 'her' or 'it' with the previous object.  In this way, I prepared to disambiguate the text by writing the anaphor resolution algorithm.
+
+12.   I prepared to write 'and' in terms of 'and'.  I did this by comparing the reasonings details.  First, I wrote that it was true that I ate the strawberry and the pecan.  Second, I wrote that it was true that I ate the pear or the nectarine.  Third, I wrote that 'and' was stronger than 'or' because it corresponded to a single correct result.  In this way, I prepared to write 'and' in terms of 'and' by comparing the reasonings details.
+
+13.    I prepared to contrast political detailed reasonings.  I did this by juxtaposing detailed reasonings.  First, I determined the political detailed reasoning for a reason.  Second, I determined the theological (philosophical) detailed reasoning for a reason.  Third, I determined that the political detailed reasoning for a reason was stronger than the theological (philosophical) detailed reasoning for that reason because it originated from a higher point of society.  In this way, I prepared to contrast political detailed reasonings by juxtaposing detailed reasonings.
+
+14.   I prepared to eat at 12 PM.  I did this by interweaving binary oppositions.  First, I wrote the agreeing binary opposition that the verb agreed with the noun in number.  Second, I wrote the disagreeing binary opposition that I felt hungry at 2 PM instead of 12 PM.  Third, I interweaved these binary oppositions to form the compromise that the verb agreed with 12 PM in number.  In this way, I prepared to eat at 12 PM by interweaving binary oppositions.
+
+15.   I prepared to challenge whether two artificial nodes would allow feelings at all.  I did this by comparing the senses of reasoning.  First, I wrote that the spike was sensed.  Second, I wrote that it felt lustful.  Third, I commented that the spike felt lustful given that I believed that it was part of a human.  In this way, I prepared to challenge whether two artificial nodes would allow feelings at all by comparing the senses of reasoning.
+
+16.   I prepared to determine that I was safe.  I did this by logging in to my files.  First, I entered my user name.  Second, I entered my password.  Third, I accessed my files.  In this way, I prepared to determine that I was safe by logging in to my files.
+
+17.   I prepared to archive old documents.  I did this by determining a document's relevance by its age.  First, I wrote down the date 12 months before the current date.  Second, I wrote down the modification date of the document.  Third, I verified whether the document was still relevant.  In this way, I prepared to archive old documents by determining a document's relevance by its age.
+
+18.   I prepared to articulate students to 50 As in popogogy.  I did this by predicting thoughts using Hindu astrology.  First, I followed a person, not a pigeon.  Second, I learned popogogy.  Third, I wrote down a department's arguments.  In this way, I prepared to articulate students to 50 As in popogogy by predicting thoughts using Hindu astrology.
+
+19.    I prepared to become a multi-millionaire.  I did this by stating how breasonings would help avoid death (prolong life).  First, I found the breasoning.  Second, I found how it would prolong life.  Third, I activated the breasoning by breasoning it out.  In this way, I prepared to become a multi-millionaire by stating how breasonings would help avoid death (prolong life).
+
+20.  I prepared to run a survival course.  I did this by saying how meditation would enable survival during the depression.  First, I identified how it would help me walk forward.  Second, I walked forward.  Third, I tried to.  In this way, I prepared to run a survival course by saying how meditation would enable survival during the depression.
+
+"]

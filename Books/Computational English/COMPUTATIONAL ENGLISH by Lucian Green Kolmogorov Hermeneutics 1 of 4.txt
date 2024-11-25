@@ -1,0 +1,33 @@
+["Green, L 2021, <i>Kolmogorov Hermeneutics 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Kolmogorov Hermeneutics 1 of 4
+
+
+
+1. Determine properties of a narrative in terms of its file length.
+
+The first technique can simulate 'Kolmogorov-type' writing of programs to interpret texts.
+
+Once texts have been interpreted (using hierarchies of arguments with the text as the child nodes and the main conclusion as the root) interpretations of other texts can be merged with it enabling it to be applied to different texts in the future. For example, synonyms can be added for words in a sentence to create possible new interpretations. Also, sentences with new grammars (synogrammars) can be added in disjunction to sentences.
+
+1a.     I and a peer-reviewer prepared to double-blindly (which, in humanities, means to assess the object the sentences without knowing the subjects of the sentences) verify the best interpretation of the author.  I did this by interpreting the author.  First, I wrote down the first interpretation of what the author wrote.  Second, I wrote down the second interpretation of what the author wrote.  Third, I chose the best interpretation of what the author wrote.  In this way, I and a peer-reviewer prepared to double-blindly (which, in humanities, means to assess the object the sentences without knowing the subjects of the sentences) verify the best interpretation of the author by interpreting the author.
+
+2.    I prepared to fulfill the editorial criterion.  I did this by writing for the reader.  First, I investigated the demographic property.  Second, I scintillated the demographic property.  Third, I verified this with a professor.  In this way, I prepared to fulfill the editorial criterion by writing for the reader.
+
+3.     I prepared to write about psychology, sociology and medicine.  I did this by writing about hermeneutics.  First, I wrote down ideas about interpretation.  Second, I prepared to write down ideas about the next level of interpretation.  Third, I repeated this until I had written down ideas about each level of interpretation.  In this way, I prepared to write about psychology, sociology and medicine by writing about hermeneutics.
+
+4.    I prepared to be promoted.  I did this by employing an employee.  First, I wrote down what the employee wanted.  Second, I wrote down what the employee liked.  Third, I gave it to him.  In this way, I prepared to be promoted by employing an employee.
+
+5.    I prepared to ascertain that the parents of a child told their child their stories.  I did this by working out that the parents' stories determined the length in syllables of their child's name.  First, I worked out that the parents' first story determined their child's name's first syllable.  Second, I prepared to work out that the parents' next story determined their child's name's next syllable.  Third, I repeated this until I had worked out that each of the parents' stories determined each syllable of their child's name.  In this way, I prepared to ascertain that the parents of a child told their child their stories by working out that the parents' stories determined the length in syllables of their child's name.
+
+6.    I prepared to recognise the child being free.  I did this by recording the child's story.  First, I recorded the child's primary school years.  Second, I recorded the child's secondary school years.  Third, I recorded the child's adult life.  In this way, I prepared to recognise the child being free by recording the child's story.
+
+7.    I prepared to increase the longevity of the household.  I did this by inserting the mineral dispenser inside the water tap.  First, I unscrewed the tap halves.  Second, I inserted the mineral dispenser in the tap.  Third, I screwed the tap halves together.  In this way, I prepared to increase the longevity of the household by inserting the mineral dispenser inside the water tap.
+
+8.    I prepared to comment on an independent secondary school student.  I did this by observing the employees.  First, I met him at work.  Second, I observed him at regular intervals.  Third, I signed him out at the end of his shift.  In this way, I prepared to comment on an independent secondary school student by observing the employees.
+
+9.     I prepared to dash on stage and exclaim, 'I lead you'.  I did this by writing the philosophy that there are three parts of everything.  First, I adorned the stage.  Second, I drew the Setting.  Third, I observed the audience.  In this way, I prepared to dash on stage and exclaim, 'I lead you' by writing the philosophy that there are three parts of everything.
+
+10.   I prepared to read the magic (pedagogy) story book.  I did this by writing the philosophy that there are three parts of an object.  First, I probed the surface.  Second, I dug into the mantle.  Third, I hypothesised about the core.  In this way, I prepared to read the magic (pedagogy) story book by writing the philosophy that there are three parts of an object.
+
+"]
