@@ -173,6 +173,10 @@ or
 wrap_sources.
 ```
 
+# Extra Books
+
+* <a href="https://lucianspedagogy.blogspot.com/2020/03/notebook-25-page-images.html">Notebook 25</a>
+
 # Versioning
 
 We will use SemVer for versioning.
