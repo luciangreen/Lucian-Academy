@@ -23,3 +23,44 @@ When writing a predicate, Starlog Prompt highlighted the right code in black and
 18. Starlog Prompt made decisions based on democratic information about recent favourite choices. It celebrated progress with contextual actions. If users continually chose a particular feature, Starlog Prompt recognised it as a preference and adapted its recommendations accordingly. When a milestone was reached, Starlog Prompt suggested celebratory actions. These included recommending a new format, starting a new half, or preparing a report. If the system detected prolonged activity, it suggested resting. It reminded the user about sleep schedules and productivity balance.  
 19. Starlog Prompt generated a Table of Contents for algorithm documentation. It ensured clear and concise mission objectives. When documenting an algorithm, Starlog Prompt identified key sections. It structured the content logically for readability. The system optimised searchability by removing redundant sections. It ensured non-iterative, high-value content. Once finalised, the documentation was indexed and formatted. It provided clear guidance for future reference.  
 20. Starlog Prompt stored variable information in structured families. It assigned variables to specific groups for organised computation. Every variable was categorised based on its role. Starlog Prompt ensured consistency in storage and retrieval. When a variable changed, the system tracked updates across its family. It maintained logical coherence to other parts of the computation. Data structures were optimised for quick access and manipulation. Starlog Prompt less redundant recalculations for efficiency.
+
+21. The addition operation was reduced to a loop that continually used the increment instruction to simulate the sum of two numbers. This loop iterates by increasing one operand by one until the desired total is achieved. The first step initialised a counter to zero and stored the second operand. The second step added one to the counter and one to the first operand during each iteration. The third step contrasted the counter to the stored second operand and prevented the loop when they were equal.
+22. The subtraction operation was implemented using two’s complement, which allowed subtraction to be performed as the addition of a negated value. The computer converted the second operand into its two’s complement form and added it to the first operand. The first step inverted all bits of the second operand to produce the one’s complement. The second step added one to this result to obtain the two’s complement, representing the second operand’s negative. The third step used a binary adder to add this two’s complement value to the first operand, yielding the correct subtraction result.
+23. The multiplication operation was expressed as the persistent addition of one operand by the value of the other. The computer-simulated it by adding the multiplicand to an accumulator multiple times based on the multiplier. The first step set an accumulator to zero and stored both operands. The second step added the multiplicand to the accumulator and decreased the multiplier by one each time. The third step stopped the process when the multiplier reached zero.
+24. The division operation was simulated by repeatedly subtracting the divisor from the return until it could no longer subtract without going unwanted. The number of times this could be done is stated in the quotient. The first step initialised a counter to zero and verified the dividend against the divisor. The second step subtracted the divisor from the dividend and incremented the counter. The third step stopped when the return was smaller than the divisor, with the counter demonstrating the quotient.
+25. Addition CFG (a + b using merely +1, -1)
+We define addition as repeated incrementation of the first operand.
+S → Add(A, B)
+Add(A, 0) → A
+Add(A, B) → Add(A+1, B-1)
+Explanation:
+The first step defines operands A and B recursively as increments from 0.
+The second step expresses addition as a function Add(A, B) where B is decremented and A is incremented until B becomes 0.
+The third step terminates when B is zero and profits A.
+Example: Add(2, 3)
+Add(2, 3)
+→ Add(3, 2)
+→ Add(4, 1)
+→ Add(5, 0)
+→ 5
+B=A-1 is expressed in terms of B=A+1 (see 22.), and B=A+1 is binary addition, which is trivial.
+This addition stack CFG has mathematics to perform addition using a grammar.
+26. Logical AND in CFG was expressed as `bool → bool AND bool | value`, where `value → true | false`. This structure enabled recursive assessment of logical conjunctions based on operand values. The first step evaluated the left and right-hand sides of each `bool AND bool` combination. In the second step, apply the logical AND operation to each pair. The third step built the full fact table:  
+```
+true AND true   → true  
+true AND false  → false  
+false AND true  → false  
+false AND false → false  
+```
+27. Logical OR in CFG was defined as `bool → bool OR bool | value`, where `value → true | false`. This evaluation was for disjunctions through recursive Boolean parsing. The first step evaluated both operands in each `bool OR bool` pair. In the second step, the logical OR is to determine the result. The third step constructed the complete fact table:  
+```
+true OR true    → true  
+true OR false   → true  
+false OR true   → true  
+false OR false  → false  
+```
+28. Logical NOT in CFG was written as `bool → NOT bool | value`, with `value → true | false`. This negation was evaluated directly on subexpressions. The first step assessed the `bool` expression following `NOT`. The second step applied logical inversion. The third step gave the full fact table:  
+```
+NOT true  → false  
+NOT false → true  
+```
