@@ -1,0 +1,8 @@
+["Green, L 2021, <i>Print</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Print
+
+1. I characters were a line.  I received m marks for printing line m of n.  I printed the first character.  I prepared to print the next character.  I repeated this until I had printed the character.
+2. I wrote the quadrant of the point.  I labelled the point with its x and y co-ordinates.  I found and labelled the point's x co-ordinate.  I found and labelled the point's y co-ordinate.  I checked off that I had labelled the point.
+3. I labelled the y-intercept.  I verified the y-intercept.  I checked that the y-intercept was c in y=mx+c.  I found the gradient m.  I substituted the x and y values of a point, c and m into the equation to verify it.
+4. I superimposed the y-intercepts.  I found the y-intercept interesting.  I found graphs with different y-intercepts.  I found graphs with the same y-intercepts.  I superimposed them.
+5. I drew the line y=x.  I found the y-intercept interesting with the other.  I translated the graph to have a new y-intercept.  I reflected it in the x-axis.  I reflected it in the y-axis.
+"]

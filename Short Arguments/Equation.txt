@@ -1,0 +1,8 @@
+["Green, L 2021, <i>Equation</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Equation
+
+1. I measured the height component.  I found the rise.  I found the y co-ordinate of the first point.  I found the y co-ordinate of the second point.  I subtracted the y co-ordinate of the first point from the y co-ordinate of the second point.
+2. I measured the width component.  I found the run.  I found the x co-ordinate of the first point.  I found the x co-ordinate of the second point.  I subtracted the x co-ordinate of the first point from the x co-ordinate of the second point.
+3. I started t 0,0.  I started at the origin.  I found the x-axis (where y=0).  I found the y-axis (where x=0).  I found their intersection point, where x=0 and y=0.
+4. I found the point x,y.  I finished at the destination.  I found the desired x co-ordinate, x1.  I found the desired y co-ordinate, y1. I found their intersection point, where x=x1 and y=y1. 
+5. I visited grandma.  I travelled to the destination.  I started at the origin.  I found the way.  I finished at the destination.
+"]
