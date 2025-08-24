@@ -1,0 +1,13 @@
+["Green, L 2021, <i>Computer Science</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Computer Science
+
+1. It was logical to teleport the time machine, which used quantum power, to the house.  I wrote the new logic.  Quantum power is a big thing when the conclusion is arrived at.  Nature goes around, wait, the time machine stays in the future.  In fact, they have one (is it in the house?).
+2. Why does their language sound like ours?  I wrote the new language of logic.  They might have installed the time machine because I was friendly and wrote the Time Travel book.  Everyone can write on time travel.  Time travel will be available to everyone.
+3. I found the change within the line.  I wrote the formula.  I uploaded the software to the site using the command line.  The changes were uploaded.  Changes in lines were uploaded. 
+4. I wrote the machine learning algorithm that incrementally tested the features and constantly compared the given output with the desired output.  I wrote the formula finder.  I found the repository's version history.  I listed the changes.  I kept all the files intact.  Alternatively, I kept the changes to the files.
+5. I worked out the input that the algorithm could take in testing given the difference in the file.  I wrote the input.  I found the differences between the files.  I found all the same parts.  I found the different parts.
+6. I changed the algorithm.  I wrote the output.  The checkers automatically checked the output.  The algorithm analysed the algorithm.  It compared it with correctness.
+7. It did it by itself.  I applied new logic to the problem.  I found the different possible inputs and outputs.  I wrote the Prolog algorithm that uploaded to the server.  I tested the inputs and outputs and saved them on the server.
+8. People could connect to the API using the command line.  I applied new logic to the formula.  I wrote the software-as-a-service (SaaS).  I wrote the algorithm.  I put it on the web site.
+9. It generated and ran lambda code.  I wrote the unit of input.  I wrote a site, GitEnv, SaaS which one could download.  It predicted, suggested and helped with features.  It added the lambda module.
+10. I simplified the aim to a single idea.  I wrote the unit of output.  I tested by guessing input and output.  I worked out the required changes.  There were tutorials in creating Sent Mail Transfer Protocol servers with Prolog, creating subdomains with Prolog and creating a server with Prolog.
+"]

@@ -1,0 +1,15 @@
+["Green, L 2021, <i>Two Uses 2 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 2 of 4
+
+11.            onelonghandle(Line); %% Returns whether the first line has one long (two or more) h's (one long handle)
+12.            twoshorthandles(Line). %% Returns whether the first line has two h's (two short handles)
+13.    onelonghandle(Line) :- %% Returns whether the first line has one long (two or more) h's (one long handle)
+14.            line(Line, h). %% Determines whether Line contains a line of at least 2 h's
+15.    line(Line1, Item1) :- %% Determines whether Line1 contains a line of at least 2 Item1's
+16.            Line1 = [Item2 | Line2], %% Takes the first item, Item2 in Line1, giving Line2
+17.            not(Item2 = Item1), %% Verifies that Item2 is not Item1
+18.            line(Line2, Item1), !. %% Determines whether Line2 contains a line of at least 2 Item1's
+19.    line(Line1, Item) :- %% Determines whether Line1 contains a line of at least 2 Item's
+20.            Line1 = [Item | Line2], %% Takes the first item, Item from Line1, leaving Line2
+"]

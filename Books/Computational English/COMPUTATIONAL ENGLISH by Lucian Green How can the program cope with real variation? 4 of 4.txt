@@ -1,0 +1,9 @@
+["Green, L 2021, <i>How can the program cope with real variation? 4 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+How can the program cope with real variation? 4 of 4
+
+31.    I prepared to research Heidegger's life.  I did this by meeting Heidegger's friend.  First, I breasoned out 50 As.  Second, I was accepted to speak at the Australasian Society for Continental Philosophy Annual Conference in 2013.  Third, I met Heidegger's friend.  In this way, I prepared to research Heidegger's life by meeting Heidegger's friend.
+
+32.   I prepared to submit my article to a journal.  I did this by specifying the assignment of writing an original essay.  First, I wrote the exposition.  Second, I wrote the critique.  Third, I connected and expanded five critique points per original point of my essay.  In this way, I prepared to submit my article to a journal by specifying the assignment of writing an original essay.
+
+"]

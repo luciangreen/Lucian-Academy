@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Heart 2 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"MEDICINE
+by Lucian Green
+Heart 2 of 4
+
+11.    I prepared to exhale lungfuls of air. I did this by contracting my torso. First, I relaxed my diaphragm muscle. Second, I pushed air out of my lungs. Third, I allowed my expiration to finish. In this way, I prepared to exhale lungfuls of air by contracting my torso.
+
+12.    I prepared to play chess. I did this by stretching my neck muscles. First, I moved my head so that it was touching each shoulder. Second, I turned my head from side to side. Third, I moved my head so that my chin was touching my chest, then I moved my head back to look at the stars. In this way, I prepared to play chess by stretching my neck muscles.
+
+13.    I prepared to pronounce the mantra 'Lucian'. I did this by moving my vocal folds together. First, I took a breath. Second, I said the mantra 'Lucian'. Third, I continued breathing normally. In this way, I prepared to pronounce the mantra 'Lucian' by moving my vocal folds together.
+
+14.    I prepared to feed an impaired person. I did this by feeding her liquefied spinach. First, I attached the food tube to the tube attached to the student's stomach. Second, I turned the tap on. Third, the student 'ate' the food. In this way, I prepared to feed an impaired person by feeding her liquefied spinach.
+
+15.    I prepared to decrease my heart rate. I did this by resting my head, in other words by removing no longer used data structures. First, I assigned values to a tuple of variables, then passed this tuple to a predicate (function). Second, I accessed the variables from this tuple. Third, I removed the tuple after it had been used. In this way, I prepared to decrease my heart rate by resting my head, in other words by removing no longer used data structures.
+
+16.    I prepared to imagine what I was thinking. I did this by soothing my temples. First, I lifted my fingers. Second, I touched each temple with one of my fingers. Third, I moved my fingertips in circles. In this way, I prepared to imagine what I was thinking by soothing my temples.
+
+17.    I prepared to go running. I did this by flexing the ball of my foot. First, I stood up. Second, I leant against a wall. Third, I performed a calf stretch. In this way, I prepared to go running by flexing the ball of my foot.
+
+18.    I prepared to stretch my calves. I did this by moving my ankle back and forth. First, I lifted my foot in the air. Second, I moved my ankle forward. Third, I moved my ankle back. In this way, I prepared to stretch my calves by moving my ankle back and forth.
+
+19.    I prepared to kick a soccer ball. I did this by angling my ankle side to side. First, I lifted my knee at a right angle with my leg hanging down from it. Second, I moved my ankle left. Third, I moved my ankle right. In this way, I prepared to kick a soccer ball by angling my ankle side to side.
+
+20.    I prepared to point to part of an invisible dial as part of a game. I did this by twisting my ankle in a circle. First, I sat with my legs pointing straight forward. Second, I started rotating my right ankle clockwise. Third, I stopped doing this when I had rotated my ankle through one revolution of a circle. In this way, I prepared to point to part of an invisible dial as part of a game by twisting my ankle in a circle.
+
+"]
