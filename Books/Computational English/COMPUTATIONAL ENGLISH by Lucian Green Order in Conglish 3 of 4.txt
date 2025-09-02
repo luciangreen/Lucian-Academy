@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Order in Conglish 3 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Order in Conglish 3 of 4
+
+21.   I prepared to traverse the universal data structure with respect to time.  I did this by drawing a six-member ring of events through time.  First, I drew a three-element chain of events in the future.  Second, I drew an element that was an event in the present.  Third, I drew a two-element chain of events in the past.  In this way, I prepared to traverse the universal data structure with respect to time by drawing a six-member ring of events through time.
+
+22.   I prepared to traverse the universal data structure with respect to space.  I did this by drawing a six-member ring of events in space.  First, I drew an element that named a room.  Second, I drew a three-element chain of parts of the room.  Third, I drew a two-element chain of directions in the room.  In this way, I prepared to traverse the universal data structure with respect to space by drawing a six-member ring of events in space.
+
+23.   I prepared to traverse the universal data structure with respect to human judgments of objects (breathsonings).  I did this by drawing a two-member chain of human judgments of objects.  First, I drew an element that named the subject and the object.  Second, I drew an element that named a human judgment of the subject.  Third, I drew an element that named a human judgment of the object.  In this way, I prepared to traverse the universal data structure with respect to human judgments of objects (breathsonings) by drawing a two-member chain of human judgments of objects.
+
+24.   I prepared to traverse the universal data structure with respect to human judgments of the verb (rebreathsonings).  I did this by drawing a two-member chain of human judgments of the verb.  First, I drew an element that named the verb, 'ran'.  Second, I drew an element that named a human judgment of the verb, 'quickly'.  Third, I drew an element that named a human judgment of the object.  In this way, I prepared to traverse the universal data structure with respect to human judgments of objects (breathsonings) by drawing a two-member chain of human judgments of objects.
+
+25.  I prepared to become a politician myself.  I did this by writing pedagogy arguments for myself.  First, I chose a developed thing about myself to write the pedagogical argument about.  Second, I wrote the pedagogical argument.  Third, I breasoned out the argument to achieve the developed thing.  In this way, I prepared to become a politician myself by writing pedagogy arguments for myself.
+
+26.   I prepared to help you to become a politician.  I did this by writing a pedagogy argument for you.  First, I chose a developed thing about you to write the pedagogical argument about.  Second, I wrote the pedagogical argument.  Third, I breasoned out the argument to achieve the developed thing.  I prepared to help you to become a politician by writing a pedagogy argument for you.
+
+27.   I prepared to help people understand me as a politician.  I did this by writing a pedagogy argument for other people.  First, I chose a developed thing about how other people understood me as politician to write the pedagogical argument about other people.  Second, I wrote the pedagogical argument.  Third, I breasoned out the argument to achieve the developed thing.  I prepared to help people understand me as a politician by writing a pedagogy argument for other people.
+
+28.   I enabled the politician to be preselected (wrote pedagogy arguments, experience of regional campaigns, landslide)
+
+29.   I prepared to work in a career assisting the politician.  I did this by writing pedagogy arguments for the politician.  First, I wrote 30 80-breasoning As per campaign.  Second, I included in this a 10-breasoning A per sentence.  Third, I wrote 31-50 (20) business As.  In this way, I prepared to work in a career assisting the politician by writing pedagogy arguments for the politician.
+
+30.   I prepared to help the community achieve its aims.  I did this by gaining experience of regional campaigns.  First, I designed a hospital.  Second, I designed a business.  Third, I designed an education institution.  In this way, I prepared to help the community achieve its aims by gaining experience of regional campaigns.
+
+"]

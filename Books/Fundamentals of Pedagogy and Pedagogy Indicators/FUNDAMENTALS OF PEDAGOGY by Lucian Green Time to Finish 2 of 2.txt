@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Time to Finish 2 of 2</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Time to Finish 2 of 4
+
+11. The banana grower prepared to dip the banana in red wax. She did this by recognising the glass of red orange juice. First, he recognized the square on the view from the front. Second, he recognized the circle in the view from above. Third, he tested that the square was red. In this way, the banana grower prepared to dip the banana in red wax by recognising the glass of red orange juice.
+
+12. The orthodontist measured tooth widths. He did this by removing pips of different sizes from the orange juice squeezer. First, he iterated along the line until he found the left edge of a pip. Then, he iterated to the right edge of the pip, then removed it. Lastly, he repeated the process until he had reached the end of the line. In this way, the orthodontist measured tooth widths by removing pips of different sizes from the orange juice squeezer.
+
+13. The farmer prepared to plough the furrow. He did this by slicing vertically across the lettuce. First, he made a vertical cut on the left side of the chorus. Second, he placed a strip of paper with its left edge aligned with the cut and cut along it's right edge. Third, he repeated the process until he had reached the right side of the lettuce. In this way, the farmer prepared to plough the furrow by slicing vertically across the lettuce.
+
+14. The archaeologist prepared to excavate the dig. He did this by cross-slicing the cabbage. First, he temporarily placed a paper square on the region he planned to cut. Second, he removed the square and made vertical cuts parallel with the square's left edge. Third, he made horizontal cuts parallel with the square's top edge. In this way, the archaeologist prepared to excavate the dig by cross-slicing the cabbage.
+
+15. The train cleaner prepared to hose the train. He did this by hosing the top of his head. First, he moved the shower head so that its x co-ordinate was equal to its initial position, plus the x co-ordinate of the centre of the person's head minus the x co-ordinate of the initial position of the centre of the shower head. Second, he moved the shower head so that its y co-ordinate was equal to its initial position, plus the y co-ordinate of the centre of the person's head minus the y co-ordinate of the initial position of the centre of the shower head. Third, he adjusted the shower head so that it was perpendicular to the walls. In this way, the train cleaner prepared to hose the train by hosing the top of his head.
+
+16. The chauffeur adjusted the wind screen wiper. He did this by showering his face. First, he placed the shower head vertically, touching his face. Then he rotated it 45 degrees away from his face around the top of the shower head. In conclusion, he sprayed his face with water and let the water drain down it. In this way, the chauffeur adjusted the wind screen wiper by showering his face.
+
+17. The philatelist prepared to detach the stamp. He did this by matching the actor with the character. First, he measured the character's hair length. Second, he measured the actor's hair length. Third, he tested that the actor's hair length was equal to the character's hair length. In this way, the philatelist prepared to detach the stamp by matching the actor with the character.
+
+18. The track driver prepared to return home. She did this by moving her hand away from the glass. First, she released her grip on the glass with her right hand. Second, she moved her hand to the right. Finally, she moved her hand back to in front of her. In this way, the track driver prepared to return home by moving her hand away from the glass.
+
+19. The tree feller prepared to trim the tree branches. He did this by detecting n > 1 licks. First, he set the counter at 0. Next, he added 1 to the counter when a vertical lick mark was counted. Finally, he repeated this algorithm until there were no more lick marks. In this way, the tree feller prepared to trim the tree branches by detecting n > 1 licks.
+
+20. The train passenger prepared to eat the sandwich. He did this by cutting two thirds of the bread stick segment off. First, he measured the length of the bread stick segment with a ruler. Second, he divided the length by three. Third, he multiplied this value by two. In this way, the train passenger prepared to eat the sandwich by cutting two thirds of the bread stick segment off.
+
+"]

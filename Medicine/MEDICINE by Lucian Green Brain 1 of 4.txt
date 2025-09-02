@@ -1,0 +1,30 @@
+["Green, L 2021, <i>Brain 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"MEDICINE
+by Lucian Green
+Brain 1 of 4
+
+
+
+
+1. The meditator's brain is better supported.
+
+1a.    I prepared to use my brain. I did this by turning the brain on. First, I found the switch. Second, I turned the brain light on. Third, I admired the brain. In this way, I prepared to use my brain by turning the brain on.
+
+2.    I prepared to create the neuron. I did this by tickling the fish. First, I found the fish. Second, I placed the net in the water. Third, the fish jumped out of the water. In this way, I prepared to create the neuron by tickling the fish.
+
+3.    I prepared to earn 100%. I did this by researching the answer. First, I looked up the topic in the lecture notes. Second, I read the answer. Third, I paraphrased it in my work. In this way, I prepared to earn 100% by researching the answer.
+
+4.    I prepared to finish the degree. I did this by exiting through the correct door. First, I found the map. Second, I found the path on the map. Third, I found the correct door compared with where I was. In this way, I prepared to finish the degree by exiting through the correct door.
+
+5.    I prepared to answer the question. I did this by linking the question to the answer. First, I read the question. Second, I read the answer. Third, I verified that the answer developedly answered the question. In this way, I prepared to answer the question by linking the question to the answer.
+
+6.    Powerman prepared to use his will. He did this by thinking projects through. First, he thought of the start. Second, he thought of the middle. Third, he thought of the finish. In this way, Powerman prepared to use his will by thinking projects through.
+
+7.    The mathematician prepared to verify orthodontic calculations. She did this by calculating the velocity of the tooth from it's initial and final position. First, she wrote down the final position of the tooth. Second, she subtracted the initial position from this. Third, she divided this by the time. In this way she prepared to verify orthodontic calculations this by calculating the velocity of the tooth from it's initial and final position.
+
+8.    I prepared to say how good I was. I did this by filling a model brain cell with my discoveries. First, I put my first discovery into the brain cell. Second, I put my second discovery into the brain cell. Third, I put my third discovery into the brain cell. I prepared to say how good I was by filling a model brain cell with my discoveries.
+
+9.    I prepared to swim the race. I did this by swimming a mile. First, I got into my swimmers. Second, I got into the pool. Third, I paddled around for a bit. In this way, I prepared to swim the race by swimming a mile.
+
+10.    I prepared to find the line's gradient. I did this by deriving the function in terms of x. First, I multiplied the coefficient of the first term by the value of the power of x and decreased the power of x by 1, and did this for the rest of the terms. Second, I rewrote x^0 as 1, simplifying a*1 to a. Third, I rewrote terms with negative powers of x (a*(x^-b)) as a/(x^b). In this way, I prepared to find the line's gradient by deriving the function in terms of x.
+
+"]

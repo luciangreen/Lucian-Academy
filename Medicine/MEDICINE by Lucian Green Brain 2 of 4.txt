@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Brain 2 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"MEDICINE
+by Lucian Green
+Brain 2 of 4
+
+11.    I prepared to win the game. I did this by verifying that the state was checkmate. First, I verified that the king was being attacked. Second, I verified that the piece attacking the king could not be blocked or taken. Third, I verified that the king couldn't move out of checkmate. In this way, I prepared to win the game by verifying that the state was checkmate.
+
+12.    I prepared to create a form in chaos theory. I did this by making a rainbow from a rainbow. First, I plotted two points. Second, I made a rainbow between them. Third, I chose two adjacent colours and repeated this. In this way, I prepared to create a form in chaos theory by making a rainbow from a rainbow.
+
+13.    I prepared to buy new shoes. I did this by measuring my foot size. First, I measured my foot's length. Second, I measured my foot's width. Third, I measured my foot's height. In this way, I prepared to buy new shoes by measuring my foot size.
+
+14.    I prepared to go for a jog. I did it by running on the spot. First, I stood up. Second, I bounced my knees as I jogged on the spot. Third, I moved my arms back and forth as I jogged on the spot. In this way, I prepared to go for a jog by running on the spot.
+
+15.    I prepared to show I had a sharp mind. I did this by substituting the variables into the equation. First, I substituted the first variable into the equation. Second, I prepared to substitute the second variable into the equation. Third, I repeated this until I had substituted all the variables into the equation. In this way, I prepared to show I had a sharp mind by substituting the variables into the equation.
+
+16.    I prepared to calculate the circle's area to equal pi*(radius squared). I did this by calculating pi to equal the ratio of the circle's circumference to it's diameter. First, I measured the circle's circumference. Second, I measured it's diameter. Third, I divided the circle's circumference by it's diameter to equal pi. In this way, I prepared to calculate the circle's area by calculating pi.
+
+17.    I prepared to live a long life. I did this by meditating daily. First, I looked into the wormhole. Second, I looked at high quality thoughts. Third, I meditated for twenty minutes twice per day. In this way, I prepared to live a long life by meditating daily.
+
+18.    I prepared to live a healthy life. I did this by practising yoga each day. First, I wrote 10 As to count as a major in organ medicine, with one speed, then another speed for the organs as arguments. Second, I practised yoga in the mornings. Third, I practised yoga in the evenings. In this way, I prepared to live a healthy life by practising yoga each day.
+
+19.    I prepared to weight train. I did this by starting with a lighter weight. First, I ranked the weights by size. Second, I found the smallest weight. Third, I selecting this as the lightest weight, assuming all the weights were made out of the same metal. In this way, I prepared to weight train by starting with a lighter weight.
+
+20.    I prepared to practice aerobics. I did this by performing a star jump. First, I stood still. Second, I moved my legs outwards and my arms above my head as a jumped. Third, I returned my limbs to resting position as my feet touched the ground. In this way, I prepared to practice aerobics by performing a star jump.
+
+"]

@@ -1,0 +1,19 @@
+["Green, L 2024, <i>Breasoning Algorithm Generator 1</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Breasoning Algorithm Generator 1
+
+1. I could undo changes in other windows.
+2. I dragged text from the Web Editor window to the window.
+3. I suggested nearly missed opportunities to improve code.
+4. I moved deleted files and previous clipboards and lost undos to the bin.
+5. I could close and reopen sets of windows and trigger reminders or automation to make resulting changes from changes.
+6. I activated other windows by dragging into them.
+7. I undid the upload or download and treated web servers like the Web Finder.
+8. I cancelled or undid dragging operations.
+9. I deselected files with an algorithm, for example, those filenames ending with a string.
+10. I ordered files by name or another property.
+11. I funnelled the files and made business decisions in time. 
+12. I found files in one window that could run optical character recognition (OCR) or conversion utilities.
+13. The education authentication software verified that I understood an idea and helped me apply it in the industry.
+14. The assignment was to produce the report-writing algorithm, explaining and detailing the logic and mathematics.
+15. If it had permission, Web Editor could edit files on other servers and simplify the approach to old, new and private versions of repositories by using a data folder and testing private data worked with the latest version.
+16. Web Editor updated the location of moved files.
+"]

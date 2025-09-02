@@ -1,0 +1,11 @@
+["Green, L 2021, <i>Narratology Diagram 4 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Narratology Diagram 4 of 4
+
+31.    I prepared to make arrangements to walk home.  I did this by stating that the infinitive part of the verb was represented by 'I agreed to walk home.  First, my female master planned the route to my house using a map.  Second, she asked me to walk home.  Third, I agreed to walk home.  In this way, I prepared to make arrangements to walk home by stating that the infinitive part of the verb was represented by 'I agreed to walk home.
+
+32.   I prepared to take care of Peter's car.  I did this by stating that the causative part of the verb was represented by 'Peter let me drive his car.  First, I asked Peter whether I could drive his car.  Second, Peter agreed to let me drive his car.  Third, I drove Peters' car.  In this way, I prepared to take care of Peter's car by stating that the causative part of the verb was represented by 'Peter let me drive his car.
+
+How can the program cope with real variation?
+
+1. Anna: But doesn't it rely on all texts following a particular format - "]

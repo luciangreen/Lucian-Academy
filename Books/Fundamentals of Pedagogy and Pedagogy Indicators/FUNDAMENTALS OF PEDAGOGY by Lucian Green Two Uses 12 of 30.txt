@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 12 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 12 of 30
+
+110.	ALEXIS: The subject should speak about heavier objects than the last time.
+
+111.	DION: The subject should talk about larger objects than the last time because they were heavier objects than the last time.
+
+112.	ALEXIS: What is the meaning of line(Line1, Item1) in line 15?
+
+113.	DION: Line 15 determines whether Line1 contains a line of at least 2 Item1's.
+
+114.	ALEXIS: I prepared to have a fair. I did this by writing Richard Rorty's probable comments on the Press Release for Alexius Meinong's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I loved reasonings. Second, I loved you. Third, I loved myself.
+
+115.	DION: The subject shouldn't ethically assess the person's two uses (wanting to live and the way to do this) (where the subject visited a fair, his destination).
+
+116.	ALEXIS: The subject should ethically assess the person's two uses.
+
+117.	DION: Two uses are correct because of the comparison of nature, which is correct because the subject should morally evaluate the person's two uses.
+
+118.	ALEXIS: I prepared to state that I had filled the table of questions about the breasoning, meaning there were no missing comments in these categories. I did this by writing Noam Chomsky's probable comments on the Press Release for Alexius Meinong's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I wrote that the text changed according to history (won't change because of history). Second, I wrote that the speech changed according to the amount of money the subject was able to pay for this. Third, I noticed the conditions of the text and speech wouldn't (would) match when there wasn't (was) enough money to pay for the accurate recording of history.
+
+119.	DION: The subject shouldn't allow the breasoning to leave her lips (where she filled the table of questions about the breasoning, meaning there were no missing comments in these categories, like moving until reaching the start).
+"]

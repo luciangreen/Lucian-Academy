@@ -1,0 +1,19 @@
+["Green, L 2024, <i>Grammar Logic 1</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Grammar Logic 1
+
+1. I could achieve file manipulation results with Prolog. For example, I selected the files in Web Finder and applied an operation.
+2. I dragged sets of files into a Web Editor file window.
+3. I could select both ranges and subtractions in the Web Finder and save open sets of Web Editor windows to come back to and check off.
+4. I shift-clicked files in the Web Finder.
+5. The Web Finder could tell between option-clicking (adding or removing individual files from the selection) and option-dragging (copying). If the user wanted to option-drag to make a selection, they could be mind-read.
+6. I command-clicked files in the Web Finder.
+7. I warned the user if there were unsaved changes when they ran an unsaved file in  Web Prolog in Web Shell.
+8. I updated all Web Editor windows on changes.
+9. PrologScript used declarative programming to build interfaces and merged back and front ends, putting them at the back.
+10. The new Web Browser used Prolog instead of Javascript.
+11. I detected accidental keystrokes and clicks and asked the user if they meant them.
+12. I displayed a drawer to turn Web Finder on or off in Web Editor.
+13. I designed an offline app language that could work on smart devices and desktops.
+14. Web Prolog could integrate Web (Text) Editor, Finder and Shell.
+15. I bulk-processed my notes as issues and completed them.
+16. I saved the Web Editor’s and Web Finder’s window positions.
+"]

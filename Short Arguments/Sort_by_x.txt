@@ -1,0 +1,7 @@
+["Green, L 2021, <i>Sort_by_x</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Sort_by_x
+
+1. I prepared to explain that for the other lines, the method would work to prevent disconnects in the line.  I did this by noticing that the line might ascend.  First, I prepared to connect the points from left to right.  Second, I only drew lines with a gradient 0 < m =< 1 or 0 >= m >= -1.  Third, I flipped Xs and Ys, drew the line, and then flipped the Xs and Ys again for the other lines.
+2. I prepared to check whether the point intersected with the line.  I did this by observing the object ascend.  First, I drew the line.  Second, I saw it ascend.  Third, I noticed its end point.
+3. I prepared to repeat plotting the set of points.  I did this by plotting the points from left to right.  First, I found the x co-ordinate of the next point in order from left to right.  Second, I found the y co-ordinate of the next point in order from left to right.  Third, I plotted it, then prepared to plot the next point.
+4. I prepared to list the pairs in order.  I did this by sorting by x, regardless of y.  First, I found the maximum in the pair of values.  Second, I placed it before the other value.  Third, I repeated this for the list beginning with each item.
+5. I prepared to visualise the points.  I did this by attaching y to x.  First, I found x.  Second, I attached y to it.  Third, I repeated this until there were no more x's."]

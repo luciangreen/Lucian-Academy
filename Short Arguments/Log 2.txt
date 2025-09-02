@@ -1,0 +1,7 @@
+["Green, L 2021, <i>Log 2</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Log 2
+
+1. I checked the values.  M should be >= n.  M is 1000.  N is 3.  1000>=3.
+2. K>=1. M should be < Km.  M is 10.  Km=3*10=30.  10<30.
+3. I swapped the values.  B3=<A3.  B3 is 3.  A3 is 1000.  3 <= 1000.
+4. I looked at the patterns in the numbers.  As B3 decreases, N-B3 increases.  When B3 is 5, N-B3=10-5=5.  When B3 is 3, N-B3=10-3=7.  Delta(B3)=-2 => delta(N-B3)=2.
+5. Log base e is different.  B is log base 10 of A.  A is 100.  B is log base 10 of 100.  B is 2."]

@@ -1,0 +1,31 @@
+["Green, L 2022, <i>SSI</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"SSI
+
+1. I examined the trace. 
+I wrote the retry feature in SSI. First, the interpreter reset to the state. Then, the computer reran the part.  It found the bug.
+2. The operating system had multiple undos.  I wrote the web service in SSI.  I broke the algorithm at the point after accepting input.  I changed the algorithm to save as it went.  I changed the algorithm to have multiple undos. *1, *2, *3
+3. I drew lines and displayed them in the background.  I wrote the graphical user interface in SSI.  I had different submit buttons, one for each responsive area.  I could convert .ppm and .pbm graphics to web graphics. 
+I could display text in Lucian's Hand Bitmap Font.
+4. Philosophy was in 2D or 3D.  The graphical user interface had 2D graphics.  I changed graphics with mouseovers.  I simulated the text area with graphics, where the text area refreshed on keystrokes and clicks.  There were 2D sprites in games.
+5. There were moving 2D views of maps. The graphical user interface had 3D graphics.  I relaxed my upper body by reaching forward. First, there were (architectural) elevations. Then, there were static 3D views. Then, there were moving 3D views.
+6. SSI sped up writing web apps by enabling recursion over different web pages. First, I wrote the Web Prolog development environment.  I wrote the code.  I read the warnings when I ran it. Finally, I ran the algorithm online in SSI.  SSI could act as a system to run the algorithm, with libraries available and could convert algorithms to applications.
+7. There was an error-handling library.  I had clear error notifications on the web rather than unclear ones.  There was an error for a missing predicate.  There was an error with a chain of predicates listed. 
+Rather than a web error, SSI presented a Prolog error.
+8. The word processor could run on the smartphone, enabling rapid code drafting.  I wrote the word processor for the web. First, I specified the 2D graph's appearance. Then, I asked for missing specifications and automatically generated the needed code.  The word processor autosaved progress.
+9. I used Javascript to help make an image editor.  I constructed the image from the HTML table.  The table cells were the pixels.  I changed them to a hex colour.  I controlled the rows' height and the columns' width.
+10. I recorded the project in an API Maker report.  I wrote the programmable calculator.  I wrote the algorithm.  I drew the graph.  I labelled its features.
+11. I handed in the formula. 
+I wrote the grapher.  I flew through the logic graph. Then, I made logical parts of the game with SSI. Finally, I generated the formulae as a computer game.
+12. The chatbot accessed the frequently asked administrative or area of study questions.  I wrote the CAW chatbot.  The supercomputer helped with the problem.  It interactively helped with programming.  It interactively helped write the algorithm from the sentence.
+13. There were sentences with key terms describing the mapping between algorithms and files.  I simulated file handling with Program Finder. Next, I generated the algorithm, which identified needed files with labels, with the program finder. Finally, I used the file specification to store data at a particular location in the file. 
+The file locations had a standard labelling system.
+14. I described future areas of research. First, I added the foldr command to SSI. Then, I programmed the algorithm to ask about relations between different algorithms. 
+I generated the documentation for the command. Then, I described the specification using sentences and labels.
+15. I discouraged cheating by asking for working, available to be helped with by tutors. Next, I found the matrix for the formula. Next, I tried all combinations of numbers in all dimensions of matrices. Next, I found formulae with operations between matrices and factors. Finally, I simulated the tutorial and college using Prolog.
+16. I used the algorithm to feature the most essential (parts of) photographs at the best (range of) sizes.  I found the constraints.  I tested the formula against the specification. Third, I fit the articles together on the newspaper page using the constraint satisfaction algorithm. Finally, I used editing software to edit out lower-priority parts of reports in relation to other articles.
+
+Notes
+
+*1 I updated the specification to meet subgoals.  I found singletons in the branch.  I counted the number of each variable in each branch (separated if-then branches), including the header.  If there was only one instance of a variable, then it was reported.  I found combinations of correct configurations to match the specification and fix the singleton in the branch error.
+*2 I did the same for state machines and data structures.  I simplified the grammar by eliminating extra levels.  I used the DFA minimisation algorithm.  I rewrote the grammar.  I did the same for types and Functional List Prolog.
+*3 I stored the code as List Prolog Code, which the interpreter could call as part of a library.  I wrote an algorithm to write an algorithm to simplify (modularise) code and perform everyday tasks. First, I found the reused code. Then, I called the collections of reused code (performed common tasks). Finally, I found the optimised code.
+Applications could use the menu bar, vector movies, MIDI-creating and playing, neural network, supercomputing, debugging suite and mouse-drag libraries.  Web SSI (API Maker) allowed access to files and moved development from the Terminal to multiple web windows.  The web apps created could have icons, be run from the smartphone home screen or desktop (online or offline) and be sold.  Because they were web-savvy, they could eternally endure the introduction of new machines and operating systems. For example, an application may consist of main :- writeln(\"Hello World.\")."]
