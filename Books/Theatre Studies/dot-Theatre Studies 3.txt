@@ -80,5 +80,5 @@ Theatre Studies 3
 
 77. Movie-making games. Robots that come from LLMs and the simulation. Joining cases together is desired in an algorithm writer. 100 acting high distinctions per syllable. When I see changes, I check them.
 78. It is a mathematical inductive transformation. "Where" is a property of reading strength. "Which" is a type of type. This type further constrains manual neuronets. I wrote the CFG generator that embedded folded and unfolded patterns.
-79. Higher states of consciousness accessed the simulation switches and imagery. Realistic time travel in the timeline required 16k breasonings. 1+2+…+n=0. 0.5n^2+0.5n^1+0*n^0 - optimise subtractions.
+79. Higher states of consciousness accessed the simulation switches and imagery. Realistic time travel in the timeline required 16k breasonings. 1+2+…+n=0.5n^2+0.5n^1+0*n^0 - optimise subtractions.
 80. Optimise *. Optimise /. Delete unnecessary 0, 1. Docgen generates grammars. Fix infinite loops in comparison by ranking by list length.
