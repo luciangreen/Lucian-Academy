@@ -1,0 +1,37 @@
+["Green, L 2024, <i>Improvements argument</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Marketing Improvements argument for A2 Milk assignment argument
+
+1. I stopped and used CI/CD with my repositories. I tested whether the web app accessed files on the server and, if so, stopped it. I found commands that loaded files. I tested whether a password screen was protecting their contents. If not, I programmed the interpreter to stop.
+2. I relied on an internet connection to run a repository. I recorded whether a repository version had a vulnerability and notified the user not to run it. I scanned the repository. I recorded whether it had a vulnerability. I wrote and ran an algorithm that stopped running repositories with vulnerabilities.
+3. I made live update images for a repository on the read-me file online. I automatically updated dependencies. Before running a repository, I checked for updates. I installed the latest possible update, including a significant change that required converting data files. I converted data files.
+4. I made a live version update image for a repository on the read-me file online. I identified bugs. I ran the debugger. It checked code for syntax errors and illegal characters. I automatically fixed these.
+5. I made an algorithm writing helper and a library of practical algorithms. I corrected the operator expected bug. I parsed the code with the parser. I detected if a character was missing, extra or out of place. I corrected it.
+6. I verified the type of input to convert. I found the type mismatch error. I parsed the type statement. I checked the predicate always had the correct types. I checked called predicates' type (statements).
+7. I automatically debugged with type statements and an algorithm that judged the usefulness of an algorithm. I found the singleton error. I aimed for and concluded that if the predicate was always smaller than something I was thinking, then, for example, I could predict it with pattern matching. For instance, I could give the algorithm input and output, which would work out an algorithm. I could train it to pattern match through stepped data and, for example, work out when to use \"get item n\" and \"put item n\".
+8. I moderated flagged content. I found the privacy hole. I found that the private data shouldn't be visible through the hole. This data included names and addresses or other information in a data file. Also, I locked user accounts that violated rules about violence and crime, safety, objectionable content, integrity and intellectual property.
+9. I recorded and backed up financial data. I fixed money-related errors. I locked databases to prevent changes from being made by paying or receiving money more than once. Once I received the money, I checked it and recorded it to register its transaction. I corrected the app from crashing and causing money-related errors.
+10. I prevented malware. I identified malware as software that someone specifically designed to disrupt, damage, or gain unauthorised access to a computer. I scanned the code to see if it would ring alarms at night. In addition, I checked the code to see if it would delete files. Also, I scanned code to see if it would record or read files unexpectedly.
+11. I applied disinfectant (the virus scanner) to the hard disk. I disinfected viruses. I scanned the code to see if it copied itself, corrupted the system or destroyed data. I found commands that copied files and stopped them if they did it unnecessarily. I scanned code that accessed files unnecessarily. I checked code that deleted files unnecessarily.
+12. I scanned for Trojan horses. A hacker would design a trojan horse to breach the security of a computer while appearing to do something else. I read the aim of the algorithm. I checked for unrelated scams, etc. I deleted them.
+13. I scanned for worms. I worm is a self-copying algorithm that spreads across a network and has an unwanted effect. I scanned the code for a self-replicating program. I also checked whether it moved through a network. I checked whether it affected files and deleted it.
+14. I identified errors. Errors were numerical, text or layout errors that caused a malfunction or mistake in a program. I scanned the mathematical formula for errors in representing objects and mathematical properties. I checked the code for spelling or results of pattern-matching errors. I scanned code with the user interface or ordering (i.e. giving away an answer) errors.
+15. I prevented loading the interpreter twice, with unwanted effects. I detected a missing file error. If an algorithm included a file that wasn't there, the program detected it in testing. Lucian CI/CD built files from the dependencies listed. If the algorithm didn't load it, I tried and tested it.
+16. I simplified the predicates, separating functions and reusing code. I checked the dependencies. I checked that algorithms' predicates called predicates that were loaded. I checked that included files and needed files were the same. I sometimes replaced a call with a call to an available predicate that did the same thing or loaded the file and listed its repository as a dependency.
+
+  errors in displaying user interfaces
+identify security flaws/
+displaying secrets -
+ preventing code with IP addresses,
+  passwords, 
+  usernames or 
+  secret phrases being uploaded
+test with static (white) and
+ dynamic (black) box checkers for holes,
+  such as if an app stops before it is safe, such as in a payment app	
+record and moderate attempts to commit, only allowing access to cicd if have 2 factor authentication
+explain how to customise a prolog package manager to work with others' repositories
+
+
+
+
+
+"]

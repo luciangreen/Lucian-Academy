@@ -1,0 +1,15 @@
+["Green, L 2021, <i>Mr for philosophy and algorithm writing 1</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Mr for philosophy and algorithm writing 1
+1. I mind projected the screen asking for the philosophy and mind read the philosophy.
+2. I mind projected the screen asking for the algorithm part and mind read the algorithm part, where I joined top-down and bottom-up parts and data flowed as far as possible as I went and I could fix errors.
+3. I mind read the bird's philosophy and algorithm to help him to have a family.
+4. I mind chose the specific variable, possibly displaying its value, predicate from autocomplete or the bottom-up predicate to connect to the top-down predicate.
+5. I blocked in additional conditions for the algorithm by mind reading.
+6. I mind chose combinations of different logical structures when writing the algorithm.
+7. I mind chose the suggested three or more lines when writing the algorithm.
+8. I mind read the algorithms in the essay for A+.
+9. I mind read the algorithms for details in the essay for 100%.
+10. I mind read the statistics blocking experiment (to find a possible correlation) data while mind programming, for e.g. variable and predicate naming style, modularisation preferences and preferred data structure.
+11. The mind tutor asked questions until the mind programmer discovered the necessary programming technique.
+12. I used mind program finder to reorder the data items to match the required output.
+13. I mind debugged the errors in the algorithm, e.g. brackets mismatch, singleton variable or singleton in branch.
+14. I used mind formula finder e.g. to find the difference formula."]

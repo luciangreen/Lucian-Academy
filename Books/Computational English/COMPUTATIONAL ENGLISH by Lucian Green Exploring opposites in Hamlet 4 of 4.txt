@@ -1,0 +1,29 @@
+["Green, L 2021, <i>Exploring opposites in Hamlet 4 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Exploring opposites in Hamlet 4 of 4
+
+31.    I prepared to declare Hamlet a success.  I did this by agreeing with Hamlet.  First, I observed Hamlet avoid all the action.  Second, I observed Hamlet avoid suicide.  Third, I observed Hamlet avoid becoming a murderer.  In this way, I prepared to declare Hamlet a success by agreeing with Hamlet.
+
+32.   I prepared to agree with Ophelia being a success.  I did this by agreeing with Ophelia.  First, I agreed with her freedom.  Second, I agreed with her happiness.  Third, I agreed with her having exercise.  In this way, I prepared to agree with Ophelia being a success by agreeing with Ophelia.
+
+33.   I prepared to avoid the man in the field I had studied a University qualification in.  I did this by multiplying and mod'ing the letters' values to equal a value.  First, I chose a field.  Second, I studied it.  Third, I worked in the field.  In this way, I prepared to avoid the man in the field I had studied a University qualification in by multiplying and mod'ing the letters' values to equal a value.
+
+34.   I prepared to record the survivor's tale.  I did this by stating that the tsunami survivor stayed in the tree.  First, I stated that he climbed the tree.  Second, I stated that he stayed there.  Third, I stayed he climbed down from the tree.  In this way, I prepared to record the survivor's tale by stating that the tsunami survivor stayed in the tree.
+
+35.   I prepared to see health increase.  I did this by preventing bad behaviour with the reformation (probe).  First, I identified the bad behaviour.  Second, I prevented the bad behaviour.  Third, I helped people to it.  In this way, I prepared to see health increase by preventing bad behaviour with the reformation (probe).
+
+36.   I prepared to make a small town.  I did this by making a stop sign.  First, I found the red paper.  Second, I cut an octagon in it.  Third, I cut out and glued white letters reading 'STOP' to it.  In this way, I prepared to make a small town by making a stop sign.
+
+37.   I prepared to list the number as prime.  I did this by determining that a number was prime.  First, I tested that dividing the number by the first number resulted in no remainder.  Second, I tested that dividing the number by the next number resulted in no remainder.  Third, I tested that dividing the number by all the numbers up to n/2 resulted in no remainder.  In this way, I prepared to list the number as prime by determining that a number was prime.
+
+38.   I prepared to fly a larger plane in the fight simulator.  I did this by training using the flight simulator.  First, I took off.  Second, I flew along the path.  Third, I landed.  In this way, I prepared to fly a larger plane in the fight simulator by training using the flight simulator.
+
+39.   I prepared to mirror the deflection experiment.  I did this by testing how much a magnet deflected a ball.  First, I placed the ball there.  Second, I placed the magnet there.  Third, I deflected the ball with the magnet.  In this way, I prepared to mirror the deflection experiment by testing how much a magnet deflected a ball.
+
+40.  I prepared to write the angle.  I did this by converting the decimal number to a percentage.  First, I wrote 0.5 meant half.  Second, I multiplied 0.5 by 100.  Third, I wrote the result, 50%.  In this way, I prepared to write the angle by converting the decimal number to a percentage.
+
+41.   I prepared to hold the emerald.  I did this by writing the square was 200 metres in side length  First, I held the dancer.  Second, I moved with the dancer.  Third, I moved on.  In this way, I prepared to hold the emerald by writing the square was 200 metres in side length.
+
+42.   I prepared to earn 300 points in bowling.  I did this by earning 10 strikes in bowling.  First, I made the first strike.  Second, I made the next strike.  Third, I repeated this until I had made 10 strikes.  In this way, I prepared to earn 300 points in bowling by earning 10 strikes in bowling.
+
+"]

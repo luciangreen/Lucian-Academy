@@ -1,0 +1,31 @@
+["Green, L 2021, <i>Computational English Argument 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Computational English Argument 1 of 4
+
+
+
+1. Computational English uses techniques to disseminate texts hermeneutically (interpret them).
+
+1a. Computational English uses techniques to desseminate texts hermeneutically (interpret them). The first technique uses the text to construct a philosophical argument (see the site). The 'essays' produced by the scripts connect the points in the argument. A real essay would have to be written separately from the essays.
+
+1a.    I prepared to program the robot to deliver the speech.  I did this by writing the text-to-speech algorithm.  First, I wrote down the text.  Second, I recorded the speech for this text.  Third, I converted the text into the speech using a grammar.  In this way, I prepared to program the robot to deliver the speech by writing the text-to-speech algorithm.
+
+2.    I prepared to write how the robot would discover science.  I did this by writing the question-answering algorithm.  First, I wrote down the question word.  Second, I wrote down the key term in the question.  Third, I wrote down the answer to the question, given the question word and key term.  In this way, I prepared to write how the robot would discover science by writing the question-answering algorithm.
+
+3.    I prepared to disambiguate the text containing an anaphor.  I did this by writing the anaphor resolution algorithm, where an anaphor is a word such as 'him' or 'it,' which refer to other words.  First, I wrote down 'John ate the apple'.  Second, I wrote down 'It was delicious'.  Third, I resolved the anaphor by writing that the anaphor 'It' in the second sentence referred to the word 'apple' in the first sentence where 'apple' is the most recent object that 'It' could refer to.  In this way, I prepared to disambiguate the text containing an anaphor by writing the anaphor resolution algorithm, where an anaphor is a word such as 'him' or 'it,' which refer to other words.
+
+4.    I prepared to program the robot reporter to write the hansard in parliament.  I did this by converting speech into text.  First, I listened to the speech.  Second, I converted the frequency spectrum into a set of phonemes, where phonemes are distinct units of sound that distinguish one word from another.  Third, I wrote down the text from the phonemes.  In this way, I prepared to program the robot reporter to write the hansard in parliament by converting speech into text.
+
+5.    I prepared to write the novel's form in letters, for example 'ABCDA'.  I did this by writing down the novel's form through space.  First, I wrote down the location in space of the first scene in the novel.  Second, I prepared to write down the location in space of the next scene in the novel.  Third, I repeated this until I had written down the location in space of each scene in the novel.  In this way, I prepared to write the novel's form in letters, for example 'ABCDA,' by writing down the novel's form through space.
+
+6.    I prepared to give the novel a 'positive' classification.  I did this by determining that the genre of a novel was comedy.  First, I wrote down that the first sentence in the novel was positive, therefore comical.  Second, I prepared to write down that the next sentence in the novel was positive, therefore comical.  Third, I repeated this until I had written down that all the sentences in the novel were positive, therefore comical.  In this way, I prepared to give the novel a 'positive' classification by determining that the genre of a novel was comedy.
+
+7.    I prepared to give the novel a 'positive dialogue' classification.I did this by determining that the genre of a novel was drama.  First, I wrote down that the first sentence in the novel was positive, therefore important.  Second, I prepared to write down that the next sentence in the novel was positive, therefore important. Third, I repeated this until I had written down that all the sentences in the novel were positive, therefore important.  In this way, I prepared to give the novel a 'positive' classification by determining that the genre of a novel was drama.
+
+8.    I prepared to calculate the used space in the house in the short story.  I did this by calculating the space complexity in Computational English.  First, I counted the number of characters of space that the short story's world was in length.  Second, I skipped counting the number of characters of space that the short story's world, where this space was revisited, in length.  Third, I summed only the cumulative number of characters of space that the short story's world was in length.  In this way, I prepared to calculate the used space in the house in the short story by calculating the space complexity in Computational English.
+
+9.    I prepared to calculate how long the character walked around for.  I did this by calculating the time complexity in Computational English.  First, I counted the number of steps were used to traverse the short film's world.  Second, I counted the number of steps were used to traverse the short film's world, where this space was revisited.  Third, I summed the cumulative number of steps that were used to traverse the short film's world.  In this way, I prepared to calculate how long the character walked around for by calculating the time complexity in Computational English.
+
+10.I prepared to write how the text made sense.  I did this by writing the summarisation algorithm.  First, I summarised each object in the text into a hierarchy of types of nouns and verbs.  Second, I read the number of the level of resolution of summary that was required.  Third, I printed the summary types at this level, where 1 = most summarised, n = least summarised and n = depth of detail in text.  In this way, I prepared to write how the text made sense by writing the summarisation algorithm.
+
+"]

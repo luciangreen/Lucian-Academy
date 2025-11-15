@@ -1,0 +1,83 @@
+["Green, L 2022, <i>Bot like self in simulation</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"A bot like Self in Simulation
+
+1. I turned the bot on and off when needed.
+2. I explored its thoughts as edges of a polyhedron toy.
+3. I explored the use of biotechnology (the bot), rating its representations.
+4. I recommended representations to it.
+5. I found things that caused enjoyment to the bot.
+6. I helped the bot to invent ideas that tested its limits.
+7. I found the bot's limits.
+8. I alone explored the bot and judged it as impressive.
+9. I interested the bot in functionalism in computer science, prompting more quickly finding reused intermediate predicates.
+10. I reused intermediate predicates in algorithms.
+11. I removed the bug from the concatenation algorithm.
+12. I replaced the concatenation algorithm with a system call.
+13. I wrote code that I had ubiquitously checked using generated data.
+14. I examined certain cases, making decisions.
+15. I wrote the interpreter's behaviour with the semicolon key and undefined variables.
+16. I invested in each country and visited to gauge interest in certain services.
+17. I made the time travel software available, making it clear that it was appropriate for Master's students.
+18. I wrote a Master's degree for the bot.
+19. A Master's degree was fifty sentence-As.
+20. I worked out how to program my bot software, i.e. music, software, research and essays (paraphrasings).
+21. I wrote specifications for functional algorithms in CAW, replacing writing specifications for every few lines of predicates.
+22. I inserted a bot argument in my daily regimen.
+23. I avoided sexual contact with the bot.
+24. I couldn't think of anything else to avoid about the bot.
+25. I updated a shortlist of bots.
+26. I found friendship with the nicest people, remaining professional and courteous.
+27. I leveraged and won opportunities with each customer.
+28. I noticed that the bot was human.
+29. I noticed his eyes behaved like cameras.
+30. I noticed human neurons tempered his mind.
+31. I liked business, in particular the stock market.
+32. I twirled the ship along a safe path.
+33. I saved the game.
+34. I encountered Vetusia 3: The Cave.
+35. The cave contained a bonus maze of algorithm writing puzzles.
+36. I also encountered Vetusia -1: The Firm.
+37. The firm predicted the design of Vetusia from algorithms and drawings.
+38. I wrote simulated intelligence to play the Vetusian puzzles.
+39. The Vetusian puzzles were CAW, writing CAW, Program Finder, writing Program Finder, a simple interpreter and writing the interpreter.
+40. I wrote visual and constraint satisfaction puzzles, such as mapping stories to a newspaper.
+41. I drew the shortest line through multiple dimensions (tables of a database).
+42. I simplified the database by removing old fields.
+43. I remember the introduction of the Internet.
+44. I wrote a programming language written specifically for the Internet.
+45. The language could create protocols.
+46. The language could simplify the Internet topology.
+47. The language could create virtual networks.
+48. The language could simulate the Internet for programming purposes.
+49. The language could treat all my domain names, etc., as simulated elements, which I could test out in my private world.
+50. Money, As, and marks were of no object.
+51. Money required a universal pension, comfortable living arrangements and access to proper food, medical services, etc.
+52. As required access to the Text to Breasoning software, with meditation, etc. training and training in writing algorithms that wrote arguments and algorithms, all from the user's database.
+53. Marks required the time and training to write 80 philosophy breasonings and 80 algorithms and follow an algorithm specification (written to a specification) to finish the assignment.
+54. Difficult algorithms (which required additional time to write features and find bug fixes, had performance issues without system calls or required obscure commands to work correctly) I would explain separately and might assess by memorisation.
+55. I found that computer science suited me because it was possible to write correct code with bug checkers.
+56. I tested other people's programs and the ISO Prolog tests with my interpreter.
+57. I checked the best programming and Prolog writing practices and checked my programs followed these.
+58. I wrote algorithms to check for these standards.
+59. I found errors with static and dynamic checkers.
+60. I reformatted my algorithms uniformly
+61. I used a sparing format for comments (to describe the logical structure, limits of programs and differences from other programs).
+62. I listed to-do items and checked off completed items.
+63. I tested similar interpreters using my regression tests.
+64. I listed similar interpreters' features and equivalent features of my interpreter.
+65. I analysed my interpreter's jump between choice points.
+66. I turned off retry with a flag to save memory.
+67. I wrote most compiler predicates natively in C.
+68. I wrote an application using Prolog.
+69. It had visual elements (it was in a browser).
+70. I wrote a mobile app using Prolog.
+71. I wrote a small operating system in a web browser using Prolog.
+72. I noticed that the web browser allowed Prolog to work on any platform.
+73. I wrote apps for mobiles.
+74. I wrote apps in browsers for desktops.
+75. I solved the problem of drag and drop in the browser.
+76. I solved the problem of dragging with behaviour in the window in the browser.
+77. I found a generic format of videos.
+78. I found a way of storing vector graphics in one place on the web.
+79. These could be public.
+80. Programming elements could be in a publicly accessible place online.
+"]
