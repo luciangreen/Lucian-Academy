@@ -1,0 +1,29 @@
+["Green, L 2021, <i>Lucian Mantra (Pure Form) 4 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF MEDITATION
+by Lucian Green
+Lucian Mantra (Pure Form) 4 of 4
+
+31.    I prepared to make sure that I didn't travel more than 25% away from the centre of the lane.  I did this by verifying that the safety margin was 25%.  First, I calculated that the side of the lane was 2 metres wide.  Second, I calculated that half of the car's width, which was 1 metre, would travel 1 metre towards the edge of the lane, from being 1 metre away from it if there was a safety margin of 25% (1 metre out of the 4 metre-wide lane should be travelled through, from the centre of the lane).  Third, I calculated that the edge of the car would touch the edge of the lane in this case, which would be acceptable.  In this way, I prepared to make sure that I didn't travel more than 25% away from the centre of the lane by verifying that the safety margin was 25%.
+
+32.   I prepared to define a domain in an area of study in terms of an alphabet.  I did this by computing a property in terms of variables about these alphabet letters.  First, I counted the first letter, in other words, enumerator.  Second, I prepared to count the second enumerator.  Third, I repeated this until all the enumerators had been counted.  In this way, I prepared to define a domain in an area of study in terms of an alphabet by computing a property in terms of variables about these alphabet letters.
+
+33.   I prepared to become a breasoner.  I did this by earning A grade in the respiratory practical.  First, I read the assignment.  Second, I read the book and conferred with a doctor.  Third, I answered the questions.  In this way, I prepared to become a breasoner by earning A grade in the respiratory practical.
+
+34.   I prepared to take care of pet tadpoles.  I did this by filling the tadpole tank with water.  First, I filled the jug with water.  Second, I began filling the tadpole tank with water.  Third, I completed filling the tadpole tank with water.  In this way, I prepared to take care of pet tadpoles by filling the tadpole tank with water.
+
+35.   I prepared to teach my students all my works.  I did this by continuously improving with new content.  First, I wrote and wrote an examination of the first book.  Second, I prepared to write and write an examination of the next book.  Third, I repeated this until I had written and written an examination of each book.  In this way, I prepared to teach my students all my works by continuously improving with new content.
+
+36.   I prepared to run my algorithm.  I did this by stating that my algorithms were composed of algorithms.  First, I wrote what was interesting about the aim of the algorithm.  Second, I wrote the child predicates.  Third, I wrote the parent predicates.  In this way, I prepared to run my algorithm by stating that my algorithms were composed of algorithms.
+
+37.   I prepared to keep spirits up.  I did this by deflecting blame from (keep compliments for) the prince.  First, I identified the blaming statement (compliment).  Second, I decided to deflect (keep) the blaming statement (compliment) from (for) the prince.  Third, I chose not to give (give) the blaming statement (compliment) to the prince.  In this way, I prepared to keep spirits up by deflecting blame from (keep compliments for) the prince.
+
+38.   I prepared to pass the individual's meditation session.  I did this by liking breasonings by clicking and counting mantra utterances.  First, I liked the first fifty breasonings by clicking and counting the first mantra utterance.  Second, I prepared to like the next fifty breasonings by clicking and counting the next mantra utterance.  Third, I repeated this until I had liked each group of fifty breasonings by clicking and counting 80 mantra utterances per day.  In this way, I prepared to pass the individual's meditation session by liking breasonings by clicking and counting mantra utterances.
+
+39.   I prepared to make a million dollars.  I did this by repeating the Lucian mantra for twenty minutes twice per day.  First, I repeated the Lucian mantra for the first minute.  Second, what I was thinking was found out.  Third, I played with tel-dy (sic).  In this way, I prepared to make a million dollars by repeating the Lucian mantra for twenty minutes twice per day.
+
+40.  I prepared to switch off the screen and avoid not having high quality of life.  I did this by stating that the idea was turned off like electrons in the spiritual maracas.  First, I prepared to come in to shake the maracas on the beat.  Second, I shook the maracas on the beat.  Third, I finished shaking the maracas.  I prepared to switch off the screen and avoid not having high quality of life by stating that the idea was turned off like electrons in the spiritual maracas.
+
+41.   I prepared to laugh as yoga for preventing depression.  I did this by clicking not to be depressed.  First, I held the mouse.  Second, I clicked its button.  Third, I was not depressed.  In this way, I prepared to laugh as yoga for preventing depression by clicking not to be depressed.
+
+42.   I prepared to complete my PhD.  I did this by verifying the statement in meditation (philosophy).  First, I wrote the statement.  Second, I verified it.  Third, I applied the philosophy to different philosophical departments.  In this way, I prepared to complete my PhD by verifying the statement in meditation (philosophy).
+
+"]

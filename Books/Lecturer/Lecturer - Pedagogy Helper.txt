@@ -1,0 +1,13 @@
+["Green, L 2021, <i>Lecturer - Pedagogy Helper</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Lecturer - Pedagogy Helper
+
+1. The details represented high quality work.  I wrote down three details.  The three details were two uses, future and two types.  I needed the high marks they would give me to enter Honours.  When I was in Honours, I could write my own high distinction argument.
+2. I encouraged writing breasoning chapters.  I researched the student.  I found the student's details.  I found the student's algorithm.  I found the student's breasonings.
+3. The assignments required an algorithm for each student, and 50 quickly generated algorithms per student.  I wrote on computer science about the idea.  I found the editor's input and output.  I found the interface's input and output.  When I pressed 'A' on the keyboard, it triggered 'A' in the interface and added 'A' to the editor's input.
+4. I completed maths, medicine and computer science subjects.  I wrote on philosophy about the idea.  I was fast enough to create an academy to support me when my polymath degree expired.  I created arts subjects.  I created science subjects.
+5. I connected the ideas.  I wrote on politics about the idea.  Philosophy of anarchy was about writing original essays.  In, fact, the topic was freedom and creativity.  I found the mind mapping categories.
+6. I considered simple categories.  I linked the details together.  I found the structure of the details.  I put a node of a detail inside the node of another detail.  I found all configurations of combinations.
+7. I had decided what the further writing would contain.  I found the topic title.  I considered the most specific names for the ideas.  I found the most specific title containing these names.  I relaxed it to allow for further writing on the topic.
+8. I wrote the functional call in terms of the functions and the integration points.  I wrote in logic.  I found the functional call connecting the ideas.  I found the combinations of functions.  I removed the duplicates.
+9. The cycle was the discovery.  I wrote on the whole idea (three steps and the use).  I broke the algorithm into three steps.  I wrote the use for the algorithm.  I found a cycle in the uses.
+10. I identified what I didn't know yet to write the algorithm.  I multiplied the idea when leading the committee on it.  There was just enough to read.  The algorithm helped select the main ideas.  I found the combination when a new algorithm made it possible.
+"]

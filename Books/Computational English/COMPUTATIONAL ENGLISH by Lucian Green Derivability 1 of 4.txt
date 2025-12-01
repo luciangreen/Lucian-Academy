@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Derivability 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Derivability 1 of 4
+
+1.     I prepared to visualise the dimensions of the object that a word represented.  I did this by writing the words on the pedagogy screen.  First, I set up the pedagogy screen.  Second, I wrote down the words on it.  Third, I drew the object on the screen.  In this way, I prepared to visualise the dimensions of the object that a word represented by writing the words on the pedagogy screen.
+
+2.    I prepared to disseminate implication.  I did this by describing the logical operator ^i (and-implication).  First, I stated that And-Implication meant that A implies B is true when A is true.  Second, I stated that And-Implication meant that A implies B is true when B is also true.  Third, I stated that And-Implication meant that A implies B is true when A^B is also true.  In this way, I prepared to disseminate implication by describing the logical operator ^i (and-implication).
+
+3.     I prepared to analyse conjunction.  I did this by describing the logical operator ^ (and).  First, I stated that And meant that A^B is true when A is true.  Second, I stated that And meant that A^B is true when B is also true.  Third, I stated that And meant that A^B is also true when 'I am thirsty' and 'The tea is available' is true.  In this way, I prepared to analyse conjunction by describing the logical operator ^ (and).
+
+4.    I prepared to examine disjunction.  I did this by describing the logical operator v (or).  First, I stated that Or meant that AvB may be true when A is true.  Second, I stated that Or meant that A^B may be true when B is true.  Third, I stated that Or meant that AvB is true when 'I walked left' or 'I walked right' is true.  In this way, I prepared to examine disjunction by describing the logical operator v (or).
+
+5.    I prepared to look at negation closely.  I did this by describing the logical operator not  (not).  First, I stated that Not meant that not A is true when A is false.  Second, I stated that Not meant that not A is false when A is true.  Third, I stated that Not meant that not A is true when 'I am not a merchant' is true.  In this way, I prepared to look at negation closely by describing the logical operator not  (not).
+
+6.    I prepared to consider whether negated conjunction was correct.  I did this by describing the logical operator not ^ (not and).  First, I stated that Not-And meant that (not A)^B is true when A is false.  Second, I stated that Not-And meant that (not A)^B is true when B is also true.  Third, I stated that Not-And meant that (not A)^B is also true when 'I am not quenched' and 'The tea is available' is true.  In this way, I prepared to consider whether negated conjunction was correct by describing the logical operator not ^ (not and).
+
+7.    I prepared to test negated disjunction.  I did this by describing the logical operator not v (not or).  First, I stated that Not-Or meant that (not A)vB may be true when A is false.  Second, I stated that Not-Or meant that (not A)vB may be true when B is true.  Third, I stated that Not-Or meant that (not A)vB is true when 'I didn't walk right' or 'I walked right' is true.  In this way, I prepared to test negated disjunction by describing the logical operator not v (not or).
+
+8.    I prepared to determine a chessboard state where two pieces could have moved, as one in which the piece had moved to the further rank.  I did this by interpolating the chessboard state between two different chessboard states.  First, I listed the moved pieces.  Second, I wrote the chessboard state in which the piece had moved before the second piece had moved.  Third, otherwise, I wrote the two possible chessboard states in which either piece could have moved.  In this way, I prepared to determine a chessboard state where two pieces could have moved, as one in which the piece had moved to the further rank by interpolating the chessboard state between two different chessboard states.
+
+9.     I prepared to write that there were more 100% grades than 50% grades.  I did this by drawing the probability curve for grades.  First, I drew a low middle of the curve.  Second, I drew a high right of the curve.  Third, I labelled the high right of the curve '100%'.   In this way, I prepared to write that there were more 100% grades than 50% grades by drawing the probability curve for grades.
+
+10.   I prepared to align a line with the most likely road route.  I did this by determining the route that the driver had driven from A to B.  First, I drew the first point on the map.  Second, I drew the second point on the map.  Third, I ruled the route between them.  In this way, I prepared to align a line with the most likely road route by determining the route that the driver had driven from A to B.
+
+"]

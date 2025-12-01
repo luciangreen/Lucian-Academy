@@ -1,0 +1,21 @@
+Text to Breasonings 3
+
+1. In Web Editor and Web Finder, the last file and its folder and those in dialogue boxes used were remembered across windows and devices.
+2. The Web Finder intelligently remembered regular tasks, such as running a command on (parts of text in files) in a particular folder and counted the breasonings as time passed.
+3. I could immediately find files by name or other properties, with autocomplete and group parts of selections, without moving the original files.
+4. Files could be undeleted or reverted.
+5. The Web Finder search function available from the menu saved previous searches.
+6. The calculator was an inspiration, suggesting transcendental topics for work. 
+7. The calculator in the Web Finder menu saved results even if it was closed.
+8. I automatically organised my finances based on needs and plans and never touched them, spending all my time writing philosophy and computer science.
+9. I converted currency in the Web Editor menu field.
+10. I could chat with PFT and edit my code.
+11. To scroll and compare texts, I inserted a pane divider in State Saving Interpreter (SSI) windows.
+12. Web Editor preformatted shell scripts, Prolog files and documentation.
+13. Web Editor automatically saved permissions for shell scripts.
+14. I customised the Web Editor colour schemes.
+15. Web Editor displayed colouring of text for different types of files.
+16. I automatically found and ran queries in testing, realising that PFT could quickly finish most of the code, including subterms with address queries.
+17. I closed all the Web Editor documents with one command and displayed a warning before running unsaved code.
+18. The permanent thing was clicking on the smartphone’s home screen icon, which reopened closed windows in their previous state.
+19. I activated either Web Editor or Web Finder with a click.

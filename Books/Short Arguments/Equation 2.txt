@@ -1,0 +1,8 @@
+["Green, L 2021, <i>Equation 2</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Equation 2
+
+1. I sketched the line.  The vertical line had a very great gradient.  Low gradients are between 0 and 1.  High gradients are between 1 and infinity.  The line had a gradient of 10^3.
+2. I wrote the formula to find the gradient.  I found the gradient.  I found the rise.  I found the run.  I found the gradient by dividing the rise by the run.
+3. I graphed the line.  I found the y-intercept.  I substituted the gradient m into the formula y=mx+c.  I substituted one of the points' x and y values into the formula c=y-mx.  I calculated c, the y-intercept.
+4. A line with equation y=m(x^n)+c could went from left to right not top to bottom or bottom to top (there may be multiple x values for a y value, but not vice versa).  I found the y-intercept person.  I explained that the formula c=y-mx was arrived by subtracting mx from both sides of the formula y=mx+c, to arrive at a formula with c on the left hand side.  I explained that x in the y=mx+c formula could be x^2 or x^3, etc, resulting in a different line and graph.  When c=0, the line went through the origin.
+5. The graph had labelled axes, axis values, graph equation and points.  I found the gradient object person.  A hill with a low gradient gradually rises.  A hill with a higher gradient is steep.  This can be demonstrated with a graph.
+"]

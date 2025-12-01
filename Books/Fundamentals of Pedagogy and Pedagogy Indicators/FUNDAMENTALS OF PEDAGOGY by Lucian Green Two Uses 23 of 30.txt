@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 23 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 23 of 30
+
+220.	DION: The subject should stack the objects stably on the trolley and do nothing but watch them during the hour.
+
+221.	ALEXIS: What is the meaning of deletefirst(Line1, Item1, Line2, Line3) in line 31?
+
+222.	DION: Line 31 advances to the first instance of Item1 in Line1.
+
+223.	ALEXIS: I prepared to contain my joy that the argument covered all the relevant arguments. I did this by writing unique words as breasonings in arguments. First, I verified that the next word was unique. Second, I prepared to verify the next word. Third, I repeated this until I had verified that all the words were unique.
+
+224.	DION: The subject shouldn't write breasonings from algorithms about breasonings (where the subject wrote unique words as breasonings in arguments, by finding words between words).
+
+225.	ALEXIS: The subject should write logically connected breasonings.
+
+226.	DION: Two uses is correct because of the logicism of nature, which is correct because the subject should write logically connected breasonings.
+
+227.	ALEXIS: I prepared to eat caviar (durum wheat semolina). I did this by writing vegan arguments. First, I wrote about capricorn, or co-operativity (sic). Second, I wrote about the fact that not all like that. Third, I examined Hopetoun.
+
+228.	DION: The subject shouldn't eat the right doses of plant ingredients (where the subject wrote vegan arguments, like the words between letters were found).
+
+229.	ALEXIS: The subject should research the correct doses of vitamins, minerals and other vegetable ingredients to eat.
+"]

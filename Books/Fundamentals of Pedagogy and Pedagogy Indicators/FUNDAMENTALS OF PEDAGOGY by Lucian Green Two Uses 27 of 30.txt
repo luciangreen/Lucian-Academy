@@ -1,0 +1,22 @@
+["Green, L 2021, <i>Two Uses 27 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 27 of 30
+
+261.	ALEXIS: I prepared to state that everything was high quality about the summary. I did this by commissioning the summary. First, I wrote the word. Second, I summarised it. Third, I helped you write it too.
+
+262.	DION: The subject shouldn't skip a key sentence in the summary (where the subject commissioned the summary, where reading the summary is like holding the handle)
+
+263.	ALEXIS: The subject should include each key sentence in the summary.
+
+264.	DION: The subject should make a new connection between a term and definition and between each key sentence in the summary.
+
+265.	ALEXIS: What is the meaning of deletefirst([], _Item, Line, Line) in line 30?
+
+266.	DION: Line 30 returns Line with the first instance of Item deleted.
+
+267.	ALEXIS: I prepared to examine how the Abracadabras affected people. I did this by writing how two uses affected people. First, I knew about the two uses. Second, I knew about the people. Third, I examined how the two uses affected people.
+
+268.	DION: The subject shouldn't use whiteboard magnet icons (where the subject wrote how two uses affected people, where he used the two items in two different ways each).
+
+269.	ALEXIS: The subject should load different icons each day.
+"]

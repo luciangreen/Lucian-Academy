@@ -1,0 +1,15 @@
+["Green, L 2021, <i>Two Uses 3 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 3 of 4
+
+21.            Line2 = [Item | _Line3]. %% Takes the first item, Item from Line2
+22.    twoshorthandles(Line1) :- %% Returns whether Line1 contains two h's (two short handles)
+23.            member(h, Line1), %% Tests that h is a member of Line1
+24.            deletefirst(Line1, h, [], Line2), %% Deletes the first instance of h in Line1
+25.            member(h, Line2),
+26.            deletefirst(Line2, h, [], _Line3).
+27.    deletefirst(Line1, Item, Line2, Line3) :- %% Deletes an instance of Item in Line1
+28.            Line1 = [Item | Line4],
+29.            append(Line2, Line4, Line3).
+30.    deletefirst([], _Item, Line, Line). %%  Returns Line with the first instance of Item deleted
+"]

@@ -1,0 +1,33 @@
+["Green, L 2021, <i>Order in Conglish 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Order in Conglish 1 of 4
+
+
+
+1. Concerns how to determine the temporality of an event given a text.
+
+1a. One of the limitations of the first technique is its 'duck-pond' quality, that is sentences to form the basis of an interpretation are chosen based on the arguments, not vice versa. Another problem this brings up is whether there will be exceptions to the argument made if the argument is chosen based on whether other parts of the text satisfy it. This can also be dealt with by using 'objections', that is if a particular sentence negates a reason, it can cause an ontology to fail and the reason to become bad.
+
+Another limitation is the lack of checking of order of sentences from the text. This can be dealt with by including at its most simple, indices in sentences and rules requiring inequalities between sentences. e.g. 1- The painter slipped on the ladder, 2- The ambulance arrived promptly.
+
+1a.     I prepared to order the events using the algorithm.  I did this by drinking the glass of water.  First, I held the glass of water.  Second, I lifted it to my lips.  Third, I drank from it.  In this way, I prepared to order the events using the algorithm by drinking the glass of water.
+
+2.    I prepared to collect data to order.  I did this by recording 360 degrees of a scene.  First, I walked to the centre of the scene.  Second, I face the initial position.  Third, I recorded 360 degrees of the scene.  In this way, I prepared to collect data to order by recording 360 degrees of a scene.
+
+3.     I prepared to observe the actor be with-it on recording day.  I did this by observing the actor breasoning out the required number of As per day.  First, I observed the extra breason out 1 A per day.  Second, I observed the actor breason out 5 As per day.  Third, I observed the lead actor breason out 15 As per day.  In this way, I prepared to observe the actor be with-it on recording day by observing the actor breasoning out the required number of As per day.
+
+4.    I prepared to tutor the child in addition of numbers in their tens.  I did this by observing the priest (e.g. master) endorse life.  First, I observed the master endorsing the start of life.  Second, I observed the master endorsing the middle of life.  Third, I observed the master endorsing the end of life.  In this way, I prepared to tutor the child in addition of numbers in their tens by observing the priest (e.g. master) endorse life.
+
+5.    I prepared to publish the article.  I did this by breasoning out 250 breasonings to write the article.  First, I wrote a total of 130 breasonings.  Second, I wrote a total of 190 breasonings.  Third, I wrote a total of 250 breasonings.  In this way, I prepared to publish the article by breasoning out 250 breasonings to write the article.
+
+6.    I prepared to listen to the song.  I did this by observing the song's singer breason out 50 As.  First, I observed the song's singer breason out the A for the first lyric's philosophy.  Second, I prepared to observe the song's singer breason out the A for the next lyric's philosophy.  Third, I repeated this until I had observed the song's singer breason out the As for all the lyrics' philosophies.  In this way, I prepared to listen to the song by observing the song's singer breason out 50 As.
+
+7.    I prepared to watch the production.  I did this by observing the production's actor breason out 50 As.  First, I observed the production's actor breason out the A for the first line's philosophy.  Second, I prepared to observe the production's actor breason out the A for the next line's philosophy.  Third, I repeated this until I had observed the production's actor breason out the As for all the line's philosophies.  In this way, I prepared to watch the production by observing the production's actor breason out 50 As.
+
+8.    I prepared to cast the actor in the role.  I did this by observing an actor light up in a role.  First, I observed the actor breason out an A.  Second, I observed the actor write an Aig (50 As per role) to become with-it in the role.  Third, I observed the actor light up in the role.  In this way, I prepared to cast the actor in the role by observing an actor light up in a role.
+
+9.     I prepared to be a Hollywood movie star.  I did this by writing an Aig (50 As per role) to become with-it in an acting role.  First, I meditated to protect my health (in fact, undertook theatre studies safety training) when writing the Aig (50 As).  Second, I breasoned out an 80-breasoning A about an Aig before the first time I wrote an Aig.  Third, I wrote an Aig by writing 50 As.  In this way, I prepared to be a Hollywood movie star by writing an Aig (50 As per role) to become with-it in an acting role.
+
+10.   I prepared to build an acting role.  I did this by praying for light, warmth, colour, happiness, posterity, lightness and love to symbolise breasoning out 50 As (in fact, breasoning out 50 As).  First, I breasoned out the first A.  Second, I prepared to breasoned out the next A.  Third, I repeated this until I had breasoned out 50 As.  In this way, I prepared to build an acting role by praying for light, warmth, colour, happiness, posterity, lightness and love to symbolise breasoning out 50 As (in fact, breasoning out 50 As).
+
+"]

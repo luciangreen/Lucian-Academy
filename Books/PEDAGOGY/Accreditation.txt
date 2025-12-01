@@ -1,0 +1,23 @@
+["Green, L 2022, <i>Accreditation</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Accreditation
+
+1. I customised the sentence for the student.
+2. I filtered out terms in the sentence.
+3. I followed up the student for work.
+4. I ensured the students' clothes were tucked in.
+5. I joined the students who were having difficulty with the same topics together.
+6. I intercepted the student who was performing poorly with formative assessment.
+7. I formed the clubs at school.
+8. I wrote the framework for religion in relation to schools.
+9. The student's tracks in class were followed.
+10. I permitted the student to leave the class.
+11. I found that if the requirements were met, accreditation was possible.
+12. I verified that the course was accredited.
+13. I verified that the student had studied an accredited degree.
+14. I checked how many test cases the student had solved.
+15. I verified the assignment for plagiarism.
+16. I interviewed the student to verify the authenticity of the assignment.
+17. I monitored how well the student was understanding the examples.
+18. I discussed the student's progress with her.
+19. If the assignment passed one test, it passed.
+20. I checked the assignment in case it was very close to passing.
+"]

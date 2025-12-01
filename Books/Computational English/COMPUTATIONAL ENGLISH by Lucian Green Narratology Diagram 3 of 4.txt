@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Narratology Diagram 3 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Narratology Diagram 3 of 4
+
+21.   I prepared to attend an event.  I did this by stating that the imperfect part of the verb was represented by 'was going'.  First, I wrote that I had gone.  Second, I wrote that I am going, to another person.  Third, I noticed that these meaning converged.  In this way, I prepared to attend an event by stating that the imperfect part of the verb was represented by 'was going'.
+
+22.   I prepared to observe the porter return with the suitcases.  I did this by stating that the imperative part of the verb was represented by 'Walk down the hall'.  First, I verified the command.  Second, I found the porter.  Third, I commanded the porter to walk down the hall.  In this way, I prepared to observe the porter return with the suitcases by stating that the imperative part of the verb was represented by 'Walk down the hall'.
+
+23.   I prepared to eat a pear with you.  I did this by stating that the optative part of the verb was represented by 'May you have the pear'.  First, I found the pear.  Second, I found you.  Third, I said, 'May you have the pear'.  In this way, I prepared to eat a pear with you by stating that the optative part of the verb was represented by 'May you have the pear'.
+
+24.   I prepared to dictate the report's contents.  I did this by stating that the aorist part of the verb reported action as a completed whole, and was represented by 'Allan played the tennis match'.  First, I recorded the tennis match.  Second, I found the reporter.  Third, I reported that Allan played the tennis match to the reporter.  In this way, I prepared to dictate the report's contents by stating that the aorist part of the verb reported action as a completed whole, and was represented by 'Allan played the tennis match'.
+
+25.  I prepared to discuss the newspaper article's contents.  I did this by stating that the perfect part of the verb was represented by 'He read from the paper'.  First, he found the paper.  Second, he found the newspaper column.  Third, he read from the column.  In this way, I prepared to discuss the newspaper article's contents by stating that the perfect part of the verb was represented by 'He read from the paper'.
+
+26.   I prepared to become a lecturer.  I did this by stating that the future part of the verb was represented by 'He will design the philosophy materials'.  First, I found the philosophy to write materials about.  Second, I scheduled a date to write them.  Third, I planned the philosophy materials.  In this way, I prepared to become a lecturer by stating that the future part of the verb was represented by 'He will design the philosophy materials'.
+
+27.   I prepared to sell the apple.  I did this by stating that the passive part of the verb was represented by 'An apple was eaten by Susan'.  First, I observed Susan eat the apple.  Second, I wrote the poem.  Third, I read the poem, 'An apple was eaten by Susan'.  In this way, I prepared to sell the apple by stating that the passive part of the verb was represented by 'An apple was eaten by Susan'.
+
+28.   I prepared to wear the cap.  I did this by stating that the past participle part of the verb was represented by 'I looked at the cleaned earrings'.  First, I cleaned the earrings.  Second, I looked at them.  Third, I said I looked at them.  In this way, I prepared to wear the cap by stating that the past participle part of the verb was represented by 'I looked at the cleaned earrings'.
+
+29.   I prepared to enliven the movie's communities.  I did this by stating that the participle part of the verb was represented by 'He is reading a book'.  First, I found him.  Second, I observed him reading a book.  Third, I stated that 'He is reading a book'.  In this way, I prepared to enliven the movie's communities by stating that the participle part of the verb was represented by 'He is reading a book'.
+
+30.   I prepared to listen to him rate the word.  I did this by stating that the gerund part of the verb was represented by 'He likes reading the word'.  First, I observed him writing the word.  Second, I observed him reading the word.  Third, I listened to him state that he likes reading the word.  In this way, I prepared to listen to him rate the word by stating that the gerund part of the verb was represented by 'He likes reading the word'.
+
+"]

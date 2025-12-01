@@ -1,0 +1,171 @@
+["Green, L 2024, <i>Anarchy Argument</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Anarchy Argument
+
+1. What are the x, y and z dimensions in metres of \"cup\" in \"The soldier cleaned himself with a cup of water\"?
+
+2. What are the x, y and z dimensions in metres of \"bottle\" in \"The soldier drank a bottle of apple juice\"?
+
+3. What are the x, y and z dimensions in metres of \"apple\" in \"The soldier put an apple in his lunch box\"?
+
+4. What are the x, y and z dimensions in metres of \"periscope\" in \"The soldier looked at the stand through the periscope\"?
+
+5. What are the x, y and z dimensions in metres of \"pear\" in \"The soldier ate a pear with the friend he found on the Internet\"?
+
+6. What are the x, y and z dimensions in metres of \"brick\" in \"The soldier stood on a brick, which was like a wall\"?
+
+7. What are the x, y and z dimensions in metres of \"log\" in \"The soldier stepped over the log\"?
+
+8. What are the x, y and z dimensions in metres of \"flag\" in \"The soldier found a flag\"?
+
+9. What are the x, y and z dimensions in metres of \"bun\" in \"The soldier ate a bun, which he had bartered for\"?
+
+10. What are the x, y and z dimensions in metres of \"plant\" in \"The soldier watered the plant, after moving it\"?
+
+11. What are the x, y and z dimensions in metres of \"tofu\" in \"The soldier ate tofu\"?
+
+12. What are the x, y and z dimensions in metres of \"garbage bag\" in \"The soldier moved the garbage bag\"?
+
+13. What are the x, y and z dimensions in metres of \"nuts\" in \"The soldier chewed nuts at the theatre\"?
+
+14. What are the x, y and z dimensions in metres of \"processed cheese\" in \"The soldier bit processed cheese\"?
+
+15. What are the x, y and z dimensions in metres of \"cup\" in \"The soldier swallowed a cup of grape juice\"?
+
+16. What are the x, y and z dimensions in metres of \"roll\" in \"The soldier ate a roll with vegan cheese\"?
+
+17. What are the x, y and z dimensions in metres of \"peanut\" in \"The soldier nipped a peanut\"?
+
+18. What are the x, y and z dimensions in metres of \"nectarine\" in \"The soldier munched a nectarine\"?
+
+19. What are the x, y and z dimensions in metres of \"sugar\" in \"The soldier packed sugar in his bag\"?
+
+20. What are the x, y and z dimensions in metres of \"ball\" in \"The soldier threw a ball in the air\"?
+
+21. What are the x, y and z dimensions in metres of \"banana\" in \"The soldier peeled the banana\"?
+
+22. What are the x, y and z dimensions in metres of \"orange\" in \"The soldier squeezed the orange\"?
+
+23. What are the x, y and z dimensions in metres of \"mandarin\" in \"The soldier removed a segment from a mandarin\"?
+
+24. What are the x, y and z dimensions in metres of \"bra\" in \"The soldier made a bra\"?
+
+25. What are the x, y and z dimensions in metres of \"stand\" in \"The soldier jumped to touch the top of the stand\"?
+
+26. What are the x, y and z dimensions in metres of \"ring\" in \"The soldier wore a ring\"?
+
+27. What are the x, y and z dimensions in metres of \"watering container\" in \"The soldier watered the apricot tree with the watering container\"?
+
+28. What are the x, y and z dimensions in metres of \"base\" in \"The soldier placed the base on the flat ground\"?
+
+29. What are the x, y and z dimensions in metres of \"abdominal muscle exerciser\" in \"The soldier exercised his abdominal muscles with the abdominal muscle exerciser\"?
+
+30. What are the x, y and z dimensions in metres of \"flask\" in \"The soldier gargled water from his flask\"?
+
+31. What are the x, y and z dimensions in metres of \"dried fig\" in \"The soldier chewed the dried fig\"?
+
+32. What are the x, y and z dimensions in metres of \"shorts\" in \"The soldier ran on the spot in shorts\"?
+
+33. What are the x, y and z dimensions in metres of \"two sticks\" in \"The soldier jumped over two sticks\"?
+
+34. What are the x, y and z dimensions in metres of \"hoop\" in \"The soldier swung the hoop around his waist\"?
+
+35. What are the x, y and z dimensions in metres of \"glass\" in \"The soldier drank a glass of water\"?
+
+36. What are the x, y and z dimensions in metres of \"bible\" in \"The army chaplain distributed the bibles\"?
+
+37. What are the x, y and z dimensions in metres of \"wood\" in \"The soldier cut the wood into skirting boards\"?
+
+38. What are the x, y and z dimensions in metres of \"stretcher\" in \"The soldier lied down on the stretcher\"?
+
+39. What are the x, y and z dimensions in metres of \"locker\" in \"The soldier found the correct locker\"?
+
+40. What are the x, y and z dimensions in metres of \"carrot\" in the sentence \"The soldier ate the carrot to check it was healthy\"?
+
+41. What are the x, y and z dimensions in metres of \"seat\" in the sentence \"The soldier sat on the seat to check it was stable\"?
+
+42. What are the x, y and z dimensions in metres of \"salt\" in the sentence \"The soldier salted the onion\"?
+
+43. What are the x, y and z dimensions in metres of \"name badge\" in the sentence \"The soldier found his name badge\"?
+
+44. What are the x, y and z dimensions in metres of \"drum\" in the sentence \"The soldier beat a regular rhythm on the drum\"?
+
+45. What are the x, y and z dimensions in metres of \"bow\" in the sentence \"The soldier stayed balanced when aiming the arrow at the target with the bow\"?
+
+46. What are the x, y and z dimensions in metres of \"crotchet\" in the sentence \"The soldier moved the crotchet forward one beat of the musical bar\"?
+
+47. What are the x, y and z dimensions in metres of \"money\" in the sentence \"The soldier labelled the money to take home\"?
+
+48. What are the x, y and z dimensions in metres of \"celery\" in the sentence \"The soldier fed the kangaroo the celery\"?
+
+49. What are the x, y and z dimensions in metres of \"balloon\" in the sentence \"The soldier blew up a balloon\"?
+
+50. What are the x, y and z dimensions in metres of \"corn\" in the sentence \"The soldier ate the corn\"?
+
+51. What are the x, y and z dimensions in metres of \"towel\" in the sentence \"The soldier towelled himself dry\"?
+
+52. What are the x, y and z dimensions in metres of \"playing card\" in the sentence \"The soldier placed the playing card on the table\"?
+
+53. What are the x, y and z dimensions in metres of \"teacup\" in the sentence \"The soldier drank tea from the teacup\"?
+
+54. What are the x, y and z dimensions in metres of \"stick\" in the sentence \"The soldier moved the stick off the road\"?
+
+55. What are the x, y and z dimensions in metres of \"label\" in the sentence \"The soldier read the label\"?
+
+56. What are the x, y and z dimensions in metres of \"pole\" in the sentence \"The soldier stood straight against the pole\"?
+
+57. What are the x, y and z dimensions in metres of \"pupil\" in the sentence \"The soldier looked at the girl's pupil\"?
+
+58. What are the x, y and z dimensions in metres of \"face\" in the sentence \"The soldier looked at the boy's face\"?
+
+59. What are the x, y and z dimensions in metres of \"number\" in the sentence \"The soldier wrote the table number on the vegemite\"?
+
+60. What are the x, y and z dimensions in metres of \"ladder\" in the sentence \"The soldier like his friend because his friend was able to climb a ladder\"?
+
+61. What are the x, y and z dimensions in metres of \"tea towel\" in the sentence \"The soldier folded the tea towel until it was hand sized\"?
+
+62. What are the x, y and z dimensions in metres of \"cow\" in the sentence \"The soldier counted the number of times the cow mooed\"?
+
+63. What are the x, y and z dimensions in metres of \"glasses\" in the sentence \"The soldier opened a shape book at the page for science and looked at the illustration of the glasses\"?
+
+64. What are the x, y and z dimensions in metres of \"mitochondrion\" in the sentence \"The soldier examined the model mitochondrion\"?
+
+65. What are the x, y and z dimensions in metres of \"candle\" in the sentence \"The soldier lit a candle at church\"?
+
+66. What are the x, y and z dimensions in metres of \"birth schedule\" in the sentence \"The soldier displayed the birth schedule\"?
+
+67. What are the x, y and z dimensions in metres of \"staff timetable\" in the sentence \"The soldier wrote the staff timetable\"?
+
+68. What are the x, y and z dimensions in metres of \"room timetable\" in the sentence \"The soldier read the room timetable\"?
+
+69. What are the x, y and z dimensions in metres of \"couch\" in the sentence \"The soldier sat on the couch\"?
+
+70. What are the x, y and z dimensions in metres of \"pencil case\" in the sentence \"The soldier put a pencil in the pencil case\"?
+
+71. What are the x, y and z dimensions in metres of \"hole puncher\" in the sentence \"The soldier punched holes in the paper with the hole puncher\"?
+
+72. What are the x, y and z dimensions in metres of \"water container\" in the sentence \"The soldier took the water container with him for his hike\"?
+
+73. What are the x, y and z dimensions in metres of \"pen\" in the sentence \"The soldier returned his friend's pen to his friend\"?
+
+74. What are the x, y and z dimensions in metres of \"two pieces of paper\" in the sentence \"The soldier wrote what he will do and said he will do on the two pieces of paper, respectively\"?
+
+75. What are the x, y and z dimensions in metres of \"piece of paper\" in the sentence \"The soldier wrote five reasons to do a job in his company on a piece of paper\"?
+
+76. What are the x, y and z dimensions in metres of \"tambourine\" in the sentence \"The soldier made a model of a tambourine\"?
+
+77. What are the x, y, and z dimensions in metres of \"friend\" in the sentence \"The soldier found his friend who mentioned the same key phrase as him\"?
+
+78. What are the x, y and z dimensions in metres of \"three friends\" in the sentence \"The soldier found two other friends, each of whom said the same key phrase as another one in the group\"?
+
+79. What are the x, y and z dimensions in metres of \"objects\" in the sentence \"The soldier found objects representing what he and his three friends had said they needed together\"?
+
+80. What are the x, y and z dimensions in metres of \"the library\" in the sentence \"The soldier checked the random place: the library\"?
+
+81. What are the x, y and z dimensions in metres of \"the conference room\" in the sentence \"The soldier checked the conference room, in the library\"?
+
+82. What are the x, y and z dimensions in metres of \"the encyclopaedia\" in the sentence \"The soldier read an article in the encyclopaedia to read widely\"?
+
+83. What are the x, y and z dimensions in metres of \"the blank book\" in the sentence \"The soldier wrote his encyclopaedia article in the blank book\"?
+
+84. What are the x, y and z dimensions in metres of \"wheat biscuits\" in the sentence \"The soldier moistened wheat biscuits after he answered a girlfriend's call\"?
+
+85. What are the x, y and z dimensions in metres of \"glove\" in the sentence \"The soldier inserted his hand in his glove\"?"]

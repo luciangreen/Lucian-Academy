@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 1 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 1 of 30
+
+1.	ALEXIS: This Two Uses algorithm returns whether the saucepan, pot or frying pan can both stand and be carried. They can stand if they have a horizontal line of at least two p's (pan) at the bottom. The subject can carry them if they have one long (two or more) h's (handles) at the top or two short h's at the top.
+
+2.	DION: The subject should write original algorithms and arguments in the supplementary examination. Further, the physically challenged person should be given a supplementary examination in which he should identify different writers in the exposition. Also, the subject should write original algorithms and arguments where the algorithm should verify that the object is a member of the set. Besides this, the subject should check that the object is a member of the set and is attached to the correct meaning. Additionally, the subject should ethically assess the person's two uses in writing to enable her to become a founder. Along with this, the subject should become a founder by answering questions importantly and on the topic. As well as this, the subject should ethically assess the person's two uses in writing about time and space about the object in the essay. Furthermore, the subject should write about time and space about the object in the piece after understanding each object in speech. Moreover, the subject should write logically connected program lines to ensure that the program is functional. Also, the subject should state that the program that loads different icons each day is functional. Finally, the subject should logically connect records of breasonings.
+
+3.	ALEXIS: What is the meaning of twouses1(Image) in line 1?
+
+4.	DION: Line 1 returns true if Image contains an object that is carryable. That is, the first line has one long (two or more) h's (one long handle) or two h's (two short handles) and can stand, that is the last line has a horizontal line of at least two p's (pan).
+
+5.	ALEXIS: I prepared to like Lucian's computational philosophy academy. I did this by writing Noam Chomsky's probable comments on the Press Release for Richard Dawkins' likely comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I asked why do we have to find a new feature, isn't text-to-speech enough? Second, I said why is complexification part of finding fault (agreeing)? We have to fix it up and move on. Third, I do like formats, but I don't (do) like Richard Dawkins.
+
+6.	DION: The subject shouldn't write original algorithms and arguments (where the subject endorsed Lucian's Computational Philosophy Academy, embarking on a pathway between two uses).
+
+7.	ALEXIS: The subject should write original algorithms and arguments.
+
+8.	DION: Two uses is correct because of the phenomenology of nature, which is correct because the subject should write unique algorithms and arguments.
+
+9.	ALEXIS: I prepared to find it (pedagogy) out using meditation (philosophy) and trial and error in my degree. I did this by writing Richard Rorty's probable comments on Richard Dawkins' likely comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I asked what's Daoism (concerning individualness) got to do with it. Second, I wrote they must be perfect. Third, I wrote they must be put together again.
+
+10.	DION: The subject shouldn't see the light of day (where the subject found pedagogy out using meditation, or philosophy and trial and error in his degree, like meditation has a second use, pedagogy).
+"]

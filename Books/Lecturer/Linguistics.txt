@@ -1,0 +1,13 @@
+["Green, L 2021, <i>Linguistics</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Linguistics
+
+1. I dispensed with idealism.  I chose reality over culture.  I chose what I needed.  The new culture reflected this.  The people knew the people.
+2. I could see the characters in List Prolog grammars.  I created the lingua franca.  I found what was realistic, rather than divertissements or what was experienced on the way.  List Prolog was what was available (my own algorithms to solve problems), not a compromise between languages.  I supported the educational state of grammars in List Prolog, including manually adding the bottom case.
+3. We had to have specialisms inside education.  I started the newspaper.  I found the heading.  I found the body.  I went to the next article.
+4. I favoured being a person rather than God.  I wrote the article.  The Short Articles and Lecturer books stood alone.  I could entirely include the data in the recursive type statements.  The 'any' type was for bug checking.
+5. I wrote a verbose programming language (example laden) and a clear programming language (helpful).  I wrote a new language.  The spoken language was articulated in List Prolog.  The phrases as predicate and variable names made it Language Prolog.  There were reasonings explaining Prolog in the native tongue.
+6. One algorithm stepped through the cognitive barriers at my pace and the other algorithm interested me in the best solution.  I wrote on universalism.  I checked the secret example of the helpful hint.  I found the logic.  I triggered the hint to expand the scope.
+7. Recursive types were compatible with universalism.  I defined the type logic.  It had variables.  It had code.  I used 'any' and put the code into the predicate.
+8. I opened the file.  I wrote the editor.  I found the language.  I parsed the link.  I parsed the image address.
+9. Completing reasonings was the most exciting part of programming in a human language.  I edited an article.  It was a text editor.  I entered the heading.  The visually impaired user editor the article.
+10. The interpreter articulated the philosophy in the different language.  I spoke in a new language.  I tested the different language on the other operating system.  I read the meaning.  I listened to and pronounced the characters and words.
+"]

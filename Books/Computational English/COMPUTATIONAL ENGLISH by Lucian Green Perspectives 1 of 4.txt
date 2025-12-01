@@ -1,0 +1,29 @@
+["Green, L 2021, <i>Perspectives 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Perspectives 1 of 4
+
+
+
+1. The first technique can be used to give a perspective on a text. For example, given the reason 'X is younger than Y' the perspective gives the conclusion 'X was likely to have been looked after by Y'.
+
+1a.     I prepared to drink the bottle of water.  I did this by signaling to stop to the car.  First, I determined that I needed water.  Second, I waited for a car to come.  Third, I flagged it down.  In this way, I prepared to drink the bottle of water by signaling to stop to the car.
+
+2.    I prepared to conclude that the invariant was more important than the variant.  I did this by testing the variant against the invariant.  First, I found that the invariant in 'I drank the pear juice' was 'I'.  Second, I found that the variant in 'I drank the pear juice' was 'pear juice'.  Third, I found that 'I' and 'pear' were there and not there, respectively, through my life.  In this way, I prepared to conclude that the invariant was more important than the variant by testing the variant against the invariant.
+
+3.     I prepared to understand vocabulary's meaning.  I did this by writing the synonym for the word down.  First, I wrote down the word.  Second, I looked it up in the thesaurus.  Third, I wrote down the best synonym for the word in the thesaurus.  In this way, I prepared to understand vocabulary's meaning by writing the synonym for the word down.
+
+4.    I prepared to prove robots' sentience.  I did this by writing the first technique algorithm in ontology.  First, I entered the query.  Second, I followed the algorithm find the relevant part of the knowledge hierarchy.  Third, I read the returned argument.  In this way, I prepared to prove robots' sentience by writing the first technique algorithm in ontology.
+
+5.    I prepared to offer the viable counter-interpretation.  I did this by writing the second technique algorithm in interpretation.  First, I entered the query.  Second, I followed the algorithm interpret (paraphrase) the relevant part of the knowledge the hierarchy.  Third, I read the returned argument.  In this way, I prepared to offer the viable counter-interpretation by writing the second technique algorithm in interpretation.
+
+6.    I prepared to verify the definition of the word.  I did this by writing the third technique algorithm in meaning.  First, I entered the query.  Second, I followed the algorithm find the relevant definition of the query.  Third, I read the returned definition.  In this way, I prepared to verify the definition of the word by writing the third technique algorithm in meaning.
+
+7.    I prepared to verify that the answer was good.  I did this by writing the question-answering algorithm.  First, I wrote the answer.  Second, I wrote the questions that could be answered with the answer.  Third, I tested that a question was answered with the correct answer.  In this way, I prepared to verify that the answer was good by writing the question-answering algorithm.
+
+8.    I prepared to present the synopsis.  I did this by writing the summarisation algorithm.  First, I wrote the text.  Second, I wrote the text that it should become.  Third, I trained the algorithm to transform the longer text into the shorter text.  In this way, I prepared to present the synopsis by writing the summarisation algorithm.
+
+9.     I prepared to speak at the conference.  I did this by writing the text-to-speech algorithm.  First, I wrote the text.  Second, I recorded the speech that it should sound like.  Third, I trained the algorithm to transform the text into the speech.  In this way, I prepared to speak at the conference by writing the text-to-speech algorithm.
+
+10.   I prepared to transcribe my lecture.  I did this by developing the speech to text algorithm.  First, I recorded the speech.  Second, I wrote the text for it.  Third, I trained the algorithm to transform the speech into the text.  In this way, I prepared to transcribe my lecture by developing the speech to text algorithm.
+
+"]

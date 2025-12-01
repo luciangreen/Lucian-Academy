@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Computational English Argument 3 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Computational English Argument 3 of 4
+
+21.I prepared to write the book.  I did this by writing the text.  First, I thought of a topic.  Second, I wrote the reason.  Third, I wrote an inference between the reason and the conclusion.  In this way, I prepared to write the book by writing the text.
+
+22.I prepared to collect evidence on a topic.  I did this by recording an object's registration number.  First, I looked at an object.  Second, I thought of its registration number.  Third, I recorded it in the computer program.  In this way, I prepared to collect evidence on a topic by recording an object's registration number.
+
+23.I prepared to become immortal (e.g. remembered until a point in time).  I did this by recording the knowledge in the form of modus ponens.  First, I wrote 'I am happy because of placing the pink skittle on the ground'.  Second, I wrote, 'I am happy because of placing the pink skittle on the ground, therefore you are happy because of knocking the pink skittle over with the green ball'.  Third, I wrote, 'You are happy because of knocking the pink skittle over with the green ball'.  In this way, I prepared to become immortal (e.g. remembered until a point in time) by recording the knowledge in the form of modus ponens.
+
+24.I prepared to bring arguments to all areas of study.  I did this by constructing an argument from experience.  First, I wrote down the first experience.  Second, I wrote down the second experience.  Third, I connected these experiences with an inference that I had experienced.  In this way, I prepared to bring arguments to all areas of study by constructing an argument from experience.
+
+25.I prepared to make the most central discoveries on Earth.  I did this by writing on the topic 'Encuntglish,' about the most important noumenon being opened up like a book.  First, I opened the book.  Second, I considered what to write.  Third, I wrote down my discovery.  In this way, I prepared to make the most central discoveries on Earth by writing on the topic 'Encuntglish,' about the most important noumenon being opened up like a book.
+
+26.I prepared to make money from positive circles.  I did this by writing that Inclish referred to Positivity Inc.  First, I verified that the first term was positive.  Second, I verified that the next term was positive.  Third, I repeated this until I had verified that all the terms were positive.  In this way, I prepared to make money from positivity by writing that Inclish referred to Positivity Inc.
+
+27.I prepared to verify that the soldier had packed lunch.  I did this by writing that Inglish referred to 'in' being unified with another instance of 'in'.  First, I placed a chocolate in the child's hand.  Second, I verified that the chocolate was still in the child's hand.  Third, I verified that the child had eaten the chocolate.  In this way, I prepared to verify that the soldier had packed lunch by writing that Inglish referred to 'in' being unified with another instance of 'in'.
+
+28.I prepared to write a seen-as version for a student's essay.  I did this by writing that Conglish referred to Computational English, the detailed phenomenological investigation into computational algorithms for English functions.  First, I wrote the sense data that a person was interested in learning meditation (e.g. reading a book).  Second, I connected this information with the knowledge to teach meditation in my brain (e.g. looked up values in a table).  Third, I taught the meditation student meditation by telling him to silently repeat God's name the mantra 'Lucian', for twenty minutes each day, until the mantra becomes more and more refined, transcending and clearing thoughts that are thought of as byproducts of stress (e.g. explained the mathematical equation).  In this way, I prepared to write a seen-as version for a student's essay by writing that Conglish referred to Computational English, the detailed phenomenological investigation into computational algorithms for English functions.
+
+29.I prepared to tell the story of the loaf.  I did this by writing that Kinglish referred to the King's symbols.  First, I read the eight-pointed star.  Second, I read the loaf-eater symbol.  Third, I read the orb symbol.  In this way, I prepared to tell the story of the loaf by writing that Kinglish referred to the King's symbols.
+
+30.I prepared to design icons for each essay topic.  I did this by writing that Basic Ciccy referred to an icon being designed for an essay topic.  First, I read the essay topic.  Second, I designed an icon for it.  Third, I clicked on the icon.  In this way, I prepared to design icons for each essay topic by writing that Basic Ciccy referred to an icon being designed for an essay topic.
+
+"]

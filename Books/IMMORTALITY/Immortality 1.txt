@@ -1,0 +1,163 @@
+["Green, L 2022, <i>Immortality 1</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 1
+
+1.  I could help more people become immortal.  I transitioned to eternal life.  I did this by finding 4*50 As.  Also, I found meditation.  I used these each day.
+2.  I always found work to do.  I found time to increase the developments in my books.  I wrote details.  I wrote more pieces for more information.  Then, I wrote details for details.
+3.  I noticed that algorithms were good enough.  I aimed for conclusions like a vector.  I did this by writing more and more drafts until the work was perfect.  I wrote the algorithm.  I wrote and compared it with the times.
+4.  Algorithms fully covered all relevant ideas.  Algorithms thoroughly examined logic with no flaws.  They were logical.  Also, they contained steps.  They were connected.
+5.  I simplified the design, eliminating bugs.  I redrafted the work.  I did this by finding the corrections.  Then, I simplified it.  I found better, more specific features.
+6.  If there was no value for A, A was left alone.  I rewrote the equals4 command to accommodate cyclical data structures.  When A=[A], A returned this value.  When the user turned on the flag to check for cyclical data structures, running the equals4 command with A=[A] would fail.  So far, a new version of equals4 could define A as B, not empty.
+7.  I also simplified and merged similar structures.  I found whether each bug correction was necessary given the final draft.  I experimented with omitting each combination of bug fixes in case one was not required.  I dealt with problems centrally.  I devised a single choice-point identifier.
+8.  In the end, I simplified the code by removing unnecessary detail.  I found similar structures.  I also found identical code.  Then, I merged them.  Finally, I added functional parts for differences.
+9.  Writing separate predicates to do different things was more intuitive.  I reused code, removing unnecessary detail.  I detected that I could use the same code on other occasions.  It did the same thing, even with different interior detail in the data.  So I differentiated predicates to do different things.
+10.  The native version was in C.  I wrote native versions of some predicates to speed them up.  For example, I wrote atomic list concat-this split into and conjoined parts with particular atoms.  The native version was much faster.
+11.  I could view strings in traces of grammar.  I noticed a familiar, more straightforward feature was putting list processing parts in the head of the predicate.  I wrote [Head|Tail] in the head.  I also did this in grammars.  Also, I allowed strings in grammar but wrote a command to convert them to numbers.
+12.  I realised neural networks were similar to mind readers.  I wrote updates to work containing new implications from the research.  Professors wrote about these.  These writings were published.  So, good inventions and implications resounded from these.
+13.  I wrote and converted to different programming languages.  I found a program finder with types of program finder with types, etc., constructing more sophisticated algorithms-these processed lists of lists, etc.  I converted back and forth between lists and strings.  I simplified algorithms.
+14.  I wrote and converted to different programming languages by writing code for different languages using a program finder with types in terms of the target language.  I converted Prolog lists to C.  I did this by writing in C-like code in Prolog.  Also, I handled lists in C.  I could use the Prolog algorithm, including a program finder with types algorithms in C.
+15.  I chose functionalism over expansionism.  I simplified algorithms using a recursive program finder with types and functionalism.  I accomplished this by finding the minimal algorithm using a program finder with types.  I called it using a functional call, reusing intermediate predicates.  I simplified different occurrences of the function to a single one.
+16.  I noticed that each function had a single output.  I found the functional version.  I fully expanded the code to expand my thoughts, with functions merged.  I compared it with efficiency, writing different functions in different functions.  At the extreme, a smaller
+ function at the same time would be placed in a separate function.
+
+17.  I summarised new methods found.  I simplified different occurrences of the function to a single one.  I did this by finding recurring patterns.  Then I repeated this.  I found choice points.
+18.  Mind reader helped write data, used to write algorithms with program finder, where I asked different animals for optimisations.  I wrote program finder with program finder as a way for animals to write algorithms.  They could write a program finder with mind reading.  They could do this by identifying new methods.  They wrote algorithms that helped or were new.
+19.  I simplified the program finder with types by creating a program finder with types with program finder with types.  I found the predicates using the program finder with types.  These predicates were in the simplest form.  Also, I called one predicate twice.  Finally, I moved list processing to the head.
+20.  I attributed ideas to animals and learned what they meant by mind-reading programming ideas about extra details.  The animals' thoughts were in the form of method(s) applied to a method(s).  Sometimes additional details revealed or explained these.  An algorithm mind read them to find how to apply a method to a method.  For example, 
+a faster C function or new command could be added to Prolog.
+21.  The algorithm returned a:b (append) or with another character instead of \":\".  In addition to append, reverse and string_concat, I wrote a program finder with types algorithm that could convert \":\" (append) to \"-\" (string concat) back and add more data between them.  For example, I split a string on a set of characters.  Or, I joined strings with a group of characters.  Disabled people could get on with programming what they wanted, with these parts explained to others and attributed to them.
+22.  I added the rules in the header of the algorithm.  I wrote an interpreter or added a symbol so that other 
+characters could be substituted for \":\".  For example, I could apply List Prolog to f().  Also, I could add a rule to the converter so that x f y became f x y.  I could add these rules to the algorithm.  I could convert strings into compounds such as a:b.
+23.  I wrote commands that converted from x f y (a list or string) to f x y and back.  I converted the string to a compound.  Then, I converted x f y to f x y.  I could then run the term.  Or, I could analyse it.  In addition, I could add it to an algorithm and run it.
+24.  I needed to convert between function formats to run them, parse natural language or manipulate functions.  In List Prolog, I converted x f y to f x y as lists.  I checked that f was a function.  I used equals4 to convert [X,F,Y] to F,[X,Y].  X and Y needed to be in a different format from normal variables so they wouldn't have values substituted into them by accident.
+25.  I manipulated function terms and put them back into (the same format of) function.  In List Prolog, I converted f x y to x f y as lists.  I checked that f was a function.  I used equals4 to convert F,[X,Y] to [X,F,Y].  X f y was a good format for printing or concatenating atoms.
+26.  I was aware that appending a:[] = a.  I converted \":\" (append) to \"-\" (string concat).  This changed [a,b] to \"ab\".  Concatenating them was possible because a and b were separate atoms in the list.  Concatenating them behaved like foldr string concat.
+27. I could write a version of atomic_list_concat in Prolog or C.  I converted a list to items with other items between them.  I concatenated [a,b,c] to \"a*b*c\".  This was equivalent to atomic_list_concat([a,b,c],\"*\",D).  So, D = 'a*b*c'.
+28.  I could leave characters as character codes for faster processing or allow them to be read as characters in trace mode and convert them to codes later.  I converted \"ab\" to [a,b].  I could use findall and convert string codes to strings.  If the atoms were multiple characters in length, then a predicate could process multiple items simultaneously.  I could use this algorithm in decision trees (which could be created and manipulated in C).
+29.  I could choose a character instead of x to insert between characters.  I converted \"ab\" to [a,x,b]. I used the technique from paragraph 28 and added the x character between items in the list.  I could use this method to format text.  The list could be converted back to a string if necessary, for example, to write it.
+30. I converted [a,b] to [a,x,b].  I did this by list processing.  Or, I could write a new single command to do it.  I could write a system of patterns, for example, with append, mathematical position or formulas.  I wrote a proof method to process all items using mathematics. 
+31.  I could convert a list to a string using 31.3.  I converted \"a*b\" to \"ab\".  I used atomic_list_concat and foldr string_concat to do this.  In addition, I could replace * with another character using atomic_list_concat again.  Or, I could produce a new list [a,^,b] by using the method described in paragraph 30.
+32.  I could flatten the list.  I could produce lists of lists, e.g. \"[a,[b,c]]\" from [a,[b,c]].  I used a predicate to convert strings into a list by using a parser.  I could perform this process in C.  I could process the list or print it.
+
+33. I could send the line over the internet.  I converted [a,x,b] to [a,b].  I ran delete([a,x,b],x,A).  So, A = [a, b].  I reduced the lines to 1.
+34. I put characters on separate lines.  I converted \"ab\" to \"a*b\".  I defined foldr as foldl on a reversed list.  I ran the query string_codes(\"ab\",C),findall([A,*],(member(D,C),char_code(A,D)),E),flatten(E,F),append(H,[_],F),foldr(string_concat,H,G),!.  This gave G = \"a*b\".
+35.  I wrote the story accompanying the algorithm.  I flattened the list.  I did this with the following predicate:
+
+flatten1(A,B) :-
+ flatten2(A,[],B),!.
+ 
+flatten2([],B,B) :- !.
+flatten2(A,B,C) :-
+ (not(is_list(A))->append(B,[A],C);
+ (A=[D|E],flatten2(D,B,F),
+ flatten2(E,F,C))),!.
+
+36.  I could write the string to the terminal.  I converted the list to a string.  I accomplished this with the following predicate:
+
+:-include('../listprologinterpreter/listprolog.pl').
+
+list_to_string(A,B) :-
+ list_to_string(A,\"\",B),!.
+ 
+list_to_string([],B,C) :-
+ foldr(string_concat,[\"[\",B,\"]\"],C),!.
+	
+list_to_string(A,B,C) :-
+ (not(is_list(A))->((B=\"\"->G=\"\";G=\",\"),
+ foldr(string_concat,[B,G,A],C));
+ (A=[D|E],list_to_string(D,\"\",F),
+ (B=\"\"->G=\"\";G=\",\"),
+ foldr(string_concat,[B,G,F],F1),
+ list_to_string(E,F1,C))),!.
+
+37.  I could quickly view the structure.  I wrote the following predicate to print a list prettily (hierarchically) on the screen.
+
+:-include('../listprologinterpreter/listprolog.pl').
+
+pretty_print_list([],\"[]\") :- !.
+pretty_print_list(A,B) :-
+ pretty_print_list(A,1,\"[\n\",B1),
+ delete_last_n(B1,2,B3),
+ string_concat(B3,\"\n]\",B),!.
+ 
+pretty_print_list([],_,C,C) :- !.
+
+pretty_print_list([A|D],T,B,C) :-
+ T1 is T+1,
+ spaces(T,S),
+ (is_list(A)->(pretty_print_list(A,T1,\"\",G),
+  delete_last_n(B,1,B1),
+  (G=\"\"->G1=G;delete_last_n(G,2,G1)),
+foldr(string_concat,[B1,\"\n\",S,\"[\",\"\n\",G1,\"\n\",S,\"],\n\"],F));
+ (
+ foldr(string_concat,[B,S,A,\",\n\"],F)
+ )),
+ pretty_print_list(D,T,F,C),!.
+
+spaces(N,S) :-
+ numbers(N,1,[],S1),
+ findall(\"\t\",member(_,S1),S2),
+ foldr(string_concat,S2,S),!.
+ 
+delete_last_n(B1,N,B3) :-
+ string_concat(B3,B2,B1),string_length(B2,N),!.
+
+The pretty print list algorithm produced the chart:
+
+[
+	a,
+	b,
+	[
+		c,
+		d,
+		[
+			e
+		],
+		f
+	]
+]
+
+38.  I quickly viewed traces without distraction.  I turned off comments appearing in trace mode with a flag.  I wrote comments in the algorithm.  I didn't want to read them while tracing the algorithm.  So, I turned the flag off.
+39.  I added to the details.  I wrote an essay helper for algorithms.  I did this by writing perspectives about the algorithms.  In this way, I wrote new connections between them.  I wrote views on morality, logic, aesthetics, deontology (creativity) and ontology.
+40.  I could nourish myself.  I wrote on morality.  For example, I agreed with the idea.  It could save lives.  It could help with survival.
+41.  I simplified the algorithm to a single substitution.  I wrote on logic.  I did this by writing the series of implications in the algorithm. First, I found \"and\". Second, I found a transformation (function).
+42.  I wrote a story about finding the algorithm.  I wrote on aesthetics.  I wrote about poetry, music, fine art, acting, dance and writing. Then, I applied them to debug. Finally, I got through the philosophies and algorithms.  I wrote a story about following the algorithm.
+43.  The \"animal students\" could generate art (algorithms).  I wrote about poetry.  I wrote blank verse poetry about the imagery in the algorithm and its additional logic.  The use was a reason.  The model was always on the topic, just a rearrangement of words with minor changes.
+44.  I found the sequence of skills.  I wrote on music of algorithms.  I did this by identifying the setting evoked by the algorithm.  Also, I found the subject, verb and object.  I related them to the setting.
+45.  I wrote about fine art, even graphics.  I wrote about the device emanated through the algorithm.  The device was a user interface for the algorithm.  For example, I processed text files.  Also, I integrated the files with other algorithms.
+46.  I found and corrected the flaw in the complexity of speech.  I wrote on acting.  I wrote about how people/objects moved through objects.  This movement is related to data analysis. Finally, I commented on optimisation and whether the algorithm was \"over-done\" (too complex).
+47.  I translated the story to dance, incorporating humour and native code.  I wrote about dance.  In this way, I wrote about the story explaining the algorithm.  I did this by emphasising people's judgements.  I found a giant metaphor and people trying on the way.
+48.  I focused on the same idea (evidence) and simplified it.  I wrote about writing.  I wrote a plan at first. Then, I wrote new research about the algorithm.   I compared it with existing writing.  I found a good topic and then wrote ideas with ten reasons each.
+
+49.  I used the magic whiteboard to project Prolog to students.  I debugged Prolog algorithms.  I also emphasised cognitive methods, i.e. list processing outside the head of the predicate. First, I wrote the name of the data structure. Then, I decomposed it into its head and tail.
+50.  I encouraged hand-coding predicates such as term to atom to understand Prolog better.  I explained the easiest to most challenging algorithms to help with the goal.  I explored the CAW complexity from easiest to hardest.  I queried the difficulty of the algorithms from easiest to most challenging in interviews.  I covered the broken-down skills needed for the project, even though they differed.
+51.  I debugged the Prolog algorithm.  I wrote List Prolog Interpreter.*  I ensured SSI had the same results, correcting bugs to do this.  I ensured SSI's trace mode included the name of the retried predicate.  I also printed the name of the redone predicate.  
+52.  I noticed the term to atom command contained list to string and string to list.  When the user gave the term to atom command two instantiated variables, it converted the term to an atom and checked that the atom was the same as the inputted one.  If the user instantiated neither, the result was A='_'.  In the case of term_to_atom(A,B)., B = '_'.  Given term_to_atom(_,B)., B = '_'.  Given term_to_atom(_,_)., the result was true.  Given term_to_atom(A,_)., the result was true.
+53.  I added form text field previous values, password fields, saved form fields and multiple buttons per page.  I noticed that saving a session allowed the user to return to the last website page they were on.  This possibility required a security login to prevent break-ins.  Also, the algorithm required two-factor authentication.  Alternatively, if going back to the same page was not possible, the application could return to the first page of the website, requiring a new session number and deleting the old session file. Again, I noticed that without application support, going back was not possible.  
+54.  I noticed that the original texts were relevant.  I counted that the minimum was 15 As per chapter.  Sometimes it was 15 As per book.  I needed enough for an assignment.  Later, I compensated for not enough for an assignment by relating one assignment to another.  This relation was relativism.
+55.  I became a campus questionnaire giver/Academy lecturer.  I just started.  I started with single questions and asked students at University to listen to them and answer them at lunchtime.  Later, after I could afford to pay my bills, I paid for accreditation. After that, I went up to politics, down to cosmology and interested the students in my algorithms.  I gave an A to help them with parts and made the point to arrive at future research about an algorithm from each student's point of view, for which they received an A.
+56.  I wrote up the documentation.  I found out about the student's career in Prolog.  Before the course, I gave A to the student each time they might use Prolog.  I simplified the aim.  I simplified the method and debugging method.
+57.  I covered the courses with Prolog ways of thinking to help with understanding, grades, automation and a PhD.  I found out about the student's thoughts about Prolog in class.  Before the lecture, I gave As to the student when they thought of Prolog.  I detected and gave an A to the problem.  I gave an A to the student's petissiences (sic), or good thoughts, differing opinions and big solutions (research).
+58.  I noticed the distance between the expandable ideas and the current expanded view became longer and longer, prompting the need for automation.  I explained the algorithms from the most straightforward to the most complex, focusing on the ones the students found the most interesting.  I spent 60% of the time on interpreters.  I spent 40% of the time on mathematics, etc.  Interpreters enabled users to create websites and run algorithms on devices.  
+59.  I explored the CAW complexity from easiest to hardest.  I stated that the simple append predicate was the base for comparison.  I measured the distance away in terms of a number of new or different commands from each of the list decomposition, transformation (if any) and append parts of the predicate.  The CAW distance was how many steps away from the append predicate the new predicate was when using the Combination Algorithm Writer (CAW) algorithm.  The distance was the number of differences calculated from the complexity and the number of steps the algorithm took to find these.
+60.  It was more about how the user thought about the predicates.  The \"communication\" between the class and career characters was working out what would be necessary and provide it to the student.  I sometimes simplified this information to what interested the student.  The career was sometimes touched up later at different contact points (study or work) at the institution.  I examined the prestigious institution's findall notes, bearing in mind that simplicity is king in Prolog.
+61.  I treated the course like a database I had programmed to help students in their careers.  I thought about education and Prolog.  I found As from my point of progress to the notes.  I found A for the notes.  I also found an A for my end of progress.  Then I listened to the lecture.  I updated everything.
+62.  Writing and referring to code was constantly cleaning the ideas.  I wrote the philosophies and the students found their career points from them.  Their career points were inside the data structures.  The data structures from their career could look like the course structures' relatives.  The industry was the same thing, using the theory of the course to write algorithms.
+63.  I wrote a document collaboration algorithm in Prolog.  I noticed that the website refreshed every second.  People could read and add notes from around the world.  Someone wondered whether a keyboard on the web page could save the notes on the way.  I noticed that users could automatically mockup algorithms from specifications contained in the document.
+64.  If politics was an interior perspective, then politics were particular parts of computer science.  I became the ontological age person, a metaphysician.  I explored algorithms about compilers, inductive algorithms, spiritual (meditation) algorithms and different applications.  Compilers helped the robots' personalities interconnect.  Inductive algorithms helped write algorithms and understand rules along the way.  I wrote meditation algorithms to help bridge gaps and be like neural networks.  Applications included graphics and music and helped with writing Academy's ideas down.
+
+65.  I worked at the prestigious institution library.  I first read the document in the meeting.  Instead of a presentation, everyone read the paper at the start.  I took notes using the collaborative software.  Everyone stayed there until the end.
+66.  I spoke with my friends.  I worked on my philosophy and discussed it with my students at the prestigious institution.  I also read books for my degree.  I included details.  I had the best subjects.
+67.  I joined the details in the middle.  I did this by including enough details of the right quality.  I wrote a tutorial about my ideas.  I found out about the students and ideas beforehand in cosmology.  I collected and wrote about their responses afterwards, noting their background.
+68.  I also visited other institutions and ones interstate and in other countries, teaching philosophy.  I gathered experience about the types of people.  I did this by filming them with permission.  I prepared for the roles.  I gave out books.
+69.  The newsletter contained reviews of my work.  I wrote a worksheet.  The student wrote an answer on the collaborative document from the text (where the text didn't only include the solution).  I added interactive elements to my lectures with internet questionnaires.  Noting the progress, I started an international newsletter about my philosophy.
+70.  I explained the input and output of each predicate system and a sentence describing what it did.  I left computer science as it was for educational purposes.  Students could simplify it.  It was not the final version to be submitted.  The documentation included options for running it, for example, to run an algorithm straight away or to increase the stack size.
+71.  I streamlined the process of adding commands to my interpreter.  I generated algorithms for business or departmental purposes. Third, I recombined parts of ontologies to write algorithms.  For example, instead of combining character and breasoning for a font state machine, I combined text effects and breasoning and wrote a font state machine that underlined text.  In the end, I wrote algorithm generators for state machines and other algorithms and then used neural networks.
+72.  I wrote an \"accredited sales\" A to highlight sales.  I doubled the breasonings for sales to account for freedom.  I was free when I completed the work for the seller and the customer.  I travelled first class and wrote lots of ideas for the customers.  I explored details about the details to close the deal.
+73.  The \"accredited human resources\" A made business as fun as a school.  I wrote double the breasonings for human resources to stay free. Then, I noticed that everything was there.  The customers had what they wanted.  The employer gave the employees things to do.
+74.  I wrote an algorithm that recognised when equals4 had been used to add it to program finder with types, to write algorithms with equals4.  I wrote equals4 with program finder with types (which wrote algorithms using their data).  This simplified equals4.  I wrote different algorithms that used equals4 or the data to algorithm predicate (which uses equals4 and is part of the program finder with types), with program finder with types.  So, I could write check arguments using equals4 with program finder with types.
+75.  Functionalism had the same code with different functions.  I devised an algorithm that used a series of calls to equals4, sometimes like CAW, in that they attempted to use equals4 without data.  Instead, I used a program finder with types to recognise and program this series of algorithms. First, I set the possible sequence of algorithms. Then, I simplified them with functionalism.
+76.  I generated or automated writing functionally by itself.  I wrote the reverse predicate functionally, including an XML parameter B:A to indicate the different way append should be used.  If the program called another function, I could number its arguments by default.  Alternatively, the user could refer to the number of its arguments about other parts of the predicate using XML tags.  These numbers could be reordered and passed as arguments to the function, reducing coding time and increasing the sophistication of the design.
+77.  It was simple with enough data (possibly mind-read).  The synthesis of functional tags was in an ontology dictionary.  I noted the series of transformations from the output and applied the functions. Then, I worked backwards from the output to the middle, working out what the middle functions were.  Writing the algorithm was achieved by running the program finder-found predicates on the input and backwards from output until the middle was the same for all specifications.
+78.  I designed a generative art maker with mind reading for movie backgrounds.  It could work with detailed mind-reading (a decision tree), labelled \"meditation\"-type.  The colours and shapes were more pleasing.  It worked by connecting holes on a pegboard.  There could be rules for the shapes, such as \"one cloud in the sky\" or \"grass\", \"pleasing colours\", or \"3D\".
+79.  I could record it and play it online.  I noticed that the user could view the scene from a corner of the cube and that the perspective could change.  In the scene, the characters had different colours, with faces based on animals.  There were stories and scenes exploring various settings and objects representing data structures.  The HTML player played the songs to the movie.
+80.  I rendered the scene in HTML, helping explain computer science.  In this scene, the graphics were detailed or had smooth curves.  There was no vanishing point perspective in the graphics.  I also changed some musical instruments. Finally, I made a computer game using this 3D engine, like Vetusia.
+"]

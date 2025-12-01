@@ -1,0 +1,25 @@
+["Green, L 2021, <i>A New Logic Reflecting Language or Natural Logic 3 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+A New Logic Reflecting Language or Natural Logic 3 of 4
+
+21.   I prepared to eat the tofu nuggets.  I did this by preventing animal products from being produced (I cooked the tofu).  First, I placed the tofu in the wok.  Second, I started to cook it.  Third, I stopped cooking it after 4 minutes.  In this way, I prepared to eat the tofu nuggets by preventing animal products from being produced (I cooked the tofu).
+
+22.   I prepared to return true when three variables were true.  I did this by designing a quantum light circuit.  First, I shone a red light at the electrode.  Second, I shone a green light at a mirror in the path of the red light, forming a beam of yellow light shining at the electrode.  Third, I shone a blue light at a mirror in the path of the yellow light, forming a beam of white light shining at the electrode, triggering the electrode.  In this way, I prepared to return true when three variables were true by designing a quantum light circuit.
+
+23.   I prepared to abbreviate a sentence.  I did this by way of poseia (positive ideas) for example, I performed a magic trick (I made a sentence expander).  First, I wrote, 'Madam, I'm Adam,' then folded the end of the strip of the paper over to cover the name 'Adam'.  Second I read the sentence, 'Madam, I'm'.  Third, I unfolded the strip of paper to read the expanded sentence, 'Madam, I'm Adam'.  In this way, I prepared to abbreviate a sentence by way of poseia (positive ideas) for example, I performed a magic trick (I made a sentence expander).
+
+24.   I prepared to comment that the peach wrapper went well with the peach.  I did this by defining sex (in fact, eating a peach).  First, I unwrapped the peach.  Second, I verified that the peach was ripe.  Third, I consumed the peach.  In this way, I prepared to comment that the peach wrapper went well with the peach by defining sex (in fact, eating a peach).
+
+25.  I prepared to attach ideas to what the employees said.  I did this by exercising equality in relation to gays (I demonstrated equality in employing workers).  First, I asked an assistant to assign numbers to the applicants.  Second, I selected the numbers of applicants who knew enough details.  Third, I memorised their names.  In this way, I prepared to attach ideas to what the employees said by exercising equality in relation to gays (I demonstrated equality in employing workers).
+
+26.   I prepared to quadruple the number of possible breasonings, in conjunction with collecting breasonings from new spoken languages.  I did this by creating new breasonings by translating into new computer languages.  First, I wrote the breasoning.  Second, I wrote it in a new computer language.  Third, I wrote the breasoning(s) which it signified.  In this way, I prepared to quadruple the number of possible breasonings, in conjunction with collecting breasonings from new spoken languages by creating new breasonings by translating into new computer languages.
+
+27.   I prepared to drink the cordial.  I did this by making peace with a dialogue participant by eating carrot sandwiches together.  First, I held the carrot sandwich.  Second, I placed the carrot sandwich in my mouth.  Third, I bit it.  In this way, I prepared to drink the cordial by making peace with a dialogue participant by eating carrot sandwiches together.
+
+28.   I prepared to be famous.  I did this by following the naked-person-graph (designing an education activity to teach a Prolog program).  First, I wrote the input to the predicate.  Second, I computed the output of the predicate.  Third, I repeated this until I had computed the result of the Prolog program.  In this way, I prepared to be famous by following the naked-person-graph (designing an education activity to teach a Prolog program).
+
+29.   I prepared to show a high quality thought.  I did this by writing a 10 breasoning A (non-hit) or 25 breasoning A (hit) to sell an internet video talk or course.  First, I contacted Scripsi.  Second, I contacted Quadrant.  Third, I contacted Meanjin.  In this way, I prepared to show a high quality thought by writing a 25 breasoning A to sell an internet video talk or course.
+
+30.   I prepared to satisfy the professional requirements for a product.  I did this by writing 5 As (non-hit) or 10 As (hit) to sell an internet video talk or course.  First, I contacted the New Yorker.  Second, I contacted Punch.  Third, I contacted Cosmopolitan.  In this way, I prepared to satisfy the professional requirements for a product by writing 5 As (non-hit) or 10 As (hit) to sell an internet video talk or course.
+
+"]

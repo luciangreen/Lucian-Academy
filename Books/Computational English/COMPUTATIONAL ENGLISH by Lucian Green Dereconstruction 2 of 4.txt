@@ -1,0 +1,25 @@
+["Green, L 2021, <i>Dereconstruction 2 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Dereconstruction 2 of 4
+
+11.    I prepared to observe the students write to kings.  I did this by observing the philosopher monarch introduce creative philosophy.  First, I introduced the philosopher monarch.  Second, I observed the philosopher monarch introduce pedagogy.  Third, I observed the philosopher monarch introduce creative philosophy.  In this way, I prepared to observe the students write to kings by observing the philosopher monarch introduce creative philosophy.
+
+12.   I prepared to watch bliss of life on earth.  I did this by observing the philosopher monarch introduce creative philosophy with medicine as a reason.  First, I recommended psychiatrists for the students.  Second, I recommended the students study a medicine degree.  Third, I trained the students to recommend these to other students.  In this way, I prepared to watch bliss of life on earth by observing the philosopher monarch introduce creative philosophy with medicine as a reason.
+
+13.    I prepared to perform at the concert.  I did this by playing the bagpipes.  First, I inflated the bag.  Second, I placed my fingers on the holes of the chanter.  Third, I squeezed the bag to keep a constant supply air to the four reeds.  In this way, I prepared to perform at the concert by playing the bagpipes.
+
+14.   I prepared to be equitable.  I did this by liking you because I shared the apple with you.  First, I shared the apple with you.  Second, I observed you like me.  Third, I liked you.  In this way, I prepared to be equitable by liking you because I shared the apple with you.
+
+15.   I prepared to earn H1.  I did this by demonstrating logical thinking.  First, I suggested the proposition 'b'.  Second, I suggested the inference 'b -> a'.  Third, I suggested the proposition 'a'.  In this way, I prepared to earn H1 by demonstrating logical thinking.
+
+16.   I prepared to become a famous computing engineer.  I did this by demonstrating perfect programming.  First, I wrote down the sets.  Second, I wrote down the data contained in each set.  Third, I wrote the algorithm traversing the data sets.  In this way, I prepared to become a famous computing engineer by demonstrating perfect programming.
+
+17.   I prepared to present a program about my thesis.  I did this by breasoning out 250 breasonings.  First, I earned the job of computer science professor.  Second, I breasoned out 250 breasonings containing the assignment solution.  Third, I earned the promotion to emeritus professor.  In this way, I prepared to present a program about my thesis by breasoning out 250 breasonings.
+
+18.   I prepared to determine the original construction.  I did this by equating the actual value with the desired value in dereconstruction.  First, I printed the value of the first variable.  Second, I assigned the value of the first variable to the second variable.  Third, I printed the value of the second variable.  In this way, I prepared to determine the original construction by equating the actual value with the desired value in dereconstruction.
+
+19.    I prepared to solve the political problem.  I did this by providing running water.  First, I built a water tank.  Second, I built a pipe from the water tank to the tap.  Third, I boiled the water to filter out pathogens in it before using it.  In this way, I prepared to solve the political problem by providing running water.
+
+20.  I prepared to write that meditation was a mutually exclusive course from pedagogy because the breasonings were implicit.  I did this by writing that meditation was constituted because of pedagogy, in a top-down manner.  First, I wrote that meditation contained the mantra.  Second, I wrote that pedagogy contained breasonings.  Third, I wrote that the mantra indicated multiple breasonings.  In this way, I prepared to write that meditation was a mutually exclusive course from pedagogy because the breasonings were implicit by writing that meditation was constituted because of pedagogy, in a top-down manner.
+
+"]

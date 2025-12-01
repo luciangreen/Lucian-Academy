@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 7 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 7 of 30
+
+61.	DION: The subject shouldn't write misaligned meanings (where the subject queried how the database is related to text-to-speech, to which I replied the subject would store the voices in databases like there is a stable centre of gravity).
+
+62.	ALEXIS: The subject should write aligned meanings.
+
+63.	DION: The subject should write a comment written on part of a topic by a writer.
+
+64.	ALEXIS: I prepared to recommend the high-quality comment by the programmer for the command be cut off. I did this by writing Michel Onfray's probable comments on the Press Release for Richard Rorty's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I thought verificationism was a good idea with Prolog code, even English Prolog. Second, I recommended thinking of the commands 'equals,' 'matches,' etc. as single symbols. Third, I suggested the spiritually computed reasons for the commands be many.
+
+65.	DION: The subject shouldn't be sharp and short (where the subject recommended the high-quality comment by the programmer for the command be cut off, like there being no obstruction under the base).
+
+66.	ALEXIS: The subject should be sharp and short.
+
+67.	DION: The subject should answer the question in a sharp and short way.
+
+68.	ALEXIS: What is the meaning of lastline(Lines1, Lastline) in line 6?
+
+69.	DION: Line 6 returns the Lastline of Lines1.
+
+70.	ALEXIS: I prepared to go into the ontologies to see if there was anything new there. I did this by writing Martha Nussbaum's probable comments on Richard Dawkins' probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I liked reading the book. Second, I loved re-reading to apply it to something else. Third, I liked writing about it.
+"]

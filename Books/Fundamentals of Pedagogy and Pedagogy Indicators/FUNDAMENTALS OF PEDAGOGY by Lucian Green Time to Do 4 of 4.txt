@@ -1,0 +1,9 @@
+["Green, L 2021, <i>Time to Do 4 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Time to Do 4 of 4
+
+31. The biochemist explained a link. He did this by tracing through the maze with his hand. First, he traced a rope through the leftmost turns of the maze with a blindfold. Second, he traced a line around the leftmost corners, but with a right turn as far along as possible without visiting a visited square. Third, he repeated step two until he finished the maze. In this way, the biochemist prepared to explain a link by tracing through the maze with his hand.
+
+32. The biochemist tested how the vesicles travelled along their path. He did this by decoding the jam-coded paths maze. First, he tasted the jam type at a square. Second, he decoded strawberry jam as meaning there was a way to the left, raspberry jam as meaning there was a path to the right, and blueberry jam as meaning there were paths to the left and right. Third, he moved along the unvisited squares until reaching the goal. In this way, the biochemist prepared to test how the vesicles travelled along their path by decoding the jam-coded paths maze.
+
+"]

@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 16 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 16 of 30
+
+150.	ALEXIS: The subject should educate all the people.
+
+151.	DION: The subject should become a founder by teaching all the people.
+
+152.	ALEXIS: I prepared to ask why should it be positive? I did this by writing Richard Rorty's probable comments on the Press Release for Michel Onfray's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I wrote what's the point of a thing about itself (referring to 'I got it right; I wrote unique phenomena in each case')?. Second, I wrote what's the relevance of Husserl's epoché (bracketing)? Third, I wrote what's the relevance of Critical Thinking?
+
+153.	DION: The subject shouldn't work arguments out rigorously (where the subject asked why Lucian should be positive after he printed the line).
+
+154.	ALEXIS: The subject should work on pedagogy.
+
+155.	DION: The subject should educate all the people by working on pedagogy.
+
+156.	ALEXIS: What is the meaning of twoshorthandles(Line1) in line 22?
+
+157.	DION: Line 22 returns whether Line1 contains two h's (two short handles).
+
+158.	ALEXIS: I prepared to let the computer experience things to mean before it said things about them, so it would be interesting to ask it what it meant. I did this by writing Martha Nussbaum's probable comments on Michel Onfray's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I wrote about writing. Second, I wrote about the author's pen name. Third, I wrote about writing about the author.
+
+159.	DION: The subject shouldn't connect an answer to ideas the question gives him (where the subject lets the computer experience things to mean before it said things about them, so it would be interesting to ask it what it meant) like different ways to construct a polyhedron.
+"]

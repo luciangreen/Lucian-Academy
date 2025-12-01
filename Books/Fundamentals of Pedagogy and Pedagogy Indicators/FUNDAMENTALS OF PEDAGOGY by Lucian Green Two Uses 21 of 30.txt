@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 21 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 21 of 30
+
+200.	DION: Line 10 returns whether the first line has one long (two or more) h's (one long handle) or two h's (two short handles).
+
+201.	ALEXIS: I prepared to write how the text and the speech going well together loved us. I did this by writing Michel Onfray's probable comments on Alexius Meinong's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I liked the character of the text. Second, I loved the character of the speech. Third, I liked how they went well together.
+
+202.	DION: The subject shouldn't drop the object (where the subject wrote how the text and the speech going well together loved us, shown by an animation in which an object is shown to carry other objects).
+
+203.	ALEXIS: The subject should understand each object in speech.
+
+204.	DION: Two uses is correct because of the immersion of nature, which is correct because the subject should understand each object in speech.
+
+205.	ALEXIS: I prepared to turn to the page from the table of contents. I did this by writing that a reviewer reviewed the piece. First, I examined the essay. Second, I wrote an article on it. Third, I wrote this down.
+
+206.	DION: The subject shouldn't write on the essay (where the subject wrote that a reviewer reviewed the article, like the subject being able to see the object's top).
+
+207.	ALEXIS: The subject should write a brief summary of the article as the review.
+
+208.	DION: The subject should summarise the ontologies of objects in the article as the review.
+
+209.	ALEXIS: I prepared to ask how changing the text would lead to changes in the speech? I did this by writing Richard Dawkins' probable comments on the Press Release for Alexius Meinong's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I asked why the conditions of the text, not just the text might change? Second, I asked why is the speech so interesting? Third, I asked why the anti-heroes' (heroes') speeches are there?
+"]

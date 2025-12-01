@@ -1,0 +1,61 @@
+["Green, L 2024, <i>Meditation of Pedagogy 1</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"Meditation of Pedagogy 1
+
+1. The meditator controlled who read the source code, including secrets. I saved GitHub-private2 on the server. I used my server instead of the public server. I searched the repository history in GitL. I diff’ed multiple files together.
+2. The meditator regularly archived old files, removing them from GitL. I found references to GitHub/private2 and changed them to GitHub-private2. I planned to move the data files to another location without affecting the rest of my files. The files to monitor were in “GitHub” or another location specified in settings. The data files were in another folder, the location of which could be defined in settings, too.
+3. The meditator encouraged others to write their thesauruses. I stated that Text to Breasonings data could be public. I wrote the entries in the Text to Breasonings dictionary. It was made available for others if they needed it for medical reasons. They might need a high distinction, time travel or immortality for medical reasons.
+4. The meditator could customise the public server in GitL with binaries, icons, windows and graphics. I moved private data to a remote repository. This repository included settings, personal preferences files for repositories, and plug-ins, which I had modified. GitL, a decentralised version control system, could keep these files private. In addition, uploads to a public server were possible when final checks had been made.
+5. The meditator recommended the institution to the child. I recommended meditation, pedagogy and areas of study to prospective parents. The child or animal was a meditator. The predator morally ended the prey, which was turned into another dimension before it in the simulation. When the prey completed an A to stay alive, they stayed in the world.
+6. The meditator started the protection of life. I updated the text to breasonings meditators list. These meditators agreed to experience meditation. It gave them the gift of life. Their lifestyle included study, meditation and rest.
+7. The meditator checked the algorithm with detailed and long data. I added technologies to the meditation file. I noticed pedagogy was standard. The parents said their prayers before bed. The meditator ran the meditation file to automate high distinctions for meditation technologies, such as time travel, meditation and medicine.
+8. The meditator stated that an algorithm could download compatible software, free or paid, with particular features. I used a git command to get updated software as files as part of a startup check. There could be a monitor in the background. On the other hand, GitL provided the ability to control which version to download, given commands to download software from a date. Included with downloaded software was its date of download.
+9. The meditator checked on the content and progress of BAG. In Breasoning Algorithm Generator (BAG), I deleted time notifications. The new version completed all sets of work in a group at the touch of a button. If the memory requirements were too large, a Shell container could run BAG on each text (contributing to each set) separately. I could migrate BAG to a server and finish unfinished work on a disconnection.
+10. The meditator could miraculously help people move to the other dimension. BAG gave reports of the total number of breasonings. I regularly checked the live tally. I displayed the progress bar. This progress bar was in a web monitor.
+11. The meditator attempted modifying predicates bottom-up for specific results, such as finding Lucian CI/CD dependencies. I saved the BAG tally when it was over 6000 breasonings. I chose the limit of 6000 breasonings considering memory limitations. I could compare all texts with recent ones, possibly using inserted connectors. I used tricks such as intelligent sentence constructors and funnels to write memorable quotes.
+12. The meditator used a clear font. I interpreted my most recently written files with BAG. I wrote algorithms and arguments on my current area of research. This area was, for example, induction, verification or computational spirituality. I could operate on the algorithms with Grammar Logic key terms that gave an algorithmic perspective, such as documentation, passwords, graphics, horizontal connections or optimisation.
+13. The meditator timed the BAG algorithm in processing a text. I reduced the time limit from five seconds to two, multiplied by the average to complete the breasonings in BAG. Only breasonings from within-time sets were included in the tally. I calculated the average time to complete the text. I doubled this to include most jobs.
+14. The meditator ran BAG quickly, covering the required breasonings. I used the concurrent version of BAG because it was faster than the non-concurrent version of BAG. The concurrent version of BAG processed a particular number of texts simultaneously, where n was the number of processors in the computer. When a text had finished, the algorithm waited until all the current texts had finished before starting the next set. This algorithm could be improved to use all processors continuously.
+15. The meditator ran BAG in the background, using their computer for other work. I put the BAG on the server. I ran BAG, which helped thoughts during the day, on the server, which could automatically start BAG when meditation triggered it. An algorithm could pick a particular BAG text and expand or clarify its algorithm or argument. BAG ran until it finished and targeted specific thoughts.
+16. The meditator thought and rested. I ran BAG for continuous, high-quality thoughts. I ran BAG only when needed. BAG could detail and prompt curiosity about a thought. I questioned the thought, and the computer sent a representation to me about my thought history.
+
+17. The meditator deleted the loop. I avoided redundant loops. I noticed the loop looped a predicate when there was a finite, not an arbitrary, length between them. I became suspicious it was why the algorithm was slow. Also, an interpreter that only accepted strict code hung running it.
+18. The meditator used the strict interpreter to expose and delete loose programs. I avoided redundant predicates. The clause performed the same task as another clause, which was made explicit when it hung when run by a strict interpreter. To find the redundant predicate, I ran the test, testing for unwanted extra results. If there were any, I isolated the duplicate clause and deleted it.
+19. The meditator wrote fast commands for interpreters, compilers and inductive algorithm writers. I avoided redundant algorithms. I found the recurring algorithm, a predicate with an unwantedly same name and arity as another and an algorithm identified as an interpreter that could be replaced with a command (where it was wise to learn program interpreters first). I cut or deleted recurring predicates. I found and deleted calls to predicates that might unwantedly have the same name and arity as others.
+20. The meditator categorised the choice point affected by if-then in Prolog. There were choice points for member, member in findall, non-deterministic clauses, repeat (which created infinite choice points) and choice points which could be cut by cut or if-then. If-then also cut the \"repeat\" choice point. If-then behaved like cut in the following:
+if_then_else(A,B,C) :- A, !, B.
+if_then_else(A,B,C) :- C.
+In this, the cut operator (!) deletes further choice points in the predicate. I could implement this method of if-then.
+21. * To program findall in terms of a predicate, I needed to analyse the code and write a recursive version. For example:
+
+:-include('../listprologinterpreter/la_maths.pl').
+% change([[1,2,3],\"findall1(A,findall1(A,member(A,B),C)\",B]).
+% B = [1, 2, 3].
+
+change([B1,\"findall1(A,findall1(A,member(A,B),C)\",B]) :-
+
+length(B1,L),
+numbers(L,1,[],N),
+fa1(N,B1,[],B).
+
+fa1([],_,A,A) :- !.
+fa1(N,B1,A,B) :-
+ N=[N1|Ns],
+ get_item_n(B1,N1,C),
+ append(A,[C],A1),
+ fa1(Ns,B1,A1,B).
+
+% Or B1=B.
+
+This code could be modified for nested findall and converted to C.
+
+22. The meditator solved the cross-predicate problem with logic or disabled choice points. I hard-coded the response to a choice point. It was \"goto\". Or it was \"gosub\". Choice points may be represented by nested loops, i.e. (a,(b,(c))).
+23. The meditator broached the slow-down problem from if-then choice points by cutting after the antecedent. I deleted unwanted choice points in if-then. As stated, this involved a cut after the antecedent. This possibility could imply that the if-then clause should be in its clause. If-then may also delete other choice points.
+24. The meditator tried removing choice points when converting to C but started with the user-friendliness of Prolog. I maintained a list of yes/no cases for if-then choice point deletions. I listed all the choice points. I only kept some. Non-deterministic clause choice points were earmarked for deletion.
+25. The meditator structured code using recursive predicates (loops) to avoid choice points. I kept choice points in findall statements. Findall saved choice points from member, append and non-deterministic predicates from deletion by if-then. Findall was a critical, logical structure in Prolog, and its importance extended to its choice points. Therefore, the use of findall needed to be vetted for performance.
+26. The meditator stated that if-then deleted choice points from further predicates. I reached the end of the antecedent in the if-then clause. If-then cancelled a previous predicate from trying its following clause. I, being a performance advocate, wanted to simulate this in C. I wrote a condition to return to the \"choice point\" or cancel the nested loop.
+27. The meditator deleted the unused variable in the Prolog predicate head in the next API version. I didn't unnecessarily simplify data. I was conscious of other programs using the predicate and didn't want to change the API unnecessarily. For example, in my decentralised git GitL, I kept the commit call constant with an option to label the commit. This label helped me remember and scan the code later.
+28. The meditator didn't unnecessarily leave data alone. If the data was necessary, I kept it. Otherwise, I removed or archived it. I considered merging or simplifying data. For example, if the data was adumbrationally (sic) distinct, I kept it separate.
+29. The meditator wrote simple base cases for blank characters, the same values or empty or zero values. I deleted unnecessary logical pathways in an algorithm. I considered the version of equals4 in List Prolog that was too long. Then, I rewrote it to get values from each side and put values into these sides. I simplified computations to operate on lists of indices, not complex terms.
+30. The meditator blocked security holes. I found security holes in accepting certain character types. I was concerned about users selecting similar-looking but different characters for passwords, as they might forget them. Some commands didn't work well with certain characters; for example, curly quotes used not to work with split_string, affecting old versions. There were similar-looking but different hyphens, bullets, quotes and symbols.
+31. The meditator stopped sharing passwords. I found security holes in accepting logical pathways that processed certain character types. I considered algorithms that changed the case of letters, their code, and the case of some letters or deleted or modified characters according to a heuristic. If there was an unfound error, a function that didn't always return 1:1 inputs to outputs or behaved unpredictably, I corrected it. There may also be an issue with deterministic functions that produce the same input as output, i.e. printing the password unwantedly.
+32. The meditator was security-conscious with their passwords. I stopped the case where a password may be accepted, but its lowercase version may be unwantedly accepted. Also, I stopped one from being mistaken for a lowercase \"L\". Zero shouldn't be confused with capital \"O\". Also, tab, return or other invisible characters should be spotted in time.
+"]

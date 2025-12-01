@@ -1,0 +1,87 @@
+["Green, L 2022, <i>Replicator 1</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Replicator 1
+
+1. The replicated object corresponded to a person.
+2. The animal was replicated.
+3. The plant was replicated.
+4. The computer was replicated.
+5. The in-house computer software was replicated.
+6. The robot was replicated.
+7. The article was replicated when the writer felt tired.
+8. The electronic device was replicated.
+9. The building was replicated.
+10. The planet was repli-terraformed.
+11. The merchandise was replicated (manufactured).
+12. The medical effect was replicated (needed parts were provided when needed).
+13. The effect on the computer was replicated.
+14. The exact algorithm or writing needed to be finalised before replication.
+15. The replicant replicated more replicants (for example, to increase the population).
+16. The person became immortal using replication and vaporisation.
+17. The person partially became an android.
+18. I replicated what there wasn't time to manufacture.
+19. I replicated and vaporised sound equipment before and after an event, respectively.
+20. I replicated the element.
+21. I replicated the torch to explore at night.
+22. I replicated the sun.
+23. I replicated equipment to check that people were following safety rules properly.
+24. I replicated inspirations for students and programmers.
+25. I replicated muscles.
+26. I replicated a determiner to visitors to the house and helped simplify a tracked person's pathway.
+27. I replicated accommodation, food and water to alleviate poverty.
+28. I vaporised the cause of the volcanic eruption.
+27. I made and replicated a 3D print-out of a house.
+28. I gave myself a facial with replication.
+29. I found and removed foreign bodies in my body with replication.
+30. I gave myself suction cup treatment with replication.
+31. I had a drink in the desert with replication.
+32. I tonified my blood with replication.
+33. I replicated the messages between members of the office.
+34. I purified and cooled the air using replication.
+35. I recovered the back-up using replication.
+36. I replicated rather than maintained equipment.
+37. I used the replicated internet, which replicated signals inter-galactically.
+38. I ate replicated food on the space craft.
+39. I replicated necessary equipment on the space craft.
+40. I replicated the internet in the future.
+41. I replicated the friends in the future.
+42. I replicated the algorithm without static analysis errors.
+43. I typed up the algorithm using replication.
+44. I transcribed the talk using replication.
+45. I translated the thoughts into famousness (wrote) them by replicating them.
+46. I checked for errors and removed them using replication.
+47. I debugged the algorithm by replicating it.
+48. I replicated the product, customer, their life and income and findable thoughts at each point of the sales funnel.
+49. I optimised the algorithm and replicated it.
+50. I translated and replicated the text.
+51. I wrote the algorithm in another programming language and replicated it.
+52. I reduced and found the functional version of the algorithms and replicated them.
+53. I replicated the documentation for the algorithms.
+54. I replicated the business (employees).
+55. I replicated the simulation's workload with computers.
+56. I replicated the teleporting space ship.
+57. I replicated the robot body part.
+58. I replicated the humanness (fine thoughts, and formation of text-to-breasoning support) of the robot.
+59. I replicated the acoustic reflector.
+60. I replicated the electronic component.
+61. I replicated the visor to stop sunlight entering the eye.
+62. I replicated space craft with self-correcting paths to stop deviations.
+63. I replicated an algorithm to help release the stable version of the algorithm (matches the desired output).
+64. I replicated the needed therapy.
+65. I vaporised toxins from the body.
+66. I removed any unnecessary code using replication.
+67. I benefited from the minimum help using replication.
+68. I uncommented the line of code to enable the algorithm with replication.
+69. I debugged the algorithm as part of the tutorial and replicated it.
+70. I replicated the employee when needed.
+71. I replicated the script when needed.
+72. I replicated customers on the tollway.
+73. I made the algorithm easy to modify and replicated it.
+74. I replicated the friend to keep the friends together.
+75. I replicated the infant under one year.
+76. I replicated the whole history on disk.
+77. I repli-manufactured items when the people had been paid and enough items were needed.
+78. I replicated another product when one was returned.
+79. I rigorously tested the replicated product, to perfect the replication process.
+80. I used replication to increase returns to surpass expenditure.
+
+
+"]

@@ -1,0 +1,13 @@
+["Green, L 2021, <i>Subtraction</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Subtraction
+
+1. The number to subtract is not the result of the subtraction.  If the subtraction is increased, the program will return true.  A1=10,B1=3, A1-B1=10-3=7.  A2=10,B2=4, A2-B2=10-4=6.  3=<4 => The program returns true.
+2. Subtraction now means the result.  I verified the subtraction.  I found 5-4.  I found -6-(-7).  They both equalled 1.
+3. I saved time by calculating the cost of the ladder.  I found the upper limit by determining the fairly high result.  I found the height of the wall.  I determined the height of the ladder needed.  I walked around instead.
+4. I knew subtraction worked.  It followed the rule of addition, reversed.  The numbers were finite.  It could be rewritten to find e.g. A-C=B in A-B=C.
+5. I considered changing the order, or direction of the subtraction.  I subtracted using the subtraction symbol.  I rewrote the mathematical numerals using themselves and substituted a different looking symbol for the the subtraction symbol.  I read the text years later.  I determined the meaning of the symbol using an induction algorithm.
+6. A+A+...(B times) = A1+A2+...AB.  I saw that the subtraction worked.  I rewrote e.g. addition, and then multiplication and division using subtraction.  A+B=C=>B=C-A.  A*B=C=>A+A+A+(B times)=C=>-A-A-A-(B times)=-C.  C/A=B=>A*B=C=>(see previous sentence).
+7. I could work out the subtractions, but also the order of them.  I know how subtraction worked.  I found the subtractions of all combinations of a set of numbers using a decision tree.  The user memorised the decision tree.  He improved his memory using reverse and skip (order).
+8. You would do the same for me.  I know that worked with my subtraction.  I took out some water from the refrigerator.  I gave it to you.  It was because you needed it.
+9. I made a cake with fresh biscuits and cream.  I endorsed subtraction.  I found the number of cookies left.  I thanked you.  I thanked subtraction.
+10. I programmed a computer to calculate subtraction.  I knew subtraction worked.  I found the number before subtraction.  I counted the number subtracted.  I found that the number after equalled the number before minus the number subtracted.
+"]

@@ -1,0 +1,31 @@
+["Green, L 2021, <i>Philosophical Computational English 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Philosophical Computational English 1 of 4
+
+
+
+1. There may be advantages to choosing to study Computational English in Philosophy rather than computer science. There has been much work done on the analytic (computational) and continental (hermeneutic) areas and finding the interface would be ideal in Philosophy. Critically examining literature from the cognitive science perspective may yield representations such as oppositions, hierarchies and Derridean bugs which may be introduced into the system to test for weaknesses and find new areas of interest. Also, processual issues may be examined, such as form's interrelationship with content, Nietzschean-type systems created for analysing and analysis and a framework for analysis may be developed.
+
+Computational Philosophical English would differ from PCE in that it would be studied in the computer science department. It would look through a philosophical lens at English followed by a computational lens. For example, it may look at complexity or computational analysis issues around questions in Philosophy and Literature, which may still be relevant in PCE although a single trajectory (from determining the system to be programmed to analysis of the computer program) would be pursued in it.
+
+1a.     I prepared to use the knowledge from my master's lineage of masters.  I did this by worshipping God (in fact, thanking my master).  First, I walked to my master.  Second, I greeted him.  Third, I thanked him.  In this way, I prepared to use the knowledge from my master's lineage of masters by worshipping God (in fact, thanking my master).
+
+2.    I prepared to support my students.  I did this by praying for (in fact, writing) a 10 (in fact, an 80) breasoning A each day for my students.  First, I wrote the topic of the first student's first thought.  Second, I wrote the first breasoning on the topic.  Third, I wrote the rest of the breasonings on the topic.  In this way, I prepared to support my students by praying for (in fact, writing) a 10 (in fact, an 80) breasoning A each day for my students.
+
+3.     I prepared to lead the person.  I did this by hugging the thinking head.  First, I asked the lady whether I could touch her head.  Second, I placed my left hand on one side on her head.  Third, I placed my right hand on the other side of her head.  In this way, I prepared to lead the person by hugging the thinking head.
+
+4.    I prepared to write a philosophical argument.  I did this by writing the philosophy.  First, I wrote the influence of the philosophy.  Second, I wrote the aim of the philosophy.  Third, I wrote the philosophy.  In this way, .
+
+5.    I prepared to analyse an English narrative in a journalism article.  I did this by writing an A.  First, I wrote an English narrative.  Second, I programmed a computational algorithm in the narrative.  Third, I wrote the philosophy about the algorithm.  In this way, I prepared to analyse an English narrative in a journalism article by writing an A.  First, I wrote an English narrative.
+
+6.    I prepared to present the cake.  I did this by placing the candles on the cake.  First, I read the person's age.  Second, I placed the first candle on the cake.  Third, I placed the rest of the required number of candles on the cake.  In this way, I prepared to present the cake by placing the candles on the cake.
+
+7.    I prepared to eat the vegan cake.  I did this by presenting the cake.  First, I turned off the lights.  Second, I presented the cake.  Third, I told the birthday boy to blow out the candles.  In this way, I prepared to eat the vegan cake by presenting the cake.
+
+8.    I prepared to program a robot mind.  I did this by writing an Ontology Web Database.  First, I wrote the objects' registration numbers.  Second, I recorded the ontology (data structure) of the objects.  Third, I recorded the ontology's position in the universal ideology (ontology).  In this way, I prepared to program a robot mind by writing an Ontology Web Database.
+
+9.     I prepared to program a computer mind network.  I did this by writing an Ontology Web Database Game for people.  First, I placed a binary ontology on my local starting position on my turn.  Second, I placed the next binary ontology connecting with the end point of a sequence of ontologies in my ideology (hierarchy) on my next turn.  Third, I won the game when I was first in the group to have the longest sequence of ontologies that numbered five in my ideology.  In this way, I prepared to program a computer mind network by writing an Ontology Web Database Game for people.
+
+10.   The self prepared to intertextualise the other.  The self did this by connecting a text with the other's text.  First, the self jazzed it.  Second, the self winkled it.  Third, the self helped it.  In this way, the self intertextualised the other.  The self did this by connecting a text with the other's text.  In this way, the self prepared to intertextualise the other by connecting a text with the other's text.
+
+"]

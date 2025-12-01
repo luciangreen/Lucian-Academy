@@ -1,0 +1,12 @@
+["Green, L 2021, <i>N is Epsilon</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"N is Epsilon
+
+1. I was clear.  I told you apart from me in the mirror.  I decided myself.  I told you.  You said that you agreed.
+2. Epsilon was usually 1*10^-6.  I endorsed epsilon.  I found that epsilon was used to avoid a division by zero error.  I added epsilon to zero before dividing by it.  The number was very large, which is what I wanted.
+3. I checked whether epsilon was small enough.  I endorsed a small epsilon.  I found that a relatively small epsilon value gave better results.  For example, with a larger epsilon=0.1, 1/0.1=10, not a large enough gradient. With a smaller epsilon=0.0001, 1/0.1=10,000, a large enough enough gradient.
+4. I reminded the audience that it shouldn't be rounded to erasure.  I endorsed not too small an epsilon.  If it was rounded down to zero then it would be too small.  If the computer couldn't handle the magnitude of 1/e then it would be too small.  It should be a constant in the program, and easily recognisable.
+5. I wrote the answer.  I didn't include the value.  I found the value.  It was too small.  I used another value.
+6. Epsilon was used to find the large gradient.  I didn't include the number in the triangle.  I wrote the possible co-ordinate of the point of the triangle.  It was wrong.  I didn't include it.
+7. I chose ceiling or floor rounding.  I didn't include the number in the range.  Without epsilon, the number was stopped by an error.  A1=3,B1=0,A1/B1=3/0=error.  A2=3,B2=0.0001,A2/B2=3/30,000.
+8. I noticed vague mind reading was a use.  I excluded the number, which was very close to the numbers.  The number was an outlier.  I excluded it using an interquartile range.  I retested whether there were other outliers.
+9. What is a mantissa?  There were 5 possible ranges of order of magnitude from 1-10^5.    I.e. 1-9, 10-99, 100-999, 1000-9999 and 10,000-99,999.  I used logs.  I used exponents.
+10. I found the average.  The 501-5000 algorithm works.  I tested that the value was within range.  I found the fraction of the number out of the magnitude of the range.  I rounded it to a whole percentage."]

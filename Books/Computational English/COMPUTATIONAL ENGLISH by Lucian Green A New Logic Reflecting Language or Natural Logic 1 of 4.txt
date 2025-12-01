@@ -1,0 +1,29 @@
+["Green, L 2021, <i>A New Logic Reflecting Language or Natural Logic 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+A New Logic Reflecting Language or Natural Logic 1 of 4
+
+
+
+1. The symbols for all, there exists, ->, <->, ^, v and ~ (not) need to be updated to account for language's semantic properties. For example, there exist 3 (the symbol there exists! means there exists 1). The symbol ~avb could represent a although b because 'a although' implies ~a and 'although b' implies b, hence ~avb.
+
+1a.     I prepared to catch the rabbit.  I did this by chasing the rabbit.  First, I found the rabbit.  Second, I observed him run.  Second, I ran after the rabbit.  In this way, I prepared to catch the rabbit by chasing the rabbit.
+
+2.    I prepared to say yes to a consumer.  I did this by stating that the card read, 'Yes'.  First, I found the card.  Second, I read the card.  Third, I said, 'Yes'.  In this way, I prepared to say yes to a consumer by stating that the card read, 'Yes'.
+
+3.     I prepared to carry the King's tray.  I did this by listening to the King say, 'No' ('Yes').  First, I walked along the red carpet.  Second, I was the King's audience.  Third, I listened to the King say, 'Yes'.  In this way, I prepared to carry the King's tray by listening to the King say, 'No' ('Yes').
+
+4.    I prepared to commission a work.  I did this by saying, 'Yes'.  First, I walked to my discussion partner.  Second, I introduced myself.  Third, I said, 'Yes'.  In this way, I prepared to commission a work by saying, 'Yes'.
+
+5.    I prepared to travel into the water.  I did this by pulling the runabout forward.  First, I entered the water.  Second, I grasped the rope.  Third, I pulled the runabout through the water.  In this way, I prepared to travel into the water by pulling the runabout forward.
+
+6.    I prepared to entertain the pig.  I did this by calling the pig.  First, I entered the yard.  Second, I saw Charlotte the pig.  Third, I called Charlotte.  In this way, I prepared to entertain the pig by calling her.
+
+7.    I prepared to serve salad sandwiches.  I did this by straining the water from the lettuce by using a colander.  First, I placed the lettuce in the colander.  Second, I twirled the colander.  Third, I removed the water tray.  In this way, I prepared to serve salad sandwiches by straining the water from the lettuce by using a colander.
+
+8.    I prepared to avoid too much gas being produced by my stomach.  I did this by reminding myself using the digicon (sic) not to eat too much salt, causing too much HCl (hydrochloric acid) to be formed in my stomach.  First, I read the stomach icon.  Second, I read the label 'NaCl X' printed on the stomach icon.  Third, I ate the vegan croissant, which did not contain too much salt.  In this way, I prepared to avoid too much gas being produced by my stomach by reminding myself using the digicon (sic) not to eat too much salt, causing too much HCl (hydrochloric acid) to be formed in my stomach.
+
+9.     I prepared to store energy in my body.  I did this by eating the natural sugar.  First, I picked the apple. Second, I peeled the apple.  Third, I ate the apple.  In this way, I prepared to store energy in my body by eating the natural sugar.
+
+10.   I prepared to eat dessert.  I did this by preventing Negeia (sic, things that may possess negative reasons), for example protecting human worth by eating a currant bun.  First, I placed the currant bun on a plate.  Second, I lifted the currant bun to my lips.  Third, I bit the currant bun.  In this way, I prepared to eat dessert by preventing Negeia (sic, things that may possess negative reasons), for example protecting human worth by eating a currant bun.
+
+"]

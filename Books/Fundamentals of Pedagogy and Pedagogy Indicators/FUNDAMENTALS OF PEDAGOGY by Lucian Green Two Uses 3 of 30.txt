@@ -1,0 +1,24 @@
+["Green, L 2021, <i>Two Uses 3 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 3 of 30
+
+21.	ALEXIS: I prepared to like converting text to speech. I did this by writing Noam Chomsky's probable comments on Richard Dawkins' likely comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I asked what do you mean Lucian Green, separateness? He means individualness (sic). Second, I don't like text much, is unusual (I like text). Third, I like speech as well.
+
+22.	DION: The subject disagreed with the idea being misrepresented in text (where the subject endorsed converting text to speech, and he ordered the uses: text, speech).
+
+23.	ALEXIS: The subject typed the idea neatly.
+
+24.	DION: The subject should record, then verify the idea.
+
+25.	ALEXIS: What is the meaning of lastline([Lastline], Lastline) in line 9?
+
+26.	DION: Line 9 returns Lastline when it is the last item.
+
+27.	ALEXIS: I prepared to feel sorry for the physically challenged people. I did this by writing Noam Chomsky's probable comments on the Press Release for Michel Onfray's probable comments on the line 'I did this by writing the text-to-speech algorithm' for the algorithm idea 'I did this by writing the text-to-speech algorithm' in the Computational English argument in Computational English. First, I wrote the second philosopher's second comment set related to the first philosopher's second comment set on the line. Second, I asked isn't the second philosopher's first comment set related to the first philosopher's first and second comment set on the line and the second philosopher's second comment set related to his or her first comment set on the line? Third, I wrote that's what I what to comment on, not unnecessary material all the time.
+
+28.	DION: The physically challenged person shouldn't be given a supplementary examination (where the subject felt sorry for the physically challenged person, and one person should inspect the physically challenged person's mark).
+
+29.	ALEXIS: The subject should give the physically challenged person a supplementary examination.
+
+30.	DION: Two uses is correct because of the mercy of nature, which is right because the subject should give the physically challenged person a supplementary examination.
+"]

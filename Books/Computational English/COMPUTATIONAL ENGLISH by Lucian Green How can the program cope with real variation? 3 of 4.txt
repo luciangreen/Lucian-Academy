@@ -1,0 +1,25 @@
+["Green, L 2021, <i>How can the program cope with real variation? 3 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+How can the program cope with real variation? 3 of 4
+
+21.   I prepared to hand Peter the trophy.  I did this by writing that the ablative case of the noun was given by the example, 'Peter will run with speed'.  First, I pointed out the starting line of the run to Peter.  Second, I pointed out the finishing line of the run to Peter.  Third, I observed Peter running with speed.  In this way, I prepared to hand Peter the trophy by writing that the ablative case of the noun was given by the example, 'Peter will run with speed'.
+
+22.   I prepared to read the book.  I did this by writing that the genitive case of the noun was given by the example, 'The book is on the side of the table'.  First, I observed the book.  Second, I observed that the book was on the side of an object.  Third, I observed that the book was on the side of the table.  In this way, I prepared to read the book by writing that the genitive case of the noun was given by the example, 'The book is on the side of the table'.
+
+23.   I prepared to invite you to visit me at my house.  I did this by writing that the locative case of the noun was given by the example, 'Lucian lived at his house'.  First, I introduced myself as Lucian.  Second, I said that I lived in a building.  Third, I said that I lived at my house.  In this way, I prepared to invite you to visit me at my house by writing that the locative case of the noun was given by the example, 'Lucian lived at his house'.
+
+24.   I prepared to progress to the next level in the computer game.  I did this by flipping the toadstool, giving me a free life in the computer game.  First, I flipped the toadstool.  Second, I saw the free life behind it.  Third, I jumped and took the free life.  In this way, I prepared to progress to the next level in the computer game by flipping the toadstool, giving me a free life.
+
+25.  I prepared to be counted on the freeway.  I did this by examining the turnpike.  First, I looked at its base.  Second, I examined its stand.  Third, I examined its card scanner.  In this way, I prepared to be counted on the freeway by examining the turnpike.
+
+26.   I prepared to start a family.  I did this by marrying my partner.  First, I chose a partner.  Second, we decided to marry.  Third, we married.  In this way, I prepared to start a family by marrying my partner.
+
+27.   I prepared to live out my life in a new way.  I did this by coping with the change in sign.  First, I found the sign.  Second, I determined that it had changed.  Third, I coped with this change.  In this way, I prepared to live out my life in a new way by coping with the change in sign.
+
+28.   I prepared to drink milk.  I did this by eating the apple.  First, I cut the apple into segments.  Second, I grasped a segment.  Third, I ate a segment.  In this way, I prepared to drink milk by eating the apple.
+
+29.   I prepared to repair climate change by preventing further damage to the ozone layer.  I did this by claiming that climate change exists.  First, I measured the ozone hole at time = 0 years.  Second, I measured the ozone hole at time = 20 years.  Third, I determined that the ozone hole had grown during this period of time.  In this way, I prepared to repair climate change by preventing further damage to the ozone layer by claiming that climate change exists.
+
+30. I prepared to prevent new breasonings being written that encouraged carbon dioxide emissions.  I did this by winning the pop music competition.  First, I retrieved the 100-year old breasoning list.  Second, I breasoned it out 50 times over several days.  Third, I won the pop music competition.  In this way, I prepared to prevent new breasonings being written that encouraged carbon dioxide emissions by winning the pop music competition.
+
+"]

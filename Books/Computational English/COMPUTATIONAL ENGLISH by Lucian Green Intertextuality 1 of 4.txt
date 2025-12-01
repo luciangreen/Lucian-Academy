@@ -1,0 +1,31 @@
+["Green, L 2021, <i>Intertextuality 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Intertextuality 1 of 4
+
+
+
+1. Connect two texts.
+
+1a. If intertextuality is defined with a 'functional unit' of forming a conclusion from two sentences, one from each text, the first technique could be a possible solution. For example, given the input from sensors 'The baby has finished the meal' and the secondary text 'When the baby has finished the meal, read to him/her' (and another with the baby's name) the conclusion could be 'Read to Tom'.
+
+1a. I prepared to connect together people's ideas.  I did this by joining the texts in an anthropological setting.  First, I wrote down the text of the self.  Second, I wrote down the text of the other.  Third, I connected them.  In this way, I prepared to connect together people's ideas by joining the texts in an anthropological setting.
+
+2. I prepared to add a reason to a sentence.  I did this by linguistically joining the sentences together.  First, I wrote down the first sentence, 'I fed the ant'.  Second, I wrote down the second sentence, 'The ant was large'.  Third, I wrote down the joint sentence, 'I fed the ant, which was large'.  In this way, I prepared to add a reason to a sentence by linguistically joining the sentences together.
+
+3. I prepared to circumcise the ant.  I did this by bridging sentences in Engineering.  First, I wrote 'I drew the hexagon'.  Second, I wrote 'I drew the triangle'.  Third, I wrote 'I drew the triangle in the hexagon'.  In this way, I prepared to circumcise the ant by bridging sentences in Engineering.
+
+4. I prepared to write new quasilogics.  I did this by blending systemic meanings.  First, I wrote a+b.  Second, I wrote a^b.  Third, I wrote a+^b (sic) meaning verifying a^b with one additional proposition, c, yielding a^b^c.  In this way, I prepared to write new quasilogics by blending systemic meanings.
+
+5. I prepared to use the mouth to eat and breathe.  I did this by blending bodily meanings.  First, I wrote the predicate of the Prolog body program.  Second, I used it for the first use.  Third, I used it for the second use.  In this way, I prepared to use the mouth to eat and breathe by blending bodily meanings.
+
+6. I prepared to answer the next question.  I did this by blending algorithmic meanings.  First, I wrote a+b.  Second, I wrote a-b.  Third, I wrote a+-b (sic), meaning verifying that a and b were different.  In this way, I prepared to answer the next question by blending algorithmic meanings.
+
+7. I prepared to determine whether a new word should be invented.  I did this by blending two words' meanings.  First, I wrote the word 'happy'.  Second, I wrote the word 'good'.  Second, I wrote the result of blending the meanings of the words 'happy' and 'good' was 'being happy because of being good'.  In this way, I prepared to determine whether a new word should be invented by blending two words' meanings.
+
+8. I prepared to grow up safely.  I did this by counting the pink flower's petals like the blended meanings of two texts.  First, I counted the first blended meaning of 'I love you' and 'You love me,' 'You love writing two instances of the same letter together in a word, such as 'aardvark''.  Second, I counted the second blended meaning, 'You love writing the word arm in a word, such as 'armadillo''.  Third, I counted the third blended meaning, 'You love writing a word with a syncopated rhythm, where a syncopated rhythm contains a half-beat, followed by a beat, followed by a half-beat, such as 'arachnid''.  In this way, I prepared to grow up safely by counting the pink flower's petals like the blended meanings of two texts.
+
+9. I prepared to write the things that we've thought of together.  I did this by writing parts of an aphorism, like pocketing a pocketwatch, to write an aphorism.  First, I wrote the aphor 'apple'.  Second, I wrote what the aphor was on, 'the plate'.  Third, I wrote the aphorism 'It is good to be there, because of digesting the apple'.  In this way, I prepared to write the things that we've thought of together by writing parts of an aphorism, like pocketing a pocketwatch, to write an aphorism.
+
+10. I prepared to paint the mantelpiece clock.  I did this by breasoning out the mantelpiece clock.  First, I wrote down that the X dimension of the mantelpiece clock was 0.05 metres.  Second, I wrote down that the Y dimension of the mantelpiece clock was 0.06 metres.  Third, I wrote that the 'area text' between the 'X' and 'Y' texts was '0.05 * 0.06 = 0.003 metres'.  In this way, I prepared to paint the mantelpiece clock by breasoning out the mantelpiece clock.
+
+"]

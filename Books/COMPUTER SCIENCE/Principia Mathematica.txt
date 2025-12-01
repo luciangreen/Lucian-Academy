@@ -1,0 +1,14 @@
+["Green, L 2024, <i>Principia Mathematica</i>, Lucian Academy Press, Melbourne.","Green, L 2024",1,"put in Mathematics
+
+Principia Mathematica
+
+If we don't know it how can we say it?  The solution is to say something small.
+
+Optimise breasoning to a point.  If the point is not being observed, ignore it.
+
+Simplify everything to points before making neuronetwork - compare with binary computation - break down problem and find individual computations, possibly avoiding need for neuronetworks (CAW with neuronetworks and PFT for rest).  Strings can be changed to lists to work with PFT, character case changes and adding 1 or multiplying by 10^X can be detected with shallow data.
+
+Writing framework for infinite knowledge - write about breasonings technology, which always has new things in it.
+
+The universe can be simulated using breasonings.
+"]

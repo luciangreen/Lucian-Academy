@@ -1,0 +1,14 @@
+["Green, L 2021, <i>Psychology</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Psychology
+
+1. It was like findall with nondeterministic results.  I wrote an algorithm with steps.  I called the command with the query.  The query had multiple commands.  For example, call(Output1,predicate(Input,Output1),Output2) set Output2 to Output1 from predicate.
+2. The algorithm grouped and called reused code in a predicate.  I wrote a hierarchical algorithm.  I called the predicate.  I gave the predicate.  It called other predicates.
+3. The recursive algorithm returned the output.  I wrote the logical algorithm.  I called the recursive algorithm.  I gave the recursive algorithm.  I gave the base case.
+4. I wrote the algorithm.  I added the emotion to the learning aid.  I called the algorithm in the file.  I learned from the algorithm.  I was happy.
+5. I followed the predicates in order.  I wrote the memory aid.  I added the predicate to the predicates in memory.  I wrote the predicate.  I added it at the end.
+6. It was also smart (I found the object).  I wrote one object name per step.  I could read the predicates in memory.  It was better to operate on an algorithm that wasn't in memory.  It didn't have unpredictable behaviour.
+7. I debugged the algorithm.  I wrote that everyone was included.  I could delete predicates from memory.  I found the predicate.  I deleted it.
+8. I found the change using machine learning.  I wrote that the argument was valid.  I edited the predicate in memory.  I found the argument.  I changed it.
+9. The machine experienced the emotion.  I wrote that the feeling made the experience memorable.  I used machine learning to inductively find the algorithm.  I wrote the input.  I wrote the output.
+10. I adjourned the meeting.  I tested that I was rested.  I had a conversation (which was different each time) with the machine learning algorithm to retrieve the algorithm.  I attended the meeting.  I listened to and discussed the solutions.  I coded the robot.
+
+"]

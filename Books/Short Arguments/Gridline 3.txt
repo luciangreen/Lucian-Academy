@@ -1,0 +1,8 @@
+["Green, L 2021, <i>Gridline 3</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"Gridline 3
+
+1. I drew pathways. I noticed the warehouses.  I saw the horizontal grid.  I saw the vertical grid.  I saw the 3D grid.
+2. I prepared to draw the continuous line.  I swapped y and x and solved the equation for m>1.  I determined that the gradient was steeper than 1.  I swapped y and x.  I solved the equation.
+3. When flipped, the line still passed through the y-axis.  I modified the graph and found the y-intercept.  I found the y-intercept from the modified equation.  I flipped the graph in the x-y line.  I drew the line, without gaps.
+4. I wrote the y-value on the right hand side.  I love you where you found the y-value.  Out of the y and x values, gradient and y-intercept, I could find any one from the others.  I knew the x value, gradient and y-intercept.  I found the y value.
+5. I also found the x-value.  I found a detail related to the y-value.  I found the y-value.  I found that it was positive.  I marked it on the number line.
+"]

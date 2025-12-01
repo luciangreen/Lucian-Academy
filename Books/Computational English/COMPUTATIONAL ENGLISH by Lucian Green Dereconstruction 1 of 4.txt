@@ -1,0 +1,29 @@
+["Green, L 2021, <i>Dereconstruction 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"COMPUTATIONAL ENGLISH
+by Lucian Green
+Dereconstruction 1 of 4
+
+
+
+1. Dereconstruction, another variant of computational hermeneutics I thought of reconstructs a narrative in a representation for reasoning about and querying. The first technique can take a text, and after an interpretation has been prepared (this would be necessary to write as part of the program which would write an interpretation) would test whether the conclusion in response to a question with its reasons was supported by the text, and output the interpretation.
+
+1a.     I prepared to determine whether the student had earned H1 by writing 80 breasonings.  I did this by counting the breasonings that the student had written after she breasoned out the breasonings details to God (in fact, the master).  First, I counted the first breasoning.  Second, I prepared to count the next breasoning.  Third, I repeated this until I had counted all the breasonings.  In this way, I prepared to determine whether the student had earned H1 by writing 80 breasonings by counting the breasonings that the student had written after she breasoned out the breasonings details to God (in fact, the master).
+
+2.    I prepared to prove two theorems for finding a property gave the same result.  I did this by writing a geometry theorem prover.  First, I counted the number of squares.  Second, I multiplied the width of the region of the squares by the height of the region of the squares.  Third, I verified that the number of squares was equal to the width of the region of the squares multiplied by the height of the region of the squares.  In this way, I prepared to prove two theorems for finding a property gave the same result by writing a geometry theorem prover.
+
+3.     I prepared to prevent unemployment.  I did this by designing a meditation (in fact, book-based) economic system.  First, I taught the student from the book.  Second, I observed the advantage to the student's health.  Third, I observed the advantage to the student's career.  In this way, I prepared to prevent unemployment by designing a meditation (in fact, book-based) economic system.
+
+4.    I prepared to create prosperity.  I did this by designing a pedagogy economic system.  First, I taught the student pedagogy.  Second, I observed him breason out an H1.  Third, I observed him breason out 50 different H1s for a University job.  In this way, I prepared to create prosperity by designing a pedagogy economic system.
+
+5.    I prepared to point culture up.  I did this by writing the law that culture must exist.  First, I wrote the law that the culture should be pedagogically prepared for.  Second, I created the law that creators of culture should be trained.  Third, I wrote the law that culture should be created.  In this way, I prepared to point culture up by writing the law that culture must exist.
+
+6.    I prepared to bend the wire.  I did this by observing the politician showing open mindedness in psychology.  First, I found the box.  Second, I opened the box, rather than not opening it.  Third, I took the pliers out of the box.  In this way, I prepared to bend the wire by observing the politician showing open mindedness in psychology.
+
+7.    I prepared to make conversation with many people.  I did this by observing the politician showing open mindedness in sociology.  First, I found the person.  Second, I thought of a topic of conversation, rather than not thinking of one.  Third, I made conversation with her.  In this way, I prepared to make conversation with many people by observing the politician showing open mindedness in sociology.
+
+8.    I prepared to examine memory in Aboriginal philosophy.  I did this by writing that the Aboriginal philosophy course should be a core requirement at school.  First, I wrote about the land.  Second, I wrote about the people.  Third, I wrote about the stories.  In this way, I prepared to examine memory in Aboriginal philosophy by writing that the Aboriginal philosophy course should be a core requirement at school.
+
+9.     I prepared to use humour as medicine.  I did this by writing that the Aboriginal medicine course should be a core requirement at school.  First, I found the person.  Second, I made her giggle.  Third, I gave her a hug.  In this way, I prepared to use humour as medicine by writing that the Aboriginal medicine course should be a core requirement at school.
+
+10.   I prepared to create a Galah god (in fact, master).  I did this by writing that the Aboriginal theology course should be a core requirement at school.  First, I found a picture of the galah.  Second, I drew the galah.  Third, I prayed to (communicated with the) Galah.  In this way, I prepared to create a Galah god (in fact, master) by writing that the Aboriginal theology course should be a core requirement at school.
+
+"]

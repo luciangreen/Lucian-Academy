@@ -1,0 +1,49 @@
+["Green, L 2021, <i>Two Uses 1 of 4</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 1 of 4
+
+
+
+1. ALEXIS: This Two Uses algorithm returns whether the saucepan, pot or frying pan can both stand and be carried. They can stand if they have a horizontal line of at least two p's (pan) at the bottom. The subject can carry them if they have one long (two or more) h's (handles) at the top or two short h's at the top.
+
+Does twouses1([[p,' ',p, h, h],
+
+[p, p, p,' ',' ']]) return true?
+ 
+DION: Yes.
+
+ALEXIS: Does twouses1([[h,' ',' ',h],
+
+[p,' ',' ',p], [p, p, p, p]]) return true?
+
+DION: Yes.
+
+ALEXIS: Does twouses1([[p,' ',' ',' ',' ', p, h, h, h],
+
+[p, p, p, p, p, p,' ',' ',' ']]) return true?
+
+DION: Yes.
+
+ALEXIS: Does twouses1(((h,p,p,p,h))) return true?
+
+DION: Yes.
+
+ALEXIS: Does twouses1([[h, h, p,' ',' ',' ',' ',' ',' ',' ',' ',p, h, h],
+
+[' ',' ',p,' ',' ',' ',' ',' ',' ',' ',' ',p,' ',' '], [' ',' ',p,' ',' ',' ',' ',' ',' ',' ',' ',p,' ',' '], [' ',' ',p,' ',' ',' ',' ',' ',' ',' ',' ',p,' ',' '], [' ',' ',p, p, p, p, p, p, p, p, p, p,' ',' ']]) return true?
+
+DION: Yes.
+
+ALEXIS: The algorithm is as follows:
+
+1a.    twouses1(Image) :- %% Returns true if Image contains an object that has handles (the first line has one long (two or more) h's (one long handle) or two h's (two short handles)) and can stand (the last line has horizontal line of at least two p's (pan))
+2.            Image = [Firstline | _Lines], %% Firstline is the first line of Image
+3.            lastline(Image, Lastline), %% Lastline is the last line of Image
+4.            carryable(Firstline), %% Tests whether Firstline is carryable (the first line has one long (two or more) h's (one long handle) or two h's (two short handles))
+5.            stands(Lastline). %% Tests whether Lastline can stand (the last line has horizontal line of at least two p's (pan))
+6.    lastline(Lines1, Lastline) :- %% Returns the Lastline of Lines1
+7.            Lines1 = [_Line | Lines2], %% Removes the first item in the list Lines1 to give Lines2
+8.            lastline(Lines2, Lastline). %% Returns the Lastline of Lines2
+9.    lastline([Lastline], Lastline). %% Returns Lastline when it is the last item
+10.    carryable(Line) :- %% Returns whether the first line has one long (two or more) h's (one long handle) or two h's (two short handles)
+"]

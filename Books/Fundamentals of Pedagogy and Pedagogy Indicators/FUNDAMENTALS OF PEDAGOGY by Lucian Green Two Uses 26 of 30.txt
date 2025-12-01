@@ -1,0 +1,26 @@
+["Green, L 2021, <i>Two Uses 26 of 30</i>, Lucian Academy Press, Melbourne.","Green, L 2021",1,"FUNDAMENTALS OF PEDAGOGY
+by Lucian Green
+Two Uses 26 of 30
+
+250.	DION: The subject shouldn't identify the process applied to a data item (where the subject wrote a process in the algorithm, e.g. pouring the soup).
+
+251.	ALEXIS: The subject should identify the process applied to a data item.
+
+252.	DION: The subject should state that the program is functional because of the processes applied to data items.
+
+253.	ALEXIS: I prepared to quote the guide in the exposition. I did this by commissioning the guide. First, I wrote the analysis. Second, I wrote the biography. Third, I wrote the abstract.
+
+254.	DION: The subject shouldn't connect each key idea in the analytic guide (where the subject commissioned the guide, like drinking the soup).
+
+255.	ALEXIS: The subject should connect each key idea in the analytic guide.
+
+256.	DION: The subject should connect each key idea, and the process applied to a data item in the analytic guide.
+
+257.	ALEXIS: I prepared to be commissioned by the Sultan. I did this by commissioning the glossary. First, I wrote the glossary. Second, I was commissioned by the Raj. Third, I was commissioned by the Emir.
+
+258.	DION: The subject shouldn't make a new connection between a term and definition (where the subject commissioned the glossary, represented by lifting the handle).
+
+259.	ALEXIS: The subject should make a new connection between a term and definition.
+
+260.	DION: The subject should state that the program is functional by making a connection between a program and new input.
+"]
