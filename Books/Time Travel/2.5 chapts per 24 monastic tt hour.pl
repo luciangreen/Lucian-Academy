@@ -1,0 +1,1 @@
+1000/(80*5)=2.5 chapts per 24 monastic tt hour (>16k br)
