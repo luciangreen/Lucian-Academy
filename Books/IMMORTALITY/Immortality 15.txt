@@ -1,7 +1,5 @@
 ["Green, L 2022, <i>Immortality 15</i>, Lucian Academy Press, Melbourne.","Green, L 2022",1,"Immortality 15
 
-Grammarly Premium:
-
 1. In the interpreter, append, etc., had intermediate preds to turn trace off and on.  I could turn this feature off.  If turned off, I could examine the workings of these predicates.  I could skip their traces if necessary.  I could trace usually hidden features such as maplist and foldl.
 2. I could assert predicates with bodies.  I also controlled trace (in-predicate display and flag) in terms of a predicate flag.  This flag was contained by an asserted rule.  It was depth_trace(Flag) where Flag=on or off.  Other flags were also rules.
 3. I sped up some predicates in C by converting Prolog to C.  Earlier, I wrote the entire interpreter in terms of List Prolog predicates.  This included interpret body, and was difficult.  There were many parts of the interpreter that could be written as List Prolog predicates.  I improved on the bad code, and rewrote the good code.
