@@ -1,0 +1,47 @@
+New Sales 19
+
+1. Some courtesy, ChatGPT. Please forget everything. Write container2//1, which takes a term and executes it in a bash container in swipl. Define the term 'determinant' more clearly. Explain that a "derivy" (sic) is an implication or causation in Lucian's work. State that algorithms are related to but not derived from proofs.
+2. Non-classical logic, with possible and necessary operators, is like nondeterminism. Non-classical logic and detlog. Properties of spliced branches may be possible from one, several, searched, or operated-on branches, or necessary from all, mapped, collected, or processed branches. Mnns may select from possible spliced data before computing, even deferring splicing if an output does not require computation. MNNs skip and operate on splices.
+3. Do not expand branches. Select a subset of branches. Project. Extract common properties. Aggregate.
+4. Compute summaries. Refine. Expand only needed branches. Merge. Combine splices. Filter.
+5. Remove impossible branches. Other operations. Find invariant. Find what is true across all branches. Find variant.
+6. Find what differs between branches. Project. Keep only the needed fields. Filter. Remove branches that cannot satisfy the goal. Select one.
+7. Pick one valid branch without expanding all. Count. Count possible branches. Group. Cluster branches by shared property. Summarise.
+8. Replace many branches with a compact description. Intersect. Keep properties common to multiple splices. Union. Combine possible branches from multiple splices. Difference.
+9. Find what one splice has that another lacks. Map. Apply a function/predicate to every branch. Fold. Reduce branches to one result. Delay.
+10. Keep splice symbolic until needed. Force. Expand splice into ordinary answers. Memoise. Cache expensive branch results. Rank.
+11. Order branches by usefulness/cost/probability. Cut impossible. Remove branches contradicted by constraints. Explain. Return why a branch/property is possible or necessary. MNNs have only invariants; they can compute variants from data.
+12. Flatten predicate hierarchies by treating dependent variables as indices. The topological graph slices are not the representation used after finding invariants. They are the mechanism used to discover the invariants. Data. Graph. Topological graph slices.
+13. Invariant discovery. MNN. Not:. Data. MNN operates on graph slices forever. For example, suppose you have:
+14. a :- b,c. a :- b,d. a :- b,e. A predicate hierarchy sees: a
+├─ b,c
+├─ b,d
+└─ b,e
+15. A graph slice through the dependency graph immediately shows: B. Appearing in every branch. The invariant is:
+16. a :- b, X. X :- c. X :- d. X :- e. Or in your terms: b. This is the invariant level.
+17. The variants: c, d, e. Remain at the data level. Similarly, if you have [1, 3].
+18. [1,4]. [1,5]. A graph slice across corresponding positions reveals: Position 1 = always 1. Position 2 = varies. The invariant:
+19. [1,_]. Goes into the MNN. The variants: 3,4,5. Stay at the data level. Then, manipulate, and… the invariant levels (heuristic logic).
+20. Generalise. Create a broader invariant. Specialise. Introduce controlled variants. Merge. Combine compatible invariants.
+21. Split. Separate incompatible invariants. Rank. Score invariants by usefulness. Predict. Suggest unseen invariants.
+22. Propagate. Push an invariant through a graph. Compress. Replace many invariants with one. Refactor. Rewrite using higher-level invariants.
+23. Search. Find invariant combinations. Compose. Build larger invariants from smaller ones. Explain. Generate human-readable reasoning.
+24. Prioritise: think of aims, the world, and logic when rewriting rules. Level 0 Facts. Level 1 Variants. Level 2 Invariants. Level 3 Invariant transforms. Level 4 Heuristics.
+25. Level 5  Goals. Level 6  World knowledge. Level 7  Logic over goals and world knowledge. Level 8  Rule rewriting decisions. Think of a good reason why the world's food supply is running out, because of the impending ice age. How could robots prevent the doomsday event?
+26. Ideas for manual (non-statistical) approximations of regression. Two-point line. Geometry. Balancing. Mechanics. Difference pyramid.
+27. Numerical analysis. Decision tree. Algorithms. Invariant extraction. Logic. Grammar regression.
+28. Compression. Splice regression. Concurrent explanations. Macroproof regression. Theorem proving. Pigdetlog runs a predicate if it knows the variables with high probability, based on their splice data.
+29. Calculate splice probability from the probability within a list and splice. Schedule expensive predicates in regularly available slots. Explain how a:- b,!,c. works with Detlog and identifies cases that are too complex to work on. Simplify cut to deterministic logic to meet robot and real-time requirements.
+30. Try harder to find methods to code deterministic cuts. Treat the piglets in Piglog as the threads or predicates of the algorithm running simultaneously. Run a predicate when some variables are known. Mark which constraints are known. Mark which probabilities are known.
+31. Invariants are known. Possible values are known. Readiness. Information available. Action. 0.
+32. None. Idle. 1. Types/invariants. Compile or specialise the predicate. 2.
+33. Constraints. Propagate constraints, prune impossible branches. 3. Probability distribution. Speculatively execute likely branches. 4.
+34. Use the information available. None. Idle. 1. Types/invariants. Compile or specialise the predicate. 2. Constraints. Propagate constraints, prune impossible branches. 3. Probability distribution. Speculatively execute likely branches. 4. Partial variable bindings. Partially evaluate the predicate. 5. Complete bindings. Produce definitive results. Prepare for the Prolog program requirements.
+35. I synthesised decision trees from Spec to Algorithm, Starlog, Loop2, Plop, Detlog and Piglog. Decision trees from Spec to Algorithm - merge clauses, and attempt to run them in this way for better performance. Starlog - syntactic optimisation. Loop2 - converts findall to loops. Plop - semantic optimisation with necessary variable output, subterm indexing, subterm index looping, formulas with Gaussian elimination and memoisation. Detlog uses the splice predicate to perform nondeterminism.
+36. Piglog merges predicates, running them simultaneously for better performance. They are synthesised by merging predicates and clauses, converting findall and formulas, and performing semantic optimisation, using splice for examination, fast nondeterminism, and Starlog for syntactic optimisation. If anything, a single command that converts the entire conversion pipeline is missing. All converters should be interpreter modules. To have citations. Philosophy of Computer Science articles.
+37. In terms of the report of Computer Science and sentences that are syntheses of ten sentences. Computer science/philosophy format. 30 pages. 15, not 10, sentences for the main writer. X add egs to the Socratic analyses. Do 20-level details for 10 points; the computer does the rest.
+38. Research ZPD tracking, including comments and connections, by checking whether students enjoyed understanding a point and the connection between comments. Encourage discussion and reflection in one-minute exams after lectures, and increase enjoyment and examination of the material. Build an invariant formal logic chatbot. Create invisible bugless methods. Design a chatbot that suggests interesting methods of joining algorithms.
+39. Using an expert system. Snake data flows through existing preds. Old idea of linked specs in dictionary. Reconnect specs, which are in terms of subterm with address, etc. Can do extreme optimisation up to and after recording dictionary items. It should check it, redo it, and find the exact solution.
+40. Instead of an attention framework, it finds steps in order, fills in missing steps, and makes corrections using an expert system. Instead of interpolating data flow, it inspects query terms and builds or modifies the solution. Uses expert algorithms in dict to construct solutions. May not mix algs, just runs one or a chain. Finds interdisciplinary solutions even when not conventional. Area of study: expert systems.
+41. Write long algorithms, inferring and using initiative to complete them. Do not fear induction or writing chatbots. Change the following sentences to Prolog browser menu items: Find methodologies and paths between them in terms of sentences. Connect points, but keep data about conns. Connect points. Use interfaces and specs. Generate sentences by agent-writing agents.
+42. Have a chatbot author a chatbot and produce work.
