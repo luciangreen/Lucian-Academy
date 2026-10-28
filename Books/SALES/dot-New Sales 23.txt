@@ -1,0 +1,4 @@
+New Sales 23
+
+1. I used pl2ann to convert Prolog to an ANN if necessary. Please consider writing a Prolog prover to check that the output is matched. Include this in the output code. Hang on, is there no way to match the Prolog to the network, or is there? Cite a neural black-box-exposing article and how this method could combine networks and find algorithms from them. Some of the open engineering problems are accessible using this method.
+2. Reached: Tier 0 precise copies, soundness for finite areas, pure-Prolog operators, Tier 2 rules, a report of every possible input, held-out tests with negative results, exhaustive adversarial audits, and joining networks. Partly reached: Tier 1 circuits, family-level consistency, and pre-registered standards. Not reached: superposition, scale to larger models, and recovering how a network was trained.
