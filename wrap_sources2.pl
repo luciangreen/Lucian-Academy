@@ -20,7 +20,8 @@ wrap_sources:-
 	findall([Filex31," "],(member(Filex31,Filex3)),Filex32),
 	maplist(append,[Filex32],[Filex321]),
 	concat_list(Filex321,Filex33),
-	string_concat(Filex4,".txt ",Filex33),
+	% accept .txt and .pl files (the .pl case below was never reached before)
+	(string_concat(_,".txt ",Filex33)->true;string_concat(_,".pl ",Filex33)),
 		phrase_from_file_s(string(String00a), Filex),
 		string_codes(String02c,String00a),
 
@@ -40,11 +41,7 @@ wrap_sources:-
 	(	%trace,
 	foldr(string_concat,["Books/",Folderx1,"/",B1],Filexx2),
 (string_concat(B2,".txt",B1)->true;string_concat(B2,".pl",B1)),
-		concat_list(["[\"Green, L., 2026, <i>",B2,"</i>, Lucian Academy Press, Melbourne.\",","\"Green, 2026\",",1,",\"",String02b,"\"]"],Line),
-		writeln(["Success:",Filexx2,"converted."]),
-		((foldr(string_concat,["rm ",B1],C),
-		shell1_s(C)
-			)->true;(writeln(["Error:",Filexx2,"wasn't deleted."])))
+		concat_list(["[\"Green, L., 2026, <i>",B2,"</i>, Lucian Academy Press, Melbourne.\",","\"Green, 2026\",",1,",\"",String02b,"\"]"],Line)
 
 	)),
 		%atom_to_term(String02b,String02a,[]),
@@ -54,7 +51,12 @@ wrap_sources:-
 	(open_s(Filexx2,write,Stream1),
 %%	string_codes(BrDict3),
 	write(Stream1,Line),
-	close(Stream1))%,
+	close(Stream1)),
+	% Remove the "dot-" original only after the new file is written.
+	% delete_file/1 takes the full path (Filex) and needs no shell, so names with spaces are safe.
+	(Filexx2=Filex->true;
+	(writeln(["Success:",Filexx2,"converted."]),
+	(catch(delete_file(Filex),_,fail)->true;writeln(["Error:",Filex,"wasn't deleted."]))))%,
 	%writeln(["Success:",Filex1,"converted."]) % does all files
 	)->true;(writeln(["Error:",Filex1,"didn't convert."])))
 	),_)),_).
